@@ -1,7 +1,10 @@
 # Coding
 
-Episodes discussing **Coding** (276 episodes):
+Episodes discussing **Coding** (279 episodes):
 
+- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)

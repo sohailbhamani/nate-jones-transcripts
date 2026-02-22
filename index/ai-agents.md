@@ -1,7 +1,9 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (184 episodes):
+Episodes discussing **Ai Agents** (186 episodes):
 
+- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
