@@ -1,0 +1,98 @@
+---
+title: "Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo"
+video_id: "V0YhpeSOuzk"
+youtube_url: "https://www.youtube.com/watch?v=V0YhpeSOuzk"
+substack_url: "https://natesnewsletter.substack.com/p/the-complete-prompt-tooling-ecosystem?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+publish_date: "2025-11-24"
+duration: "16:39"
+duration_seconds: 999
+view_count: 12066
+author: "AI News & Strategy Daily | Nate B Jones"
+
+yt_tags:
+  - "AI strategy"
+  - "prompt engineering"
+  - "large language models"
+  - "AI agents"
+  - "automation at work"
+  - "Claude"
+  - "Gemini"
+  - "OpenAI"
+  - "Anthropic"
+  - "prompt lifecycle"
+  - "intent formation"
+  - "versioning tools"
+  - "eval frameworks"
+  - "workflow automation"
+  - "deployment tooling"
+  - "Hey Presto"
+  - "AI tools for teams"
+  - "AI strategy for operators"
+  - "prompt engineering lifecycle"
+
+
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "Prompting"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+entities:
+  companies:
+    - "OpenAI"
+    - "Google"
+    - "Notion"
+    - "Slack"
+    - "Cursor"
+    - "LangChain"
+    - "Tailwind"
+    - "Lovable"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Gemini"
+    - "Cursor"
+    - "LangChain"
+    - "Make"
+    - "Artifacts"
+    - "Nano Banana"
+  models:
+    - "Gemini"
+concepts:
+  []
+summary:
+  - "# Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo
+
+Prompting is really weird because it's the most wild west software space I've ever seen, but it's also a highly lev"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "langchain"
+  - "lovable"
+  - "make"
+  - "nano-banana"
+  - "notion"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "slack"
+  - "tailwind"
+  - "tutorials"
+  - "workflows"
+---
+
+# Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo
+
+Prompting is really weird because it's the most wild west software space I've ever seen, but it's also a highly leveraged critical part of AI workflows. There are dozens and dozens of prompt tools. And as far as I can tell, very few people have laid out or thought through the overall life cycle of a prompt and how we think about prompting systematically. That is what this video is for. I'm going to lay out how I think about prompting in a life cycle. And I'm going to lay out the tools that I think are relevant at each stage. So, let's jump into it. Let's start where most people begin. Authoring and drafting. So, you're writing, you're rewriting, you're testing prompt text. I'll be honest with you, a lot of people are in Claude or in Chad GPT for this, right? And they're like, "Hey, make it better. Hey, make it better." Or people are using tools like Prompt Perfect. Some people are in cursor if they're in code. This is all about hands-on experimentation and wording refinement. We're not testing the value of the prompt. We're just trying to figure out like there's a mental model we have of the perfect prompt. And whether it's right or not, we're trying to make the prompt that we write fit that model. And that's that authoring and drafting stage. And what we find in this situation is that the LLMs help us to organize our thoughts and help us to take these messy thoughts and kind of clean them up. The next stage in prompting is really around getting serious about versioning. And so teams will start to or individuals will start to say this is a prompt I use often. How do I keep it track of it when it needs to change? And so teams will store their prompts. They'll name them v1 v1.1. They'll describe differentiation with them. They'll diff them. They'll name them. And prompts are then almost treated like code. they become artifacts in the business because they get reused so much. Prompt layer definitely offers tooling capability here. Prompt methus does this. There are git based approaches that do this. There are a lot of other approaches as well. I know that lang does this. The idea is you are trying to solve for the persistence of the prompt. So there's one record for it. You need to make sure it's auditable and you make need to make sure that you can enable team level coordination on the prompt. The next stage after versioning is making sure that the prompt is regularly tested. And this is especially true if it's a production grade prompt that will be used for an LLM production system. And so you need a situ a solution where you can compare multiple prompts. You can evaluate outputs for accuracy. You can evaluate cost and hallucinations etc. Tools for this include Hegel's prompt tools prompt flow eval components prompt methus. Again there's some custom eval frameworks. There's a lot of other tools around eval. A lot of people are writing their own eval solutions and finding that those are more flexible and more effective because they allow them to write to the detailed setups they have. One of the places where we start to differentiate between individual builders and teams is right here at evaluation and testing. Because before if you were a serious individual, you might still have your own versioning system. You might still have a little notion database where you keep track of your individual prompts and it works for you. When it gets to eval though, teams who are using production grade prompts will build entire suites of tests, 50 tests, 100 tests that they run in an automated fashion in a pipeline against a new version of a prompt. Whereas individuals, we're very unlikely to do that. we will probably test in an ad hoc way or if we are super super organized we'll have a library of 10 or 15 queries that we are running with the prompt to see if it works better but it's rare to get super serious and so as we move forward in this flow we see that these prompt tools start to become more team oriented this is one of the things that makes it really complicated when you're doing prompting because prompting is both an individual productivity choice and also something that supports teams and dealing with that makes it hard to write good software. But we're not done with evaluation. After evaluation comes constructing workflows or automation. And this is when prompts become mere steps and workflows. Like the prompt becomes a guidepost for an agent that might have tools, that might have memory that it calls, that might have conditional logic. And so then you begin to need to build like with Google's agent kit, with Langchain, with Langmith, with Hegel and Prompt tools, with prompt flow, with React agent for frameworks. This is all about multi-step automation and agentic behavior and prompting. Again, like this is part of why it's a tricky subject. It bleeds into this area because really, if you're trying to build an agent, you have to consider the prompt as the beating heart of the agent. The prompt is what helps you to predictably guide the agent. Finally, you have deployment tools. So, prompts are embedded in real applications and they need to be tracked. They need to be up all the time. They need to run correctly. Prompt layer comes back through here. Langmith comes through here. There are model APIs that are directly available from OpenAI and Enthropic. You have to have production robustness, safety, traceability, governance. You can see as we've gone through this overall flow that we have gone heavily into the teams and companies world where prompting is a piece of code that companies need to maintain and they need production tooling for that system. I am here to tell you that you are missing a stage in the prompting layer. Let's go back through. What if we thought of our first piece, authoring and drafting as stage two, not stage one. Because it is. Because when you think about where you want to go with prompting, it's actually intent formation and discovery that has to happen first and then you get into authoring. And what I have found sitting down with people over the last few months is that intent formation for individuals is really hard. And this, I'll be honest with you, this is definitely something that is more true the earlier you are in your AI journey and you are still trying to figure out how how prompting actually works. But it remains true the farther you go in your journey if you need help to trade time for expertise. Basically, if you're trying to write a prompt quickly and formulate your intent quickly and you don't have the time to do it and you may be an advanced prompter, you still run into the same issue because you have a fuzzy goal. You summarize this, draft a plan, analyze a sentiment, and now you need to get to a structured, unambiguous, high lever prompt that is going to clarify the objective and the constraints and the steps. And you know that you should, right? Like we know we should. It's like eat your vegetables. There are not great tools at this stage and most people use chat GPT. I'll be really honest with you, most people use chat GPT for this or they use Cloud for this and that's fine. But what I have found is that those tools by themselves aren't super well suited to the kind of intent formation that we're doing at this stage. And there's a really really simple reason why. When you're crafting a prompt in Claude or Chad GPT or Gemini, you are crafting it and implicitly you are assuming the prompt will work in that particular LLM. there's not a cross LLM compatibility check going on there. You are also typically not getting the LLM to help you think through what is the output format for this prompt and artifact that you're building. And I that that sounds really abstract. So let me make it concrete for you. If you have a fuzzy intent, you typically know the output needs to be a deck at the end of this process. But what you don't often do is you don't often say, "Please tune this prompt in such a way that it's specific for writing a deck because you're at the fuzzy stage. You're trying to think through the content first." And content comes before format. What I'm picturing for you is the realworld complexity that I feel that others feel when they're trying to craft prompts. And to be honest with you, there hasn't been a great tool for that. And that's why I built one. I built Hey Presto to solve for specifically this ideation intent formation piece. And if you come back to me and you say, "Nate, I'm using Chad GPT." I will say, "Bless you. Have a wonderful time. This tool is not for everyone." Let me show you how it works and then we'll get into the rest of it. All right. Here we are in the prompt tab on Hey Presto. And I have just pasted in some very rough notes for an app I keep trying to build called my family travel app where it shows me the different destinations around the world. and I say, "Please help me craft a prompt to build code for my app." All I do is I say, "I want to build code." And it gives me an expanded prompt. Look at that. It's going to give me lots and lots and lots of detail on the travel app. It's going to give me a suggested file structure, suggested data model. And keep in mind, all of this is editable. I have made this is ideation stage, right? I have made no commitments. Nothing is running. I can go back through and edit all of this. I don't have to believe or buy any of this. And I can also change it. And so if I want to change the stack, this is a Python stack for those of you who are engineers. If I want to change it and say, look, I'm not writing this in Flask. I'm writing this in React. That makes more sense. All I have to do is append a uh write this in React uh and I can just regenerate and it will just regenerate the uh regenerate the prompt and it runs pretty quickly. While we're uh letting it show up, you have different tones you can get with this. You can select different paragraphs or options. JSON, email, table, numbered list, step by step, structured sections. Oh, it generated. Great. Um, and look at that. It's getting into React. It's getting into Tailwind, and it just rewrites it. And so, it takes the detail you give it, and in this case, I gave it a fair bit, and it will turn it in to a high-grade prompt. And if you're wondering, does this actually work? I will show you what I've been working on in lovable. The answer is yes. So, here we are in Lovable. We're crafting a cute little app. We can add our destination. It's not done yet. We can add a family member. Little energy levels here for the family member, whether they're an adventure, relaxer. The app isn't done yet, but it's coming together. And I was able to use the prompt to craft the initial piece of the app. And this is not just for lovable, right? Like, this is something I could have put into anti-gravity from Google. It's something I could have used uh for any other vibecoded application or I could even even have used it in cursor or other spaces to get started. It is designed to be agnostic of the tool but focused on the outcome you want which I think has been a space that's been missing strategically for us because when we're forming intent when we're at that fuzzy initial stage that I'm arguing we don't have good words for we need the flexibility to go anywhere. Let me give you one more example. This one's around PowerPoint text. So, here we are with a PowerPoint deck summary of Andre Carpathy's famous early 2025 software 3.0 talk. It's gorgeous. It looks great. Software is changing again. I just love the look of this. All generated by one prompt from Hey Presto. Super easy. And I got oh, I don't know, 15 16 I got 20 slides out of it. Right. Embrace the Iron Man suit. I love this. What a finish. It makes sense. It's ready to It's ready to share. So, how did I do this? Very simple. All I did was I said, I want to make a deck about this article. I put in my notes. Here's my notes on Andre's article. Dum dum dum. I said, I want it to be a deck. And I got create a deck, right? It has everything. It's laid out. It's got the slides laid out. It's all perfect. And you can change this, right? You can adjust it. And by the way, if you're wondering, why would I go to Hey presto? That's sort of annoying. Uh, I get it. And maybe you don't want to. But if you do want to, we've made buttons so it's really easy to go into Claude or to go into chat GPT directly. And so you can open it up and it will just pop open the prompt right in Claude. Here's the prompt opened up right in Claude. Super super easy. Now, this is the part where people usually roll their eyes because they're like, "Oh, Nate has sold out. He's trying to like shill and like push his stupid little product on us." And I'll be honest with you, I could be the person who does that and I'm not going to because I'm not interested in saying this is the best product for everything. That is why I spent 15 minutes going through all the stages of the prompt tool chain and talking about all the other great tools that you have to go after for prompting. I do not believe in a world where there is one prompt tool for everything. And that in turn drives the way I'm thinking about pricing. If we are thinking about pricing for prompt tooling, it needs to change depending on whether you're a team solution or an individual solution. And in my case, I want to make this something that is very very affordable if you're already a part of the Nate Substack community. I don't want this to feel extra fancy or complicated. And so the easiest way I can figure it out is to just say if you are a member of the Substack, you will get a coupon code for 70% off forever on the prompt tool. which makes it like seven bucks a month or something. And I'm doing that because I want it to be super easy for you to use. And if it's useful, great. And fantastic, right? And on my side, I'm committing to continuing to make it better. And so, I'm going to be opening up a Slack channel into my working Slack for people who are using Hey Presto so that they can give direct feedback to me and a couple of other builders who are working on this so that we could make it better. My goal is to solve that fuzzy intent stage. So if you remember, we have these multiple stages in the prompt tool chain. And I'm going to show you what this looks like using a slide created by Nano Banana. So here we are. These are the six stages of the prompt life cycle. Right? We have spent almost all of our tooling and thinking time around stage two and stage three. Writing, rewriting, testing prompt text. Stage three, storage and versioning. This is where individuals are really seeing prompt tools. And then there's a lot of team level prompt tools as we get into these more purple stages, right? Evaluations, workflow construction, deployment, and production integration. I I really think this is important. If you want to get from casual ideiation to like clean intent, there needs to be a good tool for that. And I just haven't found a tool that more easily helps me to name this is what I want to build. It's a deck. It's a doc. It's communications. You can do Slack communications. It's code. Whatever it is. And that's why I built Hey Presto. If it's not for you, if you want to hack around and chat GPT, bless you. It may work well. I've certainly done it before. And if you disagree with me and you think intent formulation is not correct for prompting, I would love to hear what you think the correct initial stages because I do not believe the correct initial stage is writing or authoring. Either way, I had fun making Hey Presto. I think a lot of the future of tooling and tooling development is talking with communities, hearing what's going on, and trying something. And I'm offering Hey Presto in that spirit. If you're part of my Substack community, this is going to feel really affordable. And it's going to be something that I'm going to be plugged into on Slack so that I can evolve it with you. My goal is to make it useful. I don't need to make it super big. I just want to serve the community around a need that I found. I also think it's good to actually build things and launch them if you talk about AI all the time. And so that's another reason I'm putting this out there. I think it's important to have AI tools that solve problems if I talk about AI tools a lot. And so that's part of the reasons why I've been involved in building this and digging in and constructing this. If you guys are interested, I'm happy to do a little bit of a deeper dive on how I built the tool. I wanted to start with a prompting structure first because I think that we have missed a framework for prompting and I felt poorer until I could name the stages. I felt like I had trouble understanding my own thinking until I could name the different stages of the prompt tool chain and talk about the tools because this is a world where like no shade on all these other tools. They're great. That's part of why I took the time to introduce them. Like I think that you need multiple tools for these different stages and my goal is just to help you with that intent and initial sort of piece that I think hasn't been as clean as it needs to be. So, hope you enjoyed it. If nothing else, now you have some vocabulary to talk about the stages of the prompt and I think that will be helpful and maybe you got some good tool tips for some of the other later stages. That's another reason I made this video. I think there's a lot of great prompting tools out there. Cheers.

@@ -1,0 +1,25 @@
+# Bolt
+
+Episodes discussing **Bolt** (21 episodes):
+
+- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md) (2026-01-02)
+- [Turn Your Job AI-Native Before Agents Do It For You](../episodes/2025-11-18-turn-your-job-ai-native-before-agents-do-it-for-you/transcript.md) (2025-11-18)
+- [Inside Anthropic's Detection of an AI-Run Cyberattack on 30 High Value Global Targets](../episodes/2025-11-13-inside-anthropics-detection-of-an-ai-run-cyberattack-on-30-high-value-global-tar/transcript.md) (2025-11-13)
+- [When C-Suite FAILS at AI: 9 Mistakes CEOs Make and How to Avoid Multi-Million Dollar AI Disasters](../episodes/2025-10-26-when-c-suite-fails-at-ai-9-mistakes-ceos-make-and-how-to-avoid-multi-million-dol/transcript.md) (2025-10-26)
+- [Why the Best AI Tools Look NOTHING Like ChatGPT](../episodes/2025-10-20-why-the-best-ai-tools-look-nothing-like-chatgpt/transcript.md) (2025-10-20)
+- [Make $500-$5K/mo with ChatGPT—Steal my Side-Gig System and Build Your Hustle with AI!](../episodes/2025-09-19-make-500-5kmo-with-chatgptsteal-my-side-gig-system-and-build-your-hustle-with-ai/transcript.md) (2025-09-19)
+- [Engineering AI Ethics: What Meta Missed and Anthropic Got Right](../episodes/2025-08-17-engineering-ai-ethics-what-meta-missed-and-anthropic-got-right/transcript.md) (2025-08-17)
+- [The ChatGPT-5 Organizational Playbook](../episodes/2025-08-11-the-chatgpt-5-organizational-playbook/transcript.md) (2025-08-11)
+- [6 Structural Gaps ChatGPT Can't Close—And 12 Killer AI Tools That Do](../episodes/2025-08-05-6-structural-gaps-chatgpt-cant-closeand-12-killer-ai-tools-that-do/transcript.md) (2025-08-05)
+- [The 6 Proven AI Workflows That Survive Every AI Hype Cycle](../episodes/2025-07-28-the-6-proven-ai-workflows-that-survive-every-ai-hype-cycle/transcript.md) (2025-07-28)
+- [Google, OpenAI, Chaos: Inside Windsurf's $3B Deal Implosion (72 hrs)](../episodes/2025-07-15-google-openai-chaos-inside-windsurfs-3b-deal-implosion-72-hrs/transcript.md) (2025-07-15)
+- [The rise of vibe coding: copycats and winners](../episodes/2025-04-24-the-rise-of-vibe-coding-copycats-and-winners/transcript.md) (2025-04-24)
+- [The AI Paradox: Where New AI Models Reveal New Job Families](../episodes/2025-03-28-the-ai-paradox-where-new-ai-models-reveal-new-job-families/transcript.md) (2025-03-28)
+- [We can't communicate how AI works to regular humans and it's a big problem](../episodes/2025-03-24-we-cant-communicate-how-ai-works-to-regular-humans-and-its-a-big-problem/transcript.md) (2025-03-24)
+- [The Copy-Paste Problem: Why AI is Killing Software Lock-In](../episodes/2025-03-14-the-copy-paste-problem-why-ai-is-killing-software-lock-in/transcript.md) (2025-03-14)
+- [o1 tries to escape plus 6 other AI news stories from the weekend plus 6 AI predictions for this week](../episodes/2024-12-09-o1-tries-to-escape-plus-6-other-ai-news-stories-from-the-weekend-plus-6-ai-predi/transcript.md) (2024-12-09)
+- [AI News: AWS $4B Anthropic Deal, Windsurf vs Cursor—The Battle of Agentic LLM Coding Applications](../episodes/2024-11-25-ai-news-aws-4b-anthropic-deal-windsurf-vs-cursorthe-battle-of-agentic-llm-coding/transcript.md) (2024-11-25)
+- [Product Strategy in the Age of AI: What We Can Learn from Lovable.dev](../episodes/2024-11-21-product-strategy-in-the-age-of-ai-what-we-can-learn-from-lovabledev/transcript.md) (2024-11-21)
+- [10 AI Jump Scares + 1 Real AI Scare for Halloween](../episodes/2024-10-31-10-ai-jump-scares-1-real-ai-scare-for-halloween/transcript.md) (2024-10-31)
+- [AI Coding Tool Comparison: The TLDR on Replit, Cursor, Pythagora, and Bolt](../episodes/2024-10-10-ai-coding-tool-comparison-the-tldr-on-replit-cursor-pythagora-and-bolt/transcript.md) (2024-10-10)
+- [AI Tool Comparison: ChatGPT, Canvas, Artifacts, Bolt, Replit](../episodes/2024-10-04-ai-tool-comparison-chatgpt-canvas-artifacts-bolt-replit/transcript.md) (2024-10-04)

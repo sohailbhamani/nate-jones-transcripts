@@ -1,0 +1,28 @@
+# Twitter
+
+Episodes discussing **Twitter** (24 episodes):
+
+- [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)
+- [3 Startups Deep in 30 Days: How Nano Banana Pro Just Triggered a Billion-Dollar Chain Reaction](../episodes/2025-12-26-3-startups-deep-in-30-days-how-nano-banana-pro-just-triggered-a-billion-dollar-c/transcript.md) (2025-12-26)
+- [Codex 5.2 Launch Revealed: How OpenAI Got Non-Engineers Shipping Real Code](../episodes/2025-12-18-codex-52-launch-revealed-how-openai-got-non-engineers-shipping-real-code/transcript.md) (2025-12-18)
+- [NEW ChatGPT 5.2 Complete Breakdown: Tested on Excel, PowerPoint, Massive Data Sets, and More](../episodes/2025-12-12-new-chatgpt-52-complete-breakdown-tested-on-excel-powerpoint-massive-data-sets-a/transcript.md) (2025-12-12)
+- [Al Agents That Actually Work: The Pattern Anthropic Just Revealed](../episodes/2025-12-08-al-agents-that-actually-work-the-pattern-anthropic-just-revealed/transcript.md) (2025-12-08)
+- [JSON: How I Build Perfect Images in NanoBanana Pro](../episodes/2025-12-03-json-how-i-build-perfect-images-in-nanobanana-pro/transcript.md) (2025-12-03)
+- [Manus AI: What Manus Tells Us About the Future of AI Agents](../episodes/2025-09-02-manus-ai-what-manus-tells-us-about-the-future-of-ai-agents/transcript.md) (2025-09-02)
+- [Microsoft CoPilot Decoded: 12 Flavors, 20x ROI Playbook](../episodes/2025-07-03-microsoft-copilot-decoded-12-flavors-20x-roi-playbook/transcript.md) (2025-07-03)
+- [Catch Up Before ChatGPT-5: Your Complete AI Guide—Timeline, AI Basics, Resources, and Who To Follow](../episodes/2025-06-30-catch-up-before-chatgpt-5-your-complete-ai-guidetimeline-ai-basics-resources-and/transcript.md) (2025-06-30)
+- [o3 Pro is Out—Here's Everything You Need to Know](../episodes/2025-06-11-o3-pro-is-outheres-everything-you-need-to-know/transcript.md) (2025-06-11)
+- [Confused by o4 vs. o3? My Trick to Remember Each of the 16 Major AI Models](../episodes/2025-06-03-confused-by-o4-vs-o3-my-trick-to-remember-each-of-the-16-major-ai-models/transcript.md) (2025-06-03)
+- [ChatGPT 5 and Project Orion: Official Updates from OpenAI](../episodes/2025-02-12-chatgpt-5-and-project-orion-official-updates-from-openai/transcript.md) (2025-02-12)
+- [YouTube Will Hate This: 12 days of OpenAI in One List in 3 Min](../episodes/2024-12-23-youtube-will-hate-this-12-days-of-openai-in-one-list-in-3-min/transcript.md) (2024-12-23)
+- [THE Story of the Year is Google's Turnaround in Artificial Intelligence](../episodes/2024-12-17-the-story-of-the-year-is-googles-turnaround-in-artificial-intelligence/transcript.md) (2024-12-17)
+- [2026 came early: AI can inspire a goat cult meme-coin and be worth 10M+ but AI can't buy me lunch](../episodes/2024-10-24-2026-came-early-ai-can-inspire-a-goat-cult-meme-coin-and-be-worth-10m-but-ai-can/transcript.md) (2024-10-24)
+- [2025 came early: the first AI agent is becoming a millionaire today thanks to goat memes](../episodes/2024-10-16-2025-came-early-the-first-ai-agent-is-becoming-a-millionaire-today-thanks-to-goa/transcript.md) (2024-10-16)
+- [This was the biggest week in tech ever - Tesla, SpaceX, xAI](../episodes/2024-10-14-this-was-the-biggest-week-in-tech-ever-tesla-spacex-xai/transcript.md) (2024-10-14)
+- [AI News: Blackrock, Fed, WaPo and AI Maven Course Live!](../episodes/2024-09-19-ai-news-blackrock-fed-wapo-and-ai-maven-course-live/transcript.md) (2024-09-19)
+- [Cursor AI: Summary and Use-Cases to Code in English](../episodes/2024-08-26-cursor-ai-summary-and-use-cases-to-code-in-english/transcript.md) (2024-08-26)
+- [AI and Politics: Trump, Elon, and Taylor Swift - Huge Opportunity for AI Builders](../episodes/2024-08-19-ai-and-politics-trump-elon-and-taylor-swift-huge-opportunity-for-ai-builders/transcript.md) (2024-08-19)
+- [Prediction: Disney is coming for Elon and X ASAP](../episodes/2024-08-16-prediction-disney-is-coming-for-elon-and-x-asap/transcript.md) (2024-08-16)
+- [AI is not a chatbot:  the AI chatbot UX is cheating our brains](../episodes/2024-07-16-ai-is-not-a-chatbot-the-ai-chatbot-ux-is-cheating-our-brains/transcript.md) (2024-07-16)

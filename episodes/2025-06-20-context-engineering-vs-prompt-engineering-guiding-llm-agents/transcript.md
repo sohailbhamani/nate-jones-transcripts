@@ -1,0 +1,59 @@
+---
+title: "Context Engineering vs. Prompt Engineering: Guiding LLM Agents"
+video_id: "mldfMWbnZTg"
+youtube_url: "https://www.youtube.com/watch?v=mldfMWbnZTg"
+substack_url: null
+publish_date: "2025-06-20"
+duration: "12:31"
+duration_seconds: 751
+view_count: 25094
+author: "AI News & Strategy Daily | Nate B Jones"
+
+yt_tags:
+  []
+
+
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "Prompting"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+entities:
+  companies:
+    []
+  people:
+    []
+  products:
+    - "Claude"
+    - "Make"
+    - "MCP"
+    - "Opus"
+  models:
+    - "Claude Opus"
+concepts:
+  - "Around the idea that source source quality across this larger context window matters a great deal for quality of decision"
+summary:
+  - "Prompt Engineering: Guiding LLM Agents
+
+I'd like to suggest that we aren't talking clearly enough about context engineering and that we're getting it wrong in some important ways"
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "opus"
+  - "prompting"
+  - "workflows"
+---
+
+# Context Engineering vs. Prompt Engineering: Guiding LLM Agents
+
+I'd like to suggest that we aren't talking clearly enough about context engineering and that we're getting it wrong in some important ways. If you don't know what context engineering is, it's kind of the successor to the idea of prompt engineering or prompting. Context engineering basically says prompts are great, but large language models look at a lot more than prompts. They look at uh the system instructions they get. They look at any rules that you have in your chat instance. They look at documents that you may have uploaded and the responsibility of the person who is running this job is to make sure all of that context is correct and leads to the right outcome. So far so good. Same page. The issue is this. Most of the dialogue, most of the discussion I've been able to find around context engineering is really focused on what I would call part one or the smaller part of context engineering. The things that we can deterministically control. So we have papers written, we have advice shared, all coming down to how can you more effectively shrink down and make efficient use of the context window you directly send to the large language model is this assumption that we are communicating with a cloud-based model. We need to be really aware of our token burn. And so you have things like the uh famous paper on chain of draft where the idea is that you can get the LLM to save a bunch of tokens if you remind it that it can approximate logical thinking by writing its own symbols and shorthand instead of full tokenbased uh English to write out chain of thought. This turns out to save lots of tokens and be almost as good because it's really the act of writing things down for the LLM that helps it to think clearly. Uh, and I realize I'm using some anthropomorphizing metaphors, but but you get it. Uh, the act of writing down the symbols seems to work to prompt logical trains of thought for the LLM in a similar way to us humans writing things down and being able to remember as we go. All of that is part one, deterministic context. So, static prompts, knowledge bases, documentation, data feeds, all things we can control. That's the smaller part and we don't talk about the larger part. The larger part is probabilistic context. So what I'm saying is you have only a small piece of the overall context that the LLM uses to get you an answer if you have any kind of web access in your call at all. Now to be fair, sometimes you have no web access and you want it that way. Sometimes you are just sending very very structured calls, no web access, no external tools and you just want the LLM to generate a response. In that case, it makes sense to microcontrol part one so that you get extremely efficient responses. But I find that especially as LLMs push you to connect them to broader data sources so they get smarter, people are more and more assuming that they want an LLM that has access to the web. They want an LLM that has access to what I would call non-deterministic or probabilistic context. And when that happens, the number of tokens of context is so much greater it's hard to count. Your deterministic context becomes a drop in the bucket compared to how much probabilistic context context the model can acquire. So for example, if I tell uh a multi- aent system like Claude Opus, hey go and research this topic and then I give it a word document that has my perspective and I say go research this. I I kid you not 400, 500, 600 websites later, it comes back. There is no way that my document and my prompt are any remotely measurable percentage of the total number of tokens it just processed. The only way that it still maintains a kind of focus is because it has been clearly reinforcement learned and trained to focus on the user's ask, which is fine. But all that does is transfer the responsibility for shaping the model's choice of probabilistic context to the prompt itself. And the prompt is therefore not deterministic. The prompt itself is probabilistic. Now we are shaping the context that the agent will go and grab by prompting and we can't control it but we can shape it and so the question becomes well how do we start to shape that well and how do we start to craft an environment that enables the AI to understand what we mean I think that is actually where context engineering needs to go. I think token optimization methods are legitimate. They clearly work well, but they kind of focus on cost cutting when I would like to see how we can get more correct answers and more useful and congruent answers. And so to me, especially as we look at a world with web access with MCP everywhere with increasing autonomy for agents net net, I know it's not perfect. I know we are in some ways a long way from a fully autonomous agent. We still want to be in a place where we understand the impact of our prompt on the overall probabilistic context. So here's my set of principles for you as you think about this. Number one, you need to expect discovery. So design for semantic highways. Think about it as what is the rate at which a desired response comes back when you include probabilistic context. Can you consistently prompt so that you get a response that you are happy with even though the context window is not tightly closed and the agent can go and search for things across MCP servers on the web etc. Number two, can you reliably monitor the quality of information sources that it's using? And can you track how those information sources are changing over time? So for example, if you tell it to use reliable and verified news uh sites to sort of find out the news on a particular topic and you audit the sources, would you agree that those are reliable and verified news sites or do you find that it's not actually doing that well? Even if you're happy with the result, you find the sources are not really great, which by the way happens an alarming amount of the time. Like I look at uh Chad GPT's deep research. I am often happy with the output but I am not often happy with the way it reached it. The sources seem quite sketchy at times. Maybe that's an incidence um or maybe that's an artifact of the reality that it's testing so many different sources and it's difficult for me to audit all 600 or whatever that it's using. Or maybe it actually needs to be somewhat more constrained and we need to do more work on prompting to constrain source uh reliance with these agents even if only partially. Okay. Other principles that I think are helpful. Number three, you really need to take uh security seriously with probabilistic context. There will absolutely be people who figure out LLM injection attacks from agents doing searches across the web and MCP servers. It's going to happen. It will happen this year. Uh and I'm kind of surprised it hasn't happened already. In fact, it may have and I may have missed it. If you know of a case where someone used an MCP server and uh there was some sort of prompt injection attack on an LLM, I would be curious to see it. Regardless, we should anticipate that. Principle number four, I want to suggest that it's important to measure overall decision accuracy and it is probably more informative of the decision accuracy you reach from the reports that you generate with these methods. if you are relevant scoring the inputs and this gets back to source control but now you're adding sort of a relevant scoring piece to the extent you can like and maybe you have to do this with um a actual eval harness but to the extent you can I feel like deploying relevant scoring on the sources is going to be more predictive of the overall quality of the response for probabilistic context calls than just measuring traditional precision and recall because precision and recall implicitly assume a deterministic context window and you don't necessarily have that anymore. Uh number five is not that surprising. Uh you're you're going to have to version everything. You're going to have to test these prompts and version them carefully. And I think that's really really important. Um, so when you think about those together, like to me, they point the way toward a future where we are aware that there are security threats on the open web and across MCP servers in general. We understand that these larger context windows are probably beneficial to higher quality decisioning by LLMs, but we need to design our eval fundamentally around the idea that source source quality across this larger context window matters a great deal for quality of decision. The probabilistic context window, the one you can't fully control. And the thing that matters about what you can control, the deterministic context window, it's not really the tokens that you burned. It's not really the efficiency, although it doesn't hurt to make it more efficient. Train of draft is great. It's it's the ability to shape that probabilistic window with the way you prompt. And so I gave an example of sort of that's very simple that I've seen a lot of people do where they're saying go search verified news sites, right? People try and constrain the search space. Go search academic articles as another example. We're not really like evaling those in most circumstances. Most of the evals I see are around sort of the precision, recall, quality of answer for specific utterances. Often they're in customer success spaces where it's a very deterministic space. I think Eval's harnesses need to evolve and grow to handle a world where deterministic context is just a small part of context engineering. And a lot of context engineering involves thinking about how to shape a gentic search of the open web or potentially in large companies a very large internal data structure. How do you shape sort of use the same principles to shape how you search a very large internal data structure as an agent. So I hope that was sufficiently nerdy for you. I think we don't talk enough about context engineering. It's critical that we understand it better because remember the fundamental shift for us for from chat bots is they are no longer just large language models. They're really agents in a trench code for most of the frontline chat bots, most of the frontline API experiences. They are using guidance tools, scope on the back end, agentified behavior on the back end to successfully deliver results to you. We should probably have context engineering catch up with that agentic future and actually think about how we can uh deliberately engineer context when we can't control all the pieces. And I think that's a really interesting question. Cheers.

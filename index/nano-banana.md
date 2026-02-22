@@ -1,0 +1,26 @@
+# Nano Banana
+
+Episodes discussing **Nano Banana** (22 episodes):
+
+- [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)
+- [The Nvidia-Groq Deal Is WAY Bigger Than Reported (3 Things the Headlines Missed)](../episodes/2025-12-27-the-nvidia-groq-deal-is-way-bigger-than-reported-3-things-the-headlines-missed/transcript.md) (2025-12-27)
+- [3 Startups Deep in 30 Days: How Nano Banana Pro Just Triggered a Billion-Dollar Chain Reaction](../episodes/2025-12-26-3-startups-deep-in-30-days-how-nano-banana-pro-just-triggered-a-billion-dollar-c/transcript.md) (2025-12-26)
+- [Why Flash Models, Not Frontier Models, Will Win in 2026](../episodes/2025-12-24-why-flash-models-not-frontier-models-will-win-in-2026/transcript.md) (2025-12-24)
+- [ChatGPT's "4x Faster" Image Update vs. Google Nano Banana Pro: I Ran 9 Brutal Tests](../episodes/2025-12-17-chatgpts-4x-faster-image-update-vs-google-nano-banana-pro-i-ran-9-brutal-tests/transcript.md) (2025-12-17)
+- [The Al Prompting Mistake CostingYou Hours Every Week (10 Prompts to Fix It)](../episodes/2025-12-05-the-al-prompting-mistake-costingyou-hours-every-week-10-prompts-to-fix-it/transcript.md) (2025-12-05)
+- [The Al Agent Lie: Why Your Automation Is Failing (And the Simple Fix Everyone Misses)](../episodes/2025-12-04-the-al-agent-lie-why-your-automation-is-failing-and-the-simple-fix-everyone-miss/transcript.md) (2025-12-04)
+- [JSON: How I Build Perfect Images in NanoBanana Pro](../episodes/2025-12-03-json-how-i-build-perfect-images-in-nanobanana-pro/transcript.md) (2025-12-03)
+- [Agents Will Kill Your Ul by 2026--Unless You Build This Instead](../episodes/2025-11-30-agents-will-kill-your-ul-by-2026-unless-you-build-this-instead/transcript.md) (2025-11-30)
+- [My Take on the Hard AI Questions: Jobs, Water, Artificial Romance, School Cheating & More](../episodes/2025-11-27-my-take-on-the-hard-ai-questions-jobs-water-artificial-romance-school-cheating-m/transcript.md) (2025-11-27)
+- [AI Certifications Focus on Tools NOT Skills—Here's a Better Way](../episodes/2025-11-26-ai-certifications-focus-on-tools-not-skillsheres-a-better-way/transcript.md) (2025-11-26)
+- [Real World Testing: Opus 4.5 vs. Gemini 3 vs. ChatGPT 5.1](../episodes/2025-11-25-real-world-testing-opus-45-vs-gemini-3-vs-chatgpt-51/transcript.md) (2025-11-25)
+- [Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo](../episodes/2025-11-24-prompting-is-the-wild-west-heres-the-prompt-lifecycle-guide-19-tools-a-demo/transcript.md) (2025-11-24)
+- [Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways](../episodes/2025-11-23-heres-the-90-slide-ai-eats-the-world-talk-in-15-minutesplus-my-top-takeaways/transcript.md) (2025-11-23)
+- [Meta Just Cracked Vision with SAM 3: Robotics, Moderation, and Video Editing Will Transform](../episodes/2025-11-22-meta-just-cracked-vision-with-sam-3-robotics-moderation-and-video-editing-will-t/transcript.md) (2025-11-22)
+- [Nano Banana Pro is Jaw Dropping: 18 Use-Cases That Were Impossible Before](../episodes/2025-11-21-nano-banana-pro-is-jaw-dropping-18-use-cases-that-were-impossible-before/transcript.md) (2025-11-21)
+- [Google Made Lovable FREE This Week—Full Demo of 3 Apps + Prompting & Launch Tips](../episodes/2025-09-30-google-made-lovable-free-this-weekfull-demo-of-3-apps-prompting-launch-tips/transcript.md) (2025-09-30)
+- [OpenAI Just Launched a SOCIAL NETWORK—This Changes Everything (Sora 2 Breakdown)](../episodes/2025-09-30-openai-just-launched-a-social-networkthis-changes-everything-sora-2-breakdown/transcript.md) (2025-09-30)
+- [The 5 AI Shifts That Will Reshape 2026: On-Device Agents + 4 More Critical AI Trends](../episodes/2025-09-28-the-5-ai-shifts-that-will-reshape-2026-on-device-agents-4-more-critical-ai-trend/transcript.md) (2025-09-28)
+- [I Tested ChatGPT's New Overnight Mode—It Changed How I Work](../episodes/2025-09-27-i-tested-chatgpts-new-overnight-modeit-changed-how-i-work/transcript.md) (2025-09-27)
+- [AI News & Notes: Week of Sep 8](../episodes/2025-09-13-ai-news-notes-week-of-sep-8/transcript.md) (2025-09-13)
+- [The Universal AI Skill: Good Taste](../episodes/2025-09-13-the-universal-ai-skill-good-taste/transcript.md) (2025-09-13)
