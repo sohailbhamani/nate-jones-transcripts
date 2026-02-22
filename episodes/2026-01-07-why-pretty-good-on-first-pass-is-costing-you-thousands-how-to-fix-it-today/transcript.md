@@ -29,6 +29,7 @@ yt_tags:
   - "AI workflows"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Prompting"

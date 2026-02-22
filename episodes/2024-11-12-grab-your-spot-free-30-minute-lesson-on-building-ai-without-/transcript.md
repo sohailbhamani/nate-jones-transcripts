@@ -8,6 +8,7 @@ duration: "0:53"
 view_count: 426
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"

@@ -27,6 +27,7 @@ yt_tags:
   - "OpenAI 2026"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Tools"

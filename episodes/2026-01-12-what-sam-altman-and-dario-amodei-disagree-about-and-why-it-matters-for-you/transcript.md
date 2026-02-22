@@ -26,6 +26,7 @@ yt_tags:
   - "AI strategy 2026"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"

@@ -26,6 +26,7 @@ yt_tags:
   - "AI jobs for engineers"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"

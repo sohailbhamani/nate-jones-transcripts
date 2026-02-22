@@ -28,6 +28,7 @@ yt_tags:
   - "AI image models for decks"
 
 
+
 # AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Tools"

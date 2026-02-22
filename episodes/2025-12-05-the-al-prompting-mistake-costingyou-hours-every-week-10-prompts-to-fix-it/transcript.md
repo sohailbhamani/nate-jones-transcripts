@@ -26,6 +26,7 @@ yt_tags:
   - "Claude Opus"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "Career"

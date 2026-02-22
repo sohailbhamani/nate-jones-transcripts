@@ -29,6 +29,7 @@ yt_tags:
   - "generative UI for enterprises"
 
 
+
 # AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Agents"

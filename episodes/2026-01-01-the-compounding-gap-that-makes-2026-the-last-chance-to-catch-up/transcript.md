@@ -29,6 +29,7 @@ yt_tags:
   - "enterprise AI adoption"
 
 
+
 # AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Agents"

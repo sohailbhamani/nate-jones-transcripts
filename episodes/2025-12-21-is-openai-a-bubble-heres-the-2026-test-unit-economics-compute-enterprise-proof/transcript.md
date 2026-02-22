@@ -27,6 +27,7 @@ yt_tags:
   - "OpenAI 2026"
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"

@@ -8,6 +8,7 @@ duration: "0:50"
 view_count: 381
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
