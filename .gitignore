@@ -2,3 +2,5 @@ venv/
 __pycache__/
 *.pyc
 progress.json
+CLAUDE.md
+.claude/
