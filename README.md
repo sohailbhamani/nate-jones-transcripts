@@ -125,7 +125,7 @@ python scripts/download.py 100
 
 ## Attribution
 
-This repo was bootstrapped from [kani3894/nate-jones-transcripts](https://github.com/kani3894/nate-jones-transcripts), which did the heavy lifting of archiving the first 431 episodes. We forked it to add automated daily sync and enrichment. Thank you to [@kani3894](https://github.com/kani3894) for building the original archive.
+This repo was bootstrapped from [kani3894/nate-jones-transcripts](https://github.com/kani3894/nate-jones-transcripts), which did the heavy lifting of archiving the first 431 episodes (May 2024 - Jan 2026). That repo hasn't been updated since January 2026, so we built this one to keep the archive current with automated daily sync and enrichment. Thank you to [@kani3894](https://github.com/kani3894) for building the original archive — without their work, this repo wouldn't exist.
 
 ## Credits
 
