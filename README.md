@@ -123,8 +123,13 @@ export SUPADATA_API_KEY="your_key_here"
 python scripts/download.py 100
 ```
 
+## Attribution
+
+This repo was bootstrapped from [kani3894/nate-jones-transcripts](https://github.com/kani3894/nate-jones-transcripts), which did the heavy lifting of archiving the first 431 episodes. We forked it to add automated daily sync and enrichment. Thank you to [@kani3894](https://github.com/kani3894) for building the original archive.
+
 ## Credits
 
-- Content by [Nate B Jones](https://www.youtube.com/@NateBJones)
+- Content by [Nate B Jones](https://www.youtube.com/@NateBJones) — subscribe to his channel if you find this useful
+- Original transcript archive by [@kani3894](https://github.com/kani3894)
 - Transcripts via [Supadata API](https://supadata.ai)
 - Metadata via YouTube Data API v3
