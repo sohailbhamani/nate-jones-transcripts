@@ -2,11 +2,6 @@
 
 Episodes discussing **Frameworks** (381 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
@@ -19,10 +14,15 @@ Episodes discussing **Frameworks** (381 episodes):
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
 - [Why AI is structurally superior at specific architecture work](../episodes/2026-02-15-why-ai-is-structurally-superior-at-specific-architecture-work/transcript.md) (2026-02-15)
 - [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)

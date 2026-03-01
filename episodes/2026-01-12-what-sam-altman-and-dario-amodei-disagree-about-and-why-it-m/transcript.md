@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)"
 video_id: "M9TJizOxNFk"
 youtube_url: "https://www.youtube.com/watch?v=M9TJizOxNFk"
-publish_date: "unknown"
+publish_date: "2026-01-12"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 
 yt_tags:
   []

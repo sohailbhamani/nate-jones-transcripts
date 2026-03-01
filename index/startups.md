@@ -2,12 +2,12 @@
 
 Episodes discussing **Startups** (89 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)
 - [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/2026-01-01-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md) (2026-01-01)

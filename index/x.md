@@ -2,11 +2,11 @@
 
 Episodes discussing **X** (80 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)
 - [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/2026-01-01-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md) (2026-01-01)

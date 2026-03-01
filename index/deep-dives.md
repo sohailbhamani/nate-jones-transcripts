@@ -2,11 +2,11 @@
 
 Episodes discussing **Deep Dives** (65 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)
 - [Amazon Fired Their AI Chief. Here's Why It Took So Long (Plus 5 Newsworthy Moments in AI This Week)](../episodes/2025-12-20-amazon-fired-their-ai-chief-heres-why-it-took-so-long-plus-5-newsworthy-moments/transcript.md) (2025-12-20)

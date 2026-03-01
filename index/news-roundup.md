@@ -2,10 +2,10 @@
 
 Episodes discussing **News Roundup** (116 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [Anthropic's New Benchmark Changes Everything—Most People Will Miss Why](../episodes/2025-12-29-anthropics-new-benchmark-changes-everythingmost-people-will-miss-why/transcript.md) (2025-12-29)
 - [The "Human Throttle" Problem That's Killing Enterprise AI Agent ROI](../episodes/2025-12-29-the-human-throttle-problem-thats-killing-enterprise-ai-agent-roi/transcript.md) (2025-12-29)

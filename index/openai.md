@@ -2,10 +2,6 @@
 
 Episodes discussing **Openai** (192 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Sam Altman admits OpenAI can't keep up with demand #chatgpt #ai #futureofwork](../episodes/2026-02-18-sam-altman-admits-openai-cant-keep-up-with-demand-chatgpt-ai-futureofwork/transcript.md) (2026-02-18)
@@ -15,9 +11,13 @@ Episodes discussing **Openai** (192 episodes):
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [Unlocking AI Talent: OpenAI's Unexpected Blueprint! #ai #openai #codex #futureofwork #aiimpact](../episodes/2026-02-15-unlocking-ai-talent-openais-unexpected-blueprint-ai-openai-codex-futureofwork-ai/transcript.md) (2026-02-15)
 - [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)

@@ -2,10 +2,10 @@
 
 Episodes discussing **Amazon** (75 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/2026-01-03-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md) (2026-01-03)
 - [The "Human Throttle" Problem That's Killing Enterprise AI Agent ROI](../episodes/2025-12-29-the-human-throttle-problem-thats-killing-enterprise-ai-agent-roi/transcript.md) (2025-12-29)

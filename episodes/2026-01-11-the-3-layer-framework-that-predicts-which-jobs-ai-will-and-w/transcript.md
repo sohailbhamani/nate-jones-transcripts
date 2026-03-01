@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace"
 video_id: "5Et9WoDCsYs"
 youtube_url: "https://www.youtube.com/watch?v=5Et9WoDCsYs"
-publish_date: "unknown"
+publish_date: "2026-01-11"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 
 yt_tags:
   []

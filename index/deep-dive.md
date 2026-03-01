@@ -2,11 +2,11 @@
 
 Episodes discussing **Deep Dive** (52 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
 - [Sam Altman admits OpenAI can't keep up with demand #chatgpt #ai #futureofwork](../episodes/2026-02-18-sam-altman-admits-openai-cant-keep-up-with-demand-chatgpt-ai-futureofwork/transcript.md) (2026-02-18)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)

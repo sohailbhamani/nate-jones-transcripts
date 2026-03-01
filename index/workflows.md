@@ -2,18 +2,18 @@
 
 Episodes discussing **Workflows** (186 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)

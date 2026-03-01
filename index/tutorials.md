@@ -2,12 +2,12 @@
 
 Episodes discussing **Tutorials** (199 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)

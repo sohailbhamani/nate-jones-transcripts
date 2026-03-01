@@ -2,7 +2,6 @@
 
 Episodes discussing **Framework** (119 episodes):
 
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
@@ -10,6 +9,7 @@ Episodes discussing **Framework** (119 episodes):
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [Why AI is structurally superior at specific architecture work](../episodes/2026-02-15-why-ai-is-structurally-superior-at-specific-architecture-work/transcript.md) (2026-02-15)
 - [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)
