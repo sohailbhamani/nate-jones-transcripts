@@ -6,6 +6,7 @@ No API key needed — RSS is public.
 """
 
 import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -39,6 +40,18 @@ def fetch_rss_video_ids(retries=3, backoff=5):
                     video_ids.append(vid_elem.text.strip())
 
             return video_ids
+        except urllib.error.HTTPError as e:
+            last_err = e
+            if e.code == 404 and attempt < retries:
+                wait = backoff * attempt * 2  # longer wait for 404 - YouTube transient
+                print(f"  Attempt {attempt} got HTTP 404 (transient). Retrying in {wait}s...")
+                time.sleep(wait)
+            elif attempt < retries:
+                wait = backoff * attempt
+                print(f"  Attempt {attempt} failed HTTP {e.code}: {e}. Retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                last_err = e
         except Exception as e:
             last_err = e
             if attempt < retries:

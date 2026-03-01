@@ -41,7 +41,7 @@ def load_progress():
     if PROGRESS_FILE.exists():
         with open(PROGRESS_FILE) as f:
             return json.load(f)
-    return {"completed": [], "failed": [], "last_run": None}
+    return {"completed": [], "failed": [], "no_transcript": [], "last_run": None}
 
 
 def save_progress(progress):
@@ -272,7 +272,8 @@ def main():
     completed = set(progress["completed"])
 
     # Filter to remaining videos
-    remaining = [vid for vid in all_video_ids if vid not in completed]
+    no_transcript = set(progress.get("no_transcript", []))
+    remaining = [vid for vid in all_video_ids if vid not in completed and vid not in no_transcript]
     to_process = remaining[:limit]
 
     print(f"Total videos: {len(all_video_ids)}")
@@ -322,6 +323,12 @@ def main():
                 )
                 save_progress(progress)
                 break
+            elif "No transcript content returned" in error_msg or "no transcript" in error_msg.lower():
+                print(f"  Permanent skip: no transcript available for {video_id}")
+                if "no_transcript" not in progress:
+                    progress["no_transcript"] = []
+                progress["no_transcript"].append(video_id)
+                save_progress(progress)
             else:
                 progress["failed"].append(
                     {
