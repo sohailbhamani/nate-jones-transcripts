@@ -1,1 +1,8 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.3
 pyyaml>=6.0
+
+# Transcript pipeline dependencies
+# - requests: YouTube API calls in fix_unknown_episodes.py
+# - beautifulsoup4: HTML parsing for metadata
+# - pyyaml: YAML frontmatter in create_index.py and build_index.py
