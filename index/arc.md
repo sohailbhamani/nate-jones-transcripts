@@ -1,7 +1,9 @@
 # Arc
 
-Episodes discussing **Arc** (18 episodes):
+Episodes discussing **Arc** (20 episodes):
 
+- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)

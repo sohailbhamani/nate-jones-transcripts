@@ -1,21 +1,20 @@
 ---
-title: "Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It"
+title: "Unknown"
 video_id: "dzp0OQbElpU"
 youtube_url: "https://www.youtube.com/watch?v=dzp0OQbElpU"
-publish_date: "2026-01-13"
+publish_date: "unknown"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "AI News & Strategy Daily | Nate B Jones"
+author: "Nate B Jones"
 
 yt_tags:
   []
 
 
-
 # AI-enriched metadata
 content_type: "News Roundup"
-primary_topic: "Career"
+primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
   - "Engineers"
@@ -25,8 +24,6 @@ audience:
 entities:
   companies:
     - "OpenAI"
-    - "Google"
-    - "Meta"
     - "Amazon"
     - "Nvidia"
     - "Shopify"
@@ -34,6 +31,8 @@ entities:
     - "Slack"
     - "GitHub"
     - "Box"
+    - "Duolingo"
+    - "Fiverr"
   people:
     - "Josh Miller"
     - "Toby Look"
@@ -70,14 +69,14 @@ keywords:
   - "coding"
   - "copilot"
   - "cursor"
+  - "duolingo"
+  - "fiverr"
   - "frameworks"
   - "github"
   - "github-copilot"
-  - "google"
   - "leadership"
   - "make"
   - "mcp"
-  - "meta"
   - "nvidia"
   - "openai"
   - "product-management"

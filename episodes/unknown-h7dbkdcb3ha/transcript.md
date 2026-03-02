@@ -1,20 +1,19 @@
 ---
-title: "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)"
+title: "Unknown"
 video_id: "h7dbkDcb3hA"
 youtube_url: "https://www.youtube.com/watch?v=h7dbkDcb3hA"
-publish_date: "2026-01-14"
+publish_date: "unknown"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "AI News & Strategy Daily | Nate B Jones"
+author: "Nate B Jones"
 
 yt_tags:
   []
 
 
-
 # AI-enriched metadata
-content_type: "Tutorial"
+content_type: "News Roundup"
 primary_topic: "AI Tools"
 difficulty: "Advanced"
 audience:
@@ -38,8 +37,6 @@ entities:
     - "Copilot"
     - "Cursor"
     - "Make"
-    - "Cowork"
-    - "Claude Cowork"
     - "Atlas"
     - "Artifacts"
   models:
@@ -58,10 +55,8 @@ keywords:
   - "atlas"
   - "claude"
   - "claude-code"
-  - "claude-cowork"
   - "coding"
   - "copilot"
-  - "cowork"
   - "cursor"
   - "deep-dives"
   - "frameworks"

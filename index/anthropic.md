@@ -1,7 +1,10 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (219 episodes):
+Episodes discussing **Anthropic** (223 episodes):
 
+- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
@@ -14,6 +17,7 @@ Episodes discussing **Anthropic** (219 episodes):
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)

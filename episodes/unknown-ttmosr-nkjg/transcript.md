@@ -1,16 +1,15 @@
 ---
-title: "OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories"
+title: "Unknown"
 video_id: "TTMOSR-nKjg"
 youtube_url: "https://www.youtube.com/watch?v=TTMOSR-nKjg"
-publish_date: "2026-01-10"
+publish_date: "unknown"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "AI News & Strategy Daily | Nate B Jones"
+author: "Nate B Jones"
 
 yt_tags:
   []
-
 
 
 # AI-enriched metadata
@@ -24,7 +23,6 @@ audience:
 entities:
   companies:
     - "OpenAI"
-    - "Anthropic"
     - "Google"
     - "Meta"
     - "Microsoft"
@@ -54,7 +52,6 @@ keywords:
   - "ai-strategy"
   - "ai-tools"
   - "amd"
-  - "anthropic"
   - "atlas"
   - "cursor"
   - "frameworks"

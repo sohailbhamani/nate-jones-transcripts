@@ -1,7 +1,9 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (47 episodes):
+Episodes discussing **Nvidia** (49 episodes):
 
+- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
