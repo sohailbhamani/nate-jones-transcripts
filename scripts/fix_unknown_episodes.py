@@ -19,20 +19,28 @@ def slugify(title):
     return s[:60]
 
 def get_yt_metadata(video_id, api_key):
-    url = "https://www.googleapis.com/youtube/v3/videos"
-    params = {"part": "snippet", "id": video_id, "key": api_key}
-    r = requests.get(url, params=params, timeout=10)
-    r.raise_for_status()
-    items = r.json().get("items", [])
-    if not items:
+    """Get YouTube video metadata. Returns None if API fails."""
+    try:
+        url = "https://www.googleapis.com/youtube/v3/videos"
+        params = {"part": "snippet", "id": video_id, "key": api_key}
+        r = requests.get(url, params=params, timeout=10)
+        r.raise_for_status()
+        items = r.json().get("items", [])
+        if not items:
+            return None
+        snippet = items[0]["snippet"]
+        return {
+            "title": snippet["title"],
+            "publish_date": snippet["publishedAt"][:10],
+            "channel": snippet["channelTitle"],
+            "tags": snippet.get("tags", []),
+        }
+    except requests.exceptions.RequestException as e:
+        print(f"  SKIP {video_id}: API error - {e}")
         return None
-    snippet = items[0]["snippet"]
-    return {
-        "title": snippet["title"],
-        "publish_date": snippet["publishedAt"][:10],
-        "channel": snippet["channelTitle"],
-        "tags": snippet.get("tags", []),
-    }
+    except Exception as e:
+        print(f"  SKIP {video_id}: Unexpected error - {e}")
+        return None
 
 def fix_repo(repo_dir, api_key):
     episodes_dir = Path(repo_dir) / "episodes"
