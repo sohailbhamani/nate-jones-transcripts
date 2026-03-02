@@ -1,16 +1,15 @@
 ---
-title: "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace"
+title: "Unknown"
 video_id: "5Et9WoDCsYs"
 youtube_url: "https://www.youtube.com/watch?v=5Et9WoDCsYs"
-publish_date: "2026-01-11"
+publish_date: "unknown"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "AI News & Strategy Daily | Nate B Jones"
+author: "Nate B Jones"
 
 yt_tags:
   []
-
 
 
 # AI-enriched metadata
@@ -42,7 +41,6 @@ If you're in business and you're a leader trying to figure out where to place yo
 keywords:
   - "ai-strategy"
   - "ai-tools"
-  - "career"
   - "deep-dives"
   - "frameworks"
   - "leadership"
