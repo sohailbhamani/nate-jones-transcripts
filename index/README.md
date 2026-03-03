@@ -115,8 +115,8 @@ Index of 456 episodes across 113 topics.
 - [Alfred](alfred.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
 - [Groq](groq.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 
 ## Search
 
