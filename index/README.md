@@ -107,16 +107,16 @@ Index of 456 episodes across 113 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Sap](sap.md) (2 episodes)
 - [Snowflake](snowflake.md) (2 episodes)
-- [Cowork](cowork.md) (2 episodes)
 - [Claude Cowork](claude-cowork.md) (2 episodes)
+- [Cowork](cowork.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Together Ai](together-ai.md) (1 episodes)
 - [Chroma](chroma.md) (1 episodes)
 - [Alfred](alfred.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
 - [Groq](groq.md) (1 episodes)
-- [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
+- [Fiverr](fiverr.md) (1 episodes)
 
 ## Search
 
