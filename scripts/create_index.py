@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Create index.json from all downloaded transcripts."""
+"""
+Build index.json from episode transcript.md files (YAML frontmatter).
+"""
 
 import json
-
-import yaml
+import re
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent
@@ -11,99 +12,75 @@ EPISODES_DIR = BASE_DIR / "episodes"
 INDEX_FILE = BASE_DIR / "index.json"
 
 
-def parse_yaml_frontmatter(content):
-    """Extract YAML frontmatter from markdown file."""
-    if not content.startswith("---"):
+def parse_frontmatter(content):
+    """Extract YAML frontmatter from markdown content."""
+    match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
+    if not match:
         return {}
-
-    # Find end of frontmatter
-    end_match = content.find("\n---", 3)
-    if end_match == -1:
-        return {}
-
-    yaml_content = content[4:end_match]
-
-    try:
-        return yaml.safe_load(yaml_content) or {}
-    except yaml.YAMLError:
-        return {}
-
-
-def derive_from_folder(folder_name):
-    """Derive publish_date and title from folder name like '2025-06-21-should-you-learn-to-code'."""
-    parts = folder_name.split("-", 3)
-    if len(parts) >= 4 and len(parts[0]) == 4:
-        date = f"{parts[0]}-{parts[1]}-{parts[2]}"
-        title = parts[3].replace("-", " ").title()
-        return date, title
-    return None, folder_name.replace("-", " ").title()
+    
+    yaml_text = match.group(1)
+    data = {}
+    
+    # Simple YAML parsing for basic fields
+    for line in yaml_text.split('\n'):
+        line = line.strip()
+        if ':' in line and not line.startswith('#'):
+            key, value = line.split(':', 1)
+            key = key.strip()
+            value = value.strip().strip('"').strip("'")
+            if value and value != 'null':
+                data[key] = value
+    
+    return data
 
 
-def main():
-    videos = []
-    skipped = 0
-
-    for episode_dir in sorted(EPISODES_DIR.iterdir()):
-        if not episode_dir.is_dir() or episode_dir.name.startswith("."):
+def build_index():
+    """Build index from transcript.md files."""
+    episodes = []
+    
+    for ep_dir in EPISODES_DIR.iterdir():
+        if not ep_dir.is_dir():
             continue
-
-        transcript_file = episode_dir / "transcript.md"
+            
+        transcript_file = ep_dir / "transcript.md"
         if not transcript_file.exists():
             continue
-
-        content = transcript_file.read_text()
-        metadata = parse_yaml_frontmatter(content)
-
-        # Derive missing fields from folder name
-        folder_date, folder_title = derive_from_folder(episode_dir.name)
-        if not metadata.get("title") and folder_title:
-            metadata["title"] = folder_title
-        if not metadata.get("publish_date") and folder_date:
-            metadata["publish_date"] = folder_date
-
-        # Get transcript length
-        transcript_start = content.find("\n---", 3)
-        if transcript_start != -1:
-            transcript_text = content[transcript_start + 4 :].strip()
-            # Skip the title line
-            if transcript_text.startswith("#"):
-                transcript_text = (
-                    transcript_text.split("\n", 1)[1] if "\n" in transcript_text else ""
-                )
-            metadata["transcript_chars"] = len(transcript_text)
-
-        metadata["folder"] = episode_dir.name
-
-        # Skip entries with no usable data or unresolved metadata
-        if not metadata.get("video_id"):
-            skipped += 1
-            print(f"  Skipped (no video_id): {episode_dir.name}")
+        
+        try:
+            content = transcript_file.read_text()
+            metadata = parse_frontmatter(content)
+            
+            if metadata.get('video_id'):
+                episodes.append({
+                    'video_id': metadata.get('video_id'),
+                    'title': metadata.get('title', 'Unknown'),
+                    'published': metadata.get('publish_date', 'unknown'),
+                    'url': metadata.get('youtube_url', ''),
+                    'duration': metadata.get('duration', 'unknown'),
+                    'view_count': metadata.get('view_count', 0),
+                    'author': metadata.get('author', 'Nate B Jones'),
+                })
+        except Exception as e:
+            print(f"Error parsing {ep_dir.name}: {e}")
             continue
-        if metadata.get("publish_date") == "unknown" or metadata.get("title") == "Unknown":
-            skipped += 1
-            print(f"  Skipped (unresolved metadata): {episode_dir.name}")
-            continue
-
-        videos.append(metadata)
-
-    # Sort by publish date (newest first), entries without dates go last
-    videos.sort(key=lambda x: x.get("publish_date") or "0000-00-00", reverse=True)
-
-    index = {
-        "total_videos": len(videos),
-        "date_range": {
-            "newest": videos[0].get("publish_date") if videos else None,
-            "oldest": videos[-1].get("publish_date") if videos else None,
-        },
-        "videos": videos,
+    
+    # Sort by published date
+    episodes.sort(key=lambda x: x.get('published', ''), reverse=True)
+    
+    # Write index
+    index_data = {
+        'episodes': episodes,
+        'count': len(episodes),
+        'last_updated': str(Path.now()) if hasattr(Path, 'now') else 'unknown'
     }
-
-    with open(INDEX_FILE, "w") as f:
-        json.dump(index, f, indent=2)
-
-    print(f"Created index.json with {len(videos)} videos ({skipped} skipped)")
-    print(f"Date range: {index['date_range']['oldest']} to {index['date_range']['newest']}")
+    
+    with open(INDEX_FILE, 'w') as f:
+        json.dump(index_data, f, indent=2)
+    
+    print(f"Built index.json with {len(episodes)} episodes")
+    if episodes:
+        print(f"Latest: {episodes[0]['published']} - {episodes[0]['title'][:50]}")
 
 
 if __name__ == "__main__":
-    main()
+    build_index()

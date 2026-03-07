@@ -39,6 +39,11 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/enrich.py
 
+      - name: Fix unknown episodes
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/fix_unknown_episodes.py .
+
       - name: Build indexes
         run: |
           python scripts/create_index.py
