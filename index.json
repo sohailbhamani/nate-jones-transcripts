@@ -1,6 +1,51 @@
 {
   "episodes": [
     {
+      "video_id": "5Et9WoDCsYs",
+      "title": "Unknown",
+      "published": "unknown",
+      "url": "https://www.youtube.com/watch?v=5Et9WoDCsYs",
+      "duration": "unknown",
+      "view_count": "0",
+      "author": "Nate B Jones"
+    },
+    {
+      "video_id": "h7dbkDcb3hA",
+      "title": "Unknown",
+      "published": "unknown",
+      "url": "https://www.youtube.com/watch?v=h7dbkDcb3hA",
+      "duration": "unknown",
+      "view_count": "0",
+      "author": "Nate B Jones"
+    },
+    {
+      "video_id": "M9TJizOxNFk",
+      "title": "Unknown",
+      "published": "unknown",
+      "url": "https://www.youtube.com/watch?v=M9TJizOxNFk",
+      "duration": "unknown",
+      "view_count": "0",
+      "author": "Nate B Jones"
+    },
+    {
+      "video_id": "TTMOSR-nKjg",
+      "title": "Unknown",
+      "published": "unknown",
+      "url": "https://www.youtube.com/watch?v=TTMOSR-nKjg",
+      "duration": "unknown",
+      "view_count": "0",
+      "author": "Nate B Jones"
+    },
+    {
+      "video_id": "dzp0OQbElpU",
+      "title": "Unknown",
+      "published": "unknown",
+      "url": "https://www.youtube.com/watch?v=dzp0OQbElpU",
+      "duration": "unknown",
+      "view_count": "0",
+      "author": "Nate B Jones"
+    },
+    {
       "video_id": "O-0poNv2jD4",
       "title": "The $285B Sell-Off Was Just the Beginning \u2014 The Infrastructure Story Is Bigger.",
       "published": "2026-02-21",
@@ -28,21 +73,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "6r0UeMQE66I",
-      "title": "Why the Biggest AI Career Opportunity Just Appeared\u2014and Almost Nobody Sees It.",
-      "published": "2026-02-19",
-      "url": "https://www.youtube.com/watch?v=6r0UeMQE66I",
-      "duration": "30:03",
-      "view_count": "108500",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "bySRD8jSoAw",
       "title": "Why Codex beats every AI meeting notes tool #ai #codex #futureofwork",
       "published": "2026-02-19",
       "url": "https://www.youtube.com/watch?v=bySRD8jSoAw",
       "duration": "1:02",
       "view_count": "16312",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "6r0UeMQE66I",
+      "title": "Why the Biggest AI Career Opportunity Just Appeared\u2014and Almost Nobody Sees It.",
+      "published": "2026-02-19",
+      "url": "https://www.youtube.com/watch?v=6r0UeMQE66I",
+      "duration": "30:03",
+      "view_count": "108500",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -64,21 +109,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "5IzPLjqkFaE",
-      "title": "The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.",
-      "published": "2026-02-17",
-      "url": "https://www.youtube.com/watch?v=5IzPLjqkFaE",
-      "duration": "26:51",
-      "view_count": "100730",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "2P-fNgoENlw",
       "title": "The entropy crisis AI was built to solve (humans can't)",
       "published": "2026-02-17",
       "url": "https://www.youtube.com/watch?v=2P-fNgoENlw",
       "duration": "1:43",
       "view_count": "12843",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "5IzPLjqkFaE",
+      "title": "The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.",
+      "published": "2026-02-17",
+      "url": "https://www.youtube.com/watch?v=5IzPLjqkFaE",
+      "duration": "26:51",
+      "view_count": "100730",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -100,6 +145,15 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
+      "video_id": "RtMLnCMv3do",
+      "title": "The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.",
+      "published": "2026-02-15",
+      "url": "https://www.youtube.com/watch?v=RtMLnCMv3do",
+      "duration": "34:26",
+      "view_count": "125057",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
       "video_id": "dbNjPE_5ow8",
       "title": "Why AI is structurally superior at specific architecture work",
       "published": "2026-02-15",
@@ -118,15 +172,6 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "RtMLnCMv3do",
-      "title": "The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.",
-      "published": "2026-02-15",
-      "url": "https://www.youtube.com/watch?v=RtMLnCMv3do",
-      "duration": "34:26",
-      "view_count": "125057",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "QOouZW4vxls",
       "title": "AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro",
       "published": "2026-02-14",
@@ -140,8 +185,8 @@
       "title": "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)",
       "published": "2026-01-14",
       "url": "https://www.youtube.com/watch?v=h7dbkDcb3hA",
-      "duration": "32:19",
-      "view_count": "189341",
+      "duration": "unknown",
+      "view_count": "0",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -149,8 +194,8 @@
       "title": "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)",
       "published": "2026-01-14",
       "url": "https://www.youtube.com/watch?v=h7dbkDcb3hA",
-      "duration": "unknown",
-      "view_count": "0",
+      "duration": "32:19",
+      "view_count": "189341",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -176,8 +221,8 @@
       "title": "What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)",
       "published": "2026-01-12",
       "url": "https://www.youtube.com/watch?v=M9TJizOxNFk",
-      "duration": "23:10",
-      "view_count": "33285",
+      "duration": "unknown",
+      "view_count": "0",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -185,8 +230,8 @@
       "title": "What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)",
       "published": "2026-01-12",
       "url": "https://www.youtube.com/watch?v=M9TJizOxNFk",
-      "duration": "unknown",
-      "view_count": "0",
+      "duration": "23:10",
+      "view_count": "33285",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -325,21 +370,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "X_EJi6yCuTM",
-      "title": "Anthropic's New Benchmark Changes Everything\u2014Most People Will Miss Why",
-      "published": "2025-12-29",
-      "url": "https://www.youtube.com/watch?v=X_EJi6yCuTM",
-      "duration": "10:23",
-      "view_count": "41895",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "7NjtPH8VMAU",
       "title": "The \\\"Human Throttle\\\" Problem That's Killing Enterprise AI Agent ROI",
       "published": "2025-12-29",
       "url": "https://www.youtube.com/watch?v=7NjtPH8VMAU",
       "duration": "19:53",
       "view_count": "12009",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "X_EJi6yCuTM",
+      "title": "Anthropic's New Benchmark Changes Everything\u2014Most People Will Miss Why",
+      "published": "2025-12-29",
+      "url": "https://www.youtube.com/watch?v=X_EJi6yCuTM",
+      "duration": "10:23",
+      "view_count": "41895",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -514,21 +559,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "xNcEgqzlPqs",
-      "title": "Al Agents That Actually Work: The Pattern Anthropic Just Revealed",
-      "published": "2025-12-08",
-      "url": "https://www.youtube.com/watch?v=xNcEgqzlPqs",
-      "duration": "13:36",
-      "view_count": "89677",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "UrJdtQgXnCw",
       "title": "I Stopped Blaming Myself for Bad Days After Learning This Math",
       "published": "2025-12-08",
       "url": "https://www.youtube.com/watch?v=UrJdtQgXnCw",
       "duration": "15:09",
       "view_count": "7227",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "xNcEgqzlPqs",
+      "title": "Al Agents That Actually Work: The Pattern Anthropic Just Revealed",
+      "published": "2025-12-08",
+      "url": "https://www.youtube.com/watch?v=xNcEgqzlPqs",
+      "duration": "13:36",
+      "view_count": "89677",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -685,21 +730,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "nktAnCHK94I",
-      "title": "There Is No Wall: What Gemini 3 Really Means For Your Job",
-      "published": "2025-11-18",
-      "url": "https://www.youtube.com/watch?v=nktAnCHK94I",
-      "duration": "9:06",
-      "view_count": "42724",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "gtkRAXQf49k",
       "title": "Turn Your Job AI-Native Before Agents Do It For You",
       "published": "2025-11-18",
       "url": "https://www.youtube.com/watch?v=gtkRAXQf49k",
       "duration": "13:27",
       "view_count": "14907",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "nktAnCHK94I",
+      "title": "There Is No Wall: What Gemini 3 Really Means For Your Job",
+      "published": "2025-11-18",
+      "url": "https://www.youtube.com/watch?v=nktAnCHK94I",
+      "duration": "9:06",
+      "view_count": "42724",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -964,21 +1009,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "9ydIVzh7TBo",
-      "title": "I Tested OpenAI's Atlas Browser on 12+ Tasks\u2014Here's My Full Breakdwon + Grade",
-      "published": "2025-10-22",
-      "url": "https://www.youtube.com/watch?v=9ydIVzh7TBo",
-      "duration": "10:02",
-      "view_count": "7271",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "5ioEQigrJOA",
       "title": "I Summarized Andrej Karpathy's 2.5 Hour Podcast in 20 Min\u2014Grab 4 Takeaways No One's Talking About",
       "published": "2025-10-22",
       "url": "https://www.youtube.com/watch?v=5ioEQigrJOA",
       "duration": "20:24",
       "view_count": "62775",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "9ydIVzh7TBo",
+      "title": "I Tested OpenAI's Atlas Browser on 12+ Tasks\u2014Here's My Full Breakdwon + Grade",
+      "published": "2025-10-22",
+      "url": "https://www.youtube.com/watch?v=9ydIVzh7TBo",
+      "duration": "10:02",
+      "view_count": "7271",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -1288,15 +1333,6 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "MYK0d5ikeZw",
-      "title": "The Power Law of AI: Why Averages Don't Matter Anymore",
-      "published": "2025-09-17",
-      "url": "https://www.youtube.com/watch?v=MYK0d5ikeZw",
-      "duration": "10:01",
-      "view_count": "6403",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "cVZCfpkHNBg",
       "title": "Forget Codex vs. Claude: This is What Build Teams REALLY Need to Ask",
       "published": "2025-09-17",
@@ -1306,12 +1342,12 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "7oIkPW217AY",
-      "title": "NEW GPT-5 Codex Model Launches",
-      "published": "2025-09-16",
-      "url": "https://www.youtube.com/watch?v=7oIkPW217AY",
-      "duration": "9:49",
-      "view_count": "7700",
+      "video_id": "MYK0d5ikeZw",
+      "title": "The Power Law of AI: Why Averages Don't Matter Anymore",
+      "published": "2025-09-17",
+      "url": "https://www.youtube.com/watch?v=MYK0d5ikeZw",
+      "duration": "10:01",
+      "view_count": "6403",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -1321,6 +1357,15 @@
       "url": "https://www.youtube.com/watch?v=esqPTMDvw7w",
       "duration": "24:00",
       "view_count": "9342",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "7oIkPW217AY",
+      "title": "NEW GPT-5 Codex Model Launches",
+      "published": "2025-09-16",
+      "url": "https://www.youtube.com/watch?v=7oIkPW217AY",
+      "duration": "9:49",
+      "view_count": "7700",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -1558,21 +1603,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "dUWxN0snnW8",
-      "title": "The ChatGPT-5 Organizational Playbook",
-      "published": "2025-08-11",
-      "url": "https://www.youtube.com/watch?v=dUWxN0snnW8",
-      "duration": "22:55",
-      "view_count": "9797",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "Gqnf5f1ITyo",
       "title": "The 10 Biggest ChatGPT-5 Problems & How to Fix Them",
       "published": "2025-08-11",
       "url": "https://www.youtube.com/watch?v=Gqnf5f1ITyo",
       "duration": "21:58",
       "view_count": "24491",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "dUWxN0snnW8",
+      "title": "The ChatGPT-5 Organizational Playbook",
+      "published": "2025-08-11",
+      "url": "https://www.youtube.com/watch?v=dUWxN0snnW8",
+      "duration": "22:55",
+      "view_count": "9797",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -1774,21 +1819,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "rkQhpiLn8EI",
-      "title": "I Was Wrong About AI Agents \u2014 This $200 Browser Actually Works",
-      "published": "2025-07-11",
-      "url": "https://www.youtube.com/watch?v=rkQhpiLn8EI",
-      "duration": "11:47",
-      "view_count": "25719",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "g-vDL5O2f_E",
       "title": "An AI Fable for the New Economy",
       "published": "2025-07-11",
       "url": "https://www.youtube.com/watch?v=g-vDL5O2f_E",
       "duration": "14:45",
       "view_count": "7739",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "rkQhpiLn8EI",
+      "title": "I Was Wrong About AI Agents \u2014 This $200 Browser Actually Works",
+      "published": "2025-07-11",
+      "url": "https://www.youtube.com/watch?v=rkQhpiLn8EI",
+      "duration": "11:47",
+      "view_count": "25719",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -1801,21 +1846,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "BYKUwsQOA8U",
-      "title": "The A-to-Z AI Literacy Guide (2025 Edition)",
-      "published": "2025-07-09",
-      "url": "https://www.youtube.com/watch?v=BYKUwsQOA8U",
-      "duration": "41:29",
-      "view_count": "11593",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "ckJN01g13_k",
       "title": "How Grok Went Rogue on July 8: The Engineering Blunders That Let AI Spew Hate",
       "published": "2025-07-09",
       "url": "https://www.youtube.com/watch?v=ckJN01g13_k",
       "duration": "12:44",
       "view_count": "16100",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "BYKUwsQOA8U",
+      "title": "The A-to-Z AI Literacy Guide (2025 Edition)",
+      "published": "2025-07-09",
+      "url": "https://www.youtube.com/watch?v=BYKUwsQOA8U",
+      "duration": "41:29",
+      "view_count": "11593",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -2503,21 +2548,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "q1hyh5m1u2g",
-      "title": "I got early access to Claude 3.7\u2014Here's what builders can expect",
-      "published": "2025-02-24",
-      "url": "https://www.youtube.com/watch?v=q1hyh5m1u2g",
-      "duration": "3:21",
-      "view_count": "4452",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "-T-WtXgVlXQ",
       "title": "Feb 24: The Microsoft AI Spend Drama Continues (Real Housewives Edition)",
       "published": "2025-02-24",
       "url": "https://www.youtube.com/watch?v=-T-WtXgVlXQ",
       "duration": "5:29",
       "view_count": "3066",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "q1hyh5m1u2g",
+      "title": "I got early access to Claude 3.7\u2014Here's what builders can expect",
+      "published": "2025-02-24",
+      "url": "https://www.youtube.com/watch?v=q1hyh5m1u2g",
+      "duration": "3:21",
+      "view_count": "4452",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -2710,21 +2755,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "t5ako_jF6LQ",
-      "title": "Three Real World AI Use Cases Today: Nuclear Power, Drug Discovery, and Geo Spying",
-      "published": "2025-01-21",
-      "url": "https://www.youtube.com/watch?v=t5ako_jF6LQ",
-      "duration": "3:50",
-      "view_count": "2131",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "mMHr_bE9ae0",
       "title": "Anthropic's AI GPT Model Claude Sonnet is in Trouble: Here's Why",
       "published": "2025-01-21",
       "url": "https://www.youtube.com/watch?v=mMHr_bE9ae0",
       "duration": "4:24",
       "view_count": "6375",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "t5ako_jF6LQ",
+      "title": "Three Real World AI Use Cases Today: Nuclear Power, Drug Discovery, and Geo Spying",
+      "published": "2025-01-21",
+      "url": "https://www.youtube.com/watch?v=t5ako_jF6LQ",
+      "duration": "3:50",
+      "view_count": "2131",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -2926,21 +2971,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "klDJJFB6HAE",
-      "title": "OpenAI Announces o3: Nearing Artificial General Intelligence",
-      "published": "2024-12-20",
-      "url": "https://www.youtube.com/watch?v=klDJJFB6HAE",
-      "duration": "4:03",
-      "view_count": "3475",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "izfgyzADwKo",
       "title": "AI News: Google Robots, Gemini 2.0 Reasoning, Claude Excel, The Mirror Test",
       "published": "2024-12-20",
       "url": "https://www.youtube.com/watch?v=izfgyzADwKo",
       "duration": "5:52",
       "view_count": "1553",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "klDJJFB6HAE",
+      "title": "OpenAI Announces o3: Nearing Artificial General Intelligence",
+      "published": "2024-12-20",
+      "url": "https://www.youtube.com/watch?v=klDJJFB6HAE",
+      "duration": "4:03",
+      "view_count": "3475",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -2953,21 +2998,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "yOGMZq-_q60",
-      "title": "AI News: o1 API, AI Scores 80% on a test doctors fail, AI catches scientific errors at scale",
-      "published": "2024-12-18",
-      "url": "https://www.youtube.com/watch?v=yOGMZq-_q60",
-      "duration": "4:39",
-      "view_count": "1486",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "-tVUWx61EJY",
       "title": "First Evidence of AI Faking Alignment\u2014HUGE Deal\u2014Study on Claude Opus 3 by Anthropic",
       "published": "2024-12-18",
       "url": "https://www.youtube.com/watch?v=-tVUWx61EJY",
       "duration": "6:34",
       "view_count": "5588",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "yOGMZq-_q60",
+      "title": "AI News: o1 API, AI Scores 80% on a test doctors fail, AI catches scientific errors at scale",
+      "published": "2024-12-18",
+      "url": "https://www.youtube.com/watch?v=yOGMZq-_q60",
+      "duration": "4:39",
+      "view_count": "1486",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -3016,21 +3061,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "u__f5qh3p0Y",
-      "title": "Sora is out but you can't have it and Google has a quantum chip",
-      "published": "2024-12-10",
-      "url": "https://www.youtube.com/watch?v=u__f5qh3p0Y",
-      "duration": "6:59",
-      "view_count": "1016",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "jLsRpuXqDP0",
       "title": "A Swiss Church built AI Jesus but they built it wrong",
       "published": "2024-12-10",
       "url": "https://www.youtube.com/watch?v=jLsRpuXqDP0",
       "duration": "2:31",
       "view_count": "706",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "u__f5qh3p0Y",
+      "title": "Sora is out but you can't have it and Google has a quantum chip",
+      "published": "2024-12-10",
+      "url": "https://www.youtube.com/watch?v=u__f5qh3p0Y",
+      "duration": "6:59",
+      "view_count": "1016",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -3097,15 +3142,6 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "ON-Tcu4OLHo",
-      "title": "Claude Model Context Protocol (MCP): AI Has Tools Now and The Future Looks WILD",
-      "published": "2024-11-27",
-      "url": "https://www.youtube.com/watch?v=ON-Tcu4OLHo",
-      "duration": "5:45",
-      "view_count": "6683",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "QdyqP7lBpKU",
       "title": "AI News: Pony AI IPO, Claude MCP, Claude Writing Styles",
       "published": "2024-11-27",
@@ -3115,12 +3151,12 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "h7HFAQK-jxk",
-      "title": "AI News: $56M for AI Agent OS, AI Generated Ad Videos, Upload your Codebase in Google Gemini",
-      "published": "2024-11-26",
-      "url": "https://www.youtube.com/watch?v=h7HFAQK-jxk",
-      "duration": "4:33",
-      "view_count": "619",
+      "video_id": "ON-Tcu4OLHo",
+      "title": "Claude Model Context Protocol (MCP): AI Has Tools Now and The Future Looks WILD",
+      "published": "2024-11-27",
+      "url": "https://www.youtube.com/watch?v=ON-Tcu4OLHo",
+      "duration": "5:45",
+      "view_count": "6683",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -3133,21 +3169,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
+      "video_id": "h7HFAQK-jxk",
+      "title": "AI News: $56M for AI Agent OS, AI Generated Ad Videos, Upload your Codebase in Google Gemini",
+      "published": "2024-11-26",
+      "url": "https://www.youtube.com/watch?v=h7HFAQK-jxk",
+      "duration": "4:33",
+      "view_count": "619",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
       "video_id": "WlecNrvXNcc",
       "title": "AI News: AWS $4B Anthropic Deal, Windsurf vs Cursor\u2014The Battle of Agentic LLM Coding Applications",
       "published": "2024-11-25",
       "url": "https://www.youtube.com/watch?v=WlecNrvXNcc",
       "duration": "7:55",
       "view_count": "1783",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
-      "video_id": "n8N1G7Qh92A",
-      "title": "AI News: ChatGPT 4o Creative Writing Release, Plus Claude Gets Too Real With Mistral",
-      "published": "2024-11-22",
-      "url": "https://www.youtube.com/watch?v=n8N1G7Qh92A",
-      "duration": "6:07",
-      "view_count": "2158",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -3160,12 +3196,21 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "jSiay4a1AZk",
-      "title": "Demo: Claude.AI Integration with Google Drive",
+      "video_id": "n8N1G7Qh92A",
+      "title": "AI News: ChatGPT 4o Creative Writing Release, Plus Claude Gets Too Real With Mistral",
+      "published": "2024-11-22",
+      "url": "https://www.youtube.com/watch?v=n8N1G7Qh92A",
+      "duration": "6:07",
+      "view_count": "2158",
+      "author": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "video_id": "zCvdrME4ErA",
+      "title": "Comparison: DeepSeek vs. OpenAI o1 Preview",
       "published": "2024-11-21",
-      "url": "https://www.youtube.com/watch?v=jSiay4a1AZk",
-      "duration": "1:41",
-      "view_count": "6433",
+      "url": "https://www.youtube.com/watch?v=zCvdrME4ErA",
+      "duration": "5:00",
+      "view_count": "1210",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -3178,12 +3223,12 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "zCvdrME4ErA",
-      "title": "Comparison: DeepSeek vs. OpenAI o1 Preview",
+      "video_id": "jSiay4a1AZk",
+      "title": "Demo: Claude.AI Integration with Google Drive",
       "published": "2024-11-21",
-      "url": "https://www.youtube.com/watch?v=zCvdrME4ErA",
-      "duration": "5:00",
-      "view_count": "1210",
+      "url": "https://www.youtube.com/watch?v=jSiay4a1AZk",
+      "duration": "1:41",
+      "view_count": "6433",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -3247,7 +3292,7 @@
       "url": "https://www.youtube.com/watch?v=Qc-r1PulajQ",
       "duration": "0:53",
       "view_count": "426",
-      "author": "AI News & Strategy Daily | Nate B Jones"
+      "author": "Nate B Jones"
     },
     {
       "video_id": "Qc-r1PulajQ",
@@ -3256,15 +3301,6 @@
       "url": "https://www.youtube.com/watch?v=Qc-r1PulajQ",
       "duration": "0:53",
       "view_count": "426",
-      "author": "Nate B Jones"
-    },
-    {
-      "video_id": "Ey811OUpX70",
-      "title": "OpenAI Hitting Diminishing Returns or Not plus TSMC export ban to China plus tariffs and TSMC",
-      "published": "2024-11-11",
-      "url": "https://www.youtube.com/watch?v=Ey811OUpX70",
-      "duration": "7:37",
-      "view_count": "1040",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -3275,6 +3311,15 @@
       "duration": "7:37",
       "view_count": "1040",
       "author": "Nate B Jones"
+    },
+    {
+      "video_id": "Ey811OUpX70",
+      "title": "OpenAI Hitting Diminishing Returns or Not plus TSMC export ban to China plus tariffs and TSMC",
+      "published": "2024-11-11",
+      "url": "https://www.youtube.com/watch?v=Ey811OUpX70",
+      "duration": "7:37",
+      "view_count": "1040",
+      "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
       "video_id": "WKSwUYEOjTo",
@@ -3301,7 +3346,7 @@
       "url": "https://www.youtube.com/watch?v=Vmu7I5TyIX8",
       "duration": "0:50",
       "view_count": "381",
-      "author": "Nate B Jones"
+      "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
       "video_id": "Vmu7I5TyIX8",
@@ -3310,7 +3355,7 @@
       "url": "https://www.youtube.com/watch?v=Vmu7I5TyIX8",
       "duration": "0:50",
       "view_count": "381",
-      "author": "AI News & Strategy Daily | Nate B Jones"
+      "author": "Nate B Jones"
     },
     {
       "video_id": "OW5vzbtDBjw",
@@ -4060,6 +4105,6 @@
       "author": "Nate B Jones"
     }
   ],
-  "count": 451,
+  "count": 456,
   "last_updated": "unknown"
 }
