@@ -1,7 +1,9 @@
 # Atlas
 
-Episodes discussing **Atlas** (9 episodes):
+Episodes discussing **Atlas** (11 episodes):
 
+- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [The Skill Gap That Will Separate AI Winners from Everyone Else](../episodes/2025-12-30-the-skill-gap-that-will-separate-ai-winners-from-everyone-else/transcript.md) (2025-12-30)

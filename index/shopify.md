@@ -1,7 +1,8 @@
 # Shopify
 
-Episodes discussing **Shopify** (5 episodes):
+Episodes discussing **Shopify** (6 episodes):
 
+- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [OpenAI Just Launched a SOCIAL NETWORK—This Changes Everything (Sora 2 Breakdown)](../episodes/2025-09-30-openai-just-launched-a-social-networkthis-changes-everything-sora-2-breakdown/transcript.md) (2025-09-30)
 - [AI and Jobs Debate is Spiraling: Here are 5+ Skills that Pay](../episodes/2025-05-30-ai-and-jobs-debate-is-spiraling-here-are-5-skills-that-pay/transcript.md) (2025-05-30)
