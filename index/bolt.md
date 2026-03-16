@@ -1,7 +1,8 @@
 # Bolt
 
-Episodes discussing **Bolt** (21 episodes):
+Episodes discussing **Bolt** (22 episodes):
 
+- [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md) (2026-01-02)
 - [Turn Your Job AI-Native Before Agents Do It For You](../episodes/2025-11-18-turn-your-job-ai-native-before-agents-do-it-for-you/transcript.md) (2025-11-18)
 - [Inside Anthropic's Detection of an AI-Run Cyberattack on 30 High Value Global Targets](../episodes/2025-11-13-inside-anthropics-detection-of-an-ai-run-cyberattack-on-30-high-value-global-tar/transcript.md) (2025-11-13)

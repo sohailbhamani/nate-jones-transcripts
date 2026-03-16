@@ -1,8 +1,20 @@
 # Framework
 
-Episodes discussing **Framework** (119 episodes):
+Episodes discussing **Framework** (131 episodes):
 
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
+- [Stop trusting AI agents to guess your intent! #ai #aiagents #futureofwork](../episodes/2026-03-11-stop-trusting-ai-agents-to-guess-your-intent-ai-aiagents-futureofwork/transcript.md) (2026-03-11)
+- [Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai](../episodes/2026-03-09-your-ai-buddy-doesnt-work-here-anymore-futureofwork-ai-personalai/transcript.md) (2026-03-09)
+- [Front-End Engineering Didn't Die. It Finally Grew Up. #engineering #ai #futureofwork](../episodes/2026-03-08-front-end-engineering-didnt-die-it-finally-grew-up-engineering-ai-futureofwork/transcript.md) (2026-03-08)
+- [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
+- [Humans hesitate — AI agents don't. Now what? #agenticai #agent #futureofwork](../episodes/2026-03-07-humans-hesitate-ai-agents-dont-now-what-agenticai-agent-futureofwork/transcript.md) (2026-03-07)
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
+- [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
+- [Why NVIDIA bought Groq — it's not what you think #nvidia #groq #futureofwork #ai](../episodes/2026-03-05-why-nvidia-bought-groq-its-not-what-you-think-nvidia-groq-futureofwork-ai/transcript.md) (2026-03-05)
+- [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
+- [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)

@@ -1,8 +1,10 @@
 # Operator
 
-Episodes discussing **Operator** (17 episodes):
+Episodes discussing **Operator** (19 episodes):
 
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
+- [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [ChatGPT 5.2 vs. Claude Opus 4.5 vs. Gemini 3: What Benchmarks Won't Tell You](../episodes/2025-12-15-chatgpt-52-vs-claude-opus-45-vs-gemini-3-what-benchmarks-wont-tell-you/transcript.md) (2025-12-15)
 - [The Real Difference Between Gemini 3 and ChatGPT 5.1—Context vs. Task](../episodes/2025-11-20-the-real-difference-between-gemini-3-and-chatgpt-51context-vs-task/transcript.md) (2025-11-20)

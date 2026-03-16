@@ -1,7 +1,9 @@
 # Azure
 
-Episodes discussing **Azure** (18 episodes):
+Episodes discussing **Azure** (20 episodes):
 
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
 - [Google Just Pulled a Power Move: VS Code, Colab, and Gemini 3.0](../episodes/2025-11-15-google-just-pulled-a-power-move-vs-code-colab-and-gemini-30/transcript.md) (2025-11-15)
 - [Mark Zuckerburg Laid Off 600 AI Researchers—Here's the AI Talent Takeaway Everyone MISSED](../episodes/2025-11-01-mark-zuckerburg-laid-off-600-ai-researchersheres-the-ai-talent-takeaway-everyone/transcript.md) (2025-11-01)

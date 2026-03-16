@@ -1,5 +1,5 @@
 {
-  "total_videos": 451,
+  "total_videos": 485,
   "date_range": {
     "newest": "unknown",
     "oldest": "2024-05-21"
@@ -254,6 +254,1921 @@
       ],
       "transcript_chars": 13366,
       "folder": "unknown-ttmosr-nkjg"
+    },
+    {
+      "title": "Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.",
+      "video_id": "8lwnJZy4cO0",
+      "youtube_url": "https://www.youtube.com/watch?v=8lwnJZy4cO0",
+      "publish_date": "2026-03-16",
+      "duration": "21:30",
+      "duration_seconds": 1290,
+      "view_count": 21980,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI agents",
+        "vibe coding",
+        "prompt engineering",
+        "AI strategy",
+        "automation at work",
+        "future of work",
+        "upskilling with AI",
+        "Claude",
+        "Claude Code",
+        "agent management",
+        "context window",
+        "version control",
+        "rules file",
+        "Git for builders",
+        "AI coding tools",
+        "AI agents for beginners",
+        "vibe coding mistakes",
+        "AI agent workflows"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "GitHub",
+          "Stripe",
+          "Cursor",
+          "Lovable"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Copilot",
+          "GitHub Copilot",
+          "Cursor",
+          "Make",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "We can use really any textbased tool to build stuff now"
+      ],
+      "transcript_chars": 23765,
+      "folder": "2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it"
+    },
+    {
+      "title": "She quit, picked up AI, and shipped in 30 days what her team planned for Q3.",
+      "video_id": "zCW-k5fFRgQ",
+      "youtube_url": "https://www.youtube.com/watch?v=zCW-k5fFRgQ",
+      "publish_date": "2026-03-15",
+      "duration": "37:39",
+      "duration_seconds": 2259,
+      "view_count": 38591,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "future of work",
+        "upskilling with AI",
+        "automation at work",
+        "AI career advice",
+        "AI labor market",
+        "solo founder",
+        "conviction and taste",
+        "talent retention",
+        "span of control",
+        "judgment density",
+        "intrapreneur",
+        "Procter and Gamble AI",
+        "AI productivity",
+        "AI solo founder strategies",
+        "AI tools for teams",
+        "unleashing AI talent"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "Amazon",
+          "Shopify"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# She quit, picked up AI, and shipped in 30 days what her team planned for Q3"
+      ],
+      "transcript_chars": 41296,
+      "folder": "2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3"
+    },
+    {
+      "title": "Why AI-powered dashboards are lying to leadership #futureofwork #ai",
+      "video_id": "V9fLkJpR7AI",
+      "youtube_url": "https://www.youtube.com/watch?v=V9fLkJpR7AI",
+      "publish_date": "2026-03-15",
+      "duration": "2:35",
+      "duration_seconds": 155,
+      "view_count": 9860,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "automation at work",
+        "future of work",
+        "enterprise AI",
+        "tiger teams",
+        "AI for teams",
+        "LLMs",
+        "productivity metrics",
+        "AI visibility tools",
+        "legible work",
+        "small teams",
+        "AI native startups",
+        "AI strategy for leaders"
+      ],
+      "content_type": "Opinion",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Amazon",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Why AI-powered dashboards are lying to leadership #futureofwork #ai\nThis is a trap"
+      ],
+      "transcript_chars": 2482,
+      "folder": "2026-03-15-why-ai-powered-dashboards-are-lying-to-leadership-futureofwork-ai"
+    },
+    {
+      "title": "Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt",
+      "video_id": "t-yWIK-4KEI",
+      "youtube_url": "https://www.youtube.com/watch?v=t-yWIK-4KEI",
+      "publish_date": "2026-03-15",
+      "duration": "1:32",
+      "duration_seconds": 92,
+      "view_count": 5797,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "automation at work",
+        "future of work",
+        "enterprise AI",
+        "tiger teams",
+        "AI for teams",
+        "LLMs",
+        "productivity metrics",
+        "AI visibility tools",
+        "legible work",
+        "small teams",
+        "AI native startups",
+        "AI strategy for leaders"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt\nI've actually had two of these where the work that was most valuable during my time as a product manager was not the wor"
+      ],
+      "transcript_chars": 1460,
+      "folder": "2026-03-15-why-messy-teams-outperform-perfectly-planned-ones-ai-futureofwork-chatgpt"
+    },
+    {
+      "title": "AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.",
+      "video_id": "u-giatW9mYU",
+      "youtube_url": "https://www.youtube.com/watch?v=u-giatW9mYU",
+      "publish_date": "2026-03-14",
+      "duration": "19:53",
+      "duration_seconds": 1193,
+      "view_count": 34068,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "future of work",
+        "AI hiring",
+        "Jevons Paradox",
+        "AI productivity",
+        "domain expertise",
+        "AI builders",
+        "enterprise AI",
+        "AI transformation",
+        "workforce development",
+        "AI career advice",
+        "AI leadership",
+        "software development",
+        "AI ambition",
+        "execution costs",
+        "AI strategy for teams"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Cursor",
+          "Runway",
+          "Lovable",
+          "Bolt"
+        ],
+        "people": [],
+        "products": [
+          "Cursor",
+          "Runway",
+          "Jan",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "If they have the courage to let their people be entrepreneurial"
+      ],
+      "summary": [
+        "The Ones Cutting Headcount Are Telling on Themselves"
+      ],
+      "transcript_chars": 20348,
+      "folder": "2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling"
+    },
+    {
+      "title": "Don't mistake AI visibility for actual control #ai #futureofwork",
+      "video_id": "1E6AqyUr0gQ",
+      "youtube_url": "https://www.youtube.com/watch?v=1E6AqyUr0gQ",
+      "publish_date": "2026-03-14",
+      "duration": "1:10",
+      "duration_seconds": 70,
+      "view_count": 2827,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "automation at work",
+        "future of work",
+        "enterprise AI",
+        "tiger teams",
+        "AI for teams",
+        "LLMs",
+        "productivity metrics",
+        "AI visibility tools",
+        "legible work",
+        "small teams",
+        "AI native startups",
+        "AI strategy for leaders"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Don't mistake AI visibility for actual control #ai #futureofwork\nAt the same time, AI is giving leadership a really seductive feeling of omniscience, right"
+      ],
+      "transcript_chars": 1068,
+      "folder": "2026-03-14-dont-mistake-ai-visibility-for-actual-control-ai-futureofwork"
+    },
+    {
+      "title": "One Simple System Gave All My AI Tools a Memory. Here's How.",
+      "video_id": "japT66frdhM",
+      "youtube_url": "https://www.youtube.com/watch?v=japT66frdhM",
+      "publish_date": "2026-03-13",
+      "duration": "26:55",
+      "duration_seconds": 1615,
+      "view_count": 71282,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "Open Brain",
+        "MCP",
+        "AI agents",
+        "Supabase",
+        "Vercel",
+        "AI productivity",
+        "personal AI",
+        "AI workflow",
+        "AI dashboard",
+        "OpenClaw",
+        "Claude",
+        "AI memory",
+        "data visualization",
+        "AI tools",
+        "AI strategy for teams"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "LinkedIn",
+          "X",
+          "YouTube",
+          "Lovable"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Make",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "A job hunt is a dozen or more parallel work streams that are all pretending to be one activity",
+        "Any problem in your life that involves scattered information, events spread out over time, multiple categories that need cross referencing, just point your open brain at that"
+      ],
+      "summary": [
+        "Agents are the fastest growing category in software"
+      ],
+      "transcript_chars": 29792,
+      "folder": "2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how"
+    },
+    {
+      "title": "4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.",
+      "video_id": "lbfoNxoHl2o",
+      "youtube_url": "https://www.youtube.com/watch?v=lbfoNxoHl2o",
+      "publish_date": "2026-03-12",
+      "duration": "22:32",
+      "duration_seconds": 1352,
+      "view_count": 47675,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "future of work",
+        "AI agents",
+        "organizational design",
+        "coordination tax",
+        "AI productivity",
+        "knowledge work",
+        "AI transformation",
+        "agentic AI",
+        "enterprise AI",
+        "workforce development",
+        "AI career advice",
+        "product development",
+        "AI leadership",
+        "work automation",
+        "AI strategy for teams"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Microsoft",
+          "Slack",
+          "Netflix"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "I think one of the lessons that we are learning, one of the bitter pills that we need to swallow is that AI is telling us our jobs were never the real job"
+      ],
+      "transcript_chars": 22290,
+      "folder": "2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen"
+    },
+    {
+      "title": "Why AI agents need every guardrail made explicit! #ai #aiagents #futureofwork",
+      "video_id": "SuQ1aroNGzg",
+      "youtube_url": "https://www.youtube.com/watch?v=SuQ1aroNGzg",
+      "publish_date": "2026-03-12",
+      "duration": "1:28",
+      "duration_seconds": 88,
+      "view_count": 6651,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI agents",
+        "LLMs",
+        "large language models",
+        "intent disambiguation",
+        "prompt engineering",
+        "AI strategy",
+        "agentic systems",
+        "ChatGPT",
+        "future of work",
+        "tool calling",
+        "agent orchestration",
+        "reinforcement learning",
+        "evaluation harnesses",
+        "AI builders",
+        "automation at work",
+        "agent reliability",
+        "AI execution",
+        "intent representation"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#ai #aiagents #futureofwork\nWe need to be focusing on making intent not hidden but super super explicit, including all of those things that we can typically leave other humans to infer like our prior"
+      ],
+      "transcript_chars": 1520,
+      "folder": "2026-03-12-why-ai-agents-need-every-guardrail-made-explicit-ai-aiagents-futureofwork"
+    },
+    {
+      "title": "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)",
+      "video_id": "LO0Ws-l6brg",
+      "youtube_url": "https://www.youtube.com/watch?v=LO0Ws-l6brg",
+      "publish_date": "2026-03-11",
+      "duration": "27:15",
+      "duration_seconds": 1635,
+      "view_count": 73658,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "future of work",
+        "large language models",
+        "automation at work",
+        "AI career advice",
+        "upskilling with AI",
+        "agentic workflows",
+        "multi-agent systems",
+        "prompt engineering",
+        "Cursor AI",
+        "OpenAI Codex",
+        "knowledge work",
+        "meta skills",
+        "AI labor market",
+        "AI strategy for teams",
+        "agent harness design",
+        "AI jobs"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Box",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "Cursor",
+          "Shortcuts",
+          "Make",
+          "Opus",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)\nWhat if AI isn't jagged anymore"
+      ],
+      "transcript_chars": 27108,
+      "folder": "2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus"
+    },
+    {
+      "title": "Stop trusting AI agents to guess your intent! #ai #aiagents #futureofwork",
+      "video_id": "KbNRNxBawIg",
+      "youtube_url": "https://www.youtube.com/watch?v=KbNRNxBawIg",
+      "publish_date": "2026-03-11",
+      "duration": "0:58",
+      "duration_seconds": 58,
+      "view_count": 11201,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI agents",
+        "LLMs",
+        "large language models",
+        "intent disambiguation",
+        "prompt engineering",
+        "AI strategy",
+        "agentic systems",
+        "ChatGPT",
+        "future of work",
+        "tool calling",
+        "agent orchestration",
+        "reinforcement learning",
+        "evaluation harnesses",
+        "AI builders",
+        "automation at work",
+        "agent reliability",
+        "AI execution",
+        "intent representation"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#ai #aiagents #futureofwork\nIt took a fuzzy human request"
+      ],
+      "transcript_chars": 1003,
+      "folder": "2026-03-11-stop-trusting-ai-agents-to-guess-your-intent-ai-aiagents-futureofwork"
+    },
+    {
+      "title": "Stop accepting AI output that \"looks right.\" The other 17% is everything and nobody is ready for it.",
+      "video_id": "-FhtPUkXKO4",
+      "youtube_url": "https://www.youtube.com/watch?v=-FhtPUkXKO4",
+      "publish_date": "2026-03-10",
+      "duration": "20:55",
+      "duration_seconds": 1255,
+      "view_count": 38874,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "AI skills",
+        "AI judgment",
+        "AI taste",
+        "AI quality",
+        "rejection skills",
+        "domain expertise",
+        "AI workflow",
+        "constraint engineering",
+        "institutional knowledge",
+        "AI productivity",
+        "enterprise AI",
+        "AI training",
+        "knowledge work",
+        "AI evaluation",
+        "AI strategy for teams"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "That is not the bottleneck"
+      ],
+      "summary": [
+        "' The other 17% is everything and nobody is ready for it"
+      ],
+      "transcript_chars": 21132,
+      "folder": "2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody"
+    },
+    {
+      "title": "The Best AI Won't Sit There. It'll Interrupt You at Exactly the Right Moment. #futureofwork #ai",
+      "video_id": "2Ilk1Nk5Ux4",
+      "youtube_url": "https://www.youtube.com/watch?v=2Ilk1Nk5Ux4",
+      "publish_date": "2026-03-10",
+      "duration": "1:30",
+      "duration_seconds": 90,
+      "view_count": 5462,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI workforce training",
+        "employee upskilling 2026",
+        "future of work AI",
+        "managing AI agents",
+        "human AI collaboration",
+        "workforce transformation",
+        "AI skills gap",
+        "agentic workflows",
+        "AI team management",
+        "enterprise AI adoption",
+        "future of management",
+        "AI reskilling",
+        "workplace automation 2026",
+        "AI productivity",
+        "organizational change AI"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#futureofwork #ai\nIt's an incredible opportunity for companies that move fast"
+      ],
+      "transcript_chars": 1641,
+      "folder": "2026-03-10-the-best-ai-wont-sit-there-itll-interrupt-you-at-exactly-the-right-moment-future"
+    },
+    {
+      "title": "2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork",
+      "video_id": "3Mx9XPC3zPc",
+      "youtube_url": "https://www.youtube.com/watch?v=3Mx9XPC3zPc",
+      "publish_date": "2026-03-09",
+      "duration": "1:33",
+      "duration_seconds": 93,
+      "view_count": 9585,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI workforce training",
+        "employee upskilling 2026",
+        "future of work AI",
+        "managing AI agents",
+        "human AI collaboration",
+        "workforce transformation",
+        "AI skills gap",
+        "agentic workflows",
+        "AI team management",
+        "enterprise AI adoption",
+        "future of management",
+        "AI reskilling",
+        "workplace automation 2026",
+        "AI productivity",
+        "organizational change AI"
+      ],
+      "content_type": "Opinion",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork\nThe need for teams and employees to scale up is going to be greater than 20 in 2026 than it has been in all of th"
+      ],
+      "transcript_chars": 1650,
+      "folder": "2026-03-09-2026-will-require-more-retraining-than-the-last-25-years-combined-ai-futureofwor"
+    },
+    {
+      "title": "Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.",
+      "video_id": "iY7BDpZWJbE",
+      "youtube_url": "https://www.youtube.com/watch?v=iY7BDpZWJbE",
+      "publish_date": "2026-03-09",
+      "duration": "32:25",
+      "duration_seconds": 1945,
+      "view_count": 59677,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI safety 2026",
+        "AI agents",
+        "large language models",
+        "prompt engineering",
+        "intent engineering",
+        "AI strategy",
+        "Anthropic Claude",
+        "OpenAI GPT-5",
+        "autonomous agents",
+        "AI risk",
+        "misalignment risk",
+        "future of work",
+        "AI career advice",
+        "upskilling with AI",
+        "AI safety for operators",
+        "scheming AI models",
+        "emergent safety properties",
+        "goal specification AI"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "DeepMind"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Jan",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 2",
+          "Llama",
+          "Llama 3",
+          "Llama 3.1",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "The people worried about Terminator and AI have a lot to go on these days"
+      ],
+      "transcript_chars": 31817,
+      "folder": "2026-03-09-claude-blackmailed-its-developers-heres-why-the-system-hasnt-collapsed-yet"
+    },
+    {
+      "title": "Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai",
+      "video_id": "AZ-ACn6dOIY",
+      "youtube_url": "https://www.youtube.com/watch?v=AZ-ACn6dOIY",
+      "publish_date": "2026-03-09",
+      "duration": "2:05",
+      "duration_seconds": 125,
+      "view_count": 7773,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI workforce training",
+        "employee upskilling 2026",
+        "future of work AI",
+        "managing AI agents",
+        "human AI collaboration",
+        "workforce transformation",
+        "AI skills gap",
+        "agentic workflows",
+        "AI team management",
+        "enterprise AI adoption",
+        "future of management",
+        "AI reskilling",
+        "workplace automation 2026",
+        "AI productivity",
+        "organizational change AI"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Meta"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai\nI believe work and personal AI are going to split apart hard and work AI will be heavier, stricter, and to be honest, a little "
+      ],
+      "transcript_chars": 2222,
+      "folder": "2026-03-09-your-ai-buddy-doesnt-work-here-anymore-futureofwork-ai-personalai"
+    },
+    {
+      "title": "45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.",
+      "video_id": "hnwM01CpzmA",
+      "youtube_url": "https://www.youtube.com/watch?v=hnwM01CpzmA",
+      "publish_date": "2026-03-08",
+      "duration": "25:45",
+      "duration_seconds": 1545,
+      "view_count": 56817,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "future of work",
+        "team size AI",
+        "prompt engineering",
+        "automation at work",
+        "AI career advice",
+        "upskilling with AI",
+        "strike team model",
+        "org design AI",
+        "AI productivity",
+        "correctness vs volume",
+        "Shopify AI mandate",
+        "AI native companies",
+        "small team AI",
+        "AI org structure",
+        "hiring in AI",
+        "AI force multiplier"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Shopify",
+          "Slack",
+          "X",
+          "Midjourney",
+          "Lovable"
+        ],
+        "people": [
+          "Jeff Bezos",
+          "Toby Look"
+        ],
+        "products": [
+          "Midjourney",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "The Question Nobody's Asking About AI and Your Team Size"
+      ],
+      "transcript_chars": 26369,
+      "folder": "2026-03-08-45-people-200m-revenue-the-question-nobodys-asking-about-ai-and-your-team-size"
+    },
+    {
+      "title": "From Pixels to Primitives: What Front-End Actually Is Now #engineering #ai #futureofwork",
+      "video_id": "ZKLxZpa5tOk",
+      "youtube_url": "https://www.youtube.com/watch?v=ZKLxZpa5tOk",
+      "publish_date": "2026-03-08",
+      "duration": "2:01",
+      "duration_seconds": 121,
+      "view_count": 241,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "automation at work",
+        "future of work",
+        "front-end engineering",
+        "AI coding assistants",
+        "LLMs",
+        "React",
+        "composability",
+        "ShadCN",
+        "agentic workflows",
+        "UI design",
+        "Cursor",
+        "Figma to code",
+        "AI jobs for engineers"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Figma"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [
+        "We're moving toward componentizing everything"
+      ],
+      "summary": [
+        "# From Pixels to Primitives: What Front-End Actually Is Now #engineering #ai #futureofwork\nFront-end engineering is dead, but front-end composability is not"
+      ],
+      "transcript_chars": 1855,
+      "folder": "2026-03-08-from-pixels-to-primitives-what-front-end-actually-is-now-engineering-ai-futureof"
+    },
+    {
+      "title": "Front-End Engineering Didn't Die. It Finally Grew Up. #engineering #ai #futureofwork",
+      "video_id": "uk_lQIHv2dI",
+      "youtube_url": "https://www.youtube.com/watch?v=uk_lQIHv2dI",
+      "publish_date": "2026-03-08",
+      "duration": "1:31",
+      "duration_seconds": 91,
+      "view_count": 12173,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "automation at work",
+        "future of work",
+        "front-end engineering",
+        "AI coding assistants",
+        "LLMs",
+        "React",
+        "composability",
+        "ShadCN",
+        "agentic workflows",
+        "UI design",
+        "Cursor",
+        "Figma to code",
+        "AI jobs for engineers"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#engineering #ai #futureofwork\nWhen I say front-end engineering is dead, what I mean is that the era where most of the front-end engineers job was hand implementing pages, that's ending"
+      ],
+      "transcript_chars": 1666,
+      "folder": "2026-03-08-front-end-engineering-didnt-die-it-finally-grew-up-engineering-ai-futureofwork"
+    },
+    {
+      "title": "GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)",
+      "video_id": "-_vL1KXd2rc",
+      "youtube_url": "https://www.youtube.com/watch?v=-_vL1KXd2rc",
+      "publish_date": "2026-03-07",
+      "duration": "37:38",
+      "duration_seconds": 2258,
+      "view_count": 69516,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "OpenAI",
+        "enterprise AI",
+        "AI infrastructure",
+        "context engineering",
+        "AI agents",
+        "Anthropic",
+        "Claude Code",
+        "AWS",
+        "stateful runtime",
+        "AI memory",
+        "retrieval",
+        "enterprise software",
+        "SaaS",
+        "AI lock-in",
+        "AI strategy for teams"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "GitHub",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "GPT-5",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Shortcuts",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "GPT-5",
+          "Claude Opus",
+          "Sonnet 4",
+          "Gemini",
+          "Gemini 3",
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "It's going to unleash all of the power of Claude on coding and the developer community"
+      ],
+      "transcript_chars": 35587,
+      "folder": "2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean"
+    },
+    {
+      "title": "Humans hesitate \u2014 AI agents don't. Now what? #agenticai #agent #futureofwork",
+      "video_id": "UfDy26r84sk",
+      "youtube_url": "https://www.youtube.com/watch?v=UfDy26r84sk",
+      "publish_date": "2026-03-07",
+      "duration": "1:34",
+      "duration_seconds": 94,
+      "view_count": 1123,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "automation at work",
+        "future of work",
+        "LLMs",
+        "enterprise AI",
+        "model context protocol",
+        "MCP",
+        "agent trust",
+        "reversible decisions",
+        "back office automation",
+        "AI deployment",
+        "agentic workflows",
+        "AI strategy for leaders"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#agenticai #agent #futureofwork\ngive an agent the ability to take an action like sending a message or changing a record or approving a request or moving money"
+      ],
+      "transcript_chars": 1442,
+      "folder": "2026-03-07-humans-hesitate-ai-agents-dont-now-what-agenticai-agent-futureofwork"
+    },
+    {
+      "title": "Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About",
+      "video_id": "09sFAO7pklo",
+      "youtube_url": "https://www.youtube.com/watch?v=09sFAO7pklo",
+      "publish_date": "2026-03-06",
+      "duration": "29:55",
+      "duration_seconds": 1795,
+      "view_count": 91550,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Slack",
+          "GitHub",
+          "Cursor",
+          "AWS",
+          "Azure"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Codex",
+          "Make",
+          "MCP",
+          "Model Context Protocol",
+          "Opus",
+          "Haiku"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [
+        "Different ideas about how humans and ai work together",
+        "Different architectural approaches to leak into the rest of marketing and product and customer success going into the rest of 2026"
+      ],
+      "summary": [
+        "# Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About\nAI harnesses are the thing shaping your working life that none of us are talking about enough"
+      ],
+      "transcript_chars": 30591,
+      "folder": "2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod"
+    },
+    {
+      "title": "Perpetual AI agents are here \u2014 and they don't forget #ai #agents #futureofwork",
+      "video_id": "uadBkzaXHQc",
+      "youtube_url": "https://www.youtube.com/watch?v=uadBkzaXHQc",
+      "publish_date": "2026-03-06",
+      "duration": "2:50",
+      "duration_seconds": 170,
+      "view_count": 26124,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI agents",
+        "perpetual AI agents",
+        "AI hardware 2026",
+        "GPU laptops",
+        "AI chip cycle",
+        "long-running AI agents",
+        "AI memory",
+        "AI adoption",
+        "AI predictions 2026",
+        "consumer AI hardware",
+        "AI tokenization",
+        "AI agent architecture",
+        "sub-agents",
+        "AI working memory",
+        "AI upgrade cycle"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Perpetual AI agents are here \u2014 and they don't forget #ai #agents #futureofwork\nNumber one, we are going to have a massive hardware upgrade cycle"
+      ],
+      "transcript_chars": 2775,
+      "folder": "2026-03-06-perpetual-ai-agents-are-here-and-they-dont-forget-ai-agents-futureofwork"
+    },
+    {
+      "title": "THE MIDDLEWARE TRAP",
+      "video_id": "gC-BGKD8efA",
+      "youtube_url": "https://www.youtube.com/watch?v=gC-BGKD8efA",
+      "publish_date": "2026-03-06",
+      "duration": "30:05",
+      "duration_seconds": 1805,
+      "view_count": 10655,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "Salesforce",
+          "Notion",
+          "Slack",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Perplexity",
+          "Make",
+          "Opus",
+          "Operator",
+          "Artifacts"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "CLIP"
+        ]
+      },
+      "concepts": [
+        "People are looking at co-work and seeing sas blood on the walls, but anthropic just keeps shipping"
+      ],
+      "summary": [
+        "# THE MIDDLEWARE TRAP\nOn February 25th, Perplexity shipped the best Agentic product of the month, and it might not even matter"
+      ],
+      "transcript_chars": 31939,
+      "folder": "2026-03-06-the-middleware-trap"
+    },
+    {
+      "title": "OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)",
+      "video_id": "JYcidOS9ozU",
+      "youtube_url": "https://www.youtube.com/watch?v=JYcidOS9ozU",
+      "publish_date": "2026-03-05",
+      "duration": "29:34",
+      "duration_seconds": 1774,
+      "view_count": 69006,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Salesforce",
+          "Slack",
+          "GitHub",
+          "Twitter",
+          "X",
+          "AWS",
+          "SAP"
+        ],
+        "people": [],
+        "products": [
+          "GPT-5",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Codex",
+          "Make",
+          "Projects"
+        ],
+        "models": [
+          "GPT-5",
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "The ai context platform i'm describing here is not a new product category"
+      ],
+      "summary": [
+        "(The AI Lock-In No One Is Talking About)\nThe most expensive bet in history is an AI bet, but it's not about the model"
+      ],
+      "transcript_chars": 30814,
+      "folder": "2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about"
+    },
+    {
+      "title": "The AI talent grab big tech doesn't want you to see #futureofwork #ai #groq #nvidia",
+      "video_id": "aS18xgCIsx8",
+      "youtube_url": "https://www.youtube.com/watch?v=aS18xgCIsx8",
+      "publish_date": "2026-03-05",
+      "duration": "2:34",
+      "duration_seconds": 154,
+      "view_count": 7669,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI acquisitions",
+        "AI startups",
+        "big tech acquisitions",
+        "aqui-hire",
+        "AI licensing deals",
+        "Character AI Google",
+        "Groq acquisition",
+        "Silicon Valley startups",
+        "AI investment",
+        "startup exits",
+        "AI cap table",
+        "tech M&A",
+        "AI deal structure",
+        "startup employee equity",
+        "AI industry trends"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Nvidia",
+          "Groq"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The AI talent grab big tech doesn't want you to see #futureofwork #ai #groq #nvidia\nThe story is big tech is increasingly buying capabilities, people and rights without buying the companies outrigh"
+      ],
+      "transcript_chars": 2400,
+      "folder": "2026-03-05-the-ai-talent-grab-big-tech-doesnt-want-you-to-see-futureofwork-ai-groq-nvidia"
+    },
+    {
+      "title": "Why NVIDIA bought Groq \u2014 it's not what you think #nvidia #groq #futureofwork #ai",
+      "video_id": "13izTHRNAtQ",
+      "youtube_url": "https://www.youtube.com/watch?v=13izTHRNAtQ",
+      "publish_date": "2026-03-05",
+      "duration": "2:01",
+      "duration_seconds": 121,
+      "view_count": 11177,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI acquisitions",
+        "AI startups",
+        "big tech acquisitions",
+        "aqui-hire",
+        "AI licensing deals",
+        "Character AI Google",
+        "Groq acquisition",
+        "Silicon Valley startups",
+        "AI investment",
+        "startup exits",
+        "AI cap table",
+        "tech M&A",
+        "AI deal structure",
+        "startup employee equity",
+        "AI industry trends"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia",
+          "Groq"
+        ],
+        "people": [
+          "Elon Musk"
+        ],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Why NVIDIA bought Groq \u2014 it's not what you think #nvidia #groq #futureofwork #ai\nBoth of these stories are about the same thing"
+      ],
+      "transcript_chars": 1921,
+      "folder": "2026-03-05-why-nvidia-bought-groq-its-not-what-you-think-nvidia-groq-futureofwork-ai"
+    },
+    {
+      "title": "Big tech stopped buying startups \u2014 here's what changed #nvidia #groq #ai",
+      "video_id": "aVJLn1atPHc",
+      "youtube_url": "https://www.youtube.com/watch?v=aVJLn1atPHc",
+      "publish_date": "2026-03-04",
+      "duration": "1:18",
+      "duration_seconds": 78,
+      "view_count": 11839,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI acquisitions",
+        "AI startups",
+        "big tech acquisitions",
+        "aqui-hire",
+        "AI licensing deals",
+        "Character AI Google",
+        "Groq acquisition",
+        "Silicon Valley startups",
+        "AI investment",
+        "startup exits",
+        "AI cap table",
+        "tech M&A",
+        "AI deal structure",
+        "startup employee equity",
+        "AI industry trends"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Nvidia",
+          "Groq"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Big tech stopped buying startups \u2014 here's what changed #nvidia #groq #ai\nOnce you see these together, the whole story is not big tech is buying startups"
+      ],
+      "transcript_chars": 1454,
+      "folder": "2026-03-04-big-tech-stopped-buying-startups-heres-what-changed-nvidia-groq-ai"
+    },
+    {
+      "title": "Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes \u2014 All 3 Switched)",
+      "video_id": "O7SSQfiPDXA",
+      "youtube_url": "https://www.youtube.com/watch?v=O7SSQfiPDXA",
+      "publish_date": "2026-03-04",
+      "duration": "20:56",
+      "duration_seconds": 1256,
+      "view_count": 141471,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "Claude",
+        "ChatGPT",
+        "Anthropic",
+        "OpenAI",
+        "AI comparison",
+        "AI productivity",
+        "constitutional AI",
+        "AI workflow",
+        "AI prompting",
+        "Cowork",
+        "AI tools",
+        "AI writing",
+        "enterprise AI",
+        "AI differences",
+        "AI strategy for teams",
+        "ai strategy"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Box",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Sora",
+          "Make",
+          "Projects",
+          "Canvas"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes \u2014 All 3 Switched)\nEveryone you know is about to ask you about Claude and here's how you can actually help them"
+      ],
+      "transcript_chars": 21278,
+      "folder": "2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s"
+    },
+    {
+      "title": "Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.",
+      "video_id": "pTtueIqrg0Q",
+      "youtube_url": "https://www.youtube.com/watch?v=pTtueIqrg0Q",
+      "publish_date": "2026-03-03",
+      "duration": "26:20",
+      "duration_seconds": 1580,
+      "view_count": 40996,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "LLMs",
+        "AI agents",
+        "autonomous weapons AI",
+        "enterprise AI",
+        "AI infrastructure",
+        "defense AI contracts",
+        "AI national security",
+        "AI compute",
+        "agentic workloads",
+        "AI strategy for operators",
+        "OpenAI funding round",
+        "AI future of work",
+        "Stargate project",
+        "AI industry analysis"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Nvidia",
+          "Slack",
+          "X",
+          "AWS",
+          "Azure"
+        ],
+        "people": [
+          "Sam Altman",
+          "Dario Amodei"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Codex",
+          "Make"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Last Friday night, while Anthropic CEO Dario Amade was still drafting his principled stand against the Pentagon, Sam Alman announced on X that OpenAI had signed a deal to deploy models in the classifi"
+      ],
+      "transcript_chars": 26840,
+      "folder": "2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story"
+    },
+    {
+      "title": "One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai",
+      "video_id": "AMwNQlkyBrc",
+      "youtube_url": "https://www.youtube.com/watch?v=AMwNQlkyBrc",
+      "publish_date": "2026-03-03",
+      "duration": "2:06",
+      "duration_seconds": 126,
+      "view_count": 18498,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "LLMs",
+        "large language models",
+        "AI agents",
+        "automation at work",
+        "prompt engineering",
+        "future of work",
+        "jagged intelligence",
+        "image generation",
+        "Nano Banana Pro",
+        "Gemini",
+        "Capsules",
+        "storytelling medium",
+        "pitch deck",
+        "PowerPoint slides",
+        "downstream businesses",
+        "AI strategy for execs",
+        "jagged intelligence in LLMs"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Nano Banana"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Capsules is a new kind of storytelling medium that recognizes that we are visual creatures, that we are not text creatures, that even though chat GPT has hit a billion users, we are still textdriven c"
+      ],
+      "transcript_chars": 1900,
+      "folder": "2026-03-03-one-ai-breakthrough-just-unlocked-a-new-storytelling-medium-nanobananapro-future"
+    },
+    {
+      "title": "You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)",
+      "video_id": "2JiMmye2ezg",
+      "youtube_url": "https://www.youtube.com/watch?v=2JiMmye2ezg",
+      "publish_date": "2026-03-02",
+      "duration": "30:16",
+      "duration_seconds": 1816,
+      "view_count": 168160,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "LLMs",
+        "MCP protocol",
+        "context engineering",
+        "AI productivity",
+        "second brain AI",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "AI memory system",
+        "agent readable memory",
+        "AI future of work",
+        "AI tools for builders",
+        "autonomous agents",
+        "AI workflow",
+        "upskilling with AI",
+        "AI strategy for teams"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Notion",
+          "Slack",
+          "GitHub",
+          "Cursor",
+          "Zapier",
+          "YouTube"
+        ],
+        "people": [
+          "Toby Look"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Zapier",
+          "Make",
+          "n8n",
+          "MCP",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "With the expectation that ai agents would query them"
+      ],
+      "summary": [
+        "10 System That Replaced My AI Workflow (45 Min No-Code Build)\nYour AI agent probably doesn't have a brain"
+      ],
+      "transcript_chars": 29764,
+      "folder": "2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu"
+    },
+    {
+      "title": "Nano Banana Pro closed a gap \u2014 and unlocked billions #nanobananapro #ai #futureofwork",
+      "video_id": "uUutLHhfMVU",
+      "youtube_url": "https://www.youtube.com/watch?v=uUutLHhfMVU",
+      "publish_date": "2026-03-01",
+      "duration": "2:58",
+      "duration_seconds": 178,
+      "view_count": 15963,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "LLMs",
+        "large language models",
+        "AI agents",
+        "automation at work",
+        "prompt engineering",
+        "future of work",
+        "jagged intelligence",
+        "image generation",
+        "Nano Banana Pro",
+        "Gemini",
+        "Capsules",
+        "storytelling medium",
+        "pitch deck",
+        "PowerPoint slides",
+        "downstream businesses",
+        "AI strategy for execs",
+        "jagged intelligence in LLMs"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Nano Banana"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Nano Banana Pro closed a gap \u2014 and unlocked billions #nanobananapro #ai #futureofwork\nWithout further ado, I'm going to show you capsules"
+      ],
+      "transcript_chars": 3034,
+      "folder": "2026-03-01-nano-banana-pro-closed-a-gap-and-unlocked-billions-nanobananapro-ai-futureofwork"
+    },
+    {
+      "title": "Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)",
+      "video_id": "RnjgLlQTMf0",
+      "youtube_url": "https://www.youtube.com/watch?v=RnjgLlQTMf0",
+      "publish_date": "2026-03-01",
+      "duration": "28:44",
+      "duration_seconds": 1724,
+      "view_count": 67117,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "future of work",
+        "AI jobs",
+        "LLMs",
+        "AI career advice",
+        "frontier operations",
+        "AI workforce skills",
+        "upskilling with AI",
+        "automation at work",
+        "AI strategy for teams",
+        "human AI collaboration",
+        "AI productivity",
+        "AI hiring",
+        "context engineering",
+        "agentic workflows",
+        "AI labor market",
+        "AI future of work"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Box",
+          "Cursor",
+          "X",
+          "Lovable"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Cursor",
+          "Make",
+          "Opus",
+          "Operator",
+          "Artifacts"
+        ],
+        "models": [
+          "Opus 4.5",
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [
+        "Different kind of skill than any workforce development system has ever been asked to produce"
+      ],
+      "summary": [
+        "# Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)\nEvery workforce skill in history so far has had a finish line, a point where it was done"
+      ],
+      "transcript_chars": 29845,
+      "folder": "2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci"
     },
     {
       "title": "The $285B Sell-Off Was Just the Beginning \u2014 The Infrastructure Story Is Bigger.",

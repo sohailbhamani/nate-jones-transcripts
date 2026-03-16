@@ -1,8 +1,9 @@
 # Github Copilot
 
-Episodes discussing **Github Copilot** (11 episodes):
+Episodes discussing **Github Copilot** (12 episodes):
 
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [Claude Code Snuck in 7 Updates in 2 Weeks—Here's What You Need to Know in 10 Minutes](../episodes/2025-12-22-claude-code-snuck-in-7-updates-in-2-weeksheres-what-you-need-to-know-in-10-minut/transcript.md) (2025-12-22)

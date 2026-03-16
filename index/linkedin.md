@@ -1,7 +1,8 @@
 # Linkedin
 
-Episodes discussing **Linkedin** (27 episodes):
+Episodes discussing **Linkedin** (28 episodes):
 
+- [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)
 - [The Al Trick That Finally Made Me Better at My Job (Not Just Faster)](../episodes/2025-12-11-the-al-trick-that-finally-made-me-better-at-my-job-not-just-faster/transcript.md) (2025-12-11)

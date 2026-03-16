@@ -1,7 +1,9 @@
 # Opinion
 
-Episodes discussing **Opinion** (25 episodes):
+Episodes discussing **Opinion** (27 episodes):
 
+- [Why AI-powered dashboards are lying to leadership #futureofwork #ai](../episodes/2026-03-15-why-ai-powered-dashboards-are-lying-to-leadership-futureofwork-ai/transcript.md) (2026-03-15)
+- [2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork](../episodes/2026-03-09-2026-will-require-more-retraining-than-the-last-25-years-combined-ai-futureofwor/transcript.md) (2026-03-09)
 - [Why OpenAI is selling seats, not software #chatgpt #ai #futureofwork](../episodes/2026-02-17-why-openai-is-selling-seats-not-software-chatgpt-ai-futureofwork/transcript.md) (2026-02-17)
 - [Unlocking AI Talent: OpenAI's Unexpected Blueprint! #ai #openai #codex #futureofwork #aiimpact](../episodes/2026-02-15-unlocking-ai-talent-openais-unexpected-blueprint-ai-openai-codex-futureofwork-ai/transcript.md) (2026-02-15)
 - [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/2026-01-03-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md) (2026-01-03)
