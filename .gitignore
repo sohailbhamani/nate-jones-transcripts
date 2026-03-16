@@ -8,3 +8,4 @@ CLAUDE.md
 *.key
 *.pem
 secrets.*
+progress.json
