@@ -8,6 +8,26 @@ duration: "28:48"
 duration_seconds: 1728
 view_count: 12026
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/executive-briefing-the-5-ai-shifts?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  What’s really happening with AI strategy for 2026 planning? If you're building for next year, NOW is the time to be planning. But I'm seeing builders and boards get turned around on what to bet on because AI hype seems to change everything every week.
+
+  But the reality is that there ARE real trends under the surface you can bet on, and I've pulled together hundreds of sources (including conversations with industry insiders) to get at the five key AI trends that really matters for builders and roadmappers heading into 2026.
+
+  In this video, I share the inside scoop on 2026 AI roadmapping across five drivers and cross-cutting implications:
+  • Why enforcement turns governance into a builder’s market opportunity.
+  • How CFO scrutiny pushes outcome-based pricing for AI agents.
+  • Where AI-native entrants outpace incumbents—and how to respond.
+  • What local LLMs and market segmentation mean for roadmaps.
+
+  Teams that invest now in evals, multi-model resilience, agents on golden workflows, and vertical expertise will manage risk and capture 2026 upside.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

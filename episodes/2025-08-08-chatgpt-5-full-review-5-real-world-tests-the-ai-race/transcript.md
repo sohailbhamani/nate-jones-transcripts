@@ -8,6 +8,31 @@ duration: "19:54"
 duration_seconds: 1194
 view_count: 35294
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: [https://natebjones.com](https://natebjones.com)
+  My substack: [https://natesnewsletter.substack.com/](https://natesnewsletter.substack.com/)
+  The story: https://open.substack.com/pub/natesnewsletter/p/the-complete-chatgpt-5-review-5-real?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  **Takeaways:**
+
+  1. Mixture-of-Models Approach: ChatGPT-5 is a model router with multiple specialized models underneath, excelling in areas like coding, writing, and healthcare reasoning.
+  2. Healthcare Emphasis: Significant training investment went into medical accuracy, making GPT-5 markedly better for health-related queries—potentially life-saving for users relying on it for medical guidance.
+  3. Coding Strength & Environment Effects: Delivers strong results in OpenAI’s Canvas app, but identical prompts in third-party coding tools (e.g., Lovable) produced failures, suggesting environment-specific optimization.
+  4. Prompting Matters More Than Ever: Performance on complex, messy real-world data varied dramatically based on prompting; “Think Hard” mode or explicit instructions yielded top-tier results.
+  5. Incremental but Meaningful Gains: Improvements in reasoning, agentic coding edits, and reduced hallucinations combine to make GPT-5 the most capable model yet when used effectively.
+  6. Writing & Reading Upgrades: Produces clearer, more natural prose and demonstrates strong multimodal reading skills, including handwriting and edit interpretation.
+  7. Real-World Weaknesses: Applets can be fragile, overbuilding or breaking without checkpointing, and the model still occasionally over-anchors to recent prompt context.
+
+  **Quotes:**
+  "We’re living through a historical moment—this is a significant step toward AI as a true thought partner."
+  "People who say prompting doesn’t matter have not played with this model—it’s trickier than ever to get right."
+  "At its best, GPT-5 does things I’ve never seen a model do; at its worst, it’s still capable of failing hard."
+
+  **Summary:**
+  I tested ChatGPT-5 across real-world tasks in coding, writing, and data analysis, finding it both the best and worst performer depending on prompting. Its mixture-of-models architecture excels in medical reasoning, agentic coding, and producing natural prose, but gains are environment-dependent—Canvas coding far outperformed Lovable with identical prompts. “Think Hard” mode consistently beat all other models on messy, high-stakes datasets. While hallucinations are reduced and reliability improved, applets remain fragile and prompt clarity is essential. GPT-5 is my new daily driver for serious work, but only when used with precision.
+
+  **Keywords:**
+  ChatGPT-5, OpenAI, mixture of models, model router, healthcare AI, medical reasoning, coding, Canvas app, Lovable.dev, agentic coding, prompting, Think Hard, real-world testing, messy data, data analysis, Gantt charts, Apollo 13, itinerary builder, writing quality, multimodal reading, hallucination reduction, AI reliability, environment optimization, daily driver AI
 
 yt_tags:
   []

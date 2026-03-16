@@ -8,6 +8,35 @@ duration: "5:00"
 duration_seconds: 300
 view_count: 1210
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://natebjones.com/
+  DeepSeek: https://www.deepseek.com/
+
+  Story beats:
+   • Scaling Laws at Test Time: OpenAI claims smarter answers can emerge by taking more time to think and selecting the best response during inference.
+   • DeepSeek’s Novel Approach: A new competitor, DeepSeek, scales intelligence through extended response time but struggles with reasoning outside math and science.
+   • Testing Reasoning: Comparing DeepSeek and OpenAI’s O1 preview model using a custom detective scenario to evaluate logic and coherence.
+   • Evaluation Challenges: Current evaluation methods focus on standard knowledge domains, missing opportunities to assess novel reasoning capabilities.
+   • The Need for Better Evals: Calls for new benchmarks that go beyond domain-specific problems to measure reasoning and adaptability.
+
+  Takeaways:
+   1. Inference Time Scaling: OpenAI’s scaling law claim suggests intelligence improves with additional thinking time and parallel processing during test time.
+   2. DeepSeek’s Strengths and Weaknesses: While strong in math and science, DeepSeek struggles with reasoning and logic in ambiguous scenarios.
+   3. O1 Outperforms in Logic: In a reasoning-focused test, OpenAI’s O1 preview model demonstrated superior logical coherence and evidence integration.
+   4. Flaws in Current Evaluations: Existing benchmarks overly focus on mathematical, scientific, and language-based tasks, overlooking novel reasoning.
+   5. Importance of Novel Tests: Evaluating intelligence models requires custom problems to measure adaptability and reasoning under uncertainty.
+   6. Transparency in Scaling Claims: Clearer commitments to inference time evals are necessary to validate claims about scaling intelligence during test time.
+
+  Quotes:
+  “We need better evals for claims about inference time scaling, especially outside standard knowledge domains.”
+  “DeepSeek may excel at math and science, but reasoning tests revealed its limitations compared to O1.”
+  “If we’re going to claim scaling laws work, we must test reasoning ability with novel and ambiguous problems.”
+
+  Summary:
+  I explored OpenAI’s claim that test-time inference improves intelligence and compared its O1 preview model to a new competitor, DeepSeek. While DeepSeek is strong in math and science, it struggled with reasoning when tested using a custom detective scenario. In contrast, O1 demonstrated superior logical coherence and evidence integration. This highlights the need for better evaluation methods that measure adaptability and reasoning under uncertainty. If scaling laws are to be validated, inference time evaluations must extend beyond domain-specific problems and consider novel reasoning challenges. DeepSeek shows promise but needs refinement in logic-based scenarios.
+
+  Keywords:
+  OpenAI, DeepSeek, scaling laws, test-time inference, O1 preview model, reasoning evaluation, novel intelligence, logic puzzles, AI benchmarking, inference compute.
 
 yt_tags:
   []

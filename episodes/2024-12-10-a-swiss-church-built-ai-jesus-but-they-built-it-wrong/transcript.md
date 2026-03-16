@@ -8,6 +8,29 @@ duration: "2:31"
 duration_seconds: 151
 view_count: 706
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  about me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  AI Jesus: https://people.com/ai-jesus-installed-in-churchs-confessional-booth-dubbed-the-work-of-the-devil-by-critics-8756572
+
+  Takeaways:
+   1. AI in Spirituality: A Swiss church built an AI-powered Jesus using ChatGPT-4, Whisper, and Heygen, exploring spiritual companionship through tech.
+   2. Art vs. Theology: While the project received positive feedback, it missed a critical design element—connecting the AI to religious texts for theological consistency.
+   3. Hallucination Risk: Without safeguards like a RAG model (Retrieval Augmented Generation), the AI could provide inaccurate or unrelated spiritual guidance.
+   4. Toolchain Consideration: The correct tech stack matters when building AI-driven authority figures, especially in sensitive contexts like religion.
+   5. Air Canada Parallel: A similar issue occurred when Air Canada’s AI created a fake bereavement policy, causing legal problems due to lack of safeguards.
+   6. Future Potential: This experiment raises broader questions about AI’s role in spiritual support, faith counseling, and religious education.
+
+  Quotes:
+   • “If you’re going to create a spiritual authority figure, you probably ought to use the correct toolchain to do so.”
+   • “The AI might end up quoting Buddhist or Hindu texts—which is cool for interfaith dialogue but probably not what the church intended.”
+   • “We already use AI for companionship—so why not spiritual guidance, as long as it’s done thoughtfully?”
+
+  Summary:
+  A Swiss church built AI Jesus using ChatGPT-4, Whisper, and Heygen, offering spiritual conversations through AI. While participants found it meaningful, the project lacked theological grounding due to the absence of a Retrieval Augmented Generation (RAG) system connected to religious texts. This oversight risks inaccurate or unrelated spiritual responses, similar to Air Canada’s AI mistake when it hallucinated a bereavement policy. The experiment highlights the importance of using the right tech stack when creating AI authority figures, raising deeper questions about AI’s future in spiritual guidance, counseling, and religious education.
+
+  Keywords:
+  AI Jesus, ChatGPT-4, Whisper, Heygen, spiritual AI, theology, RAG model, retrieval-augmented generation, Air Canada AI, bereavement policy, AI safeguards, religious AI, AI in church, faith tech, spiritual authority, church technology, AI hallucinations, interfaith dialogue, tech ethics, AI art project, AWS guardrails
 
 yt_tags:
   []

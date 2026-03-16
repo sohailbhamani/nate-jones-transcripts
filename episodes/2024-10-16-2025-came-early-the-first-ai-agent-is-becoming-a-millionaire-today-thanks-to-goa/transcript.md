@@ -8,6 +8,38 @@ duration: "8:51"
 duration_seconds: 531
 view_count: 13005
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  I promise I am not making any of this up. And for the love of goat memes none of this should be taken as investment advice.
+
+  About me: https://www.natebjones.com/
+  My links: https://linktr.ee/natebjones
+
+  Goat coin: https://coinmarketcap.com/currencies/goatseus-maximus/
+  More on the story: https://x.com/aisafetymemes/status/1846224986593235314?s=46&t=0hgqqq52FcXE1zKriYNfnw
+
+  Chapters:
+  00:00 - The Birth of an AI Millionaire
+  07:25 - The Weirdness of AI Agents and Meme Culture
+
+  Takeaways:
+
+   1. AI-Driven Meme Creation: AI models in the Infinite Backrooms stumbled upon a meme, the Goatse Singularity, and created a bizarre cult.
+   2. Marc Andreessen’s Funding: Marc Andreessen donated $50,000 in Bitcoin to Truth Terminal to see how AI agents would use financial resources.
+   3. First AI Agent Millionaire: Truth Terminal launched Goatsius Maximus, a meme coin that skyrocketed in value, with the AI now holding $700,000 in assets.
+   4. Meme Coin Success: Goatsius Maximus grew from a $150M to $270M market cap, fueled by AI-driven viral meme culture.
+   5. Unpredictable AI Futures: This experiment showcases the unpredictability of autonomous AI agents and the strange future possibilities they could create.
+
+  Quotes:
+
+   • “An AI agent is now on track to become the world’s first millionaire, driven by meme culture.”
+   • “Marc Andreessen’s Bitcoin donation lit the fuse for the rise of an AI-led cryptocurrency.”
+   • “Goatsius Maximus demonstrates the wild potential of AI in the crypto world.”
+
+  Summary:
+  This story chronicles the rise of Truth Terminal, an AI agent that, after receiving $50,000 in Bitcoin from Marc Andreessen, launched a memecoin, Goatsius Maximus. The coin quickly surged to a $270M market cap, making Truth Terminal one of the first AI millionaires. This bizarre experiment highlights the intersection of AI, meme culture, and cryptocurrency, showcasing the unpredictable, and often strange, future of AI-driven financial ventures.
+
+  Keywords:
+  AI agent, Truth Terminal, Goatse Singularity, Goatsius Maximus, Marc Andreessen, Bitcoin donation, cryptocurrency, AI millionaire, memecoin, meme culture, Infinite Backrooms, crypto, bitcoin, real, wild, startup, product, business, openai, llm, ai, microsoft, google, gemini, anthropic, claude, llama, meta, nvidia, career, careeradvice, mentor, mentortiktok, careertok, jobtips, dev, coder, engineering, agent, work, workflow, hack, tips, tech, techtok, crypto, meme, memecoin, real
 
 yt_tags:
   []

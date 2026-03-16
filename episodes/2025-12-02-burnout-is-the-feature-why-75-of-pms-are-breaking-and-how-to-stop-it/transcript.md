@@ -7,6 +7,24 @@ duration: "12:43"
 duration_seconds: 763
 view_count: 12035
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/pms-have-it-worst-in-the-al-era-but?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What's really happening inside product management as AI reshapes the role? The common story is that AI simply makes PMs faster — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why product managers face a unique AI crisis:
+
+  - Why PMs face threats on multiple axes simultaneously
+  - How building AI products differs from traditional product work
+  - What core PM skills AI cannot replace or erode
+  - Where to focus when everything feels like it's changing
+
+  Product managers who ground themselves in technical AI fluency while protecting their product intuition will navigate this transition — those who outsource judgment to AI won't.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

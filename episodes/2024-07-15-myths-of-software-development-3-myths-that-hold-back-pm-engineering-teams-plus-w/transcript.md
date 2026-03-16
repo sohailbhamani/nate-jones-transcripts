@@ -8,6 +8,32 @@ duration: "11:06"
 duration_seconds: 666
 view_count: 477
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Chapters
+  00:00 Dispelling Myths: The Most Costly Mistakes in Engineering
+  00:26 Myth #1: Imperfect Product is the Most Costly Mistake
+  01:50 Myth #2: Spending Too Much Time on a Product
+  03:12 Myth #3: Maximizing Coding Time vs. Thinking and Planning
+  04:38 The Biggest Cost: Aiming Incorrectly and Making Bad Bets
+  08:18 The Value of the Engineering Team and Product Direction
+
+  Takeaways
+  1, The most costly thing you can do with your engineering team is making the wrong bets.
+  2. Building and releasing an imperfect version of your product is not the most costly mistake.
+  3. Spending too much time on a product and making it too perfect is not always the worst thing.
+  4. Engineers should have time for thinking and planning, not just coding.
+  5. The value of the engineering team is contingent on the value of product direction.
+
+  Sound Bites
+  "What is the number one most costly thing that you can do with your engineers if you're in product management?"
+  "Building and releasing an imperfect version of your product is not the most costly mistake."
+  "If you're trying to solve a problem that needs to be all the way solved before it's solved at all, you're going to need to polish the edges."
+
+  Summary
+  The most costly thing you can do with your engineering team is making the wrong bets. This conversation dispels common myths about what is considered costly in engineering. Myth #1: Building and releasing an imperfect version of your product is the most costly mistake. Myth #2: Spending too much time on a product and making it too perfect is the worst thing you can do. Myth #3: Engineers should maximize time spent on coding and not planning. The biggest cost for your engineering team is aiming incorrectly and producing bad bets. The value of the engineering team is contingent on the value of product direction.
+
+  Keywords
+  engineering team, costly mistakes, myths, imperfect product, perfect product, engineering time, product direction, bad bets
 
 yt_tags:
   []

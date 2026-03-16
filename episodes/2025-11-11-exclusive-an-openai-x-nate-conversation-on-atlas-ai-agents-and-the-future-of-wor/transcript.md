@@ -8,6 +8,24 @@ duration: "24:44"
 duration_seconds: 1484
 view_count: 9789
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/exclusive-openai-x-nate-full-hour?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside OpenAI’s new AI-powered browser, Atlas?
+  The common story is that it’s just “ChatGPT with tabs” — but the reality is that Atlas could redefine how humans and AI share the web itself.
+
+  In this exclusive interview with OpenAI’s Ben Goodger — the engineer behind Chrome, Firefox, and now Atlas — I go deep on:
+  • Why AI agents mark a new chapter in browser evolution
+  • How LLMs are transforming engineering speed and creativity
+  • What security design trade-offs come with agentic browsing
+  • Where the future of web interaction is headed next
+
+  Atlas isn’t just another browser — it’s a glimpse into how the next generation of AI will live on the web. Read Ben’s blog for the technical deep dive: https://openai.com/index/building-chatgpt-atlas/
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI agents"

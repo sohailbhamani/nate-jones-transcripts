@@ -7,6 +7,18 @@ duration: "25:36"
 duration_seconds: 1536
 view_count: 29856
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with AI and the job market in 2026? The common story is that the Toby Lutke memo was either visionary leadership or a smokescreen for layoffs, but the reality is more complicated when one CEO memo triggered a talent market restructuring that is now propagating industry-wide. In this video, I share the inside scoop on how selection pressure is reshaping who thrives in AI-native organizations:
+
+  * Why Shopify's Red Queen culture made the AI mandate work when copycat attempts at Duolingo and Box mostly failed
+  * How making AI usage a performance metric reshaped who would want to work at Shopify before it ever touched headcount
+  * What a U-shaped talent market actually looks like when juniors and seniors adapt faster than the mid-level professionals caught in the middle
+  * Where AI fluency is moving from differentiator to baseline expectation and what that means for professionals who haven't closed the gap yet
+
+  For professionals navigating 2026, the training gap is becoming a strategic liability, but the tools to close it have never been more accessible. The question is whether you treat that as an opportunity or wait until the selection pressure finds you.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI jobs"

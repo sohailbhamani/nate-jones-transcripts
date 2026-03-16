@@ -8,6 +8,18 @@ duration: "15:33"
 duration_seconds: 933
 view_count: 34683
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when teams pour resources into AI agents that do tasks? The common story is that automation is the goal, but the reality is more complicated when the trillion-dollar edge is in agents that model reality rather than agents that close tickets. In this video, I share the inside scoop on why simulation is the missing layer in most enterprise AI stacks:
+
+  * Why adding a simulated world to the classic LLM plus tools stack transforms an agent from a task-runner into a reality simulator
+  * How alternate-timeline exploration and time compression let iteration 300 happen while rivals are still on iteration 3
+  * What Renault, BMW, Formula One, and ad networks are already proving about simulation payoffs in the real world
+  * Where the objections about accuracy, cost, and culture break down when you use calibration loops and probabilistic thinking
+
+  For enterprise leaders navigating the next 24 months, agents in trench coats doing tasks are linear. Agents in simulated worlds are exponential, and early movers in modeling will outpace pure automation players before they know what happened.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI Agents"

@@ -8,6 +8,32 @@ duration: "3:00"
 duration_seconds: 180
 view_count: 2952
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Yes I forgot 1-800-ChatGPT lol but it doesn't matter
+
+  About me: https://natebjones.com/
+  My Links: https://linktr.ee/natebjones
+  12 days: https://natesnewsletter.substack.com/p/the-apple-vs-the-beaker-apple-bell
+
+  Takeaways:
+   1. Reasoning Models Launch: OpenAI’s O1 and O1 Pro introduced the first reasoning models, marking a major step forward in AI’s problem-solving capabilities.
+   2. Text-to-Video Goes Mainstream: Sora, the much-anticipated text-to-video model, finally delivered a consumer-focused innovation in AI media.
+   3. Apple Integration Amid Outages: ChatGPT’s integration into Apple devices as Apple Intelligence coincided with a massive outage, raising questions about readiness.
+   4. Advanced Voice Competition: Advanced Voice with Video positioned OpenAI against Google’s Gemini, highlighting a race for dominance in voice AI.
+   5. Organization Tools Launched: Projects brought file organization to ChatGPT, a feature similar to what Claude already offers.
+   6. Seamless Integrations Confusion: OpenAI introduced Seamless App Integrations, but its vague details left developers and users puzzled.
+   7. O3’s Giant Leap: O3 showcased groundbreaking intelligence but wasn’t consumer-ready, focusing instead on recruiting safety researchers for further development.
+
+  Quotes:
+  “We should think about OpenAI more as Bell Labs and less as Apple.”
+  “This isn’t how you release artificial general intelligence—piecemeal launches won’t grab the public’s attention.”
+  “The company that builds the innovation isn’t always the one that monetizes it.”
+
+  Summary:
+  OpenAI’s “12 Days of AI” highlighted its innovation-first, consumer-second approach. From reasoning models (O1, O1 Pro) to text-to-video tools like Sora, the releases ranged from groundbreaking to incomplete. ChatGPT’s integration with Apple devices was clouded by outages, while O3 represented a leap in intelligence yet remains under development. Unlike Apple, OpenAI takes a Bell Labs-style approach—focusing on building blocks rather than polished consumer solutions. This strategy may mean the real consumer hits come from other companies leveraging OpenAI’s innovations. The releases reflect the exciting, chaotic process of defining AI’s next chapter.
+
+  Keywords:
+  OpenAI, reasoning models, O1, O3, text-to-video, Sora, Apple Intelligence, advanced voice, Gemini, Bell Labs, seamless integrations, safety researchers, artificial general intelligence, Claude, AI innovation, product strategy, consumer applications, AI tools.
 
 yt_tags:
   []

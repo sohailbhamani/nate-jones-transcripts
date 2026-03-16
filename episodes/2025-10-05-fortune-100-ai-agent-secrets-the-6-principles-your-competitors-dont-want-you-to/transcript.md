@@ -8,6 +8,35 @@ duration: "17:23"
 duration_seconds: 1043
 view_count: 9861
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/executive-briefing-your-2025-ai-agent?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  How do AI agents in production actually work?
+  I've been studying. What I hear too often from companies without agents is that agents are early. Not true. Fortune 100 companies are using them now and delivering hundreds of millions in value.
+
+  They're already delivering ROI at scale.
+
+  In this video, I share the inside scoop on building agentic systems that last:
+  • Why architecture-first orchestration beats model-first bets
+  • How compounding memory creates unclosable advantages
+  • What workflows to automate for measurable business outcomes
+  • Where compliance and vertical context become durable moats
+
+  Chapters:
+  00:00 The Urgency of AI Agents
+  02:40 Principles for Building AI Agents
+  05:36 Workflows and ROI in AI Automation
+  08:04 Vertical Defensibility in AI Solutions
+  11:07 Compliance as a Competitive Advantage
+  13:44 The Importance of Velocity in AI Deployment
+
+  If you lead teams, the takeaway is simple: move fast on agentic orchestration now to bank learning and velocity—wait, and you’ll face widening gaps you can’t buy back later.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

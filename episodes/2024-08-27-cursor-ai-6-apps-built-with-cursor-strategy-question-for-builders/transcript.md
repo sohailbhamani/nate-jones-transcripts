@@ -8,6 +8,44 @@ duration: "5:22"
 duration_seconds: 322
 view_count: 1373
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+
+  Learn about Cursor:
+  Cursor and Python: https://www.youtube.com/watch?v=74c2tAKXJ9M
+  Cursor and Trello: https://x.com/rileybrown_ai/status/1826734177087316058
+  Cursor Web App: https://www.youtube.com/watch?v=fv1rkctrEPk
+  Cursor Weather App: https://www.youtube.com/watch?v=x6uC3CJmCQg
+  Cursor Designed Mac App: https://x.com/ammaar/status/1828129847014490519
+  Cursor and Chatbot: https://x.com/rickyrobinett/status/1825581674870055189
+  App built with Cursor: https://www.trendingthumbnails.com/
+  Cursor token limits: https://docs.cursor.com/advanced/models
+
+  Chapters
+
+  00:00 Exploring Examples of AI Code Assist Cursor Use Cases
+  03:02 The Limitations of the Cursor for Complex Apps and Large Code Bases
+  04:18 The Importance of Design Thinking in Cursor Use Cases
+  04:48 The Accessibility of Software Production and the Role of Cursor
+  05:18 Cursor's Contribution to the Larger LLM Ecosystem
+
+  Takeaways
+
+  1. The AI code assist cursor is being used for various simple use cases.
+  2. The context window of the cursor may limit its use for larger code bases.
+  3. The rush to production and lack of design thinking may contribute to the simplicity of the use cases.
+  4. Design thinking is important to stand out in a world where software production is easy.
+  5. The cursor enables people to act on the advice of building simple MVPs.
+  6. Software is becoming increasingly accessible, with even an eight-year-old building a chat app.
+  7. Cursor plays a role in the larger LLM ecosystem by enabling non-coders to build functional and polished apps.
+
+  Summary
+
+  The conversation explores different examples of what people are building with the AI code assist cursor. The examples include a weather app, a YouTube text search app, a Trello app copycat, a simple chat bot, a Mac app for importing voice into video, and using cursor for Python. Most of these examples are simple use cases, and the conversation discusses possible reasons for this. The conversation also emphasizes the importance of design thinking and the need to stand out in a world where software is easily produced.
+
+  Keywords
+
+  AI code assist cursor, examples, use cases, weather app, YouTube text search app, Trello app copycat, chat bot, Mac app, Python, design thinking, software production
 
 yt_tags:
   []

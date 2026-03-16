@@ -8,6 +8,34 @@ duration: "20:59"
 duration_seconds: 1259
 view_count: 10356
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story: https://natesnewsletter.substack.com/p/openai-dev-day-three-scenarios-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s the real story on OpenAI's Dev Day?
+
+  The news is full of stories saying that OpenAI just cemented total dominance—but the reality is far more complex.
+
+  In this video, I share the inside scoop on what the new OpenAI developer ecosystem really means:
+  • Why Dev Day targeted builders, not casual users
+  • How the new Apps SDK and Agent Builder reshape platform power
+  • What competing ecosystems like Claude and Gemini are doing differently
+  • Where leaders and developers still have real strategic choices
+
+  For builders, this moment is full of opportunity—but also risk if you lock in too early.
+
+  Chapters
+  00:00 OpenAI’s New Product Launch and Its Implications
+  02:39 The Builder’s Stage: Opportunities in AI Development
+  05:41 The Competitive Landscape: OpenAI vs. Other Players
+  08:13 The Developer’s Dilemma: Lock-In vs. Flexibility
+  10:48 Token Economics: Spending Less in a Competitive Market
+  13:17 Future Scenarios: OpenAI’s Path Forward
+  16:16 Takeaways for Builders and Leaders in AI
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "OpenAI"

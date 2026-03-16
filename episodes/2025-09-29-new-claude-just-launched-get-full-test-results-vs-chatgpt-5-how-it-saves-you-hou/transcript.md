@@ -8,6 +8,26 @@ duration: "15:41"
 duration_seconds: 941
 view_count: 16922
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/claudes-new-model-just-launchedi?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  __________________________
+
+  What’s really happening inside Claude’s new AI model for work?
+  The common story is that AI automates whole jobs — but the reality is more complicated: the best LLMs actually make it EASIER for humans to touch the work, get hands on, and make their best contributions.
+
+  In this video, I share the inside scoop on how this Claude release performs in real work—decks, spreadsheets, docs, and code—after head-to-head tests against GPT-5 and Opus 4.1, with a focus on decision-ready outputs and less prompt sensitivity:
+
+  • Why clarity beats AI slop for decision-ready outputs.
+  • How Claude self-checks slides, formulas, and dev servers.
+  • What changed versus GPT-5 and Opus 4.1 in practice.
+  • Where it speeds decks, spreadsheets, docs, and Claude code.
+
+  For teams, the upside is faster, clearer deliverables and shorter iteration loops; the risk is forgetting that judgment and domain expertise still do the final mile.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

@@ -8,6 +8,29 @@ duration: "14:37"
 duration_seconds: 877
 view_count: 8776
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Chatbot ≠ Full Product: Chatbots like ChatGPT and Claude are intentionally limited demos. The API exposes deeper capabilities, from custom system prompts to richer context control.
+   2. More Control, More Power: APIs unlock tools like function calling, structured outputs, and streaming responses—giving you flexibility beyond the fixed presets of chatbot interfaces.
+   3. Cost Transparency: Unlike flat monthly subscriptions, API usage charges are pay-as-you-go. For many workflows, especially with smaller models, API costs can be cheaper than subscriptions.
+   4. Extended Context Windows: Large-scale tasks like feeding long documents or running reasoning-heavy workflows are only practical with API access, not the chatbot.
+   5. Workflow Thinking vs. Chat Thinking: Chatbots encourage Q&A interactions; APIs shift users toward workflow design—input, process, output, integration—which scales better for real work.
+   6. When Not to Switch: If you only use AI for casual brainstorming or conversational use, APIs won’t add much value. Stay with the chatbot until you hit friction.
+   7. Accessible Entry Point: Modern LLMs can teach you how to use APIs step by step. You don’t need to be a developer—fear of code is outdated when the model can guide you.
+
+  Quotes
+  “Chatbots are intentionally limited demos—APIs give you the power tools.”
+  “Staying too long in the web interface limits your imagination about what is possible.”
+  “The API trains you to think in workflows, not just conversations—and that’s where the real leverage is.”
+
+  Summary
+  In this talk, I explain why using an API is different from, and often more powerful than, staying inside a chatbot. Chatbots like ChatGPT and Claude are limited demos; APIs unlock features like function calling, custom system prompts, extended context windows, and cost transparency. APIs help shift your mindset from chat interactions to workflow design, enabling richer integrations and more control. But the transition isn’t for everyone—if you only use AI casually, the chatbot is enough. The right time to switch is when you hit friction the chat interface can’t solve, and today’s LLMs can guide you step by step.
+
+  Keywords
+  ChatGPT, Claude, Gemini, Grok, API, chatbot, reasoning mode, context window, system prompt, function calling, structured outputs, streaming responses, batch processing, MCP, workflow design, cost transparency, LLMs, AI integration
 
 yt_tags:
   []

@@ -8,6 +8,30 @@ duration: "9:06"
 duration_seconds: 546
 view_count: 5346
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Pre-Training + Inference ≠ AGI: Modern gains hinge on huge pre-training corpora and smarter inference engines, yet those two ingredients alone can’t deliver the Hollywood-grade AI CEOs keep promising.
+   2. Narrow, Not General, Gains: Successive releases (o3, Gemini 2.5 Pro, etc.) show sharper skills in isolated tasks, but they still fail at wide, shifting, multi-domain work that humans juggle daily.
+   3. Quality Data Is Finite: High-grade training tokens are now “digital gold,” sparking turf wars like Anthropic’s clamp-down on Windsurf access after OpenAI’s acquisition.
+   4. Memory & Long-Horizon Intent Gaps: Today’s memory features are rudimentary; models can’t reliably track months-long goals or evolving projects with dozens of moving parts.
+   5. Tacit Knowledge Blind Spot: AIs can’t see unspoken social cues or fuzzy, multi-objective trade-offs—think marketing funnels where optimizing one metric hurts another.
+   6. Beyond Scaling Breakthroughs Needed: Real progress demands new tech for adaptable context, intent over time, and multi-reward optimization—not just bigger models.
+   7. Name the Gaps, Shape the Future: If builders and users can’t articulate these missing pieces, capital will keep chasing scale while ignoring what actually blocks a “true colleague” AI.
+
+  Quotes
+  “We’re pouring billions into smarter bots, but without adaptable context they’re still interns on Day 1.”
+  “Learning tokens are the new oil; everyone’s drilling the same well, and it’s already running shallow.”
+  “Intelligence can get cheaper forever and still be useless if it can’t remember why it started the job.”
+
+  Summary
+  I argue that today’s AI boom rests on two pillars—massive pre-training data and clever inference—but those alone won’t yield fully autonomous colleagues. Data quality is dwindling, prompting fierce competition for every training token, while breakthroughs in memory, context adaptation, tacit knowledge handling, and long-horizon intent remain elusive. Recent models excel in narrow tasks yet flounder when contexts shift or rewards conflict. Unless we spotlight and solve these deeper limitations, we risk a “jagged” future: ever-smarter bots that still can’t do the work we imagine. I’m calling for an explicit, public conversation about the real technical gaps blocking AGI.
+
+  Keywords
+  pre-training, inference, reasoning, adaptable context, memory, long-term intent, tacit knowledge, multi-objective optimization, data scarcity, learning tokens, Anthropic, OpenAI, Windsurf, o3 model, Gemini 2.5 Pro, AGI, AI strategy, context awareness
 
 yt_tags:
   []

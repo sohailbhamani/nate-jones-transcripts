@@ -8,6 +8,36 @@ duration: "20:24"
 duration_seconds: 1224
 view_count: 62775
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/everyone-misread-andrejs-podcastheres?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  [small edit: Should have been slightly clearer on the RL piece. I referenced RL as pre-training. There is active research in using RL in pre-training, but I think it's more likely Andrej was referring to post-training RL here]
+
+  Andrej Karpathy went on Dwarkesh's podcast last week and the results were explosive.
+
+  The common story is that his podcast “killed the hype” — but the reality is more complicated.
+
+  In this video, I share the inside scoop on what Karpathy actually said and what it means for AI builders today:
+  • Why “useful agents” may still be a decade away
+  • How current LLMs struggle with memory, robustness, and reliability
+  • What builders can still do with AI agents right now
+  • Where the real opportunity lies in continuity over hype cycles
+
+  Chapters:
+  00:00 Understanding Andre Carpathy's Perspective
+  02:40 The Current State of AI Agents
+  05:24 Economic Growth and AGI Expectations
+  07:54 Challenges in Self-Driving Technology
+  10:46 The Role of Education and AI
+  13:17 Reactions to Andre's Statements
+  15:50 Key Insights and Future Directions
+
+  The takeaway: for operators and teams, the next decade of AI won’t be magic—it’ll be architecture, iteration, and compounding advantage for those who build early and build well.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI agents"

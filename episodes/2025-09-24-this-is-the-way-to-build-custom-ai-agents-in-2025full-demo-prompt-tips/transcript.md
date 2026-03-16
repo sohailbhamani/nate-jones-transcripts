@@ -8,6 +8,28 @@ duration: "22:11"
 duration_seconds: 1331
 view_count: 8687
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/million-dollar-workflows-in-10-minutes?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  ______________________
+
+  Notion's AI release is really undersold.
+  It's being positioned as just another aI tools release.
+  But the reality is way more interesting. This is first truly accessible custom agent tool builder out there, and it is MUCH more powerful than people give it credit for.
+
+  The key is prompting accurately.
+
+  In this video, I share the inside scoop on Notion as a custom AI agent builder:
+  • Why Notion’s “AI agents” matter for the future of work
+  • How databases, connectors, and MCP unlock automation
+  • What eight prompting rules make Notion actually reliable
+  • Where operators can turn artifacts into agent-powered systems
+
+  The takeaway: AI agents in Notion are powerful but fragile — teams that learn prompt engineering and control will see real leverage, while others risk messy workflows.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

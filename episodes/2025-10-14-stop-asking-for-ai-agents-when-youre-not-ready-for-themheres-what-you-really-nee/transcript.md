@@ -8,6 +8,32 @@ duration: "14:37"
 duration_seconds: 877
 view_count: 9966
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/how-to-tell-what-ai-you-need-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside the AI agent debate?
+  The common story is that “agents” are the future of work — but the reality is more complicated.
+
+  In this video, I share the inside scoop on how to think about AI systems as a spectrum, not a binary:
+  • Why most teams don’t actually need AI agents yet
+  • How to move from chat assistants to semi-autonomous workflows
+  • What makes tool-augmented assistants the real productivity unlock
+  • Where full automation breaks down and human touch still wins
+
+  Chapters
+  00:00 Understanding the AI Spectrum
+  02:20 Levels of AI Assistance
+  06:09 Structured Workflows and Human Involvement
+  08:17 Semi-Autonomous Systems
+  10:06 The Challenge of Full Autonomy
+  12:35 Reframing the AI Conversation
+
+  The takeaway: AI strategy isn’t about chasing autonomy — it’s about matching the right level of intelligence to the right problem.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

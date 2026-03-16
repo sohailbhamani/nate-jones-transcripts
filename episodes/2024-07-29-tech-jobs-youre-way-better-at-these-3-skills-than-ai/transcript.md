@@ -8,6 +8,36 @@ duration: "12:20"
 duration_seconds: 740
 view_count: 751
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+
+  Chapters
+
+  00:00 AI's Limitations: Novel Reasoning
+  03:17 AI's Limitations: Real-Time Context
+  06:18 AI's Limitations: Decision-Making
+  11:03 The Value of Human Skills in an AI World
+
+  Takeaways
+
+  1. AI is not capable of novel reasoning, as it relies on recall rather than reasoning.
+  2. Real-time context, including intuition and understanding between the lines, is difficult for AI to grasp.
+  3. AI lacks the ability to make decisions and take a strong position, as it is designed for conversation and mirroring.
+  4. Humans possess skills in novel reasoning, real-time context, and decision-making that are crucial for job success and will continue to be valuable.
+
+  Sound Bites
+
+  "AI is actually really, really bad at certain things."
+  "AI is not good at solving net new problems that require innovation."
+  "AI is not good at understanding real-world context and hidden meanings."
+
+  Summary
+
+  In this video, we explore three critical job skills where AI, particularly language models, falls short: novel reasoning, real-time context awareness, and decision-making. These are areas where human capabilities still outshine artificial intelligence, proving invaluable in the workforce and everyday life. Whether you’re curious about AI limitations or interested in how humans excel in these skills, this video will provide insights into why these human strengths remain irreplaceable. Don’t forget to like, comment, and subscribe for more discussions on AI, technology, and the future of work!
+
+  Keywords
+
+  AI, artificial intelligence, machine learning, deep learning, AI skills, AI limitations, human skills, AI weaknesses, AI vs. human, AI capabilities, novel reasoning, creative thinking, AI creativity, critical thinking, problem solving, innovation, complex reasoning, AI decision-making, cognitive skills, AI reasoning limitations, real-time context, contextual awareness, AI context understanding, real-time decision-making, situational awareness, contextual reasoning, AI context challenges, real-time analysis, dynamic situations, AI perception limitations, decision-making, autonomous decision-making, human decision-making, ethical decision-making, AI ethics, judgment, AI judgment limitations, decision analysis, decision support systems, human vs. AI comparison, human intelligence, emotional intelligence, interpersonal skills, soft skills, cognitive flexibility, adaptability, human expertise
 
 yt_tags:
   []

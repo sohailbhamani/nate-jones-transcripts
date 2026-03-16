@@ -8,6 +8,31 @@ duration: "41:12"
 duration_seconds: 2472
 view_count: 10714
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The Deck: https://www.bondcap.com/report/tai/
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Exponential AI Uptake: ChatGPT rocketed to 800 million users in 18 months—far faster than early-internet adoption—thanks to global smartphone and broadband penetration.
+   2. CapEx Surge & Compute Bottlenecks: Big-tech CapEx is compounding to fund massive data-center build-outs and $100 B-plus training runs, but training costs are rising 2,400× per model generation.
+   3. Inference Costs Collapse: Token-generation costs are down 99.7 % since 2018 (Volta era), enabling broad experimentation and shifting the economic pinch point from serving to training.
+   4. Algorithmic Efficiency vs. Data Ceiling: Future gains hinge on smarter algorithms and synthetic data as real-world corpora approach practical limits, challenging “scale solves everything” assumptions.
+   5. Incumbent Advantage & Proliferation: Microsoft, Google, Meta, and Nvidia moved early, blunting classic disruption; meanwhile dozens of sovereign and enterprise models signal a multi-AI future.
+   6. Energy, Governance, and Risk: AI’s power draw is exploding even as GPUs get 50,000× more efficient, raising nuclear-scale energy questions alongside governance, talent, and alignment challenges.
+
+  Quotes:
+  “We’re watching the cost of intelligence plummet while the price of creating it skyrockets—a paradox only incumbents can currently bankroll.”
+  “Hardware breakthroughs like Nvidia’s 2018 Volta changed the unit economics years before ChatGPT made headlines.”
+  “Charts that shoot up and to the right don’t matter unless they translate into measurable productivity in the trenches.”
+
+  Summary:
+  I walk viewers through Mary Meeker’s 340-slide AI trends deck, highlighting the explosive growth of users, compute, and capital expenditure that outpaces the early internet. Meeker frames AI as a meta-technology that incumbents aggressively adopt, driven by plummeting inference costs and soaring CapEx for training. I question her global competition lens and note unresolved bottlenecks—data limits, adaptive learning, and energy demands. Nvidia’s 2018 Volta inflection, proliferating data centers, and accelerating enterprise pilots illustrate both momentum and risk. Ultimately, I argue value will hinge on smarter algorithms, pragmatic business models, and measuring real productivity, not charts, alongside governance concerns and accountability.
+
+  Keywords:
+  Mary Meeker, AI trends, ChatGPT, user adoption, CapEx, Nvidia, Volta, inference costs, data centers, algorithmic efficiency, global competition, energy consumption, governance, productivity, incumbents
 
 yt_tags:
   []

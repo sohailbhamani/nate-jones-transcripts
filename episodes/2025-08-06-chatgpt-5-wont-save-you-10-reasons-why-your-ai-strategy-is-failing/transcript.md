@@ -8,6 +8,29 @@ duration: "21:24"
 duration_seconds: 1284
 view_count: 12017
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Data Delusions: 78 % of failed AI projects trace back to messy, unlabeled data—no model can compensate for poor data hygiene.
+   2. Model-Worship Cost Trap: Teams overspend on elite reasoners for routine chores, forgetting that the right data-model fit beats raw horsepower.
+   3. Anchor to Real KPIs: Without a high-impact, measurable business KPI, objectives drift and projects stall at the first obstacle.
+   4. AI ≠ Side Project: Separating AI strategy from business strategy blinds leaders to back-office efficiencies and competitive threats.
+   5. MLOps & Human Safety Nets: Neglecting monitoring, rollbacks, and human-in-the-loop pathways invites hallucinations, compliance breaches, and brand damage.
+   6. Change-Management Deficit: Models flop when firms skip structured upskilling and adoption plans—chatbots become underused toys.
+   7. Hidden Ownership Costs: Ignoring inference spend, eval maintenance, and security/privacy hygiene quickly erodes margins and invites regulatory risk.
+
+  Quotes:
+  “We keep jamming Formula One engines into Model T frames and wondering why the wheels fly off.”
+  “Intelligence at work is the right data, the right model, and the right guardrails—models are the smallest piece of that equation.”
+  “A system that’s 87 % correct is priceless—if you design a clean handoff to humans for the other 13 %.”
+
+  Summary:
+  My message: ChatGPT-5 won’t rescue businesses from their own dysfunction. After years in boardrooms, I see ten recurring failure modes—fantasy thinking about data, blind faith in bigger models, drifting objectives, siloed AI strategies, generic LLM dependence, nonexistent MLOps, missing human oversight, weak change management, fuzzy cost math, and security shortcuts. Models are only a fraction of the value chain; the heavy lift is people, process, and architecture. Clean data, well-scoped KPIs, safe deployment pipelines, and an empowered workforce unlock ROI. Until leaders tackle these human and operational gaps, each new model is just a faster car on a broken track.
+
+  Keywords:
+  data readiness, magic-wand thinking, model cost, business KPI, AI strategy, MLOps, human-in-the-loop, change management, total cost of ownership, security, privacy, LLM, ChatGPT-5, organizational dysfunction
 
 yt_tags:
   []

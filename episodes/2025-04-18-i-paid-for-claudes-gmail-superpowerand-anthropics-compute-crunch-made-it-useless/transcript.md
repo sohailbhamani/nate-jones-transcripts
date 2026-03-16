@@ -8,6 +8,31 @@ duration: "8:34"
 duration_seconds: 514
 view_count: 7096
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  I wanted to love this so bad!!
+
+  Takeaways
+   1. Compute Trumps Context: Anthropic’s 200‑K token window looks impressive, but strict compute budgets mean only a fraction is used in practice.
+   2. 100‑Run Hard Cap: Claude’s new Gmail‑Calendar integration is limited to 100 workspace actions per month—identical on the $20 Pro and $100 Max plans.
+   3. Expensive Disappointment: Even on Max, the tool surfaces just five recent emails and a handful of meetings, offering no LLM‑powered insights.
+   4. Capital Gap Widens: OpenAI’s reported $40 B SoftBank round and huge GPU contracts let it ship unthrottled agentic tools, while Anthropic must ration calls.
+   5. Token Limits vs. Compute Limits: Users fixate on input size, but real‑world experience is dictated by how many inference cycles a provider can afford.
+   6. DIY Beats Paywall: A Zapier or n8n pipeline feeding GPT‑4.1 costs pennies per briefing and bypasses Anthropic’s strict quota.
+
+  Quotes:
+  “We talk about token windows, but the real ceiling is how many GPU cycles a company can afford to give you.”
+  “I paid a hundred bucks for Claude Max and still hit the same 100‑call wall as the $20 tier.”
+  “Capital constraints, not model quality, are starting to decide who delivers a usable agent experience.”
+
+  Summary:
+  I tested Anthropic’s new Claude feature that taps directly into Gmail and Calendar hoping for a rich daily briefing. Instead, it scraped only five emails and a few morning meetings, offered no real insights, and refused deeper pulls. Digging in, I found a 100‑workspace‑action cap that applies even to the $100 Max plan—clear evidence of Anthropic’s compute constraints. Meanwhile OpenAI, flush with a rumored $40 B SoftBank raise and massive GPU deals, can roll out o3 with hundreds of tools and no comparable throttles. The episode reveals that capital and compute, not context windows, now dictate user experience.
+
+  Keywords:
+  Claude, Anthropic, Gmail integration, Calendar integration, 100 action limit, compute constraints, GPU scarcity, Claude Max, ChatGPT o3, SoftBank funding, capital gap, agentic tools, daily briefing, Zapier workaround, token limits, AI pricing
 
 yt_tags:
   []

@@ -8,6 +8,41 @@ duration: "6:25"
 duration_seconds: 385
 view_count: 788
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://www.natebjones.com/
+  My Links: https://linktr.ee/natebjones
+
+  CHIEF Cancer Detection: https://scitechdaily.com/96-accuracy-harvard-scientists-unveil-revolutionary-chatgpt-like-ai-for-cancer-diagnosis/
+  AI plagiarism: https://www.foxnews.com/us/massachusetts-parents-sue-school-district-student-d-ai-social-studies-project
+  Perplexity raise: https://finance.yahoo.com/news/ai-search-startup-perplexity-talks-034421376.html
+  McKinsey email bot: https://uk.finance.yahoo.com/news/microsoft-ai-bots-worker-admin-115446617.html?guccounter=1
+
+
+  Chapters:
+  00:00 - AI Innovations in Cancer Detection
+  02:55 - Legal Implications of AI in Education
+  05:54 - Valuation Surge of AI Search Engines
+  06:23 - Microsoft’s AI Agents and Their Applications
+
+  Takeaways:
+
+   1. AI in Cancer Detection: A new AI tool called Chief can detect 19 types of cancer with 96% accuracy, showcasing the power of transformer-based architectures in medicine.
+   2. Legal Battle Over AI in Schools: A family in Massachusetts is suing their child’s school over the use of AI in an assignment, highlighting growing concerns about AI’s role in education and intellectual property.
+   3. Perplexity’s Growing Valuation: The AI search engine Perplexity tripled its valuation to $9 billion, driven by high-intent keywords and new features like internal file search and financial chart generation.
+   4. Microsoft’s AI Agents: Microsoft launched AI agents that can automate tasks like sorting McKinsey partner emails, saving 30% of their time, though the use case appears underwhelming for such advanced technology.
+   5. The Future of AI Agents: AI agents have vast potential, but their current introduction feels limited. There is anticipation for more innovative and exciting use cases in the near future.
+   6. AI Transformations: AI is expanding beyond traditional fields like language processing, demonstrating its versatility across industries like medicine, education, and business operations.
+
+  Quotes:
+  “We’re seeing one architecture transform multiple fields, from cancer detection to language processing.”
+  “This legal battle over AI in schools could set a precedent for how AI is treated in educational settings.”
+  “Microsoft’s AI agents have potential, but sorting emails isn’t exactly a game-changing debut.”
+
+  Summary:
+  This transcript covers four major developments in AI. First, a new tool called Chief detects 19 types of cancer with 96% accuracy, using transformer-based architectures. Second, a family is suing their child’s school over the use of AI in an assignment, which could set important legal precedents. Third, Perplexity, an AI search engine, has tripled its valuation to $9 billion by expanding its features and focusing on high-intent keywords. Finally, Microsoft launched AI agents to automate tasks, although their initial use case of sorting emails feels underwhelming given the technology’s potential.
+
+  Keywords:
+  AI, cancer detection, Chief, transformer architecture, legal battle, education, AI in schools, Perplexity, AI search engine, internal file search, Microsoft, AI agents, McKinsey, business applications, agent-based workflows
 
 yt_tags:
   []

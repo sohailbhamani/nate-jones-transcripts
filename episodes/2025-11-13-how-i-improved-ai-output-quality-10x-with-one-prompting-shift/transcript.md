@@ -8,6 +8,18 @@ duration: "12:21"
 duration_seconds: 741
 view_count: 17596
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when your prompts are either too detailed or not detailed enough? The common story is that more clarity always helps, but the reality is more complicated when over-specifying kills creativity and burns context just as badly as under-prompting does. In this video, I share the inside scoop on finding the right altitude for LLM prompts:
+
+  * Why over-specifying crushes model judgment and wastes the context window you actually need
+  * How under-prompting forces large language models to guess in ways that compound downstream
+  * What Goldilocks prompting unlocks in Claude, GPT-5, and Gemini when you hit the right level of detail
+  * Where short, reusable prompt slugs outperform long instruction dumps for operators building at scale
+
+  For operators and teams navigating 2026, a balanced prompting strategy gives you more control without surrendering the model judgment that makes AI worth using in the first place.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

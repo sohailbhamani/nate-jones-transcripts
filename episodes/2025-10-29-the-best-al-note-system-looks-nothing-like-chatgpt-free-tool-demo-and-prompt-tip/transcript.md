@@ -8,6 +8,32 @@ duration: "8:53"
 duration_seconds: 533
 view_count: 11903
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/i-spent-3-months-testing-knowledge?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening with personal AI knowledge systems?
+
+  The common story is that only coders can build retrieval-augmented systems — but the reality is more complicated.
+
+  In this video, I share the inside scoop on how non-technical users can organize and query their own information using Google’s Notebook LM, a new kind of retrieval-native large language model:
+
+  • Why Notebook LM outperforms other LLMs for accuracy and low hallucination
+  • How to turn messy research or client notes into structured AI projects
+  • What makes retrieval and “thinking” AIs fundamentally different
+  • Where this fits into a larger AI strategy for learning and work
+
+  Chapters:
+  00:00 Introduction to Personal Retrieval Systems
+  02:24 Exploring Notebook LM: Features and Benefits
+  04:59 Limitations and Use Cases of Notebook LM
+
+
+  For operators, builders, and teams exploring automation at work, the takeaway is clear: retrieval-focused systems like Notebook LM are the most practical path to trustworthy AI today.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

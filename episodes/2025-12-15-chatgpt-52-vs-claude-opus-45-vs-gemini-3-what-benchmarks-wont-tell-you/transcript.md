@@ -7,6 +7,23 @@ duration: "16:05"
 duration_seconds: 965
 view_count: 25452
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/grab-the-5-prompts-i-use-to-discover?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  Why is it so hard to figure out which models work for which job? Because models have gotten 100x more complex and difficult to assess in the last year.
+
+  In this video, I share the inside scoop on routing LLMs into daily workflows with a “simple wins” discipline:
+  • Why benchmarks and dopamine prompts don’t translate to work
+  • How to test AI agents with real work packets
+  • What each model optimizes: bandwidth, artifacts, persuasion
+  • Where interfaces, harnesses, and ergonomics change outcomes
+
+  The takeaway: for teams and operators, the risk isn’t “choosing wrong,” it’s chasing the smartest model instead of locking in repeatable automation wins that ship cleanly into the artifacts your org already runs on.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

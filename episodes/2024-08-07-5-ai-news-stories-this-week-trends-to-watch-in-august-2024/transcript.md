@@ -8,6 +8,43 @@ duration: "12:22"
 duration_seconds: 742
 view_count: 310
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+
+  Couple of the articles referenced:
+  https://finance.yahoo.com/news/shopify-beats-quarterly-revenue-estimates-110906959.html
+  https://www.tandfonline.com/doi/full/10.1080/19368623.2024.2368040#d1e1096
+  https://academic.oup.com/nc/article/2024/1/niae013/7644104#446890726
+
+  Chapters
+
+  00:00 Public Perception of AI Consciousness
+  02:17 The Impact of AI in Marketing
+  04:53 Strategic Partnership: Optimizely and Coveo
+  06:44 Shopify's Success with AI-Enabled Tooling
+  08:56 AI-Driven Filtering: Zest AI's Fraud Detection Software
+
+  Takeaways
+
+  1. Public perception of AI consciousness varies, with many people believing that AI has some degree of consciousness.
+  2. The use of the term 'artificial intelligence' in marketing copy does not improve the perception of a product, and in some cases, it may even have a negative effect.
+  3. Strategic partnerships between companies in the AI space, such as the one between Optimizely and Coveo, indicate the commercial value and demand for AI-driven solutions.
+  4. Shopify's success in beating earnings estimates is attributed to its use of AI-enabled tooling, which makes it easier for merchants to set up and use the platform.
+  5. The rise of AI-generated text has led to the need for AI-driven filtering tools, such as Zest AI's fraud detection software, to handle the influx of low-quality or fraudulent applications.
+
+  Sound Bites
+
+  "AI is moving so fast, I have trouble keeping up with it sometimes."
+  "If you can't articulate the use case for what the AI is bringing to the customer, AI by itself isn't gonna work."
+  "Optimizely has decided it is important enough to get into the AI game, the large language model game."
+
+  Summary
+
+  This conversation covers five pieces of news related to AI from the first week of August. The topics discussed include public perception of AI consciousness, the impact of AI in marketing, a strategic partnership between Optimizely and Coveo, Shopify's use of AI-enabled tooling, and Zest AI's fraud detection software. These news items highlight the growing influence of AI in various industries and the need for effective communication and filtering in the AI-driven landscape.
+
+  Keywords
+
+  AI, consciousness, public perception, marketing, strategic partnership, Optimizely, Coveo, Shopify, tooling, Zest AI, fraud detection
 
 yt_tags:
   []

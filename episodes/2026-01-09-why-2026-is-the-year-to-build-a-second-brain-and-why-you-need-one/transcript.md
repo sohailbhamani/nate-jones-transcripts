@@ -7,6 +7,18 @@ duration: "30:06"
 duration_seconds: 1806
 view_count: 157491
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when AI enables active systems instead of passive storage? The common story is that second brains are just better note-taking, but the reality is more complicated when AI loops can classify, route, and surface information automatically while you sleep. In this video, I share the inside scoop on building a second brain with Slack, Notion, Zapier, and Claude or ChatGPT that actually works for more than one in twenty people:
+
+  * Why traditional storage systems fail because they're passive and require you to remember what you stored and where you put it
+  * How AI loops handle classification, routing, and surfacing so the system comes to you instead of waiting to be searched
+  * What eight building blocks make second brain systems actually work, from frictionless capture to confidence filters to daily nudges
+  * Where engineering principles translate into no-code automation that non-engineers can build, maintain, and trust
+
+  For knowledge workers navigating 2026, for the first time in human history you can build systems that work while you sleep, closing open loops and nudging you toward what matters without requiring a single line of code.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI automation"

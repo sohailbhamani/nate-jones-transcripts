@@ -8,6 +8,32 @@ duration: "10:37"
 duration_seconds: 637
 view_count: 22462
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/i-spent-20-hours-reading-ai-newsheres?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  What mattered most this week?
+
+  Everyone's obsessed with Sora but for the wrong reasons, and we're all forgetting the other stories that mattered this week.
+
+  In this video, I share the inside scoop on what matters most for builders:
+  • Why Claude Sonnet 4.5 changes Excel/PowerPoint and code workflows
+  • How Walmart’s “Wybie” proves multi-agent orchestration at scale
+  • What OpenAI’s Pulse + Sora signal for ads, product surfaces, budgets
+  • Where AWS Agent Core, Copilot + Claude, and Salesforce are headed
+
+  If you can define work precisely, today’s LLMs and AI agents deliver real results; vendor lock-in is weakening, but execution quality and workflow design still decide who wins.
+
+  Chapters:
+  00:00 AI Innovations: Anthropic’s Claude Sonnet 4.5
+  02:36 AI Agents in Action: Walmart’s Wybie Deployment
+  05:24 OpenAI’s New Advertising Surfaces: ChatGPT Pulse and Sora
+  07:55 AWS’s Agent Core: Open Source Infrastructure for AI
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

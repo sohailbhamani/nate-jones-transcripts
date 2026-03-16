@@ -8,6 +8,42 @@ duration: "6:42"
 duration_seconds: 402
 view_count: 1229
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+  Check out my maven course on AI: https://maven.com/nate-b-jones/ai-career-accelerator
+
+  Banks on nuclear: https://www.businessinsider.com/microsoft-bank-of-america-nuclear-power-ai-2024-9
+  Mira is out: https://www.theverge.com/2024/9/25/24254431/openai-cto-mira-murati-leaving
+  Sam pitches data centers across the US: https://www.bloomberg.com/news/articles/2024-09-24/openai-pitched-white-house-on-unprecedented-data-center-buildout
+  OpenAI VC round: https://www.axios.com/2024/09/20/openai-largest-vc-round
+  Microsoft and 3 mile island: https://www.reuters.com/markets/deals/microsoft-may-pay-constellation-premium-three-mile-island-power-agreement-2024-09-23/
+
+  Chapters
+
+  00:00 OpenAI Leadership Changes and Implications
+  02:46 Microsoft's Strategic Moves in AI and Energy
+  06:02 The Future of Nuclear Energy and AI Data Centers
+
+  Takeaways
+
+  1. Mira Morati's departure from OpenAI signals a shift in leadership.
+  2. The core research team at OpenAI is leaving amid changes.
+  3. OpenAI is moving towards a for-profit model.
+  4. Sam Altman is raising a significant VC deal.
+  5. Microsoft's energy strategy includes reopening Three Mile Island.
+  6. The need for power in AI data centers is immense.
+  7. Microsoft may pursue its own AI models independently.
+  8. Nuclear energy is gaining traction for powering AI.
+  9. Banks are interested in funding nuclear energy projects.
+  10. The tech landscape is becoming increasingly competitive.
+
+  Summary
+
+  In this conversation, Nate discusses significant recent developments in the AI sector, particularly focusing on OpenAI's leadership changes and Microsoft's strategic moves in AI and energy. The departure of key figures at OpenAI raises questions about the company's future direction, especially as it shifts towards a for-profit model. Meanwhile, Microsoft's plans to reopen Three Mile Island for energy production highlight the growing intersection of AI and energy needs, particularly in the context of super intelligence. The conversation also touches on the renewed interest in nuclear energy as a viable power source for AI data centers, emphasizing the evolving landscape of technology and energy.
+
+  Keywords
+
+  OpenAI, Microsoft, AI leadership, nuclear energy, data centers, fundraising, super intelligence, technology news, LLM
 
 yt_tags:
   []

@@ -8,6 +8,34 @@ duration: "10:58"
 duration_seconds: 658
 view_count: 23016
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The prompt: https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_4.txt
+
+  the article: https://open.substack.com/pub/natesnewsletter/p/surfing-the-guardrails-7-production?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Identity Anchoring: Begin every long prompt with fixed facts—model identity, date, core capabilities—to lighten the model’s working memory and stabilize later reasoning.
+   2. Edge-Case Conditionals: Explicit “if X then Y” blocks for refusals and safety create consistent, repeatable behavior and eliminate ambiguity.
+   3. Three-Tier Uncertainty Routing: Route timeless questions to direct answers, slow-changing facts to answers + verification offers, and live data to immediate search—teaching the model when to act, not just how.
+   4. Locked Tool Grammar & Counter-Examples: Show both valid and invalid API/function calls; negative examples clarify correct tool use more effectively than positive ones alone.
+   5. Binary Style Rules: Replace fuzzy adjectives (“be concise”) with hard on/off directives (“never start with flattery,” “no emojis unless asked”) so the model can follow them unambiguously.
+   6. Positional Reinforcement: Repeat critical constraints every few hundred tokens inside long prompts to refresh the model’s attention and prevent drift.
+   7. Post-Tool Reflection: After a function call, force a “thinking” block so the model interprets results before acting—boosting accuracy in multi-step, agentic chains.
+
+  Quotes:
+  “We need to think of prompts as OS config files, not magic spells.”
+  “Most people pour 80 % of their effort into desired output and only 20 % into guardrails; Claude flips the ratio.”
+  “Negative examples teach models as powerfully as they teach humans.”
+
+  Summary:
+  I break down what the alleged Claude-4 system prompt teaches us about prompt design. The 10,000-word file is 90 % guardrails and only 10 % instructions, reframing prompts as operating-system policies. Seven tactics stand out: anchoring identity, explicit edge-case conditionals, three-tier uncertainty routing, locked tool grammar with counter-examples, binary style rules, positional reinforcement, and post-tool reflection. The common thread is defensive programming—being declarative about what must never happen. By stressing clarity, routing logic, and periodic reminders, we can write prompts that consistently deliver high-quality outputs and avoid failure modes, regardless of whether the leak itself is authentic.
+
+  Keywords:
+  Claude 4 system prompt, prompt design, defensive programming, identity anchoring, edge-case conditionals, uncertainty routing, tool grammar, binary rules, positional reinforcement, post-tool reflection, LLM prompting, operator tactics, system-prompt leak
 
 yt_tags:
   []

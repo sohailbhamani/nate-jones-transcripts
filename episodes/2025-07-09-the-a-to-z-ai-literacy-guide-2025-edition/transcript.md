@@ -8,6 +8,30 @@ duration: "41:29"
 duration_seconds: 2489
 view_count: 11593
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The story: https://natesnewsletter.substack.com/p/the-a-to-z-ai-literacy-guide-2025?r=1z4sm5
+
+  My site: https://natebjones.com/
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. AI Literacy Urgency: With Grok 4 hitting on July 9 and ChatGPT-5 expected this month, understanding core concepts now determines whether you’ll harness—or be overwhelmed by—the next wave of frontier models.
+   2. Foundations First: Tokenization, embeddings, and positional encoding form the “atoms, bridges, and dance steps” of every model. Grasp them and you’ll instantly decipher why any system behaves as it does.
+   3. Practical Levers: Mastering temperature controls, context windows, and sampling methods lets you tune outputs for precision or creativity instead of accepting whatever the model hands you.
+   4. Keeping Models Honest: Skills like RAG, RLHF awareness, and prompt-injection defense turn AI from a risky black box into a reliable collaborator that cites sources, respects boundaries, and safeguards data.
+   5. Edge Deployment & Cost: Concepts such as quantization, LoRA, and speculative decoding explain how massive models shrink to phone-size, run faster, and drop in price—crucial for startups and solo builders.
+   6. Multimodal Future: Multimodal fusion shows where we’re heading—AI that sees, hears, and reasons across formats—so today’s literacy becomes tomorrow’s competitive edge.
+
+  Quotes:
+  “Learn the 26 building blocks now and every new model will feel like a familiar tool, not a mysterious oracle.”
+  “We’ve hit a moment where intelligence is getting cheaper and better simultaneously—literacy is the only way to keep up.”
+  “When you understand tokens and temperature, you stop hoping for good answers and start engineering them.”
+
+  Summary:
+  In this guide I show how mastering a compact alphabet of 26 AI concepts turns any curious person into a power user just as new frontier models debut. I unpack foundations like tokenization and embeddings, hands-on levers such as temperature, prompt engineering, and context windows, and frontier advances like RAG, speculative decoding, and multimodal fusion. Each concept is translated into everyday stakes—lower costs, stronger safety, faster creativity, and on-device deployment. Grok 4 lands July 9 and ChatGPT-5 follows within weeks; baseline literacy is now urgent. Learn these ideas today and every new model will feel intuitive tomorrow, unlocking deeper skills and broader opportunity.
+
+  Keywords:
+  AI literacy, Grok 4, ChatGPT-5, tokenization, embeddings, positional encoding, temperature control, context window, sampling methods, RAG, RLHF, quantization, LoRA, speculative decoding, multimodal fusion, AI safety
 
 yt_tags:
   []

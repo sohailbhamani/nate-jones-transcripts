@@ -8,6 +8,32 @@ duration: "9:35"
 duration_seconds: 575
 view_count: 152
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Chapters
+  00:00 The 'Dishwasher Problem'
+  03:12 Differentiating Pain Points
+  05:04 Building for Functional Problems
+  07:45 Building with Invisible Value
+  08:45 Appreciating Functional Value
+
+  Takeaways
+  1. Solving the 'dishwasher problem' involves providing invisible value that may not be appreciated or noticed by customers.
+  2. Focus on the core functionality of the product and ensure it is reliable, low friction, and easy to use.
+  3. Build for the full product gap and provide the complete solution to the problem.
+  4. In mature markets, customers have clear expectations and there is little room for surprising and delighting them.
+  5. Building with invisible value requires recognizing the lack of glamour in the space and being willing to create meaningful value.
+  6. Functional value can be appreciated even if it is not flashy or fancy.
+
+  Sound Bites
+  "The dishwasher problem is what happens when you solve a problem for someone and the result is invisible value you generally don't get credit for."
+  "You either are repairing to reach a previous state, you're building for parity with competitors, or you're building in a non-remarkable solution space."
+  "If there's not a ton of excitement in the space and you are building to solve a functional problem that consumers need solved, you're not going to generate excitement from it. Don't try."
+
+  Summary
+  The conversation discusses the concept of the 'dishwasher problem', which refers to solving a problem for someone that results in invisible value and not receiving credit for it. The speaker emphasizes the importance of focusing on the core functionality of a product and building for the full product gap. They also highlight the need to provide expected value rather than trying to surprise and delight customers. The conversation concludes by discussing the challenge of building with invisible value and the appreciation for functional value.
+
+  Keywords
+  dishwasher problem, invisible value, core functionality, full product gap, expected value, surprise and delight, building with invisible value, functional value
 
 yt_tags:
   []

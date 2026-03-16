@@ -8,6 +8,31 @@ duration: "16:10"
 duration_seconds: 970
 view_count: 11393
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/i-analyzed-1000-ai-job-applicationshere?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside the AI job market collapse?
+  Usual advice like "tailor your resume" doesn't really work, because the reality is that AI has permanently destroyed the signals the job market depended on.
+
+  In this video, I share the inside scoop on how the hiring equilibrium broke and what replaces it:
+  • Why large language models erased meaningful hiring signals
+  • How verification beats credentialing in the age of AI
+  • What job seekers and hiring managers can do right now
+  • Where the next talent-market equilibrium will emerge
+
+  CHAPTERS:
+  00:00 The Collapse of the Job Market Signals
+  02:43 The Shift from Credentialing to Verification
+  04:40 Five Principles for a Verification World
+  10:03 Leveraging LLMs for Verification
+  12:43 Focusing on Capabilities Over Job Titles
+
+  Verification is the new currency of work. As AI makes information free, the only thing that matters is proving what’s real.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI jobs"

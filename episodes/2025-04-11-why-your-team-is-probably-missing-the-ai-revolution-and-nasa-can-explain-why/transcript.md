@@ -8,6 +8,39 @@ duration: "7:36"
 duration_seconds: 456
 view_count: 9719
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Article on teams and AI: https://open.substack.com/pub/natesnewsletter/p/your-team-is-using-ai-wrong-the-hidden?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Collective Intelligence is the Missing Link
+  Most teams are using AI for individual productivity gains, but ignoring the deeper opportunity: reformatting team workflows to integrate AI as a thinking partner.
+   2. AI Demands a New Team Operating System
+  High-performing teams aren’t just using ChatGPT—they’ve created new rituals, shared understanding of prompts, and workflows that embed AI in team cognition.
+   3. Shared Context Now Includes AI
+  Just as great teams historically shared unspoken knowledge between members, AI now becomes part of that web. This requires teams to feed it context deliberately—key decisions, curated inputs, refined outputs.
+   4. Bad Substitution is Rampant
+  Many teams are inappropriately substituting fast AI outputs—like ChatGPT-generated product requirements—for actual collaborative decision-making, weakening outcomes despite the speed.
+   5. Optionality Has Exploded, But Process Hasn’t Kept Up
+  If AI gives you 10 versions of a message in seconds, your team process needs to adapt to manage and filter that optionality—most haven’t.
+   6. The Space Shuttle Problem
+  Knowledge lives in teams, not documents. Just like NASA forgot how to build the shuttle because team knowledge dispersed, teams today risk losing their edge by not integrating AI into how team knowledge is created and maintained.
+   7. The Real Gap is Cultural
+  The difference between high and low performing teams isn’t the toolset—it’s the team culture. Teams that treat AI like a collaborator, not a tool, are accelerating faster.
+
+  Quotes:
+  “We are letting AI into existing team structures and just expecting it to work. That’s not how it works.”
+  “Intelligence operates in the spaces between people—and now also in the space between people and AI.”
+  “AI is supercharging the few teams that know how to use it well, but by and large, teams are being left behind.”
+
+  Summary:
+  I’ve been watching how teams work with AI, and something’s not right. We’re obsessed with individual productivity—10x prompts, workflows—but we’re missing the bigger shift: distributed cognition. Intelligence is no longer confined to our heads; it’s shared between humans and AI. High-performing teams are adapting with new rituals, shared context, and AI-driven collaboration. Most aren’t. They use AI as a solo tool, not a team member. The result? We’re underestimating what AI can do, not because of its limits, but because we don’t know how to make that intelligence social. That has to change.
+
+  Keywords:
+  AI, distributed cognition, team productivity, ChatGPT, prompt engineering, high-performing teams, shared context, product requirements, AI workflows, team rituals, collaboration, AI coordination, team culture, NASA space shuttle, knowledge loss, AI integration, collective intelligence, cognitive load, AI best practices, AI team performance
 
 yt_tags:
   []

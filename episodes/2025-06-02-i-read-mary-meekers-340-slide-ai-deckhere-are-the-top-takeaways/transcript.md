@@ -8,6 +8,33 @@ duration: "12:59"
 duration_seconds: 779
 view_count: 45532
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The deck: https://www.bondcap.com/report/tai/#view/3
+  The substack: https://open.substack.com/pub/natesnewsletter/p/i-summarized-mary-meekers-incredible?
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Unprecedented Adoption Curve: ChatGPT vaulted to 800 million users and 365 billion annual searches in just two years—five times faster than Google’s early climb—showing AI’s break-neck consumer uptake.
+   2. Infrastructure Arms Race: NVIDIA-powered GPU compute has risen 100× since 2019, while Big Six cloud CapEx and data-center spend have surged, fueling the backbone of the AI boom.
+   3. Costs Fall off a Cliff: Energy per LLM token is down 105,000× and inference costs 99.7 % in two years, unlocking new use cases and shrinking barriers to entry.
+   4. Model Performance Converges: Arena scores now cluster OpenAI, Google, and DeepSeek, signalling a “multi-winner” landscape rather than a single dominant model.
+   5. Funding vs. Revenue Mismatch: Model builders have raised ≈ $95 billion against only ≈ $11 billion in annualized revenue—an overhang that may force higher prices or new monetization plays.
+   6. Diverging B2B vs. B2C Futures: Consumers gravitate to ChatGPT, but B2B remains wide open for niche, high-value tools that leverage cheaper tokens and specialized workflows.
+   7. Agent Hype, Sparse Reality: Searches for “AI agent” are up 1,088 %, yet real deployments thrive mostly inside deep-pocketed firms or tightly scoped products, leaving a mid-market void.
+
+  Quotes:
+  “ChatGPT reached 365 billion searches in two years—five and a half times faster than Google ever did.”
+  “It’s now 105,000 times cheaper to generate an LLM token than it was a decade ago.”
+  “Model makers have raised ten times more capital than they earn today, and sooner or later that bill comes due.”
+
+  Summary:
+  Mary Meeker’s first report in five years lays out AI’s breathtaking acceleration. I walk through her 340-slide deck, noting ChatGPT’s explosive user growth, massive hardware build-out, and plunging costs. GPU compute is up 100× since 2019 while energy per token has fallen 105,000×, letting model performance converge across OpenAI, Google, and DeepSeek. Yet model vendors face a $95 billion funding overhang versus $11 billion in revenue. Consumers already favor ChatGPT, but I see richer opportunity in B2B niches and infrastructure ‘pick-and-shovel’ plays. Hype around agents is real, adoption less so. Investors will treat this deck as this year’s AI compass.
+
+  Keywords:
+  Mary Meeker, AI trends, ChatGPT, user growth, GPU compute, token cost decline, model convergence, capital overhang, B2B AI, AI agents, pick-and-shovel, Nvidia
 
 yt_tags:
   []

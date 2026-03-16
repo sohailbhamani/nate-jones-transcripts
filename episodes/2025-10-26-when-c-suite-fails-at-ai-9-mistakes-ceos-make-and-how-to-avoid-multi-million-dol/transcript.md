@@ -8,6 +8,36 @@ duration: "20:32"
 duration_seconds: 1232
 view_count: 7865
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/executive-briefing-the-9-ways-ive?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What are the real drivers behind AI adoption failures? Beyond the headlines, what makes an AI adoption fall apart?
+
+  The common story is that AI fails because “the tech isn’t ready.” The reality is that most failures start with people, structure, and intent.
+
+  In this video, I share the inside scoop on how organizations get stuck—and how to fix it:
+  • Why integration and governance collapse even with working AI code
+  • How the review bottleneck and intern problem hide in plain sight
+  • What premature scaling and automation traps reveal about leadership bias
+  • Where existential paralysis and training deficits stall real AI strategy
+
+  AI success isn’t about hype cycles—it’s about design discipline and operational intent. The teams that win treat coordination and data as seriously as models and code.
+
+  Chapters:
+  00:00 Understanding AI Adoption Failures
+  02:56 Governance and Security Challenges
+  05:23 Bottlenecks in Review Processes
+  07:37 Assessing AI Suitability for Tasks
+  09:16 Navigating Handoffs in AI Workflows
+  10:38 Scaling AI Solutions Effectively
+  12:47 Avoiding the Automation Trap
+  14:50 Overcoming Existential Paralysis in Leadership
+  17:51 Addressing Training and Data Issues
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

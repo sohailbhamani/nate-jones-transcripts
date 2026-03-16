@@ -8,6 +8,32 @@ duration: "2:36"
 duration_seconds: 156
 view_count: 2650
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+  Hiring sales guys: https://www.saastr.com/salesforce-actually-were-going-to-hire-2000-sales-execs-now-to-sell-ai/
+  Hiring engineers: https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/
+
+
+  Takeaways:
+   1. AI Productivity Claims Don’t Match Reality: Salesforce CEO Marc Benioff claimed a 30% productivity boost from AI would eliminate the need for hiring engineers in 2025, but the careers page tells a different story.
+   2. Over 100 Engineering Roles Open: Despite the hiring freeze announcement, Salesforce is actively recruiting for engineering positions across various levels, from entry to senior.
+   3. Agentforce Needs Human Sales Help: Salesforce’s AI sales tool, Agentforce, is supposed to revolutionize sales. Ironically, the company is hiring 2,000 salespeople to sell it.
+   4. Data as a Competitive Edge: Benioff emphasized Salesforce’s unique data advantage for agentic decision-making, differentiating it from competitors like Microsoft’s Copilot.
+   5. Marketing and Sales Surge: Alongside sales hires, Salesforce is also expanding its marketing team to support the push for AI-driven products.
+   6. Millennial-Approved Corporate Irony: The contrast between AI automation hype and the reality of significant human involvement highlights the delicious irony of AI implementation today.
+
+  Quotes:
+   • “We’re not hiring engineers in 2025… except for the 100+ positions currently listed.”
+   • “Salesforce is going for AI irony like a Millennial at Christmas.”
+   • “Agentforce: the AI sales tool so effective, it needs 2,000 salespeople to sell it.”
+
+  Summary:
+  Before Christmas, Salesforce CEO Marc Benioff claimed on the 20VC podcast that AI productivity gains meant no more engineers would be hired in 2025. However, Salesforce’s careers page shows over 100 open engineering roles, disproving the claim. At the same time, Salesforce’s AI sales tool, Agentforce, is being touted as revolutionary, but the company is hiring 2,000 salespeople to promote it, along with more marketers. This ironic juxtaposition between AI’s promise and the reality of human labor highlights the gap between corporate AI hype and its practical implementation.
+
+  Keywords:
+  Salesforce, Marc Benioff, Agentforce, AI productivity, hiring freeze, engineering roles, salespeople, AI sales tools, AI irony, corporate strategy, 20VC podcast, data advantage, marketing expansion, tech industry trends, 2025 hiring strategy
 
 yt_tags:
   []

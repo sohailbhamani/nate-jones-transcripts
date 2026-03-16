@@ -7,6 +7,23 @@ duration: "2:01"
 duration_seconds: 121
 view_count: 241
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-interface-layer-just-opened-up?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________
+  What's really happening with front-end engineering in the age of AI? The common story is that AI coding assistants are just making developers faster — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why front-end engineering is dying and what's replacing it:
+  • Why hand-implementing pages is collapsing into cheap, repeatable work
+  • How composability shifts your job from ticket-taker to system designer
+  • What it means when AI agents become 99% of your tool's consumers
+  • Why auditability and row-level security need rethinking for dynamic UIs
+
+  The world no longer needs armies of engineers rebuilding the same UI primitives. AI-driven workflows now take Figma designs and output complete component trees. What remains is designing the primitives, schemas, and contracts that let entire organizations ship interfaces without wrecking the experience.
+
+  For front-end engineers, the transition is significant — but those who master composability will have more leverage than ever before.
+
+  Subscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

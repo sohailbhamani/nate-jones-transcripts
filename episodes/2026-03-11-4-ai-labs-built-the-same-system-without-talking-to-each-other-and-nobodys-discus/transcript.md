@@ -7,6 +7,45 @@ duration: "27:15"
 duration_seconds: 1635
 view_count: 73658
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/cursors-coding-agents-solved-a-math?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+
+  What's really happening with AI capabilities at work — and why the "jagged AI" frame is now obsolete?
+
+  The common story is that AI is brilliant at some things and broken at others — but the reality is that jaggedness was never about intelligence; it was about how we were deploying it.
+
+  In this video, I share the inside scoop on why AI agents in proper harnesses are smoothing the capability frontier for real work:
+
+  - Why the jagged AI frontier was always a deployment problem
+  - How multi-agent coordination unlocks long-horizon knowledge work
+  - What Cursor's math breakthrough reveals about AI generalization
+  - Where meta-skills like sniff-checking become your competitive edge
+
+  The organizations and individuals who learn to decompose work, delegate to AI agents, and verify outputs will extend their leverage — those who don't will find the shift happening to them anyway.
+
+  Chapters
+  0:00 The jagged AI assumption we all got wrong
+  1:45 Why single-turn AI mimics a 30-second analyst with no notes
+  3:20 Inference computing and the first signs of smoothing
+  5:10 Why jaggedness was never about intelligence
+  7:00 The Cursor math breakthrough that changed everything
+  10:15 How the planner-worker-judge architecture works
+  13:00 Four companies independently built the same structure
+  15:30 The real cost of multi-agent systems (and why it's worth it)
+  17:45 Two tiers of domain verifiability at work
+  20:30 What sniff-checking means for every knowledge worker
+  23:00 Meta-skills are the new execution skills
+  25:10 What this means for your organization right now
+  27:00 The surface is smooth — what to do about it
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  Listen to this video as a podcast.
+  - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372
 
 yt_tags:
   - "AI agents"

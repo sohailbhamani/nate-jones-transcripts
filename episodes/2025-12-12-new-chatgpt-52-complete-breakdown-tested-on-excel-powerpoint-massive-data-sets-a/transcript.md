@@ -7,6 +7,24 @@ duration: "14:37"
 duration_seconds: 877
 view_count: 33095
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/new-chatgpt-52-complete-teardowni?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What's the real story with ChatGPT 5.2?
+  The story I hear is that this is a minor 0.1 upgrade—but it's much bigger than that!
+
+  In this video, I share the inside scoop on GPT-5.2’s agentic leap and why it feels like 2026:
+  • Why long-running AI agents change automation at work
+  • How delegation replaces prompting as the core skill
+  • What clear scoping and inputs unlock with large context windows
+  • Where GPT-5.2 beats Gemini 3 and Claude Opus 4.5
+
+  The takeaway is simple but sobering: for operators and teams, the upside is massive productivity and better narratives from messy data, but only if you learn to frame, scope, and delegate work precisely—because feedback loops are slower and mistakes cost more.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

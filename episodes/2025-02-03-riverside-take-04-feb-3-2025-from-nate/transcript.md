@@ -8,6 +8,35 @@ duration: "8:11"
 duration_seconds: 491
 view_count: 5047
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+  Story: https://www.reuters.com/technology/artificial-intelligence/softbank-openai-set-up-ai-japan-joint-venture-2025-02-03/
+
+  Takeaways:
+   1. Deep Research is Here – OpenAI launched Deep Research, a tool that takes up to 30 minutes to search the web and generate detailed reports with citations. Initially on the Pro plan, it will soon be available for free.
+   2. Japan to Host AGI Announcement – Masayoshi Son and Sam Altman agreed that OpenAI will announce artificial general intelligence (AGI) in Japan within the next two years, signaling confidence in AGI’s imminent arrival.
+   3. SoftBank’s Exclusive AI Model – OpenAI is developing Crystal, an AI model exclusively for Japanese companies. It will live inside a company’s firewall, optimize code, and even listen to calls.
+   4. AGI Funding and Strategy – SoftBank is making a major investment in OpenAI beyond the Stargate project. The partnership appears to be about securing Japan’s leadership role in AGI.
+   5. AI’s Rapid Test Performance Gains – Deep Research’s full GPT-4.0 model drastically improved OpenAI’s score on Humanity’s Last Exam, jumping from 13% to 25% accuracy in just two days.
+   6. Masayoshi Son’s Strange AI Comment – In a bizarre moment, Masayoshi Son stated that AI won’t eat people because it doesn’t need protein. Even Sam Altman seemed caught off guard.
+   7. Economic Impact of Deep Research – Sam Altman claimed Deep Research already performs a “single-digit percentage” of economically valuable white-collar work, though its main users will likely be researchers and academics.
+
+  Quotes:
+
+  “We are going to announce artificial general intelligence right back here in Japan in less than two years.”
+
+  “A model named Crystal that lives in your company, listens to your phone calls, and does your source code is weird. But it gets odder.”
+
+  “It is good that AI won’t be eating people because AI doesn’t need protein as a source of energy.”
+
+  Summary:
+
+  OpenAI just launched Deep Research, a powerful research tool that takes 30 minutes to generate highly detailed reports with citations. Meanwhile, Sam Altman and SoftBank’s Masayoshi Son announced that AGI will be formally unveiled in Japan within two years. OpenAI is also building Crystal, a Japan-exclusive AI model designed to optimize code and even listen to calls. SoftBank is making a major investment beyond Stargate, aiming to cement Japan’s role in AI leadership. In testing, Deep Research has already doubled performance on Humanity’s Last Exam. And in one of the weirdest moments, Masayoshi Son assured us AI won’t eat people.
+
+  Keywords:
+  OpenAI, Deep Research, AGI, artificial general intelligence, SoftBank, Masayoshi Son, Sam Altman, Crystal AI, AI optimization, AI security, AGI announcement, Japan, Stargate, Humanity’s Last Exam, AI models, AI funding, AI research, Microsoft, AI economy, AI engineering, AI ethics, GPT-4, LLM, AI workflow, AI coding, AI predictions, AI regulation
 
 yt_tags:
   []

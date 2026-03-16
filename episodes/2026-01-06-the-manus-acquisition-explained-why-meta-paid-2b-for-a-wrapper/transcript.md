@@ -7,6 +7,33 @@ duration: "11:21"
 duration_seconds: 681
 view_count: 17880
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Framework: https://natesnewsletter.substack.com/p/meta-bought-manus-for-2b-to-acquire?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________
+  What's really happening with Meta's $2 billion Manus acquisition? The common story is they bought a rapper AI agent — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why agentic harnesses matter more than raw model power:
+  - Why Manus represents the breakthrough in AI agents that actually finish tasks
+  - How Meta's Llama struggles created urgent demand for execution-focused AI tooling
+  - What alternatives exist now that Manus is folding into Meta's data policies
+  - Where agentic AI innovation is headed as finishing becomes the scarce commodity
+
+  Chapters:
+  0:00 Meta's $2B Manus Acquisition
+  0:45 Why Most AI Agents Can't Finish Tasks
+  01:30 Manus's Technical Innovation: KV Cache and Memory Management
+  03:00 Meta's LLM Problems and Why They Need Manus
+  04:00 The Real Play: Automated Ad Creation
+  05:50 Three Manus Alternatives After the Acquisition
+  06:20 Claude Code: Terminal-Based Agent for Finishing Work
+  08:00 GenSpark: Browser-Based Manus Competitor
+  08:45 Do Anything: Alpha Platform for Ambitious AI Goals
+  10:15 Why Harnesses Matter More Than Models Now
+
+  The real shift for AI builders and operators is that 2025 revealed harness quality beats model strength when shipping reliable automation.
+
+  Subscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI agents"

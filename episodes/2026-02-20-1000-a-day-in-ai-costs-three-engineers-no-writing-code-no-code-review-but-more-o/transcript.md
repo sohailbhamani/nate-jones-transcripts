@@ -7,6 +7,17 @@ duration: "30:13"
 duration_seconds: 1813
 view_count: 75482
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when OpenAI prices an AI employee at $20,000 a month and StrongDM spends $1,000 in tokens per engineer per day? The common story is that AI tools are getting expensive—but the reality is more interesting when you recognize that computing itself is changing form for the first time in 60 years.
+  In this video, I share the inside scoop on why the unit of work has shifted from instructions to tokens:
+  • Why Cursor's AWS costs doubled in a single month when Anthropic restructured pricing tiers
+  • How three developer career tracks are emerging with radically different compensation dynamics
+  • What separates orchestrators managing intelligence budgets from domain translators who don't know they're developers yet
+  • Where the competitive axis is migrating as intelligence becomes a purchasable commodity
+  For developers and founders watching token economics reshape the industry, the question is not whether you can afford the spend—it's whether you understand that the fundamental material of computing has changed.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/p/openai-is-charging-20kmonth-for-an?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

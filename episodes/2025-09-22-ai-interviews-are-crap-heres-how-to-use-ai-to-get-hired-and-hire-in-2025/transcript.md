@@ -8,6 +8,29 @@ duration: "18:11"
 duration_seconds: 1091
 view_count: 4141
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/the-complete-ai-interview-guide-what?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  ____________________
+
+  What’s really happening inside AI-powered interviews?
+  Companies are publicly congratulating themselves on using AI to make hiring "fairer" while Reddit and X are full of stories of candidates with absolutely awful AI interview experiences.
+
+  It's like AI hiring is so rotten at this point we can't even agree on what we're talking about.
+
+  But it doesn't have to be this way. AI can play a constructive role at amplifying human signal (not replacing it), and I'm sharing the techniques I've used as I've coached dozens of candidates through hiring rounds in 2024 and 2025.
+
+  In this video, I share the inside scoop on how to interview and hire in the age of AI—without losing human signal:
+  • Why detection-first hiring breaks down and erodes candidate trust.
+  • How candidates use artifacts and STAR-C to show judgment.
+  • What great AI fluency looks like: literacy, integration, leadership.
+  • Where prompts, LLMs, and Claude fit—and where they don’t.
+
+  Used well, AI is an amplifier—candidates and teams win when tools support judgment, not replace it; used poorly, it creates noise and bad decisions.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

@@ -8,6 +8,47 @@ duration: "7:15"
 duration_seconds: 435
 view_count: 970
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me:
+  https://www.natebjones.com/
+  https://linktr.ee/natebjones
+
+  Links:
+  https://finance.yahoo.com/news/openai-says-wont-release-model-172418235.html
+  https://www.bloomberg.com/news/features/2024-10-27/russia-is-getting-nvidia-ai-chips-from-an-indian-pharma-company?embedded-checkout=true
+  https://readwrite.com/coinbase-shares-new-ai-agent-crypto-creator-as-it-hones-in-on-ai/
+  https://www.theinformation.com/articles/google-preps-ai-that-takes-over-computers
+  https://machinelearning.apple.com/research/homomorphic-encryption
+  https://www.newsbytesapp.com/news/world/mumbai-based-pharma-firm-aids-russia-in-acquiring-nvidia-amd-s-tech/story
+  https://www.openread.academy/en/paper/reading?corpusId=510746906
+
+  Chapters:
+  00:00 - Understanding Homomorphic Encryption in AI
+  01:58 - OpenAI’s Upcoming Model: Orion
+  04:07 - Google’s Gemini Release and AI Competition
+  06:01 - Coinbase and AI on the Blockchain
+  07:00 - NVIDIA’s Export Controversy to Russia
+  08:12 - The Gender Gap in AI Usage
+
+  Takeaways:
+
+   1. Homomorphic Encryption’s Role in AI: Apple is utilizing homomorphic encryption to enhance AI-driven tasks while maintaining data privacy, processing encrypted data without decryption.
+   2. OpenAI’s Orion Speculations: Despite rumors about a highly powerful new model named Orion, OpenAI denied an imminent release, fueling speculation about future updates.
+   3. Google’s Gemini Targeting AI Leadership: Anticipated December release of Gemini could introduce new AI agent capabilities, aiming to compete with OpenAI.
+   4. Coinbase Ventures into AI and Blockchain: The company plans to bring AI agents onto the blockchain, riding the wave of recent AI-driven crypto trends.
+   5. NVIDIA Chips Reach Russia via India: Russian entities are acquiring NVIDIA H100 chips through an Indian pharmaceutical intermediary, raising concerns over export circumvention.
+   6. Persistent Gender Gap in AI Use: Studies show women globally use AI 25% less than men, with U.S. tech workers being a slight exception.
+
+  Quotes:
+  “Homomorphic encryption keeps your data secure even when it’s being processed—think of it as math without lifting the veil.”
+  “While Orion’s debut remains a mystery, the AI landscape continues to gear up for something big before year’s end.”
+  “The gap in AI adoption between men and women highlights a broader issue of tech accessibility and digital literacy.”
+
+  Summary:
+  In this video, I discuss five AI developments from the weekend, starting with Apple’s homomorphic encryption for AI tasks, allowing computations on encrypted data. Speculation swirled about OpenAI’s rumored Orion model, but the company denied any imminent release. Meanwhile, Google’s upcoming Gemini release is set for December, aiming to advance AI agent capabilities. Coinbase is moving to integrate AI agents onto the blockchain, and Russia is acquiring NVIDIA chips through a controversial Indian channel. Lastly, a study revealed a significant global gender gap in AI usage.
+
+  Keywords:
+  AI, homomorphic encryption, Apple, OpenAI, Orion, Google, Gemini, Coinbase, blockchain, NVIDIA, Russia, gender gap, AI usage, AI agents, LLM, security, tech trends, data privacy, digital literacy
 
 yt_tags:
   []

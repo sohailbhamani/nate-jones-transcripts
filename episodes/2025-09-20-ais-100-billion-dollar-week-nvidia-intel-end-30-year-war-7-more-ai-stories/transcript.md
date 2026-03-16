@@ -8,6 +8,25 @@ duration: "16:04"
 duration_seconds: 964
 view_count: 4048
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/ais-100-billion-dollar-week-nvidia?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _____________
+
+  What’s really happening inside this week’s AI platform shift?
+  The common story is it’s all hype and demos — but the reality is concrete moves toward on-device LLMs, agentic browsers, and enforceable regulation.
+
+  In this video, I share the inside scoop on the week’s AI power shifts:
+  • Why NVIDIA–Intel’s $5B tie-up accelerates local LLMs on laptops
+  • How Microsoft’s new Wisconsin build signals persistent AI demand
+  • What Chrome+Gemini and Notion agents mean for AI agents
+  • Where GPT-5 Codecs, the OpenAI–Microsoft reset, and EU enforcement land
+
+  For operators and builders, the opportunity is compounding — but platform dependencies, model choices, and reliability (see Ray-Ban demo) remain real risks.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

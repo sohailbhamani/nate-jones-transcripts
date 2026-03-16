@@ -8,6 +8,24 @@ duration: "11:04"
 duration_seconds: 664
 view_count: 19333
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/my-ai-stack-what-im-actually-using?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside a modern AI tool stack?
+  The common story is that “everyone uses ChatGPT” — but the reality is far more nuanced.
+
+  In this video, I share the inside scoop on how I actually build and run my personal AI workflow end to end:
+  • Why I separate thinking from writing across different large language models
+  • How I use Claude for writing, Excel, and PowerPoint work that feels human
+  • What makes GPT-5 my go-to for analysis and structured reasoning
+  • Where tools like Perplexity, Grok, and Comet fit into daily AI operations
+
+  The takeaway: mastering AI tools isn’t about chasing benchmarks — it’s about knowing when and why to trust each model.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

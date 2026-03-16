@@ -8,6 +8,28 @@ duration: "4:44"
 duration_seconds: 284
 view_count: 243
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Sign up for the free Advanced AI lightning lesson: https://maven.com/p/3323c0/strategies-to-leverage-advanced-ai-models-at-work?utm_medium=ll_share_link&utm_source=instructor
+
+  Get on the waitlist and grab the discount code: https://maven.com/forms/d2d3bd
+
+  o1 mini: https://www.theinformation.com/articles/openais-miniature-reasoning-model-is-mighty-and-affordable
+  LinkedIn: https://arstechnica.com/tech-policy/2024/09/how-to-stop-linkedin-from-training-ai-on-your-data/
+  Open AI funding round: https://www.aibase.com/news/11881
+  (looks like valuation @ 150 but "only" 6-7B in the round--I thought it would be higher)
+
+  Takeaways:
+  1. OpenAI is seeking investments of at least $250 million per check in its next fundraising round
+  2. LinkedIn has introduced a default-on setting for AI data collection without explicit user consent
+  3. Anthropic's smaller AI model (Claude 3 Opus Mini) performs similarly to larger models when given more processing time
+  4. The speaker is offering an AI course with early sign-up discounts available soon
+
+  Summary:
+  In this AI news roundup, we learn about OpenAI's ambitious fundraising plans, requiring a minimum $250 million investment per check, potentially leading to a massive funding round. LinkedIn's controversial move to collect user data for AI training without explicit consent is highlighted, with advice for users to check their settings. The transcript also reveals insights into AI model performance, noting that Anthropic's smaller model can match larger ones given more processing time. Finally, the speaker promotes an upcoming AI course with early registration discounts, emphasizing limited availability due to high demand.
+
+  Keywords:
+
+  OpenAI, Venture capital, Fundraising, AI investment, LinkedIn, Data collection, User consent, GDPR, Generative AI, Data scraping, Privacy settings, Anthropic, Claude 3 Opus, Claude 3 Opus Mini, Model performance, AI model size, Processing time, Log linear computing, Chatbot arena scores, AI course, Maven course, Lightning lesson, Career acceleration, AI education, Early bird discount, Professional data pool, LLM training, AI ethics, Tech industry news
 
 yt_tags:
   []

@@ -7,6 +7,23 @@ duration: "1:10"
 duration_seconds: 70
 view_count: 2827
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/grab-the-4-prompts-i-use-to-make?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________
+  What's really happening with AI visibility tools in the enterprise? The common story is that AI-powered dashboards give leadership clarity — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why the single pane of glass is a trap:
+  • Why AI makes fake legibility even cheaper than real legibility
+  • How tiger teams are the actual production engine of your company
+  • What happens when leaders mistake AI omniscience for control
+  • Why a five-person pod now outproduces traditional thirty-person teams
+
+  AI drops the cost of reporting to zero, but it also makes Potemkin villages trivial to generate. The real leverage comes from powering small teams to move fast — not from surveillance dashboards that strangle the messy spaces where actual work happens.
+
+  For leaders and builders, the opportunity is massive — but only if you use AI to amplify tiger teams instead of suffocating them with vapor metrics.
+
+  Subscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

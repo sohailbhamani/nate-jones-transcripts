@@ -7,6 +7,33 @@ duration: "1:32"
 duration_seconds: 92
 view_count: 25864
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-openais-three?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________
+  What's really happening with OpenAI's strategy heading into 2026? The common story is that it's all about who has the best model — but the reality is that compute allocation and enterprise outcomes are the actual game.
+
+  In this video, I share the inside scoop on how OpenAI is navigating massive strategic constraints:
+
+  • Why OpenAI is running like an airline with scarce seats
+  • How the consumer chat trap conflicts with enterprise delegation
+  • What the rollback to faster, cheaper models really signals
+  • Where the enterprise outcome engine must go to survive
+
+  Chapters:
+  00:00 Stop thinking about OpenAI like Apple in 2008
+  02:22 OpenAI is running an airline with scarce seats
+  04:25 Compute is the real constraint, not model quality
+  06:41 Why two-thirds of users don't understand AI capability
+  07:54 Two big plays for 2026: science and enterprise inference
+  21:14 Gemini's 30% growth vs ChatGPT's 5%
+  21:52 Why mental models don't stop at the office door
+  24:16 The enterprise trap: shallow usage without delegatio
+
+  Leaders who understand that multi-model is just the starting condition will focus on delegation and workflow ownership — those still comparing benchmarks will miss the structural shift entirely.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

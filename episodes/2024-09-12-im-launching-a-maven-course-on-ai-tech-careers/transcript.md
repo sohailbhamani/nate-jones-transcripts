@@ -8,6 +8,15 @@ duration: "1:18"
 duration_seconds: 78
 view_count: 281
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Survey link is here: https://maven.com/forms/d2d3bd
+
+  Summary is here:
+  Ready to supercharge your career in the age of AI? This video drops a game-changing announcement that could be your ticket to staying ahead of the curve!
+
+  Imagine a 3-week crash course designed to arm you with the skills you need to not just survive, but thrive in the AI revolution. We're talking practical strategies to leverage AI, craft a bulletproof 5-10 year career plan, and future-proof your professional life. With AI evolving at warp speed, this course promises to be your career compass in uncharted waters.
+
+  The best part? It's launching soon, and you can help shape it! Take a quick 1-minute survey to give your two cents and get on the VIP list for the course release. Don't miss this chance to level up your career game and stay relevant in the AI era. Hit that link, take the survey, and get ready to transform your professional future!
 
 yt_tags:
   []

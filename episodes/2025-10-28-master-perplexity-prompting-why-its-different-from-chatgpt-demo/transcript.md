@@ -8,6 +8,31 @@ duration: "20:22"
 duration_seconds: 1222
 view_count: 13053
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/unlocking-perplexitys-power-proven?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside AI search with Perplexity’s RAG?
+  The common story is that ChatGPT search and Perplexity search are the same thing — but the reality is more complicated.
+
+  In this video, I share the inside scoop on using Perplexity for internet research and prompt engineering:
+  • Why Perplexity’s RAG and research mode enable agentic search.
+  • How prompting differs: short context, no few-shot, exact filters.
+  • What to demand: multiple perspectives, citations, output constraints.
+  • Where to push next: focus modes, Spaces, Labs, iterative deepening.
+
+  Chapters:
+  00:00 Understanding Perplexity: The AI Native Search Engine
+  02:35 Prompting Strategies for Effective Searches
+  07:09 Advanced Techniques for Optimizing Search Results
+  09:52 Practical Examples of Perplexity in Action
+  13:46 Navigating Hallucinations and Ensuring Accuracy
+  16:45 The Importance of Perplexity in the Age of AI
+
+  For operators and teams, Perplexity gives recency and transparent sourcing, but you still need citation checks and a double-LLM cross-check to manage hallucinations.
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

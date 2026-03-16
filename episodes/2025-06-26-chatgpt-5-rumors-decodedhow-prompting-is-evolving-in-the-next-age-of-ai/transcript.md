@@ -8,6 +8,31 @@ duration: "12:11"
 duration_seconds: 731
 view_count: 26484
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The post: https://open.substack.com/pub/natesnewsletter/p/ready-for-chatgpt-5-grab-a-complete?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Extreme Specificity Focuses Models: The tighter your word counts, formats, and numbered requirements, the sharper ChatGPT-5 (and today’s models) will perform.
+   2. Context Is Currency: With context windows racing toward the million-token mark, front-load full documents, history, and constraints—just keep every byte relevant.
+   3. Multi-Phase Workflows Go Native: Stop treating step-by-step prompts as hacks; GPT-5 will natively traverse multi-stage thinking and creation inside a single run.
+   4. Structured Output by Default: Demand scorecards, matrices, phased plans, or XML tags—clear schemas unlock more reliable reasoning and easier downstream use.
+   5. Interrogative & Self-Check Loops: Great prompts encourage the model to ask clarifying questions and critique its own answers before you ever hit “send.”
+   6. Project-Manager Chunking: Break massive research into smaller deliverables, synthesize later, and iterate—Agile-style prompting scales with expanding context windows.
+
+  Quotes
+  “We’re moving from asking if AI can help to architecting a true partnership.”
+  “Specificity isn’t a cage; it’s the fine brush that paints your vision on an LLM canvas.”
+  “Context windows are exploding—treat every token like jet fuel for focused reasoning.”
+
+  Summary
+  I argue that you can prepare for ChatGPT-5 today by refining how you prompt current frontier models. The next wave will reward extreme specificity, rich but relevant context, and multi-phase workflows executed in one shot. Structured outputs, interrogative prompts, and built-in self-evaluation loops will become table stakes. As context windows balloon toward millions of tokens, effective prompting shifts from magic phrases to precise architecture: clear goals, constraints, and chunked tasks. Prompts are thinking tools that shape both the model’s reasoning and my own, forging a bidirectional partnership that scales human creativity rather than replacing it.
+
+  Keywords
+  ChatGPT-5, prompting, extreme specificity, context windows, multi-phase workflows, structured output, self-evaluation loops, interrogative prompts, AI partnership, Wayne Gretzky, project-manager chunking, million-token context, AI architecture, prompt design, frontier models
 
 yt_tags:
   []

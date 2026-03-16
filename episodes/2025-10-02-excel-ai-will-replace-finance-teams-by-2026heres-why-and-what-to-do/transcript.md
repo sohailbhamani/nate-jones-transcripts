@@ -8,6 +8,38 @@ duration: "24:54"
 duration_seconds: 1494
 view_count: 22635
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://open.substack.com/pub/natesnewsletter/p/weve-had-two-massive-excel-ai-launches?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  What’s really happening inside AI for Excel?
+  Whether we're talking about Claude's ability to build Excel models now or the just-launched CoPilot for Excel, the usual story is that LLMs write words, so numbers are second best. NOT true anymore.
+
+  The reality is AI models are NOW changing how numbers, models, and business analysis get done. And yes, that includes doing workflows so efficiently that one person can do the work of 3-4 if they are well-organized.
+
+  In this video, I share the inside scoop on AI in Excel:
+  • Why Claude’s new Excel skills are a leap in productivity
+  • How Copilot compares as an embedded spreadsheet assistant
+  • What ROI tradeoffs to weigh when upgrading to premium plans
+  • Where prompt engineering unlocks board-ready models and dashboards
+
+  AI for Excel isn’t just faster typing — it’s order-of-magnitude leverage for teams who work with numbers. It's 1000x gains.
+
+  Chapters
+  00:00 Unlocking AI’s Potential in Excel
+  02:39 The Evolution of AI in Data Analysis
+  05:01 Maximizing ROI with AI Tools
+  07:33 Crafting Effective Prompts for Excel
+  09:39 Building Financial Models with AI
+  12:30 Creating Comprehensive Reports
+  14:56 Developing Business Plans with AI
+  17:39 Editing and Cleaning Data Efficiently
+  20:08 The Future of AI in Excel
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

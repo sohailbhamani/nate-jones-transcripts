@@ -8,6 +8,29 @@ duration: "8:17"
 duration_seconds: 497
 view_count: 5897
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Cheat-Flavored Marketing: Cluely calls itself a “cheat tool” to grab headlines and free attention while hiding its bigger play.
+   2. Level-Two Proactive Agent: An invisible overlay tracks every app, surfaces help before you ask, and builds a sticky daily habit.
+   3. Distribution Beats IQ: Investors gave Cluely a $120 M tag because habitual workflows matter more than raw model power.
+   4. Gen-Z Beachhead: Seven marketers, four engineers, and a cheeky manifesto lock in the first AI-native generation’s mindshare.
+   5. Enterprise Upsell: That same UX already secures seven-figure deals as customer-success and sales teams run Cluely silently in calls.
+   6. Inflationary “Cheating”: Once everyone uses tools like this, the edge vanishes—pushing users to sharpen critical thinking, not outsource it.
+
+  Quotes:
+  “Cluely isn’t a cheating tool; it’s a level-two proactive AI agent dressed in clickbait.”
+  “The model is mid, but the UX is brilliant—and distribution always beats raw intelligence.”
+  “Cheating turns inflationary the moment every candidate has the same AI coach.”
+
+  Summary:
+  In this video I show why Cluely’s hype is really about proactive AI, not homework shortcuts. The team turned “cheating” into viral marketing, yet the breakthrough is an invisible pane that follows you across apps. A16z valued that habit loop at $120 million even though the model feels merely ChatGPT-4o level. Cluely already lands seven-figure B2B contracts and can swap in stronger models later. I unpack how distribution trumps IQ, how ethical guardrails shape tool choice, and why mass access to “cheat” tech will soon make critical thinking the only real advantage.
+
+  Keywords:
+  Cluely, ChatGPT, proactive AI, 120M valuation, A16z, cheating tool, AI agents, distribution strategy, invisible overlay, Gen Z, UX design, Claude, ethical guardrails
 
 yt_tags:
   []

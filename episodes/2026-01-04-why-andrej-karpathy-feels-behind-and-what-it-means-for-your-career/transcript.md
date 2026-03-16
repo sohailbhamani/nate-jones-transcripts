@@ -7,6 +7,18 @@ duration: "25:09"
 duration_seconds: 1509
 view_count: 59554
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:
+
+  * Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output
+  * How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance
+  * What separating generation from decisioning actually means when you're the one accountable for what the LLM produces
+  * Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense
+
+  For organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

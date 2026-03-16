@@ -8,6 +8,29 @@ duration: "11:00"
 duration_seconds: 660
 view_count: 15230
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/i-surveyed-100-ai-tools-that-launched?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening with the new wave of AI tools?
+  The common story is that better prompts and smarter models drive success — but the reality is more complicated.
+
+  In this video, I share the inside scoop on what separates fast-growing AI products from the pack:
+  • Why the best tools don’t look like ChatGPT
+  • How top builders collapse the distance between AI and output
+  • What “AI where you work” actually means in practice
+  • Where new LLM-powered interfaces are quietly winning
+
+  The takeaway: the next generation of AI adoption won’t come from chatbots — it’ll come from tools that merge directly with the work itself.
+
+  Chapters
+  00:00 The Evolution of AI Tools
+  02:17 Innovative Tools Transforming Workflows
+  08:36 Key Principles for AI Success
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

@@ -8,6 +8,32 @@ duration: "14:26"
 duration_seconds: 866
 view_count: 26680
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Article: https://open.substack.com/pub/natesnewsletter/p/o3-pro-is-out-and-its-easily-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Resonant Intelligence: 03 Pro is the first model that consistently “sticks” in my head by offering insights so on-point they feel personally tailored.
+   2. Strategic Edge: In tests on an Apple research critique, a Datadog AI roadmap, and a Wordle solver, 03 Pro beat 03 by knowing when to stop, owning its limits, and surfacing founder-level strategy.
+   3. Context-Hungry Ferrari: The model excels when fed rich, multi-layered context; given thin prompts, it forages for information and may produce surprising—or unsettling—extras.
+   4. Fact-Check Imperative: Its prose is so persuasive that failing to verify numbers with a second model borders on malpractice.
+   5. Rapid Progression: Just 48 days after 03, 03 Pro arrives—underscoring an industry cadence where 04 Pro and GPT-5 are already looming.
+   6. Purposeful Deployment: Use 03 Pro for deep, 15- to 20-minute “hard thinks,” not for casual summarization or grocery-list tasks.
+   7. Limited Roll-Out, Lower Cost: Initially restricted to Pro and Teams tiers, the model debuts at an 87 % cheaper price than 01 Pro, hinting at friendlier unit economics ahead.
+
+  Quotes
+  “We’re talking about a model that can operate as a strategic advisor at the founder level—without caveats.”
+  “This is a get-a-sandwich-while-you-wait kind of model experience.”
+  “Treat it like a Ferrari: thrilling on the right track, disastrous on potholes.”
+
+  Summary
+  I’ve spent years stress-testing AI, yet no model has resonated like 03 Pro. In side-by-side trials—Apple’s illusion-of-thinking paper, a Datadog AI roadmap, and a Wordle solver—03 Pro consistently out-performed 03 by knowing when to stop, explaining its limits, and delivering founder-level strategic insight. It’s a context-hungry global thinker: feed it rich background and it becomes an unrivaled sparring partner; starve it and it will roam for context, creating surprises you’ll mistake for hallucinations. Because its prose is so persuasive, I now cross-check its outputs with another model before publishing. Treat it like a Ferrari: thrilling on the right track, disastrous on potholes.
+
+  Keywords
+  03 Pro, strategic AI, resonance test, global thinker, context-hungry model, prompt engineering, tool-calling limits, fact-checking, rapid AI progress, founder-level advisor, Ferrari analogy, Apple paper critique, Datadog roadmap, Wordle optimization
 
 yt_tags:
   []

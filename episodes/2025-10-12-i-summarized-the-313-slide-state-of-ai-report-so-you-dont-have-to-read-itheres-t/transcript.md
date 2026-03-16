@@ -8,6 +8,31 @@ duration: "28:28"
 duration_seconds: 1708
 view_count: 24389
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/executive-briefing-i-summarized-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  The most read report in Silicon Valley just dropped—and it's 313 slides. Here's the TLDR, what's most surprising, and the realities AI builders everywhere will face in 2025 and 2026.
+
+  In this video, I share the inside scoop on the shift from model IQ to systems—capability-to-cost, distribution, and power constraints—and what it means for LLMs like GPT-5, Claude, and Gemini:
+  • Why the capability-to-cost curve resets unit economics every few months.
+  • How routing to the cheapest capable model beats frontier defaults.
+  • What answer engines mean for distribution and AEO in the browser.
+  • Where power, permits, and water will bottleneck LLM scale.
+
+  Chapters:
+  00:00 The State of AI Report Overview
+  04:56 Drivers of AI Systems: Cost, Distribution, and Infrastructure
+  12:39 Evaluating AI Reasoning Gains and Model Intelligence
+  17:39 Open vs Closed Models: The Global AI Landscape
+  22:48 Implications for AI Builders and Investors
+  25:56 The Future of AI: Individual Agency and Opportunities
+
+  For operators, advantage now comes from multi-model routing, answer-engine optimization, and clear-eyed planning for infrastructure limits—balancing upside in automation at work and AI agents with real execution risk.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

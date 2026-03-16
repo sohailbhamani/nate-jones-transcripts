@@ -7,6 +7,23 @@ duration: "11:01"
 duration_seconds: 661
 view_count: 6834
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/your-quick-guide-to-ais-hard-questionsartificial?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  Thanksgiving is a good time to ask (and answer) the hard questions.
+
+  In this video, I share the inside scoop on how to navigate AI skepticism at the table:
+  • Why moral foundations shape every AI objection
+  • How to reframe automation fears into augmentation
+  • What scarcity vs abundance reveals about water, power, jobs
+  • Where LLM “beta” expectations derail real discussions
+
+  The takeaway: operators who engage relatives with curiosity-first framing create far better conversations than those who argue facts alone.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

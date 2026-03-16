@@ -8,6 +8,39 @@ duration: "6:36"
 duration_seconds: 396
 view_count: 2770
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+  Learn about Authorship: https://www.grammarly.com/blog/ai-detector-authorship/
+
+  Chapters
+
+  00:00 Concerns about Grammarly's Authorship Tool
+  01:00 Process vs Outcome: The Value of Authorship
+  02:27 The Limitations of AI Detection
+  03:25 Teaching Effective AI Use and Critical Thinking
+  04:53 Authorship and Long-Term Career Development
+
+  Takeaways
+
+  1. Grammarly's Authorship tool aims to detect AI-generated text, but there are concerns about its effectiveness and potential biases.
+  2. The focus on process rather than outcome raises questions about the value of the tool in preparing students for the workplace.
+  3. While detecting plagiarism in academic papers could be helpful, the broader use of the authorship tool may not be beneficial.
+  4. It is important to teach students how to effectively use AI and think critically about its impact on outcomes.
+  5. The release of Authorship reflects a short-sighted approach to long-term career development and skills growth.
+
+  Sound Bites
+
+  "Grammarly announced that they are going to roll out a product called Authorship that is supposed to detect AI."
+  "Why are you focused so much on the process instead of on the outcome?"
+  "The authorship tool may not help with the problem it is professing to solve around authorship detection."
+
+  Summary
+
+  Grammarly's new product, Authorship, aims to detect AI-generated text, but there are concerns about its effectiveness and potential biases. The focus on process rather than outcome raises questions about its value in preparing students for the workplace. While detecting plagiarism in academic papers could be helpful, the broader use of the authorship tool may not be beneficial. It is important to teach students how to effectively use AI and think critically about its impact on outcomes. The release of Authorship reflects a short-sighted approach to long-term career development and skills growth.
+
+  Keywords
+
+  Grammarly, Authorship, AI detection, biases, process vs outcome, plagiarism, career development, skills growth
 
 yt_tags:
   []

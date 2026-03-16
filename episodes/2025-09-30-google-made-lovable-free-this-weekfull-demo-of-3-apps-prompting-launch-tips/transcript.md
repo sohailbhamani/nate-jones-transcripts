@@ -8,6 +8,27 @@ duration: "14:38"
 duration_seconds: 878
 view_count: 9075
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/lovable-google-just-made-no-code?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _________________________
+
+  What's really going on with Lovable.dev and vibe-coding tools?
+
+  The usual story is “no-code makes pretty brochure sites” — but the reality is more nuanced: Lovable’s brand new end-to-end stack now ships real app backends, auth, and roles, while still staying simple.
+
+  In this video, I share the inside scoop on vibe coding with Lovable:
+  • Why Google’s free week + Lovable’s launch make “now" the moment
+  • How Lovable Cloud handles backend, auth, roles, domains—no brittle patchwork
+  • What I built today: Lovable intro site, food-truck tracker, escape-room platform
+  • Where it caps: side-gig and team tools—don’t expect Salesforce-scale
+  • My own tips as an entrepreneur after building 20+ apps in Lovable
+
+  For operators and builders, LLM-assisted “vibe coding” now provides real leverage if you ship fast and stay in your niche, but it’s not a substitute for complex enterprise software.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

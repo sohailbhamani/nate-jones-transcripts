@@ -8,6 +8,29 @@ duration: "30:00"
 duration_seconds: 1800
 view_count: 17817
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Role Risk Heuristic: Map every task in your job, subtract what AI can do, then factor in glue work and mission impact—plus leadership’s AI literacy—to see whether you’re vulnerable or leveraged.
+   2. Compression, Not Apocalypse: White-collar work will be violently reshuffled in the next 2-3 years, but broad bread-line layoffs aren’t baked in; proactive skill-building beats doomsday waiting.
+   3. Moats in Messy, Trust-Heavy Domains: Work rooted in deep relationships, high ambiguity, liability, or unstructured data resists automation and offers durable opportunity.
+   4. Projects as the New Résumé: Public artifacts and fractional gigs for scrappy founders outshine credentials—especially for new grads navigating a broken hiring pipeline.
+   5. Core AI Fluency Stack: Prompt architecture, RAG & vector hygiene, lightweight agent orchestration, and polished data storytelling form the non-negotiable baseline.
+   6. Domain-Plus-AI Advantage: Mid-career pros who fuse hard-won expertise with AI literacy become indispensable translators, commanding premium roles and rates.
+   7. Guardrails & Growth Mindset: Mask “red” data, schedule deliberate learning time, and hone human edges—problem framing, taste, narrative persuasion, judgment—to thrive amid nonstop tool churn.
+
+  Quotes
+  “Look at your role as a bundle of tasks—then discount for glue work and mission alignment to see what AI can really hollow out.”
+  “People who copy and paste are doomed; the winners polish model output into sharp, persuasive stories.”
+  “The stack only feels chaotic if you lack a compass—define one and the tool churn stops mattering.”
+
+  Summary
+  My transcript distills the 12 brutal career questions I get about the AI revolution and my answers. I explain how to gauge whether your job is safe by mapping tasks, glue work, and mission value, then reading leadership’s AI literacy. I argue that white-collar roles will be reordered, not erased, over the next two to three years, and that durable advantage lives in trust-heavy, high-ambiguity work. I outline five must-learn AI skills—prompting, RAG, vector hygiene, agent orchestration, and data storytelling—and show how new grads, mid-career pros, and remote workers can leverage projects, domain expertise, and online communities to stay ahead.
+
+  Keywords
+  AI careers, role risk heuristic, white-collar disruption, trust-intensive work, unstructured data, projects as résumé, fractional apprenticeships, prompt engineering, retrieval-augmented generation, vector databases, agent orchestration, data storytelling, domain expertise, AI translator, confidential data masking, execution gap, problem framing, narrative persuasion, regulated industries, energy, healthcare, defense
 
 yt_tags:
   []

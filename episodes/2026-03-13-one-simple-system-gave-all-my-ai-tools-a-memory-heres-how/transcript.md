@@ -7,6 +7,40 @@ duration: "26:55"
 duration_seconds: 1615
 view_count: 71282
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/you-built-an-ai-memory-system-now?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening when thousands of people build an agent-readable database but can only interact with it through a chat window keyhole? The common story is that the MCP server is the whole system—but the reality is more interesting when you add a human door alongside the agent door.
+
+  In this video, I share the inside scoop on how to give your Open Brain hands and feet through visual interfaces you build and deploy for free:
+
+   • Why the table becomes a shared surface that both you and your agent see
+   • How to build a visual layer with Claude and host it on Vercel for nothing
+   • What household knowledge, professional relationships, and job hunts look like as dashboards
+   • Where time bridging and cross-category reasoning earn their keep
+
+  Chapters
+  00:00 Your Open Brain Can Think—Now It Needs Hands
+  02:30 Both Doors Open: Agent Access and Human Access
+  05:00 The Table Is the Shared Surface
+  07:30 How to Build the Visual Layer
+  10:00 Hosting for Free with Vercel
+  12:00 Use Case: Household Knowledge Base
+  14:30 Use Case: Professional Relationships
+  17:00 Use Case: The Job Hunt Dashboard
+  20:00 Why Agent-Readable Data Is the Architectural Advantage
+  22:30 Principles: Time Bridging and Cross-Category Reasoning
+  25:00 No Middlemen: You Control Your Data
+
+  For anyone who built Open Brain and wondered what's next, this is the piece that makes the data actually useful to your human eyes—without adding middlemen.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  Listen to this video as a podcast.
+  - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372
 
 yt_tags:
   - "AI strategy"

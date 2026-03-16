@@ -8,6 +8,24 @@ duration: "17:07"
 duration_seconds: 1027
 view_count: 8782
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/which-ai-job-actually-fits-you-i?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside the AI labor market?
+  The common story is “learn AI” and doors open — but the reality is more complicated.
+
+  In this video, I share the inside scoop on breaking into AI with role-specific paths and practical prompting:
+  • Why generic “learn AI” advice fails operators and builders.
+  • How to map 17 role-specific paths and skill gaps.
+  • What the AI labor market is hiring versus cutting.
+  • Where prompt engineering helps you target upskilling quickly.
+
+  For operators and builders, the upside is real if you choose a specific path and use targeted prompting to assess fit; the risk is drifting under vague advice while roles consolidate.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI jobs"

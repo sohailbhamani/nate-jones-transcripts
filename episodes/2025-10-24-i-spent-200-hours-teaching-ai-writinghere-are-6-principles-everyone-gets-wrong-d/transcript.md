@@ -8,6 +8,25 @@ duration: "14:53"
 duration_seconds: 893
 view_count: 13125
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/i-spent-200-hours-teaching-ai-writinghere?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  AI slop at work is killing businesses.
+
+  The common story is that this is all the model's fault — but the reality is that AI mostly exposes how unclear our thinking and standards have been all along.
+
+  In this video, I share the inside scoop on AI-assisted business writing:
+  • Why most teams are drowning in AI-generated documents
+  • How to define concrete quality criteria AI can follow
+  • What “intent-driven” writing means and how to build it in
+  • Where to use AI not just for writing, but for evaluation too
+
+  The takeaway: teams that articulate clear standards and goals will thrive with AI; everyone else will drown in AI slop.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI business writing"

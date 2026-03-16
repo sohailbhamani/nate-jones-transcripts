@@ -7,6 +7,23 @@ duration: "1:42"
 duration_seconds: 102
 view_count: 13215
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/codex-53-vs-opus-46-two-agent-philosophies?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________________________
+  What's really happening when two competing visions of AI agents ship 20 minutes apart? The common story is that this is a benchmark race—but the reality is more complicated when the choice between Codex and Claude determines how your entire week changes.
+
+  In this video, I share the inside scoop on why OpenAI and Anthropic built fundamentally different answers to the same question:
+
+   • Why Codex bets on autonomous correctness while Claude bets on integration and coordination
+   • How the three-layer orchestrator architecture enables hand-it-off-and-walk-away work
+   • What Agent Teams with peer-to-peer messaging means for interdependent problems
+   • Where the meta-skill of evaluating new capabilities becomes the durable advantage
+
+  For knowledge workers choosing between delegation-shaped problems and coordination-shaped problems, the right question is not which tool wins—it's which organizational muscle you want to build.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

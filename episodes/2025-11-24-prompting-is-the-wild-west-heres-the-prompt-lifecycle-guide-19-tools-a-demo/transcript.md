@@ -8,6 +8,34 @@ duration: "16:39"
 duration_seconds: 999
 view_count: 12066
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  HeyPresto: https://www.heypresto.ai/
+  Full Story w/ Tools: https://natesnewsletter.substack.com/p/the-complete-prompt-tooling-ecosystem?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ________________________________
+  What’s really happening inside prompt engineering and the full lifecycle behind it?
+  The common story is that prompting is just writing clever text — but the reality is more complicated.
+
+  In this video, I share the inside scoop on the real prompt lifecycle:
+  • Why intent formation is the missing first stage
+  • How LLMs help shape, version, and test high-leverage prompts
+  • What separates individual tinkering from production-grade evaluation
+  • Where AI agents and deployment workflows demand rigorous prompt tooling
+
+  Chapters:
+  00:00 The Wild West of Prompting
+  02:50 Authoring and Drafting Prompts
+  05:27 Versioning and Testing Prompts
+  08:01 Intent Formation and Discovery
+  10:26 Introducing Hey Presto
+  12:37 Pricing and Community Engagement
+  13:52 Understanding the Prompt Lifecycle
+  15:44 The Importance of Intent Formulation
+
+  Teams and operators who understand the lifecycle can move faster without sacrificing reliability.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

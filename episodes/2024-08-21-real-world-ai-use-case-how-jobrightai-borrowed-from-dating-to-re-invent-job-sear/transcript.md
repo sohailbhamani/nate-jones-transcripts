@@ -8,6 +8,37 @@ duration: "9:40"
 duration_seconds: 580
 view_count: 548
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Check out JobRight: https://jobright.ai/
+  Learn about me: https://www.natebjones.com/
+
+  Chapters
+
+  00:00 Introduction to JobRite.ai
+  01:21 The AI Companion in JobRite
+  02:18 Value and Limitations of JobRite
+  06:30 Challenges in the AI-Driven Job Market
+
+  Takeaways
+
+  1. JobRite.ai is an innovative AI-powered job search tool that offers personalized job recommendations and helps users improve their resumes.
+  2. The tool provides an AI companion that guides users through the job search process and offers suggestions for fitting job descriptions more accurately.
+  3. While JobRite has some limitations, such as not recognizing inflated job titles in certain industries, it still provides value to job seekers.
+  4. The increasing use of AI tools in job search creates challenges for both job seekers and employers in differentiating themselves and finding the right fit.
+
+  Sound Bites
+
+  "JobRite.ai is an excellent case study in building a consumer-facing AI product."
+  "JobRite has taken the idea of an AI companion and brought it into the heart of the job search."
+  "JobRite offers a largely free platform that provides value to job seekers."
+
+  Summary
+
+  JobRite.ai is an AI-powered job search tool that stands out in the crowded market of AI tools for job seekers. It goes beyond resume building and focuses on providing an AI companion that helps users navigate the job search process. JobRite offers a largely free platform that allows users to chat with an AI bot, upload their resume, and receive personalized job recommendations. While it has some limitations, such as not recognizing inflated job titles in certain industries, JobRite provides value by helping users improve their resume and fit job descriptions more accurately. However, the increasing use of AI tools in job search creates challenges for both job seekers and employers in differentiating themselves and finding the right fit.
+
+  Keywords
+
+  JobRite.ai, AI-powered job search tool, resume building, AI companion, job recommendations, personalized job search, limitations, inflated job titles, improving resume, fitting job descriptions, challenges in job search
 
 yt_tags:
   []

@@ -8,6 +8,24 @@ duration: "13:27"
 duration_seconds: 807
 view_count: 14907
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/stop-asking-how-to-get-an-ai-jobstart?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  The AI jobs conversation is backwards.
+  The common story is you need a new role — but the reality is more complicated.
+
+  In this video, I share the inside scoop on turning your current role into an AI-native job in 2026:
+  • Why AI agents work only on structured, verifiable workflows
+  • How enterprise security now shapes every AI deployment
+  • What 2025 taught us about agent architecture and orchestration
+  • Where your day-to-day tasks will split between humans and LLMs
+
+  AI will expand opportunity for operators who can map their workflows and partner with technical teams, and it will expose those who wait for someone else to define their role.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI jobs"

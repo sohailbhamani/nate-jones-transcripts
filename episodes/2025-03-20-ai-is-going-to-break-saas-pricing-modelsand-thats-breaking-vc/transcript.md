@@ -8,6 +8,50 @@ duration: "9:40"
 duration_seconds: 580
 view_count: 20454
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  ⸻
+
+  Takeaways
+   1. AI is Undermining SaaS Pricing Power
+  Companies are increasingly using AI to replace expensive SaaS subscriptions, as seen with Klarna moving off Salesforce and improving profitability. AI lowers the cost of building internal tools, pressuring traditional SaaS pricing models.
+   2. Customization is Driving Higher Costs
+  AI enables customers to demand more custom software solutions, forcing SaaS vendors to invest in customization that was previously unprofitable. This erodes the standardization that made SaaS financially attractive to investors.
+   3. Per-Seat Pricing is Breaking Down
+  Traditional per-seat pricing is losing its appeal as AI-driven automation reduces the need for individual users. Companies are now experimenting with outcome-based pricing, usage-based billing, and AI agent pricing models.
+   4. SaaS Valuations Are Becoming Less Attractive
+  The predictability of SaaS revenue made it a favorite among private equity firms, but with pricing models shifting and custom work increasing, SaaS revenue is becoming harder to value, making exits less predictable.
+   5. Fewer SaaS Companies Will Go Public
+  AI-driven efficiencies are making it easier for companies to stay private longer, reducing the incentive for IPOs. Instead, companies like Stripe are exploring long-term private operations with liquidity via secondary markets.
+   6. VC Funding for SaaS is Drying Up
+  With SaaS revenue models becoming more complex and exits less predictable, venture capitalists are becoming more hesitant to fund new SaaS startups, signaling a fundamental shift in how the industry is financed.
+   7. No Clear Pricing Solution Exists Yet
+  AI-driven disruption is forcing SaaS companies to rethink pricing, but no single model has emerged as the best path forward. Per-seat pricing is under pressure, outcome-based pricing is hard to execute, and custom solutions reduce margins.
+
+  ⸻
+
+  Quotes
+
+  “We’re seeing the cracks in SaaS not because companies can’t be successful, but because the entire value chain is becoming less predictable.”
+
+  “If your margins are under threat and your customers have lower switching costs, per-seat pricing just won’t hold up the way it used to.”
+
+  “The industry loves consistency, but AI is making SaaS harder to value, harder to exit, and harder to fund. That changes everything.”
+
+  ⸻
+
+  Summary
+
+  The traditional SaaS pricing model, long valued for its predictability, is now under pressure from AI. Companies are leveraging AI to cut SaaS costs, as seen with Klarna’s switch from Salesforce. This shift forces SaaS vendors to offer more customization, reducing efficiency and making revenue harder to predict. Per-seat pricing is losing traction, and alternative models like outcome-based pricing present their own challenges. These disruptions are making SaaS businesses less attractive to investors, slowing funding and altering exit strategies. With fewer SaaS IPOs and an uncertain pricing landscape, the industry is entering a new era of complexity and change.
+
+  ⸻
+
+  Keywords
+
+  SaaS, AI disruption, Klarna, Salesforce, pricing models, per-seat pricing, outcome-based pricing, B2B SaaS, SaaS valuations, private equity, IPO, venture capital, custom software, AI automation, Stripe, revenue models, software industry changes.
 
 yt_tags:
   []

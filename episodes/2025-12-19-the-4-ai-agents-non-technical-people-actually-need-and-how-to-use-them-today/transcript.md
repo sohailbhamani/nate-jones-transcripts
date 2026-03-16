@@ -7,6 +7,18 @@ duration: "18:18"
 duration_seconds: 1098
 view_count: 38903
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with AI agents when everything claims to be one? The common story is that agents require technical skills to use, but the reality is more complicated when four tools can handle most of what non-technical people actually need. In this video, I share the inside scoop on building a reliable team of AI agents without writing a single line of code:
+
+  * Why the "little guy theory" sets the right expectations before you delegate anything to an agent
+  * How four knobs control agent reliability and risk: habitat, tools, constraints, and proof of work
+  * What Manus, Notion AI, Lovable, and Zapier actually do well and where each one earns its place
+  * Where to start with specific hands-on exercises you can run today to build real delegation habits
+
+  For professionals navigating 2026, those who learn to delegate outcomes to reliable agents will reclaim hours every week. Those waiting for perfect AI will keep doing the work themselves.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI agents"

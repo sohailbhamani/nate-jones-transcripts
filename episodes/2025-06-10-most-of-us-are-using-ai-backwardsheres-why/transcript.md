@@ -8,6 +8,18 @@ duration: "12:58"
 duration_seconds: 778
 view_count: 79834
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when most people use AI to compress information? The common story is that faster summaries and shorter briefs mean better productivity, but the reality is more complicated when the real value is in expanding your thinking, not shrinking it. In this video, I share the inside scoop on why the compression trap is costing knowledge workers their deepest cognitive edge:
+
+  * Why defaulting to summaries and bullet points misses the bigger opportunity AI actually offers
+  * How advanced voice mode acts like a patient therapist and sharp colleague rolled into one
+  * What a deliberate multi-model workflow looks like when you pair 4o, O3, and Opus 4 for different cognitive phases
+  * Where the real leverage lives: slowing down and letting ideas ferment instead of racing to an output
+
+  For knowledge workers navigating 2026, the question isn't how fast AI can process information for you. It's whether you're using it to go deeper or just faster.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://open.substack.com/pub/natesnewsletter/p/were-using-ai-backwardsheres-how?
+  © Nate B. Jones 2026
 
 yt_tags:
   []

@@ -8,6 +8,40 @@ duration: "8:09"
 duration_seconds: 489
 view_count: 744
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://www.natebjones.com/
+  My links: https://linktr.ee/natebjones
+
+  About Blackwell chips: https://nvidianews.nvidia.com/news/nvidia-blackwell-platform-arrives-to-power-a-new-era-of-computing
+  Blackwell sales projections: https://www.datacenterdynamics.com/en/news/nvidias-blackwell-gpus-sold-out-for-12-months/
+  TSMC stock outlook: https://www.reuters.com/technology/tsmc-stock-hits-new-high-after-posting-forecast-beating-earnings-2024-10-18/
+  ASML earings: https://www.tomshardware.com/tech-industry/asml-loses-usd75-7-billion-market-cap-from-updated-sales-projections-likely-due-to-lower-demand-from-china-and-delayed-intel-fab
+  Amazon & Google nuclear deals: https://www.cbsnews.com/news/amazon-nuclear-reactor-investment-google-kairos-power/
+
+  Chapters:
+  00:00 The Anticipation of AI Model Releases
+  02:21 Nuclear Power and Data Center Demands
+  04:39 ASML’s Market Flop and Its Implications
+  07:51 The Resilience of Chip Manufacturers
+
+  Takeaways:
+
+   1. AI Model Standoff: OpenAI, Google, and Anthropic are holding off releasing their next-gen models due to game theory dynamics. No one wants to lose PR momentum by being first.
+   2. Nuclear Power in Tech: Amazon, Google, and Microsoft are heavily investing in nuclear power to meet the increasing energy demands of future AI data centers.
+   3. Nvidia Blackwell Chips: The new Blackwell chips by Nvidia, boasting 208 billion transistors, are essential for AI model training but require significantly more power than previous chips.
+   4. ASML’s Stock Drop: ASML, the maker of fabrication machines for AI chips, saw a major stock drop after missing sales forecasts and lowering their revenue guidance for 2025.
+   5. TSMC’s Success: Despite ASML’s setback, TSMC reported strong growth, with a 54% quarterly profit increase, cementing its place as the leader in AI chip manufacturing.
+
+  Quotes:
+  “We’re in a situation where everyone is waiting for someone else to drop their model first.”
+  “The future of data centers might include small nuclear reactors to power the next generation of AI chips.”
+  “The 208 billion transistors in Nvidia’s Blackwell chip are driving data centers to rethink their entire power infrastructure.”
+
+  Summary:
+  This week’s major tech stories focused on the delayed AI model releases from OpenAI, Google, and Anthropic, caused by competitive dynamics. Meanwhile, Amazon, Google, and Microsoft are investing in nuclear power to support future AI-driven data centers. Nvidia’s Blackwell chips, essential for next-gen AI training, are creating massive energy demands. On the business side, ASML saw a significant stock drop due to underperforming sales guidance, though TSMC continues to thrive, reporting a 54% quarterly profit increase, indicating ongoing strength in AI chip demand.
+
+  Keywords:
+  OpenAI, Anthropic, Google, Nvidia, Blackwell chip, nuclear power, data centers, ASML, TSMC, AI models, chip fabrication, AI energy demand, cloud infrastructure, chip manufacturing
 
 yt_tags:
   []

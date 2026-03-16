@@ -8,6 +8,30 @@ duration: "21:58"
 duration_seconds: 1318
 view_count: 24491
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://open.substack.com/pub/natesnewsletter/p/the-complete-guide-to-personalizing?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  Takeaways:
+   1. Router Misrouting Fixes: ChatGPT-5 uses a hidden routing system across multiple models, often defaulting to a faster but less capable model. Users can counter this by adding explicit prompts like “think hard” and customizing ChatGPT’s instructions to default to deep analysis.
+   2. Chat vs. API Differences: API users can directly select models, but chat users rely on routing. Pro plans offer limited model selection; otherwise, prompt-based steering is required.
+   3. Model Drift Management: Upgrades to GPT-5 can break established workflows. Maintaining prompt version history and deliberately re-testing with new models is essential for stability.
+   4. Long Context Still Requires Skill: Despite larger token windows, perfect recall isn’t guaranteed. U-shaped prompting, repeated anchoring, and context reminders remain critical.
+   5. JSON and Tool Call Reliability: GPT-5’s smaller variants may return broken JSON or falsely claim tool actions. Explicit JSON schema requests and requiring proof artifacts mitigate errors.
+   6. Thinking Mode Costs and Personality Tweaks: Reasoning mode takes longer and uses more tokens; personality settings and custom instructions can restore warmth or empathy without always invoking costly deep reasoning.
+   7. Guardrail Friction and Silent Downgrades: Scientific queries near safety boundaries may trigger conservative completions. Lower-tier plans can silently downgrade models after heavy use—monitor usage or switch tiers to avoid quality drops.
+
+  Quotes:
+  “We have to teach the stochastic people spirit what we need from it.”
+  “Prompting is a durable skill, and so is evolving your workflows when models change.”
+  “The idea that the magic rocks that think will understand exactly what you want in your vague English is not reality.”
+
+  Summary:
+  In this review, I unpack the top 10 complaints about ChatGPT-5 and offer fixes where possible. OpenAI replaced older models with a routed, multi-model GPT-5 that often defaults to faster, less capable variants to preserve GPU capacity. This creates issues like shallow responses, drift from established workflows, broken JSON, imperfect long-context recall, and silent model downgrades. Many problems can be mitigated with targeted prompting, custom instructions, proof-based tool calls, and personality tuning. While GPT-5 requires more effort than previous models, it can deliver exceptional results if used deliberately and strategically.
+
+  Keywords:
+  ChatGPT-5, OpenAI, model routing, router misrouting, API vs. chat, model drift, long context prompting, JSON schema, tool call reliability, reasoning mode, personality settings, guardrail friction, silent model downgrade, Sam Altman, custom instructions, prompt engineering
 
 yt_tags:
   []

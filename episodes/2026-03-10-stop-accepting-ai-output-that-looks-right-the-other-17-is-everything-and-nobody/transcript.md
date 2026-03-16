@@ -7,6 +7,35 @@ duration: "20:55"
 duration_seconds: 1255
 view_count: 38874
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts + Guide: https://natesnewsletter.substack.com/p/the-most-expensive-ai-mistake-isnt?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening when frontier models beat professionals with 14 years of experience 70% of the time but the output still doesn't survive contact with anyone who actually understands the domain? The common story is about prompting and workflow design—but the reality is more interesting when rejection creates institutional knowledge that did not exist before.
+
+  In this video, I share the inside scoop on why learning to say no is the missing skill in the judgment and taste category:
+
+   • Why your rejections are more valuable than your prompts
+   • How recognition, articulation, and encoding break down into learnable dimensions
+   • What Epic Systems teaches about scaling taste through thousands of encoded workflows
+   • Where the structural gap in the AI tool ecosystem leaves every rejection on the floor
+
+  For anyone watching AI flood organizations with output, the frontier of AI value is identical to the frontier of your organization's taste.
+
+  Chapters
+  00:00 Your Most Valuable AI Skill Is Actually Saying No
+  02:15 What Happens in the Moment of Rejection
+  04:30 Why Generation Skills Are Now Commodity
+  06:30 GDPVal: AI Beats Professionals 70% of the Time
+  08:15 Recognition: Detecting When Something Is Wrong
+  10:00 Articulation: Explaining Why in Usable Constraints
+  12:00 Encoding: Making Rejections Persist Beyond the Moment
+  14:00 The Epic Systems Lesson: Scaling Taste Across Decades
+  16:15 Building Infrastructure to Scale Your No's
+  18:15 What This Means for Teams and Individuals
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

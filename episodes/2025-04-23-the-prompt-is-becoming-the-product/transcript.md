@@ -8,6 +8,29 @@ duration: "3:49"
 duration_seconds: 229
 view_count: 7997
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Prompt as Product: With o3 and o4-mini-high, the model’s output is often so complete that the prompt itself becomes the final deliverable, not a draft to be reworked elsewhere.
+   2. Agentic Capability Mainstreamed: Built-in tool calling lets these models run scheduled, multi-step workflows (e.g., weekly competitor scans) that once required platforms like n8n or LangGraph.
+   3. Clearer Tech-to-Value Pipeline: Each new release shortens the line from LLM technology through product to “magical” customer value, echoing the iPhone and early ChatGPT adoption curves.
+   4. New Prompting Responsibilities: Prompts must now specify purpose, outputs, and success criteria—effectively the spec for autonomous work—demanding greater precision from creators.
+   5. Workforce Implications: Résumés, performance metrics, and job expectations must evolve to recognize prompt design as core work product rather than auxiliary skill.
+   6. Competitive Arms Race: Model builders are racing to simplify agentic workflows, raising the bar for everyone who relies on prompting to deliver value.
+
+  Quotes:
+  “Our prompting is becoming our work product.”
+  “There’s an arms race to simplify the line from model technology to magical customer value.”
+  “I did not expect to live in a world where my prompts were my work product.”
+
+  Summary:
+  I reflect on how prompt engineering has shifted with models like o3 and o4-mini-high. Where prompts once served merely to elicit raw material, their answers are now so complete—and the models so agentic—that the prompt itself stands as the finished product. With built-in tool calling, I can schedule recurring competitive scans or other workflows directly in the chat, bypassing platforms like n8n or LangGraph. This mass-market exposure accelerates the classic pipeline from technology to product to “magical” customer value, forcing us to write clearer, purpose-driven prompts and rethink résumés, performance expectations, and the very shape of knowledge work.
+
+  Keywords:
+  prompt engineering, agentic models, o3, o4-mini-high, tool calling, ChatGPT adoption, automation, customer value, résumé evolution, arms race
 
 yt_tags:
   []

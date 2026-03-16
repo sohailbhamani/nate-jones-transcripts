@@ -8,6 +8,24 @@ duration: "7:56"
 duration_seconds: 476
 view_count: 50378
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/openai-is-planning-a-1-trillion-dollar?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside the trillion-dollar AI race?
+  The common story is that OpenAI’s rumored IPO and Nvidia’s $5T valuation signal a bubble — but the reality is more complicated.
+
+  In this video, I share the inside scoop on how AI infrastructure and strategy are shifting fast:
+  • Why OpenAI dropped Microsoft’s compute exclusivity
+  • How Anthropic’s Claude in Excel pressured Microsoft to adapt
+  • What Meta’s layoffs reveal about the new AI labor market
+  • Where IDE and agent wars like Cursor vs Windsurf are headed
+
+  AI is maturing from model races to infrastructure and security battles — a shift that rewards teams who build coherence, not hype.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

@@ -8,6 +8,18 @@ duration: "9:11"
 duration_seconds: 551
 view_count: 154767
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with Amazon's layoffs and the AI economy? The common story is that automation killed 30,000 jobs, but the reality is more complicated when the real story is capital reallocation, not labor replacement. In this video, I share the inside scoop on what's actually driving these cuts and what it reveals about where AI money is actually flowing:
+
+  * Why Amazon's profits depend on AWS, not retail operations, and what that means for how you read the layoff narrative
+  * How surging GPU demand is reshaping corporate AI strategy at every major hyperscaler
+  * What Wall Street misunderstands about "AI automation" narratives and why the framing keeps misleading investors
+  * Where media coverage keeps missing the real AI growth signal hiding in plain sight
+
+  For operators and teams navigating 2026, AI isn't replacing labor yet. It's reallocating capital, and understanding that shift will define who wins the next decade.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

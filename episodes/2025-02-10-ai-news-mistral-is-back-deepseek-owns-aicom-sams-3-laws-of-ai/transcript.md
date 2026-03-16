@@ -8,6 +8,39 @@ duration: "6:02"
 duration_seconds: 362
 view_count: 3587
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+  Mistral: https://www.zdnet.com/article/mistrals-ai-chatbot-comes-to-ios-and-android-heres-why-you-should-try-it/
+  Sam's blog: https://blog.samaltman.com/three-observations
+
+  Takeaways
+   1. Mistral’s Lightning-Fast AI – The French AI company Mistral launched a blazing-fast consumer model that requires no account and runs on Swiss silicon. It competes with GPT-4-level intelligence but stands out for speed.
+   2. ChatGPT is the 6th Most Visited Website – OpenAI’s ChatGPT now gets 2.3% of all internet traffic, making it the sixth most visited website in the world—and that’s before their Super Bowl ad.
+   3. Super Bowl AI Ads: OpenAI vs. Google – OpenAI’s ad focused on waiting dots as a branding move, while Google’s Gemini ad showcased real AI use cases. Some found OpenAI’s ad choice odd, given Mistral’s speed advantage.
+   4. DeepSeek Now Owns AI.com – Google no longer controls AI.com. The domain now redirects to DeepSeek.com, signaling a possible power shift in AI branding.
+   5. Sam Altman’s Three Laws of AI – OpenAI’s CEO outlined three principles:
+   • AI cost drops 10x yearly
+   • More compute = more intelligence, but logarithmically
+   • Intelligence has super-exponential value—justifying OpenAI’s spending.
+   6. The AI Arms Race is Accelerating – With Mistral’s speed, DeepSeek’s emergence, and OpenAI’s aggressive scaling, competition in AI is heating up fast.
+
+  Quotes
+
+  “We have a long way to go to run down Google.”
+
+  “The cost of a given level of artificial intelligence declines roughly 10X every year.”
+
+  “If you put 10x the resources in, you get 2x the intelligence.”
+
+  Summary
+
+  This weekend saw major AI developments. Mistral launched a blazing-fast, no-signup model, proving European AI is still in the race. Meanwhile, ChatGPT became the sixth most visited website with 2.3% of all web traffic, just before OpenAI’s Super Bowl ad, which oddly emphasized waiting time rather than AI capabilities. Google’s Gemini ad, in contrast, showed real AI use cases. A major shift: DeepSeek now owns AI.com, not Google. Finally, Sam Altman laid out his three laws of AI, explaining the rapid cost decline, scaling challenges, and intelligence value, reinforcing OpenAI’s investment strategy. The AI race is more intense than ever.
+
+  Keywords
+
+  Mistral, ChatGPT, OpenAI, Google, Gemini, DeepSeek, AI.com, AI competition, Super Bowl ads, AI traffic, Sam Altman, AI scaling, intelligence cost, artificial intelligence, GPT-4, AI branding, AI speed, NVIDIA, LLMs, Swiss silicon, Super Bowl marketing, AI market shifts, AI investment
 
 yt_tags:
   []

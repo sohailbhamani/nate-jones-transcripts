@@ -7,6 +7,33 @@ duration: "20:56"
 duration_seconds: 1256
 view_count: 141471
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/millions-just-switched-to-claude?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening when millions of new users download Claude expecting a ChatGPT replacement and wonder why the spreadsheet features are missing? The common story is that AI models are interchangeable brands—but the reality is more interesting when constitutional AI produces measurably different behavior than reinforcement learning with human feedback.
+  In this video, I share the inside scoop on why switching to Claude with the same habits misses the point:
+
+  • Why Claude is more likely to tell you your plan has a hole in it
+  • How describing your situation instead of your desired output changes everything
+  • What extended thinking reveals about steering the chain of thought in real time
+  • Where Cowork reframes the category from conversation partner to desktop worker
+  For anyone teaching a friend about Claude or learning it yourself, these differences shape how you think about AI over time—and that compounds.
+
+  Chapters
+  00:00 Everyone You Know Is About to Ask You About Claude
+  02:15 Constitutional AI vs Reinforcement Learning: What's Different
+  04:30 Principle One: Claude Will Push Back on Your Plan
+  06:45 Principle Two: Describe Your Situation, Not Your Output
+  08:30 Principle Three: Give Claude Your Work, Not a Blank Canvas
+  10:15 Principle Four: Ask Claude to Show Its Reasoning
+  12:30 Principle Five: Build a Workspace, Not a Chat Box
+  15:00 Principle Six: Claude Can Work on Your Computer
+  16:45 Principle Seven: Know What You're Giving Up
+  19:00 Why These Differences Compound Over Time
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com
 
 yt_tags:
   - "Claude"

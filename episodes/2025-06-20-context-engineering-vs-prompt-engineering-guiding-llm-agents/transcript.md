@@ -8,6 +8,31 @@ duration: "12:31"
 duration_seconds: 751
 view_count: 25094
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  substack on this: https://open.substack.com/pub/natesnewsletter/p/beyond-the-perfect-prompt-the-definitive?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Deterministic vs Probabilistic Context: The tiny prompt + docs window you control is dwarfed by the vast, unpredictable web of sources an agent pulls when it has tool or web access.
+   2. Token Efficiency Is Only Step 1: Tricks like Chain-of-Draft cut costs, but the bigger prize is guiding models toward more accurate, congruent answers, not just cheaper ones.
+   3. Shaping Discovery Windows: Prompts now act as steering wheels—constraining search domains (e.g., “verified news sites”) to bias what the agent finds without fully dictating it.
+   4. Source Quality Monitoring: You must audit and relevance-score the information an agent surfaces; good outputs often hide shaky citations.
+   5. Security & Injection Risk: Open-web and MCP searches expand the attack surface—prompt-injection exploits are inevitable and demand proactive defenses.
+   6. Eval & Versioning Paradigm Shift: Precision-recall on fixed inputs isn’t enough; measure decision accuracy against source relevance and rigorously version every prompt as you would code.
+
+  Quotes
+  “We’re obsessing over the tokens we send, while the model is swimming in millions we never see.”
+  “Prompt efficiency cuts cost; shaping probabilistic context improves truth.”
+  “Context engineering isn’t token math—it’s guiding an agent’s search across the wild web.”
+
+  Summary
+  In this talk I argue that most conversations about context engineering miss the bigger picture. Token-level prompt trimming is useful, but deterministic context—the part we control— is tiny compared with the vast probabilistic context an agent fetches when it has web or MCP access. We must learn to shape that uncontrolled context through carefully designed prompts, monitor and score source quality, version our approaches, and defend against injection attacks. Future evals should measure decision accuracy against source relevance, not just precision-recall. True context engineering is about guiding discovery at scale, not simply compressing tokens for cost and latency savings alike.
+
+  Keywords
+  context engineering, deterministic context, probabilistic context, token optimization, chain of draft, agentic systems, web access, MCP servers, source quality, injection attacks, eval harness, decision accuracy, prompt shaping, semantic highways
 
 yt_tags:
   []

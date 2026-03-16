@@ -8,6 +8,37 @@ duration: "5:28"
 duration_seconds: 328
 view_count: 1356
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+
+  Chapters
+
+  00:00 Different Standards for Founders and Employees
+  01:48 The Double Standard in Tech
+  03:08 Ignoring Accountability for Founders
+  04:34 Building Stronger Companies
+  05:04 Valuing New Entrepreneurs
+
+  Takeaways
+
+  1. Silicon Valley has a different standard of accountability for founders compared to employees.
+  2. Founders are often celebrated and given more leeway despite their failures.
+  3. The culture of accountability should be applied to founders as well to build stronger companies.
+  4. New entrepreneurs should be valued and supported, regardless of their access to outside capital.
+
+  Sound Bites
+
+  "I doubt that that would be the kind of resume or the kind of interview style that would earn you the role."
+  "We in tech seem to have a different standard when it comes to founders."
+  "For employees, we just obsess over whether or not they've done enough to deserve working for us. But for founders, we don't."
+
+  Summary
+
+  The conversation discusses the culture of accountability in Silicon Valley for founders, using the CrowdStrike outage as an example. It highlights the different standards and expectations for founders compared to employees. The conversation also mentions other examples like WeWork where founders were celebrated despite their failures. The need to hold founders accountable and value new entrepreneurs is emphasized.
+
+  Keywords
+
+  culture of accountability, Silicon Valley, founders, CrowdStrike outage, different standards, failures, WeWork, hold founders accountable, new entrepreneurs
 
 yt_tags:
   []

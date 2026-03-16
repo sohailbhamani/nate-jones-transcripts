@@ -8,6 +8,29 @@ duration: "21:36"
 duration_seconds: 1296
 view_count: 14303
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Chunking Failures Cost Money: A fintech chatbot mis-answered an indemnification clause because the contract sentence was split across chunks—proof that bad chunking, not model “intelligence,” drives expensive errors.
+   2. Five Principles for Success: (a) Maintain context coherence, (b) tune boundaries / size / overlap together, (c) let data type dictate the split strategy, (d) aim for Goldilocks-sized chunks, and (e) always include overlap as insurance.
+   3. Chunking Beats Bigger Models: Upgrading to GPT-5 won’t fix retrieval problems; correctly chunked data will.
+   4. Cost & Accuracy Lever: Right-sized chunks cut token loads and double-digit hosting bills while slashing hallucinations.
+   5. RAG vs. Agentic Search: RAG with good chunking delivers fast, predictable, low-cost answers; agentic search is 10× slower and pricier but useful for messy, multi-step reasoning.
+   6. Data Architecture Reality Check: Complex tables, spreadsheets, and tangled code bases force teams to confront their underlying data mess—sometimes demanding refactors before AI can shine.
+   7. Overlap Is Underrated: Small, purposeful overlap between chunks prevents meaning breaks and is critical for high-stakes domains like legal, finance, and code.
+
+  Quotes
+  “Chunking is one of your first lines of defense against models hallucinating.”
+  “Bad chunking poisons everything downstream, whether that’s rag performance or prompt engineering or model upgrades or even a Gentic search.”
+  “You either have accurate retrieval and low hallucinations at an economical price, or you pay a lot for agentic search that’s gonna be a lot slower.”
+
+  Summary
+  I explain why chunking—the way we split documents before embedding—controls AI accuracy and cost. Using a fintech NDA fiasco, I show that splitting a sentence mid-clause led to a wrong indemnification answer and thousands in cleanup. Bigger models can’t rescue bad context; only principled chunking can. I lay out five rules—coherence, boundaries / size / overlap, data-aware strategies, Goldilocks sizing, and deliberate overlap—and contrast speedy, cheap RAG with slower, pricier agentic search. Ultimately, fixing chunking demands grappling with messy contracts, spreadsheets, and code, but it unlocks reliable, low-hallucination AI at scale.
+
+  Keywords
+  chunking, RAG, retrieval-augmented generation, agentic search, context coherence, embeddings, hallucinations, FinTech, legal contracts, data architecture, vector database, token cost, overlap strategy, AI chatbot, spreadsheet semantics
 
 yt_tags:
   []

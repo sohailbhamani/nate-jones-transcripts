@@ -8,6 +8,31 @@ duration: "22:11"
 duration_seconds: 1331
 view_count: 41516
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The story: https://natesnewsletter.substack.com/p/the-complete-ai-learning-roadmap
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. GPT-5 Timeline Still Fluid: Internal benchmarks, engineering burn-in, and GPU provisioning make July the best guess, but “summer 2025” remains the only promise—expect slips if quality or scale falter.
+   2. Unified Multimodal Experience: OpenAI is folding the O-series reasoning model, GPT-4 knowledge, voice, and deep-search tools into a single “one brain” interface—no more model picker.
+   3. Four Pillars of Improvement: Multimodality (speech, images, maybe video), deeper reasoning, higher reliability (1 great answer in 10 000), and real personalization via memory and enterprise data.
+   4. Platform Shift ≈ iPhone 2007: 2025 releases will make 2023–24 models look obsolete, kicking off an enterprise-grade AI consolidation similar to the smartphone inflection.
+   5. Gradual, Monitored Rollout: Pro → Plus → Free is likely; adaptive compute will ration GPU use while alignment and monitoring levers expand in the API.
+   6. Get Ahead by Learning Fundamentals: Master the journey from spam filters to transformers, then study Karpathy, 3Blue1Brown, and Stanford CS231N to build fluency before the noise hits.
+
+  Quotes:
+  “We’re about to see 2025 models make 2023 look like dial-up AI.”
+  “GPT-5 isn’t just GPT-4 but bigger—it’s a single coherent brain that decides which skills to light up.”
+  “AI isn’t Twitter-thread FOMO; it’s solid mental models and the right guides.”
+
+  Summary:
+  I explain why summer 2025 marks an iPhone-level platform shift for AI and how GPT-5 will anchor it. The release window hovers around July, but only if OpenAI nails unified multimodal performance, deeper reasoning, rock-solid reliability, and real personalization without melting its GPU fleet. Builders should expect a staggered rollout and new alignment controls. To be ready, I trace AI’s path from hand-coded spam filters to transformer scale, demystify embeddings, attention, training, and inference, and share the best courses and eleven must-follow voices for signal over noise. Catch up now so GPT-5 doesn’t leave you behind.
+
+  Keywords:
+  ChatGPT-5, GPT-5, OpenAI, unified model, multimodality, transformer, attention, large language models, platform shift, iPhone moment, adaptive compute, GPU scaling, alignment tooling, AI learning resources, Karpathy, 3Blue1Brown, CS231N, Simon Willison, enterprise AI, builders
 
 yt_tags:
   []

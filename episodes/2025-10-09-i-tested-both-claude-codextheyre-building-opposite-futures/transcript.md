@@ -8,6 +8,32 @@ duration: "17:06"
 duration_seconds: 1026
 view_count: 15352
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/dear-manager-your-ai-budget-is-costing?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  We're seeing a trillion dollar battleground over the future of AI agents, and we're not talking about it.
+
+  The usual story is that all LLMs are converging — but the reality is two rival visions are splitting the future of automation.
+
+  In this video, I share the inside scoop on Claude vs. Codex:
+  • Why Claude’s agent loop favors collaboration and context
+  • How Codex builds linear, deterministic task flows
+  • What these philosophies reveal about OpenAI and Anthropic
+  • Where the agent ecosystem may diverge in 2026
+
+  Chapters
+  00:00 Introduction to AI Agents
+  01:06 Claude’s Collaborative Vision
+  05:52 Codex’s Task-Oriented Approach
+  13:17 Comparing Claude and Codex
+  15:04 Implications for AI’s Future
+
+  The takeaway: the agents you choose shape how you’ll work — as a collaborator with AI or a controller of it.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI agents"

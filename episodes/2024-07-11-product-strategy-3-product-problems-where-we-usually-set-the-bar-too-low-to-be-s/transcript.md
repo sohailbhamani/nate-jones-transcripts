@@ -8,6 +8,32 @@ duration: "8:36"
 duration_seconds: 516
 view_count: 123
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me:
+  https://www.natebjones.com/
+
+  Chapters
+  00:00 Setting the Bar High for Good Products
+  00:59 The 'Wash the Dishes' Problem: Automation and Ease
+  01:59 The 'New Car' Problem: Surprise and Delight
+  04:30 The 'Platform' Problem: Coherence and Seamless Experience
+
+  Takeaways
+  1. Set high standards for good products and think strategically about product problems.
+  2. For 'wash the dishes' problems, the solution should be at least 10 times easier than the manual process.
+  3. For 'new car' problems, the solution should surprise and delight customers with a feature they didn't know they needed.
+  4. For 'platform' problems, the goal is to build a coherent and seamless toolset that allows users to get their job done without thinking about the platform.
+
+  Sound Bites
+  "We spend way too little time setting the bar high for good products."
+  "If you were dealing with something that is a wash the dishes problem, where it's a heavy manual piece of work in the workflow, you must make it at least 10 times easier to truly drive adoption."
+  "If what you were trying to build is something that surprises and delights them with a feature set they didn't know they needed till they saw it, you have to use your imagination."
+
+  Summary
+  In this conversation, Nate discusses three different types of product problems and the bar for success for each. The first type is the 'wash the dishes' problem, where the correct solution should be at least 10 times easier than the manual process. The second type is the 'new car' problem, where the solution should surprise and delight customers with a feature they didn't know they needed. The third type is the 'platform' problem, where the goal is to build a coherent and seamless toolset that allows users to get their job done without thinking about the platform. Nate emphasizes the importance of setting high standards for good products and challenges listeners to think strategically about their product problems.
+
+  Keywords
+  product problems, success criteria, wash the dishes problem, new car problem, platform problem, automation, surprise and delight, coherence
 
 yt_tags:
   []

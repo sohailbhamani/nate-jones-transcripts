@@ -7,6 +7,18 @@ duration: "23:10"
 duration_seconds: 1390
 view_count: 33285
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with AI strategy in 2026? The common story is that one company cares about safety and one does not, but the reality is more complicated when both leaders believe safety matters and have simply built completely different theories about what that means. In this video, I share the inside scoop on why OpenAI and Anthropic have diverged so completely:
+
+  * Why Sam Altman and Dario Amodei have fundamentally different epistemologies about safety, not just different personalities or priorities
+  * How YC's ship-fast philosophy shaped OpenAI's belief that deployment itself is the safety mechanism
+  * What Anthropic's scientist-founder learned from personal tragedy that made safety a precondition rather than an outcome
+  * Where the two AI economies are now operating under different rules and producing entirely different products as a result
+
+  For professionals navigating 2026, the question is no longer which model is better. It's what kind of work you're doing and which theory of AI development you're willing to bet your organization on.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

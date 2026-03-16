@@ -7,6 +7,37 @@ duration: "1:22"
 duration_seconds: 82
 view_count: 14335
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/grab-the-82-image-prompts-i-use-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening with the latest ChatGPT image release vs Google’s Nano Banana Pro?
+
+  Everyone's talking about benchmark scores and ChatGPT being “4x faster” — but I actually tested both models and the reality is much more complex.
+
+  In this video, I share the inside scoop on an image model shootout across nine business-relevant tests:
+  • Why the generation method breaks logical diagrams
+  • How edit loops waste time without quality gains
+  • What wins in funnels, maps, Venns, and OSTs
+  • Where ChatGPT image cutoffs ruin slide usability
+
+  Chapters
+  00:00 - Introduction to ChatGPT’s Code Red
+  00:52 - High-Level Observations
+  03:06 - Comparison of Image Models
+  04:48 - Child’s Alphabet Test
+  05:50 - Funnel Diagram Analysis
+  07:07 - Fictional Maps Test
+  08:33 - Advertisements and Layouts
+  09:12 - ARR Revenue Bridge
+  10:07 - Venn Diagram Challenge
+  12:49 - Final Takeaways and Recommendations
+
+  My takeaway: for execs and operators shipping real decks, the risk isn’t “slightly worse images” — it’s unusable visuals, rework, and lost time, while Nano Banana Pro is already at the tipping point for practical PowerPoint-grade output.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

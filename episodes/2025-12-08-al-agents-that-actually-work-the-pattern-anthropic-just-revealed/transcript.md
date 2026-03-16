@@ -7,6 +7,18 @@ duration: "13:36"
 duration_seconds: 816
 view_count: 89677
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when AI agents fail at long-running tasks? The common story is that smarter models solve agent failures, but the reality is more complicated when generalized agents behave like amnesiacs with tool belts no matter how intelligent the underlying model is. In this video, I share the inside scoop on what Anthropic revealed about why agents actually work:
+
+  * Why generalized agents without domain memory spiral into chaotic loops instead of making durable progress
+  * How domain memory transforms agent behavior from reactive task-running to structured, compounding work
+  * What the initializer and coding agent pattern actually does when you implement it correctly
+  * Where the real moat lies in harness design and testing loops, not in chasing the next model release
+
+  For builders and operators navigating 2026, the competitive advantage is not a smarter AI. It's well-designed domain memory and the discipline to build testing loops that hold it accountable.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI agents"

@@ -8,6 +8,25 @@ duration: "9:53"
 duration_seconds: 593
 view_count: 10000
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/grab-my-prompt-for-this-weeks-ai?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What were the most critical stories in the AI race this week?
+
+  The big splashy story was OpenAI launching Atlas, but these are the stories that really mattered.
+
+  In this video, I share the inside scoop on the AI stories that matter most:
+  • Why OpenAI’s Atlas browser is a public MVP built for feedback loops
+  • How Anthropic’s new Skills framework reshapes prompt engineering and reuse
+  • What Apple’s M5 chip and OpenAI’s Sky acquisition signal for AI hardware
+  • Where browser security and AI productivity gains collide for real operators
+
+  The takeaway: winning in AI now means shipping faster and integrating deeper, not waiting for better models.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

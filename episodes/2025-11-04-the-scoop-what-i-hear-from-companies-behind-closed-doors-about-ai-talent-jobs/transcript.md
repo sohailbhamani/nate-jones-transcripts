@@ -8,6 +8,29 @@ duration: "10:28"
 duration_seconds: 628
 view_count: 34959
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-scoop-what-companies-tell-me?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What are companies saying about talent behind closed doors? The common story is that AI replaces entry-level jobs and leaves only a few expert roles — but the reality is more complicated.
+
+  In this video, I share the inside scoop on how AI is reshaping career growth at every level:
+  • Why juniors risk being seen as “replaceable” — and how to prove otherwise
+  • How mid-career professionals can use AI to deepen domain expertise
+  • What seniors still uniquely bring to AI-driven organizations
+  • Where hiring is actually heading as companies like OpenAI mix levels
+
+  Chapters:
+  00:00 Navigating AI Transitions in the Workplace
+  00:47 Career Strategies for Junior Professionals
+  04:37 Mid-Career Development and Domain Expertise
+  06:55 Senior Professionals: Leveraging Experience in an AI World
+
+  AI is rewriting the rules of value creation at work — but those who frame problems well will always outperform those who just produce outputs.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI career advice"

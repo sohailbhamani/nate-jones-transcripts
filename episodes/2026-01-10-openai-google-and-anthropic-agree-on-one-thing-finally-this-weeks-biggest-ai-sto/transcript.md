@@ -7,6 +7,18 @@ duration: "12:42"
 duration_seconds: 762
 view_count: 70613
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening in AI infrastructure as we enter 2026? The common story is that it's just about faster chips, but the reality is more complicated when power grids, prompt injection battles, and agent security are becoming permanent strategic dependencies. In this video, I share the inside scoop on 10 AI stories shaping how we build in 2026:
+
+  * Why NVIDIA's Vera Rubin platform defines the AI factory future and what that means for enterprise compute planning
+  * How power constraints became the real bottleneck when chips stopped being the limiting factor
+  * What Meta's $2 billion Manus acquisition signals about where the serious money thinks AI agents are heading
+  * Where MCP joining the Linux Foundation removes a key barrier to enterprise AI adoption at scale
+
+  For builders and operators navigating 2026, the winners won't be who generates code fastest. They'll be who makes AI infrastructure boring, reliable, and governable before everyone else figures out that's the game.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI infrastructure"

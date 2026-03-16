@@ -8,6 +8,42 @@ duration: "12:48"
 duration_seconds: 768
 view_count: 259
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about Nate:
+  https://www.natebjones.com/
+
+  Chapters
+  00:00 Introduction: The Importance of Technical Skills
+  02:23 Chapter 1: Getting Started - Whiteboarding with Engineers
+  05:18 Chapter 3: Building Tiny Apps
+  07:13 Chapter 4: Reading Technical Documents
+  08:40 Chapter 5: Learning from Mistakes
+  09:40 Chapter 6: Seeking Explanations from Non-Engineers
+  10:52 Chapter 7: Playing with Hardware
+  11:51 Chapter 8: Reading Classic Computer Science Books
+  12:21 Chapter 9: Cultivating Curiosity
+
+  Takeaways
+  1. Focus on being on a learning curve and continuously improving technical skills.
+  2. Engage with engineers to learn through whiteboarding sessions.
+  3. Utilize scripting tools like chat GPT to practice coding.
+  4. Build small apps to gain hands-on experience.
+  5. Read technical documents and blogs to expand knowledge.
+  6. Embrace making mistakes and learning from them.
+  7. Seek explanations from non-engineers to bridge the gap in understanding.
+  8. Experiment with hardware to gain practical experience.
+  9. Explore classic computer science books for foundational knowledge.
+  10. Maintain a curious mindset to drive continuous learning.
+
+  Sound Bites
+  "What can I do to become more technical?"
+  "You can always get more technical and that is pretty much always advantageous if you do."
+  "Get an engineer to whiteboard for you."
+
+  Summary
+  This conversation provides practical tips for non-technical individuals to become more technical. The speaker emphasizes the importance of being on a learning curve and continuously improving technical skills. The 10 ways to become more technical include getting an engineer to whiteboard for you, scripting with chat GPT, building a tiny app, reading technical documents, saying something wrong and inviting engineers to correct you, asking a non-engineer to explain a concept, playing around with hardware, reading classic computer science books, and staying consistently curious.
+  Keywords
+  non-technical, technical skills, learning curve, practical tips, whiteboarding, scripting, building apps, reading technical documents, learning from mistakes, explaining concepts, playing with hardware, reading computer science books, curiosity
 
 yt_tags:
   []

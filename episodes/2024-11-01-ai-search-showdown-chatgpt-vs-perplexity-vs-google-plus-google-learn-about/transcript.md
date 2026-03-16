@@ -8,6 +8,39 @@ duration: "6:22"
 duration_seconds: 382
 view_count: 925
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  about me: https://www.natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My Maven: https://maven.com/nate-b-jones/ai-career-accelerator
+
+  Google Learn About: https://learning.google.com/experiments/learn-about?src=signup
+  chrome extension: https://chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld
+  chatgpt search: https://openai.com/index/introducing-chatgpt-search/
+  perplexity vs google search: https://medium.com/codex/perplexity-vs-google-search-a-totally-unscientific-comparison-9a58837d7a69
+
+  chapters:
+  00:00 - Exploring AI Search Engines
+  04:49 - Comparative Analysis of Search Results
+
+  Takeaways:
+
+   1. ChatGPT’s Search Lag: ChatGPT’s new search feature has a noticeable one-second delay, making it feel slower for quick searches despite its accuracy.
+   2. Complexity in Perplexity: Perplexity provides in-depth stats and visuals that can overwhelm simple queries but may benefit users seeking detailed data, such as fantasy sports fans.
+   3. Google’s Instantaneous Response: Google’s response time is nearly instant, with a streamlined, intuitive answer format that requires minimal reading.
+   4. Intuitive Visual Layouts: Google’s visual presentation, with logos and “at” phrasing for home and away games, makes information scannable at a glance.
+   5. Google’s “Learn About” Feature: Separate from traditional search, this feature allows users to generate dynamic articles on topics, though content is not saved for later reference.
+   6. AI-Powered Search Advancements: While AI-driven engines like ChatGPT and Perplexity show potential, Google’s speed and simplicity continue to give it an edge.
+
+  Quotes:
+  “ChatGPT’s search has a slight lag, and even a one-second delay is noticeable in the world of search.”
+  “Perplexity provides incredible depth but may overwhelm users with too much data for a simple question.”
+  “Despite AI advancements, Google still leads with instantaneous responses and intuitive information layout.”
+
+  Summary:
+  I tested ChatGPT, Perplexity, and Google search features to see how each handles a straightforward sports query. ChatGPT provided a direct answer but had a slight lag and required reading the full response. Perplexity offered a slower but more data-intensive answer, better suited for detailed queries like fantasy sports stats. Google’s response was almost instant, with a clear layout that’s easy to interpret. Google’s new “Learn About” feature acts like a custom Wikipedia, creating dynamic articles but without saving options. Overall, while AI search engines are improving, Google’s speed and simplicity remain unmatched.
+
+  Keywords:
+  ChatGPT, Perplexity, Google, AI search, Huskies game, search speed, search results, Google Learn About, intuitive layout, sports query, fantasy sports, search engine comparison, Sam Altman
 
 yt_tags:
   []

@@ -7,6 +7,25 @@ duration: "1:34"
 duration_seconds: 94
 view_count: 1123
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-human-throttlewhat?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________
+  What's really happening with AI agents in the enterprise? The common story is that model intelligence is the bottleneck to deployment — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why trust, not capability, determines what agents can actually do:
+
+   • Why software engineering accelerated first (decades of building reversibility)
+   • How one-way doors vs two-way doors shape what you can delegate
+   • What five primitives make your business an agent-friendly substrate
+   • Why back office operations will see real agentic delegation first
+
+  Agents remove the human throttle — the hesitation, the social anxiety, the reputational risk that acted as an informal safety system. Either you redesign your processes to be reversible, or you keep agents confined to drafting forever. There is no stable middle ground.
+
+  For leaders, the opportunity is significant — but it requires auditing your decisions and building infrastructure before deploying agents.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI agents"

@@ -8,6 +8,36 @@ duration: "9:11"
 duration_seconds: 551
 view_count: 944
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Chapters
+
+  00:00 The Social Nature of Software Choices
+  02:53 Limitations of Existing Audit Mechanisms
+  05:30 Challenges of Handling Long-Term Risk Models
+  06:44 Unintended Consequences of Governmental Actions
+  09:02 The Need for Social Dynamics that Reward Critical Thinking
+
+  Takeaways
+
+  1. Software choices are social choices made by CTOs and CIOs to maintain their reputation.
+  2. Existing audit mechanisms do not effectively manage risk.
+  3. Handling long-term risk models is challenging.
+  4. Governmental actions and regulations can have unintended consequences.
+  5. Social dynamics in the C-suite should reward critical thinking.
+
+  Sound Bites
+
+  "Software choices are social choices"
+  "Risk is not effectively managed by existing audit mechanisms"
+  "Our imagined risk model is something that we have a really hard time handling as a species over a long period of time"
+
+  Summary
+
+  The conversation discusses the CrowdStrike outage from a risk management perspective. It highlights that software choices are social choices made by CTOs and CIOs to maintain their reputation. The conversation emphasizes that risk is not effectively managed by existing audit mechanisms, as audits are based on imagined risk profiles and tend to favor market leaders. It also explores the difficulty of handling long-term risk models and the unintended consequences of governmental actions and regulations. The key takeaways include the social nature of software choices, the limitations of audits in managing risk, and the challenges of anticipating long-tail externalities.
+
+  Keywords
+
+  CrowdStrike, risk management, software choices, social choices, audits, imagined risk profile, market leaders, governmental actions, regulations, long-term risk models, long-tail externalities
 
 yt_tags:
   []

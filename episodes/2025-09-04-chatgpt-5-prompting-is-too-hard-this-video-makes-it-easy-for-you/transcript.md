@@ -8,6 +8,30 @@ duration: "25:08"
 duration_seconds: 1508
 view_count: 15349
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/the-chatgpt-5-prompting-manual-building?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. GPT-5 as a Speedboat: The model is extremely powerful but difficult to steer—small prompts lead to exaggerated, often fabricated responses.
+   2. Meta Prompting = Power Steering: Meta prompts act like power steering, helping users clarify goals, structure requests, and reduce hallucination.
+   3. Precision Tax: Contradictory instructions (e.g., “be brief but comprehensive”) burn tokens, waste cost, and lead to poor results.
+   4. Agentic Bias: GPT-5 doesn’t want to “chat”—it wants to complete missions, so prompts should define roles, objectives, and processes clearly.
+   5. Structure Over Intelligence: Well-structured prompts (headers, bullets, methodologies) route the model more effectively than casual instructions.
+   6. Uncertainty Protocols: Users must define what the model should do when data is missing or ambiguous, since GPT-5 attempts any task literally.
+   7. Depth ≠ Length: Users can control reasoning depth and verbosity separately, enabling concise but deeply reasoned answers.
+
+  Quotes
+  “GPT-5 is a speedboat with a really big rudder—it wants to go fast and it wants to be steered really hard.”
+  “The era of casual conversation prompting is over. With ChatGPT-5, we need systematic prompting.”
+  “Structure beats intelligence—give the model methodologies, not just vague instructions.”
+
+  Summary
+  In this talk, I explain why prompting GPT-5 feels harder than earlier models and why meta prompting is essential. GPT-5 acts like a powerful speedboat: fast, agentic, and literal, but easy to misguide. Without structured prompting, it fabricates details and burns cost. Meta prompts solve this by clarifying objectives, roles, and processes, giving users “power steering” over the model. I outline seven principles—precision, structure, handling uncertainty, depth vs. length, tool use, memory limits, and validation—that make GPT-5 usable and predictable for real tasks.
+
+  Keywords
+  GPT-5, meta prompting, precision tax, agentic bias, structured prompts, hallucination, steering model, role definition, uncertainty handling, token efficiency, prompting principles, ChatGPT-5, power steering, mission completion, AI prompting
 
 yt_tags:
   []

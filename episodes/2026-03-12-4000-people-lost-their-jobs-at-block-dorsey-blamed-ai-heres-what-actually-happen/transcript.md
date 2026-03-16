@@ -7,6 +7,40 @@ duration: "22:32"
 duration_seconds: 1352
 view_count: 47675
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/pull-up-your-calendar-60-of-it-is?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening when the average knowledge worker spends 60% of their time on meetings and documents that exist only to coordinate with other humans? The common story is that AI automates tasks within your existing org—but the reality is more interesting when the coordination layer evaporates entirely.
+
+  In this video, I share the inside scoop on why AI is revealing the job was never the real job:
+
+   • Why PRDs, sprint planning, and status updates exist because the execution layer is human
+   • How agent harnesses delete the need for handoffs, not just automate the handoffs themselves
+   • What survives when coordination roles disappear: vision, architecture, genuine care, systems design
+   • Where the two qualities that matter most are agency and ramp
+
+  Chapters
+  00:00 AI Is Telling Us the Job Was Never the Real Job
+  02:30 Pull Up Your Calendar: The Coordination Tax
+  05:00 60% Coordination, 40% Creation
+  07:00 Why These Tasks Exist at All
+  09:00 What Happens When Translation Layers Disappear
+  11:30 The Org Is Moving to Code
+  13:30 No PRD, No Sprint Planning, No Status Meeting
+  15:30 The Flywheel: Less Coordination Makes Work More Verifiable
+  17:30 What Survives: Vision, Architecture, Care, Systems Design
+  19:30 The Two Qualities That Matter: Agency and Ramp
+  21:30 Why This Is Actually Good News
+
+  For anyone staring at 11 hours of meetings next week, this is actually good news—we get to touch the product more, not less.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  Listen to this video as a podcast.
+  - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372
 
 yt_tags:
   - "AI strategy"

@@ -8,6 +8,31 @@ duration: "8:30"
 duration_seconds: 510
 view_count: 5001
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Wrote about this here: https://open.substack.com/pub/natesnewsletter/p/deepseeks-exponential-growth-and?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Reasoning Transparency as a Game-Changer: DeepSeek’s innovation in showing reasoning outputs revolutionizes model transparency, making it easier for users to edit and adjust prompts while improving model understanding and usability.
+   2. Mass Adoption via Accessibility: By offering the reasoning model R1 for free, DeepSeek tapped into a broader, non-tech-savvy audience, leading to its rapid climb to the top of the App Store.
+   3. Concerning Terms of Service: DeepSeek’s invasive terms of service raise privacy concerns, including data retention, keystroke logging, and unclear ownership of outputs.
+   4. Reasoning Models Enable Acceleration: Advances in reasoning models, driven by increased data availability and group policy reinforcement, allow self-improving systems, speeding up model development.
+   5. Critical Mass of Reasoning Data: The availability of over 800,000 reasoning examples has hit a threshold, enabling models like DeepSeek to refine reasoning capabilities effectively.
+   6. Inference Costs and Chip Shortages: DeepSeek’s success highlights the immense cost and infrastructure challenges of serving AI models at scale, emphasizing the need for continued investment in AI infrastructure.
+   7. Replicability of Reasoning Techniques: Developers are rapidly replicating DeepSeek’s reasoning breakthroughs, which could democratize these advancements and drive further innovation.
+
+  Quotes:
+  “We’re at a reasoning takeoff moment—models can now learn reasoning on their own, accelerating development like never before.”
+  “DeepSeek’s transparency makes it hard to argue that AI hasn’t improved, even for the skeptics who still see it as ‘autocomplete.’”
+  “If you’re worried about TikTok’s data collection, DeepSeek might be worse—it captures your direct thinking and keeps it.”
+
+  Summary:
+  DeepSeek’s rise to the top of the App Store stems from two major innovations: displaying reasoning outputs for better transparency and offering its R1 model for free. These features made AI accessible to a broader audience, even skeptics, while driving improvements in user experience. However, DeepSeek’s invasive terms of service raise significant privacy concerns. On the technical front, advances in reasoning data and techniques have created a tipping point for self-improving models, enabling faster innovation. Despite DeepSeek’s success, it faces challenges around infrastructure costs and scalability, which have sparked broader efforts among developers to replicate its reasoning breakthroughs.
+
+  Keywords:
+  DeepSeek, reasoning transparency, AI innovation, App Store, R1 model, terms of service, data privacy, group policy reinforcement, reasoning models, AI scalability, chip shortages, self-improving AI models, data retention, inference costs
 
 yt_tags:
   []

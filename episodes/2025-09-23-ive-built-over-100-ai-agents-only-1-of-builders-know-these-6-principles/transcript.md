@@ -8,6 +8,26 @@ duration: "11:37"
 duration_seconds: 697
 view_count: 12640
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/why-your-ai-breaks-in-production?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  ____________
+
+  Why do engineers have so much trouble adapting to building with AI? After building over 100 agentic systems with engineers and vibe-coders at all levels, I think the answer is simple.
+
+  The issue is that the engineering best practices we were taught for building scaled systems DO NOT WORK in the age of AI. In fact, we have to reverse many of them to get AI systems to work.
+
+  In this video, I share the inside scoop on the six production principles that make agentic systems reliable at scale for your AI strategy:
+  • Why stateful intelligence and context preservation beat stateless patterns.
+  • How to bound uncertainty with deterministic wrappers around LLMs.
+  • What capability-based routing changes about load and token budgets.
+  • Where QA shifts post-launch to monitor reasoning quality.
+
+  Teams can get predictable performance from large language models and AI agents by pairing stateful context, deterministic wrappers, capability-based routing, and continuous input validation—but it requires post-launch QA and rigorous auditability to catch subtle failures.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

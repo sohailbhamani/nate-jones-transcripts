@@ -8,6 +8,25 @@ duration: "21:24"
 duration_seconds: 1284
 view_count: 16011
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/rip-the-internet-heres-how-ai-is?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  We all know the open web is dying. But no one can agree on what the AI-powered future looks like, or whether it's a good thing.
+
+  The common story is that AI search killed visibility — but the reality is more complicated.
+
+  In this video, I share the inside scoop on the 12–18 month window reshaping digital visibility:
+  • Why LLMs are bypassing top-ranked sites for smaller sources
+  • How “18-token” content structure determines AI citations
+  • What generative engine optimization means for individuals and brands
+  • Where to focus if you want to stay visible as the web evolves
+
+  For operators and builders, this is both a risk and an opening — a short-lived era when authority can be rebuilt before the hierarchy resets.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

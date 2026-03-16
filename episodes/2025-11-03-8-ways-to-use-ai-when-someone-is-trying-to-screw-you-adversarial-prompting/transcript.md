@@ -8,6 +8,27 @@ duration: "18:02"
 duration_seconds: 1082
 view_count: 51242
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Guide: https://natesnewsletter.substack.com/p/how-a-family-used-ai-to-cut-a-195k?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  AI is leveling the playing field with institutions.
+
+  The common story is that AI helps institutions do more — but the reality is that it’s quietly dismantling centuries-old systems of information asymmetry, helping ordinary people challenge systems that have long been rigged.
+
+  In this video, I share the inside scoop on using AI for institutional-grade investigation:
+  • Why AI exposes hidden violations in complex billing systems
+  • How large language models decode regulatory rulebooks instantly
+  • What “adversarial prompting” means for real-world disputes
+  • Where AI shifts leverage from institutions back to individuals
+
+  AI doesn’t give legal advice—it gives you the tools to uncover truth. The opportunity is to learn how to use it before the institutions do.
+
+  Get the full story on the family who saved $160,000 here: https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

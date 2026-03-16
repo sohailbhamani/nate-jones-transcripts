@@ -8,6 +8,37 @@ duration: "6:29"
 duration_seconds: 389
 view_count: 708
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn more about me: https://www.natebjones.com/
+  Read the study here: https://www.microsoft.com/en-us/research/uploads/prodnew/2024/07/Generative-AI-in-Real-World-Workplaces.pdf
+
+  Chapters
+
+  00:00 AI's Influence on Non-Tech Roles
+  00:56 The Potential of AI for Developers
+  01:55 AI Tools and Fulfillment in Customer-Facing Roles
+  03:54 The Uncertainty of AI's Impact on Team Productivity
+
+  Takeaways
+
+  1. AI has a significant impact on time allocation and task efficiency in non-tech roles.
+  2. Developers see the potential of AI in areas like generating tests and documentation.
+  3. AI tools like Copilot can reduce repetitive language tasks for customer success and sales professionals.
+  4. The study highlights the need for further research on AI's impact on team productivity and value delivery to customers.
+
+  Sound Bites
+
+  "People using Microsoft Copilot read 11% fewer emails on average."
+  "Developers highlight AI's potential in generating tests and documentation."
+  "AI tools like Copilot make customer success professionals feel more fulfilled."
+
+  Summary
+
+  Microsoft released a study on AI in the workplace, highlighting its impact on different job roles. Non-tech roles saw a double-digit change in time allocation, with 11% fewer emails and higher document throughput. Developers focused on the potential of AI, particularly in generating tests and documentation. Customer success and sales professionals found AI tools like Copilot fulfilling, as they reduced repetitive language tasks. The study acknowledged the need for further research on how AI affects team productivity and the ability to ship value to customers. The impact of AI on team-level productivity remains uncertain.
+
+  Keywords
+
+  AI in the workplace, Microsoft study, job roles, time allocation, email reduction, document throughput, potential of AI, developers, generating tests, documentation, customer success, sales professionals, repetitive language tasks, team productivity, value to customers
 
 yt_tags:
   []

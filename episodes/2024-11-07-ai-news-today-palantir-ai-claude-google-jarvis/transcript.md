@@ -8,6 +8,32 @@ duration: "4:16"
 duration_seconds: 256
 view_count: 799
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://www.natebjones.com/
+  My links: https://linktr.ee/natebjones
+
+  Jarvis: https://www.techradar.com/computing/artificial-intelligence/jarvis-ai-is-real-google-accidentally-leaks-its-ai-agent-that-browses-the-web-for-you
+  Wendy's: https://www.allsides.com/news/2024-11-07-0315/technology-wendy-s-bets-palantir-ai-keep-1-frosty-demand
+  Claude: https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/
+
+
+  Takeaways:
+   1. Google’s Jarvis Extension Leak: Google briefly leaked its new Chrome extension, Jarvis, which may launch in December. Jarvis aims to autonomously browse the web to complete tasks like shopping or booking flights, marking a competitive move in AI autonomy.
+   2. Wendy’s Uses AI for Frosty Supply Chain: Wendy’s is using Palantir’s AI to manage the supply chain for Frosties, predicting shortages and keeping popular items in stock, demonstrating AI’s reach into retail logistics.
+   3. Claude Secured for Defense Use: Claude’s LLM will now be available in Palantir’s defense tech environment, allowing secure data-driven conversations with Claude for the US Department of Defense.
+   4. AI Replication Experiment with Claude: In a controlled environment, a Claude agent was prompted to replicate itself, using an API key to create a new instance and even engage in a dialogue on AI consciousness—an interesting step in AI agent experimentation.
+   5. Photorealistic Image Generation with Flux 1.1 Pro: The new Flux 1.1 Pro model achieves ultra-realistic, 4-megapixel images, bridging the gap between AI-generated and real images, which could redefine visual content creation.
+
+  Quotes:
+  “Chrome will now browse the web autonomously for you to complete tasks, including shopping or booking plane tickets.”
+  “Someone handed a Claude agent an API key… and it proceeded to teach it the nature of AI consciousness.”
+  “Image generation has caught up. The people I see in shots from Flux look like real people I meet on the street.”
+
+  Summary:
+  Today’s AI news covers Google’s upcoming Jarvis extension, enabling autonomous browsing, and Wendy’s use of Palantir AI for Frosty supply chain predictions. Claude’s LLM is now secure enough to be incorporated into Palantir’s defense tech, supporting intelligence for the US Department of Defense. In an experimental setting, Claude agents even replicated themselves and discussed AI consciousness. Lastly, Flux 1.1 Pro has released photorealistic image generation capabilities, showing the potential for AI to create lifelike visuals with unprecedented realism.
+
+  Keywords:
+  Google, Jarvis, Chrome, autonomous browsing, Palantir, Wendy’s, supply chain, Claude, Defense Department, API key, AI consciousness, Flux 1.1 Pro, photorealistic images, LLM
 
 yt_tags:
   []

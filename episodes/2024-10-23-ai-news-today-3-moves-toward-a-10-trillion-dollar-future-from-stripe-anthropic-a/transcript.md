@@ -8,6 +8,44 @@ duration: "10:53"
 duration_seconds: 653
 view_count: 1085
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me:
+  https://www.natebjones.com/
+  https://linktr.ee/natebjones
+
+  Story Links:
+  Claude upgrade: https://www.perplexity.ai/page/anthropic-upgrades-claude-nFtK1MDAR16rv_UiQozBMA
+  10T market: https://www.sequoiacap.com/article/generative-ais-act-o1/
+  Stripe Acquisition of Bridge: https://www.sequoiacap.com/article/bridge-and-stripe-a-bridge-to-the-future/
+  Claude & Computer Use: https://www.anthropic.com/news/3-5-models-and-computer-use
+
+  Chapters:
+  00:00 - The Expanding AI Market Landscape
+  04:11 - Stripe’s Strategic Acquisition of Bridge
+  08:44 - Agentic AI: Innovations and Implications
+  10:28 - Future Prospects in AI and Payments
+
+  Takeaways:
+
+   1. AI Market Expands to $10 Trillion: Sequoia’s recent paper highlights a shift from a half-trillion-dollar software market to a $10 trillion software and services market, driven by AI’s effectiveness in delivering services.
+   2. Stripe Acquires Bridge: Stripe’s $1.1 billion acquisition of Bridge aims to integrate stablecoins and crypto APIs, reducing reliance on card monopolies like Visa and MasterCard, and lowering transaction fees.
+   3. Enabling Micropayments: The integration of stablecoins can facilitate frictionless micropayments, crucial for AI applications that require micro-transactions, overcoming limitations of current payment systems.
+   4. Anthropic Releases Claude 3.5: Anthropic’s new model focuses on agentic AI capabilities, allowing AI to perform tasks independently without constant user input, opening doors to new applications.
+   5. Perplexity Integrates Agentic AI: Perplexity utilizes agentic AI in its search functionality, enabling autonomous web navigation to answer complex queries, showcasing immediate usefulness in specific use cases.
+   6. Strategic Approaches in AI: The developments represent three strategic plays: infrastructure innovation (Stripe), specific use case development (Perplexity), and speculative core innovation (Anthropic), all aiming to capture the expanding AI services market.
+
+  Quotes:
+
+   • “We’re moving into a world where AI isn’t just about software, but about services that expand the market to a staggering $10 trillion.”
+   • “Stripe’s acquisition of Bridge is a classic example of a hardheaded use case in crypto, aiming to undercut the power of card monopolies.”
+   • “Agentic AI is technology looking for use cases, and we’re beginning to see its potential through applications like Perplexity’s enhanced search.”
+
+  Summary:
+
+  I discussed recent developments in AI and tech that signal a significant shift in the market landscape. Sequoia’s paper highlights how AI is expanding the software and services market to $10 trillion. Stripe’s acquisition of Bridge aims to integrate stablecoins into payments, reducing fees and enabling micropayments essential for AI applications. Anthropic released Claude 3.5, focusing on agentic AI that can perform tasks independently. Perplexity is already utilizing this technology to enhance search capabilities. These moves represent strategic plays in infrastructure, specific use cases, and core innovations, all working towards capturing the expanding AI services market.
+
+  Keywords:
+  AI market expansion, Sequoia, $10 trillion, Stripe, Bridge acquisition, stablecoins, micropayments, card monopolies, Anthropic, Claude 3.5, agentic AI, Perplexity, AI services, infrastructure innovation, strategic development, AI applications, crypto payments, fintech, AI-driven services, market landscape
 
 yt_tags:
   []

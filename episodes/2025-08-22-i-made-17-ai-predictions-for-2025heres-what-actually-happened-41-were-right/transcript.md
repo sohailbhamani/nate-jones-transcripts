@@ -8,6 +8,29 @@ duration: "17:10"
 duration_seconds: 1030
 view_count: 6857
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. AI Creators Go Mainstream: 2025 saw AI-generated personalities and creators flourish across platforms, including AI-native agencies and subscription content, with growing user acceptance.
+   2. Synthetic Feeds Dominate: Nearly 40% of Instagram feeds now include AI-generated content, driven by integrated tools and indistinguishable AI visuals and video.
+   3. Voice AI Hits the Spotlight: Contextually aware, emotionally intelligent voice systems have gone mainstream, sparking user attachment to specific AI voices.
+   4. Companionship & Visual AI Growth: AI companions—visual and interactive—are a fast-growing market, with significant revenue and cultural penetration.
+   5. Memory as a Game-Changer: Persistent and cross-conversation memory features are becoming a key differentiator in AI products, with multi-agent memory strategies emerging.
+   6. Agent Hype Faces Reality: The AI agent boom has hit a “trough of disillusionment,” with many projects canceled due to skill shortages and underdelivered ROI.
+   7. Hardware Delays but Inevitable: AI-native consumer hardware is behind schedule, likely pushed to 2026, but still expected to emerge as a third primary device category.
+
+  Quotes
+  “We’ve built an AI that’s measurably smarter and experientially worse than its predecessors.”
+  “AI transformation is as jagged as the intelligence of AI itself.”
+  “Agents are headed for the trough of disillusionment—not because they lack potential, but because we lack enough people who can build them well.”
+
+  Summary
+  In January 2025, I made 17 AI predictions for the year. Eight months in, I graded them: seven clear hits, six partials, and four misses. Wins include the rise of AI creators, synthetic social feeds, voice AI, AI companions, and advances in memory. Partials reflect uneven adoption of AI in workplaces, delayed hardware, and tempered AGI debates. Misses include AI weddings, smart mirrors, and humanoid robots’ “iPhone moment.” Looking back, I wish I’d predicted user attachment to specific AI models, the year’s heavy focus on AI coding, and the explosion of open-source LLM proliferation.
+
+  Keywords
+  AI predictions 2025, AI creators, synthetic content, voice AI, AI companions, AI memory, AI agents, trough of disillusionment, AI hardware, AGI debate, AI adoption, open source LLMs, model affinity, AI code development, humanoid robots, AI weddings, smart mirrors
 
 yt_tags:
   []

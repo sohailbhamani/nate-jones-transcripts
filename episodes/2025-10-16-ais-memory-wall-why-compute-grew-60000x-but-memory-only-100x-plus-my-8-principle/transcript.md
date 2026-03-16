@@ -8,6 +8,31 @@ duration: "27:07"
 duration_seconds: 1627
 view_count: 15674
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/i-wrote-the-ai-memory-fix-every-existing?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  Why do AI systems keep getting WORSE at memory?
+  The common story is that LLMs are getting smarter — but the truth is, their memory is collapsing under its own weight.
+
+  In this video, I share the inside scoop on the real architecture of AI memory:
+  • Why “stateless” design creates brittle intelligence
+  • How forgetting is a human technology worth copying
+  • What every builder must separate: personal, project, and session state
+  • Where structured, portable context gives you an agentic edge
+
+  Memory isn’t a feature — it’s the foundation of AI systems that can think with you. The teams that master it first will own the next wave of automation.
+
+  Chapters:
+  00:00 The Memory Wall in AI
+  02:41 Root Causes of Memory Problems
+  05:46 Challenges in Memory Implementation
+  10:56 Principles for Building Memory Systems
+  25:37 The Future of AI Memory
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

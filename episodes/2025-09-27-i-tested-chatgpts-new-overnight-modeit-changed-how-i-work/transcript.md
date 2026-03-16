@@ -8,6 +8,26 @@ duration: "15:53"
 duration_seconds: 953
 view_count: 21869
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/grab-n-go-prompt-for-reading-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  ______________________
+
+  What’s really happening inside this week’s AI power moves?
+
+  We can get overwhelmed by all the news, but if we look under the surface and the hype, just a few stories really mattered.
+
+  In this video, I share the inside scoop on proactive AI, model diversification, agentic tools, and regulation:
+  • Why OpenAI Pulse signals proactive AI—and an ad surface.
+  • How Microsoft adding Anthropic to Copilot fits looser ties.
+  • What Meta–Gemini talks reveal about Llama’s limits.
+  • Where compute and policy collide: Stargate and California SB 53.
+
+  For operators and teams, the upside is real, but fragmentation, ad-driven surfaces, and new compliance load mean you need a clear AI strategy and guardrails.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

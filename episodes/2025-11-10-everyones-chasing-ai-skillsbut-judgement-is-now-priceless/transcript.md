@@ -8,6 +8,24 @@ duration: "14:45"
 duration_seconds: 885
 view_count: 14284
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/in-the-age-of-ai-good-judgement-is?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside the new AI economy of judgment?
+  The common story is that intelligence itself is the value — but the reality is more complicated.
+
+  In this video, I share the inside scoop on the core skill every AI-era leader needs:
+  • Why intelligence is becoming cheap and judgment is scarce
+  • How to spot the true bottlenecks in AI-driven systems
+  • What great decision-makers do differently from prompt engineers
+  • Where judgment compounds through feedback, focus, and accountability
+
+  As AI gets cheaper and faster, operators who can exercise sound judgment — not just run automation — will define the next decade of winners.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

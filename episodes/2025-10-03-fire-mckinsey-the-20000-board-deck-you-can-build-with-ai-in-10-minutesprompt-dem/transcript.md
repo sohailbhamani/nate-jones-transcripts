@@ -8,6 +8,42 @@ duration: "21:53"
 duration_seconds: 1313
 view_count: 13664
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/powerpoint-is-the-hardest-thing-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  What's the deal with AI and PowerPoint?
+  I mostly hear that AI can't do PowerPoint, that AI PowerPoints are badly designed, that AI can't be trust with PowerPoint.
+
+  That's all wrong now. AI CAN do production presentation decks. It CAN design decks. It CAN do sophisticated narratives and analysis and present those narratives in a visual way in a PowerPoint.
+
+  BUT it's incredibly tricky to prompt. And I spent WEEKS figuring out how to prompt it right. Here are my lessons learned:
+
+  In this video, I share the inside scoop on enterprise-grade PowerPoint with AI: workflow enforcement, prompt engineering, and reliable slide automation:
+  • Why workflow enforcement beats generic prompts for PPT.
+  • How simple typography and spacing stabilize LLM slide output.
+  • What multi-chat agent architecture enables for long narratives.
+  • Where validation gates reconcile data conflicts and visual brittleness.
+
+  Chapters:
+  00:00 Unlocking AI for PowerPoint Efficiency
+  02:39 Five Principles for Effective AI Prompts
+  05:09 Visual Design and AI: The Importance of Simplicity
+  08:05 Building Complex Narratives with AI
+  10:40 Iterative Prompting for Better Results
+  12:55 Conflict Resolution in Data Processing
+  15:17 Learning from Bad Prompts: A Case Study
+  17:07 Improving Prompts for Better PowerPoint Outputs
+  19:54 The Future of AI in Business Presentations
+
+  For teams, AI can cut days to hours—but only if you own the data and enforce disciplined, tool-aware prompts.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  TAGS: AI strategy, large language models, AI agents, prompt engineering, automation at work, Claude for PowerPoint, ChatGPT for slides, Copilot PowerPoint tips, PowerPoint automation, executive decks, slide design, accessibility checks, HTML2 PPTX, multi chat architecture, board deck workflow, AI strategy for teams, LLMs for PowerPoint, prompt engineering for slides
 
 yt_tags:
   - "AI strategy"

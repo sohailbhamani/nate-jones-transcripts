@@ -7,6 +7,35 @@ duration: "18:37"
 duration_seconds: 1117
 view_count: 67855
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/my-honest-field-notes-from-ces-2026?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________
+  What's really happening inside the AI infrastructure race at CES 2026? The common story is it's about flashy gadgets — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why CES 2026 marks AI's shift from chip race to factory race:
+  -Why NVIDIA's Rubin platform optimizes for inference token economics
+  -How OpenAI secured 26 gigawatts across NVIDIA, AMD, Broadcom
+  -What inference context memory reveals about AI scaling constraints
+  -Where demand pressure creates multi-winner hardware landscape despite NVIDIA dominance
+
+  Chapters:
+  00:00 - Introduction: CES 2026 and the AI Industrial Phase
+  01:09 - The Demand Shock: Inference Dominates Training
+  02:54 - NVIDIA's Rubin: Selling an AI Factory, Not Just GPUs
+  04:50 - Inference Context Memory: Managing the KV Cache
+  06:29 - OpenAI as Reference Customer: The Factory Blueprint
+  08:51 - OpenAI's Multi-Vendor Strategy: 26 Gigawatts of Capacity
+  10:24 - Memory Supply Chain: Samsung and SK Hynix Join Stargate
+  11:45 - DRAM Shortage: The Hidden Bottleneck
+  12:44 - Will Anyone Challenge NVIDIA's Dominance?
+  15:05 - Multi-Winner Reality: AMD, Broadcom, and Anthropic's TPUs
+  17:09 - Physical AI: From Data Centers to Robotics
+  18:07 - Conclusion: The Year AI Became a Factory
+
+  The companies that locked supply chain deals in late 2025 — like OpenAI with Samsung, SK Hynix, and hyperscalers — secured competitive advantage for the next two years as AI becomes ambient intelligence everywhere.
+
+  Subscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI infrastructure"

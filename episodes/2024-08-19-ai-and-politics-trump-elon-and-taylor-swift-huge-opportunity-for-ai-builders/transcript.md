@@ -8,6 +8,42 @@ duration: "4:59"
 duration_seconds: 299
 view_count: 243
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+
+  Wyoming story: https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/
+
+  Trump and Taylor story: https://www.independent.co.uk/news/world/americas/us-politics/trump-taylor-swift-swifties-ai-deepfake-b2598414.html
+
+  Elon story: https://apnews.com/article/parody-ad-ai-harris-musk-x-misleading-3a5df582f911a808d34f68b766aa3b8e
+
+  Chapters
+
+  00:00 AI in Politics: The Rise of Chatbot Candidates
+  01:24 Legal and Ethical Implications of AI-Generated Deepfakes in Politics
+  02:17 Navigating the Era of AI-Generated Disinformation in Politics
+  03:14 The Need for Authenticity Verification in an AI-Driven Political Landscape
+
+  Takeaways
+
+  1. AI is increasingly being used in politics, such as a candidate using a chatbot to make decisions if elected.
+  2. Deepfakes created using AI can have legal and ethical implications, as seen in the cases of Taylor Swift and Kamala Harris.
+  3. The prevalence of AI-generated disinformation in politics requires a shift in how we consume and verify information.
+  4. There is a need for tools and systems that can verify the authenticity of content and combat AI-generated falsehoods.
+
+  Sound Bites
+
+  "AI and politics, they are getting together whether we like it or not"
+  "President Trump claimed endorsement from Taylor Swift using deep faked AI images"
+  "We need to assume that AI is in the political discourse, that it is generating disinformation"
+
+  Summary
+
+  AI and politics are intersecting in various ways, as highlighted by recent stories. One example is a candidate in Wyoming who has built a chatbot called Vic to make decisions if elected. Another example is President Trump using deepfaked AI images of Taylor Swift, potentially violating Nashville's AI law. Elon Musk also tweeted a deepfaked audio of Kamala Harris. These incidents demonstrate the need to assume that AI is generating disinformation in the political discourse. There is an opportunity to develop tools to verify the authenticity of content and combat AI-generated falsehoods.
+
+  Keywords
+
+  AI and politics, LLM candidate, chatbot, deepfake, disinformation, authenticity verification
 
 yt_tags:
   []

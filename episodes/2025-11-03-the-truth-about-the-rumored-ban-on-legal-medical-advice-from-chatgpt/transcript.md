@@ -8,6 +8,20 @@ duration: "1:38"
 duration_seconds: 98
 view_count: 3416
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Do not believe the rumors.
+  The viral story is that ChatGPT “can’t” give legal or medical guidance anymore — but the reality is that Reddit is a trash fire and should not give news to anyone.
+
+  In this video, I share the inside scoop on how misinformation spreads about AI:
+  • Why a Reddit rumor spiraled into viral AI panic
+  • How OpenAI’s minor policy change got misinterpreted
+  • What actually happens when you test ChatGPT today
+  • Where AI advice still saves real people serious money
+
+  AI is moving fast, but that’s no excuse for lazy reporting — always test before you trust.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"
