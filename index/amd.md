@@ -1,7 +1,8 @@
 # Amd
 
-Episodes discussing **Amd** (4 episodes):
+Episodes discussing **Amd** (5 episodes):
 
+- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
 - [Trump Just Gutted State Al Laws, OpenAl Panicked, Al Agents Stole $4.6M--Your 10-Minute Breakdown](../episodes/2025-12-13-trump-just-gutted-state-al-laws-openal-panicked-al-agents-stole-46m-your-10-minu/transcript.md) (2025-12-13)

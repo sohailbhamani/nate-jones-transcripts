@@ -1,7 +1,8 @@
 # Sora
 
-Episodes discussing **Sora** (14 episodes):
+Episodes discussing **Sora** (15 episodes):
 
+- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
 - [Codex 5.2 Launch Revealed: How OpenAI Got Non-Engineers Shipping Real Code](../episodes/2025-12-18-codex-52-launch-revealed-how-openai-got-non-engineers-shipping-real-code/transcript.md) (2025-12-18)
 - [Master Perplexity Prompting -- Why It's Different from ChatGPT + Demo](../episodes/2025-10-28-master-perplexity-prompting-why-its-different-from-chatgpt-demo/transcript.md) (2025-10-28)
