@@ -1,9 +1,19 @@
 # Ai News
 
-Episodes discussing **Ai News** (281 episodes):
+Episodes discussing **Ai News** (291 episodes):
 
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
+- [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
+- [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
+- [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
+- [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
+- [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
+- [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
+- [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)

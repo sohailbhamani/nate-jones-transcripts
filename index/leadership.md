@@ -1,12 +1,26 @@
 # Leadership
 
-Episodes discussing **Leadership** (204 episodes):
+Episodes discussing **Leadership** (218 episodes):
 
 - [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
+- [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
+- [Why AI-powered dashboards are lying to leadership #futureofwork #ai](../episodes/2026-03-15-why-ai-powered-dashboards-are-lying-to-leadership-futureofwork-ai/transcript.md) (2026-03-15)
+- [Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt](../episodes/2026-03-15-why-messy-teams-outperform-perfectly-planned-ones-ai-futureofwork-chatgpt/transcript.md) (2026-03-15)
+- [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
+- [Don't mistake AI visibility for actual control #ai #futureofwork](../episodes/2026-03-14-dont-mistake-ai-visibility-for-actual-control-ai-futureofwork/transcript.md) (2026-03-14)
+- [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
+- [2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork](../episodes/2026-03-09-2026-will-require-more-retraining-than-the-last-25-years-combined-ai-futureofwor/transcript.md) (2026-03-09)
+- [Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.](../episodes/2026-03-09-claude-blackmailed-its-developers-heres-why-the-system-hasnt-collapsed-yet/transcript.md) (2026-03-09)
+- [45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.](../episodes/2026-03-08-45-people-200m-revenue-the-question-nobodys-asking-about-ai-and-your-team-size/transcript.md) (2026-03-08)
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
+- [Why NVIDIA bought Groq — it's not what you think #nvidia #groq #futureofwork #ai](../episodes/2026-03-05-why-nvidia-bought-groq-its-not-what-you-think-nvidia-groq-futureofwork-ai/transcript.md) (2026-03-05)
+- [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)

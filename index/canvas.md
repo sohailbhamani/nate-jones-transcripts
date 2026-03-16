@@ -1,7 +1,8 @@
 # Canvas
 
-Episodes discussing **Canvas** (17 episodes):
+Episodes discussing **Canvas** (18 episodes):
 
+- [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [Google Just Pulled a Power Move: VS Code, Colab, and Gemini 3.0](../episodes/2025-11-15-google-just-pulled-a-power-move-vs-code-colab-and-gemini-30/transcript.md) (2025-11-15)
 - [NEW: Claude's 'Super Prompts' Will Save You DAYS of Work (Full Tutorial + Demo)](../episodes/2025-10-17-new-claudes-super-prompts-will-save-you-days-of-work-full-tutorial-demo/transcript.md) (2025-10-17)

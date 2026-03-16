@@ -1,9 +1,14 @@
 # Projects
 
-Episodes discussing **Projects** (58 episodes):
+Episodes discussing **Projects** (63 episodes):
 
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Stop accepting AI output that "looks right." The other 17% is everything and nobody is ready for it.](../episodes/2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody/transcript.md) (2026-03-10)
+- [45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.](../episodes/2026-03-08-45-people-200m-revenue-the-question-nobodys-asking-about-ai-and-your-team-size/transcript.md) (2026-03-08)
+- [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
+- [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
+- [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)

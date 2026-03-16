@@ -1,9 +1,12 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (116 episodes):
+Episodes discussing **News Roundup** (119 episodes):
 
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
+- [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
+- [Perpetual AI agents are here — and they don't forget #ai #agents #futureofwork](../episodes/2026-03-06-perpetual-ai-agents-are-here-and-they-dont-forget-ai-agents-futureofwork/transcript.md) (2026-03-06)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)

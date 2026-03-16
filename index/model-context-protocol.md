@@ -1,8 +1,9 @@
 # Model Context Protocol
 
-Episodes discussing **Model Context Protocol** (27 episodes):
+Episodes discussing **Model Context Protocol** (28 episodes):
 
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [The Skill Gap That Will Separate AI Winners from Everyone Else](../episodes/2025-12-30-the-skill-gap-that-will-separate-ai-winners-from-everyone-else/transcript.md) (2025-12-30)

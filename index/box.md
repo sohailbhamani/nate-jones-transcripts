@@ -1,8 +1,12 @@
 # Box
 
-Episodes discussing **Box** (58 episodes):
+Episodes discussing **Box** (62 episodes):
 
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
+- [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
+- [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
+- [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)

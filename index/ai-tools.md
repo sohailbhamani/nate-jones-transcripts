@@ -1,12 +1,31 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (339 episodes):
+Episodes discussing **Ai Tools** (358 episodes):
 
 - [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
+- [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
+- [Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt](../episodes/2026-03-15-why-messy-teams-outperform-perfectly-planned-ones-ai-futureofwork-chatgpt/transcript.md) (2026-03-15)
+- [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
+- [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
+- [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
+- [Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.](../episodes/2026-03-09-claude-blackmailed-its-developers-heres-why-the-system-hasnt-collapsed-yet/transcript.md) (2026-03-09)
+- [Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai](../episodes/2026-03-09-your-ai-buddy-doesnt-work-here-anymore-futureofwork-ai-personalai/transcript.md) (2026-03-09)
+- [45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.](../episodes/2026-03-08-45-people-200m-revenue-the-question-nobodys-asking-about-ai-and-your-team-size/transcript.md) (2026-03-08)
+- [From Pixels to Primitives: What Front-End Actually Is Now #engineering #ai #futureofwork](../episodes/2026-03-08-from-pixels-to-primitives-what-front-end-actually-is-now-engineering-ai-futureof/transcript.md) (2026-03-08)
+- [Front-End Engineering Didn't Die. It Finally Grew Up. #engineering #ai #futureofwork](../episodes/2026-03-08-front-end-engineering-didnt-die-it-finally-grew-up-engineering-ai-futureofwork/transcript.md) (2026-03-08)
+- [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
+- [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
+- [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
+- [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
+- [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
+- [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)

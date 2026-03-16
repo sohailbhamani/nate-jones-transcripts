@@ -1,7 +1,10 @@
 # Codex
 
-Episodes discussing **Codex** (14 episodes):
+Episodes discussing **Codex** (17 episodes):
 
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
+- [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)

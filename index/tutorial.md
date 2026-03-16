@@ -1,8 +1,21 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (133 episodes):
+Episodes discussing **Tutorial** (146 episodes):
 
 - [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
+- [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
+- [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
+- [Why AI agents need every guardrail made explicit! #ai #aiagents #futureofwork](../episodes/2026-03-12-why-ai-agents-need-every-guardrail-made-explicit-ai-aiagents-futureofwork/transcript.md) (2026-03-12)
+- [The Best AI Won't Sit There. It'll Interrupt You at Exactly the Right Moment. #futureofwork #ai](../episodes/2026-03-10-the-best-ai-wont-sit-there-itll-interrupt-you-at-exactly-the-right-moment-future/transcript.md) (2026-03-10)
+- [Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.](../episodes/2026-03-09-claude-blackmailed-its-developers-heres-why-the-system-hasnt-collapsed-yet/transcript.md) (2026-03-09)
+- [From Pixels to Primitives: What Front-End Actually Is Now #engineering #ai #futureofwork](../episodes/2026-03-08-from-pixels-to-primitives-what-front-end-actually-is-now-engineering-ai-futureof/transcript.md) (2026-03-08)
+- [The AI talent grab big tech doesn't want you to see #futureofwork #ai #groq #nvidia](../episodes/2026-03-05-the-ai-talent-grab-big-tech-doesnt-want-you-to-see-futureofwork-ai-groq-nvidia/transcript.md) (2026-03-05)
+- [Big tech stopped buying startups — here's what changed #nvidia #groq #ai](../episodes/2026-03-04-big-tech-stopped-buying-startups-heres-what-changed-nvidia-groq-ai/transcript.md) (2026-03-04)
+- [One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai](../episodes/2026-03-03-one-ai-breakthrough-just-unlocked-a-new-storytelling-medium-nanobananapro-future/transcript.md) (2026-03-03)
+- [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
+- [Nano Banana Pro closed a gap — and unlocked billions #nanobananapro #ai #futureofwork](../episodes/2026-03-01-nano-banana-pro-closed-a-gap-and-unlocked-billions-nanobananapro-ai-futureofwork/transcript.md) (2026-03-01)
+- [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)

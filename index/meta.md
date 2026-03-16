@@ -1,8 +1,15 @@
 # Meta
 
-Episodes discussing **Meta** (93 episodes):
+Episodes discussing **Meta** (100 episodes):
 
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
+- [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
+- [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
+- [Claude Blackmailed Its Developers. Here's Why the System Hasn't Collapsed Yet.](../episodes/2026-03-09-claude-blackmailed-its-developers-heres-why-the-system-hasnt-collapsed-yet/transcript.md) (2026-03-09)
+- [Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai](../episodes/2026-03-09-your-ai-buddy-doesnt-work-here-anymore-futureofwork-ai-personalai/transcript.md) (2026-03-09)
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)

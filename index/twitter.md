@@ -1,8 +1,10 @@
 # Twitter
 
-Episodes discussing **Twitter** (25 episodes):
+Episodes discussing **Twitter** (27 episodes):
 
 - [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
+- [One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai](../episodes/2026-03-03-one-ai-breakthrough-just-unlocked-a-new-storytelling-medium-nanobananapro-future/transcript.md) (2026-03-03)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)

@@ -1,7 +1,9 @@
 # Notion
 
-Episodes discussing **Notion** (20 episodes):
+Episodes discussing **Notion** (22 episodes):
 
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
+- [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)](../episodes/2025-12-19-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today/transcript.md) (2025-12-19)
 - [JSON: How I Build Perfect Images in NanoBanana Pro](../episodes/2025-12-03-json-how-i-build-perfect-images-in-nanobanana-pro/transcript.md) (2025-12-03)

@@ -1,9 +1,27 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (186 episodes):
+Episodes discussing **Ai Agents** (204 episodes):
 
 - [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
+- [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
+- [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
+- [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
+- [Why AI agents need every guardrail made explicit! #ai #aiagents #futureofwork](../episodes/2026-03-12-why-ai-agents-need-every-guardrail-made-explicit-ai-aiagents-futureofwork/transcript.md) (2026-03-12)
+- [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
+- [Stop trusting AI agents to guess your intent! #ai #aiagents #futureofwork](../episodes/2026-03-11-stop-trusting-ai-agents-to-guess-your-intent-ai-aiagents-futureofwork/transcript.md) (2026-03-11)
+- [The Best AI Won't Sit There. It'll Interrupt You at Exactly the Right Moment. #futureofwork #ai](../episodes/2026-03-10-the-best-ai-wont-sit-there-itll-interrupt-you-at-exactly-the-right-moment-future/transcript.md) (2026-03-10)
+- [2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork](../episodes/2026-03-09-2026-will-require-more-retraining-than-the-last-25-years-combined-ai-futureofwor/transcript.md) (2026-03-09)
+- [Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai](../episodes/2026-03-09-your-ai-buddy-doesnt-work-here-anymore-futureofwork-ai-personalai/transcript.md) (2026-03-09)
+- [Front-End Engineering Didn't Die. It Finally Grew Up. #engineering #ai #futureofwork](../episodes/2026-03-08-front-end-engineering-didnt-die-it-finally-grew-up-engineering-ai-futureofwork/transcript.md) (2026-03-08)
+- [Humans hesitate — AI agents don't. Now what? #agenticai #agent #futureofwork](../episodes/2026-03-07-humans-hesitate-ai-agents-dont-now-what-agenticai-agent-futureofwork/transcript.md) (2026-03-07)
+- [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [Perpetual AI agents are here — and they don't forget #ai #agents #futureofwork](../episodes/2026-03-06-perpetual-ai-agents-are-here-and-they-dont-forget-ai-agents-futureofwork/transcript.md) (2026-03-06)
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
+- [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
+- [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
+- [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)

@@ -1,7 +1,8 @@
 # Netflix
 
-Episodes discussing **Netflix** (14 episodes):
+Episodes discussing **Netflix** (15 episodes):
 
+- [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)
 - [Everyone's Chasing AI Skills—But Judgement is Now Priceless](../episodes/2025-11-10-everyones-chasing-ai-skillsbut-judgement-is-now-priceless/transcript.md) (2025-11-10)
 - [Will AI Kill Your Job? 12 Brutal Career Questions Answered](../episodes/2025-07-25-will-ai-kill-your-job-12-brutal-career-questions-answered/transcript.md) (2025-07-25)

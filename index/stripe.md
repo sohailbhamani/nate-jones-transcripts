@@ -1,7 +1,8 @@
 # Stripe
 
-Episodes discussing **Stripe** (16 episodes):
+Episodes discussing **Stripe** (17 episodes):
 
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [NEW ChatGPT 5.2 Complete Breakdown: Tested on Excel, PowerPoint, Massive Data Sets, and More](../episodes/2025-12-12-new-chatgpt-52-complete-breakdown-tested-on-excel-powerpoint-massive-data-sets-a/transcript.md) (2025-12-12)
 - [Claude Skills is BIGGER than Model Context Protocol (MCP)—Here's Why](../episodes/2025-10-18-claude-skills-is-bigger-than-model-context-protocol-mcpheres-why/transcript.md) (2025-10-18)

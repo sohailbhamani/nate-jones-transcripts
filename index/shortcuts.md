@@ -1,7 +1,9 @@
 # Shortcuts
 
-Episodes discussing **Shortcuts** (6 episodes):
+Episodes discussing **Shortcuts** (8 episodes):
 
+- [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
+- [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
 - [Codex 5.2 Launch Revealed: How OpenAI Got Non-Engineers Shipping Real Code](../episodes/2025-12-18-codex-52-launch-revealed-how-openai-got-non-engineers-shipping-real-code/transcript.md) (2025-12-18)
 - [Agents Will Kill Your Ul by 2026--Unless You Build This Instead](../episodes/2025-11-30-agents-will-kill-your-ul-by-2026-unless-you-build-this-instead/transcript.md) (2025-11-30)
 - [Claude Just Rolled Out to 350,000 Employees](../episodes/2025-11-08-claude-just-rolled-out-to-350000-employees/transcript.md) (2025-11-08)

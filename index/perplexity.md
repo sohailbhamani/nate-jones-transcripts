@@ -1,7 +1,8 @@
 # Perplexity
 
-Episodes discussing **Perplexity** (39 episodes):
+Episodes discussing **Perplexity** (40 episodes):
 
+- [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Agents Will Kill Your Ul by 2026--Unless You Build This Instead](../episodes/2025-11-30-agents-will-kill-your-ul-by-2026-unless-you-build-this-instead/transcript.md) (2025-11-30)
