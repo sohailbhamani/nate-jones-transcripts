@@ -1,13 +1,9 @@
 # Copilot
 
-Episodes discussing **Copilot** (30 episodes):
+Episodes discussing **Copilot** (26 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
-- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [Claude Code Snuck in 7 Updates in 2 Weeks—Here's What You Need to Know in 10 Minutes](../episodes/2025-12-22-claude-code-snuck-in-7-updates-in-2-weeksheres-what-you-need-to-know-in-10-minut/transcript.md) (2025-12-22)
 - [Is OpenAI a Bubble? Here's the 2026 Test (Unit Economics + Compute + Enterprise Proof)](../episodes/2025-12-21-is-openai-a-bubble-heres-the-2026-test-unit-economics-compute-enterprise-proof/transcript.md) (2025-12-21)
