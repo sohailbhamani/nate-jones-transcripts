@@ -8,6 +8,18 @@ duration: "31:46"
 duration_seconds: 1906
 view_count: 17302
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening to tech roles as AI accelerates execution and creates new chaos in equal measure? The common story is that automation destroys jobs, but the reality is more complicated when speed spawns security nightmares, quality debt, and a trust deficit that only humans can fix. In this video, I share the inside scoop on why the roles that survive and thrive in AI are the ones built around accountability:
+
+  * Why GPU bills, cloud costs, and large-scale model deployment are creating a lucrative infrastructure gold rush for the right specialists
+  * How PMs, UX designers, and leaders who build trust amid AI-driven chaos become the hardest people to replace
+  * What the data and retrieval talent crunch means when vector database engineers and RAG specialists are in shortest supply
+  * Where the three-step career playbook lands: automate your own drudgery to survive, layer complementary AI skills to adapt, and build frameworks others adopt to lead
+
+  For knowledge workers navigating 2026, people get paid to solve problems and AI just moves the problems to new places. The question is whether you're positioned where the new problems are landing.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   []

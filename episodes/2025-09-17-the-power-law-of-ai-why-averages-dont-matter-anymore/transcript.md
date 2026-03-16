@@ -8,6 +8,16 @@ duration: "10:01"
 duration_seconds: 601
 view_count: 6403
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The world no longer runs on averages—it runs on power laws. In the age of AI, small differences in skill, strategy, or product execution create outsized rewards. Most people don’t realize it yet. This video breaks down what living in a power law world really means—for your career, for building products, and for competing in a market where AI accelerates everything.
+
+  What you’ll learn:
+   • Why averages no longer define performance or success
+   • How AI amplifies tiny differences into massive advantages
+   • What “power law” means for careers, products, and teams
+   • How to position yourself on the curve and move upward
+
+  Subscribe for daily AI news and strategy. For deeper playbooks and analysis, visit my Substack: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

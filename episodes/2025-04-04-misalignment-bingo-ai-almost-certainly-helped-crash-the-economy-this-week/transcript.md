@@ -8,6 +8,37 @@ duration: "3:05"
 duration_seconds: 185
 view_count: 4609
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Rohit's post on this: https://x.com/krishnanrohit/status/1907587352157106292
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. AI-Generated Trade Policy
+  There’s compelling evidence that the Trump administration used a language model like ChatGPT, Grok, or Claude to generate tariff policies. The hallmark was a recurring error across multiple LLMs: basing tariffs on trade imbalances rather than reciprocal country rates.
+   2. Trade Imbalance Error
+  LLMs incorrectly calculated tariffs by dividing the volume of imported goods by exported goods—an approach that no trained economist would endorse and that misrepresents the mechanics of trade policy.
+   3. LLM Pattern Matching Gone Wrong
+  The policy listed tariffs against entities based on top-level internet domains, not actual countries. This led to comical outcomes—like placing tariffs on uninhabited islands with penguins, such as the Heard and McDonald Islands.
+   4. Economic Consequences from Misaligned AI
+  This may represent the first real-world case of a misaligned AI system contributing to an economic policy failure—illustrating the rising risks of LLMs being used in high-stakes decision-making without oversight.
+   5. False Equivalence in Country Identification
+  The assumption that top-level domains (like .us or .cn) are one-to-one with sovereign countries is incorrect. LLMs may replicate this faulty logic unless trained or guided otherwise.
+   6. Human vs. Machine Accountability
+  While the immediate reaction may be to blame AI, the deeper issue may still be human: poor prompt design, lack of oversight, or blind faith in LLM outputs by decision-makers.
+
+  Quotes:
+  “We’re looking at the first case where arguably a misaligned AI caused an economic crisis.”
+  “They dumped a list of top-level internet domains and used that as the basis for tariff targets.”
+  “That’s what zero economists would recommend, but it’s exactly what the LLMs recommended.”
+
+  Summary:
+  I walked through evidence suggesting that the Trump administration used a large language model to write its latest trade tariffs. The strongest clue? A consistent error repeated by multiple models—tying tariffs to trade imbalances, a method no economist endorses. Even more damning: the policy targeted domains, not countries, leading to tariffs on islands populated only by penguins. It’s possibly the first instance of a misaligned AI shaping economic policy, and whether it’s machine error or human misuse, the implications are serious.
+
+  Keywords:
+  Trump administration, trade tariffs, AI policy, ChatGPT, Claude, Grok, large language models, economic crisis, misaligned AI, top-level domains, trade imbalance, Heard and McDonald Islands, AI misuse, AI governance
 
 yt_tags:
   []

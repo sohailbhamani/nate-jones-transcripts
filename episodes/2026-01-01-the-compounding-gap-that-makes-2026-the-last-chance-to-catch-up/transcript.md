@@ -7,6 +7,18 @@ duration: "16:49"
 duration_seconds: 1009
 view_count: 62959
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with AI in 2026 that most leaders are missing? The common story is that AI will gradually make everyone more productive, but the reality is more complicated when ten specific predictions trace back to what we already know today and the gap between fast movers and slow movers is about to become unbridgeable. In this video, I share the inside scoop on what's actually coming and why it matters now:
+
+  * Why memory breakthroughs and agent UI surfaces will arrive by mid-2026 and what that unlocks for always-on delegation
+  * How continual learning and recursive self-improvement will reshape LLMs faster than most enterprise planning cycles can absorb
+  * What very long-running agents mean for organizations when humans become the bottleneck instead of the technology
+  * Where work AI and personal AI split into completely different experiences and why that divide changes how you build teams
+
+  For leaders navigating 2026, the gap between fast-adopting companies and everyone else will widen dramatically, creating predator-level advantages for disruptors and existential risk for slow movers. The workforce retraining challenge ahead will exceed the previous twenty-five years combined.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI predictions 2026"

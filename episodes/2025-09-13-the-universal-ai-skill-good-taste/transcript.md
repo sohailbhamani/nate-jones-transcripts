@@ -8,6 +8,30 @@ duration: "15:44"
 duration_seconds: 944
 view_count: 6355
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/the-universal-ai-skill-good-taste?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Taste as Core Skill: In an AI-saturated world, taste—the ability to discern what feels right or wrong—becomes a defining human differentiator.
+   2. From Drudgery to Judgment: As AI handles more “grunt work” like spreadsheets, PDFs, and slides, the remaining leverage for humans lies in judgment and refinement.
+   3. Taste Is Experience-Driven: Taste develops over time through exposure and curiosity, not just formal work—whether it’s fantasy football drafts, book collecting, or fashion.
+   4. Accessible to Everyone: Taste isn’t elitist; even early-career professionals can cultivate it by focusing on areas they care about deeply.
+   5. Guardrail for AI: Effective AI use depends on pushing back, shaping outputs, and refusing to be overly deferential to models.
+   6. Rapidly Rising Value: As models accelerate in capability, the need for human taste rises, not falls—it’s now central to work, strategy, and teaching.
+   7. Flexible Tool Users: Humans’ adaptive ability to apply taste alongside tools is what allows us to thrive, even when AI is faster or smarter in narrow domains.
+
+  Quotes
+  “Taste is what’s left when AI can do a lot of the grunt work.”
+  “We’re embodied flexible tool users, and taste is the lever that AI can’t replace.”
+  “If you’ve ever looked at AI output and thought, ‘it feels hollow,’ that’s your taste speaking—trust it.”
+
+  Summary
+  In this talk, I argue that taste is the essential human skill in 2025. As AI rapidly takes over the work stack—producing spreadsheets, presentations, and even strategy—our leverage shifts from typing and producing to judging, refining, and insisting on quality. Taste isn’t elitist; it’s a skill formed through experience and curiosity, available to both early-career and senior professionals. The accelerating pace of AI only raises the value of taste, since humans must decide what’s useful, what’s hollow, and how to guide AI outputs. Our success lies in embracing this gut-driven judgment as a daily practice.
+
+  Keywords
+  taste, AI collaboration, human judgment, career growth, GPT-5, Claude, AI work stack, strategy, discernment, prompting, model outputs, flexible tool users, intelligence acceleration, usefulness vs perfection
 
 yt_tags:
   []

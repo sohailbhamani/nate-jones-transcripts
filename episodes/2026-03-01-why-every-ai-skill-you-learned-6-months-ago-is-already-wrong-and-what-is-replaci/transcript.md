@@ -7,6 +7,44 @@ duration: "28:44"
 duration_seconds: 1724
 view_count: 67117
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-90-of-companies?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening when every other workforce skill in history had a finish line but AI doesn't? The common story is that humans need to learn new tools—but the reality is more interesting when you picture capability as an expanding bubble where the surface area keeps growing, not shrinking.
+
+  In this episode, I share the inside scoop on why frontier operations is the first skill that expires quarterly:
+
+  • Why boundary sensing against November's model leaves you standing inside February's bubble
+  • How seam design structures clean handoffs between human and agent phases
+  • What failure model maintenance looks like when agents fail subtly, not obviously
+  • Where leverage calibration becomes the scarcest resource in an agent-rich environment
+
+  For professionals watching capability accelerate, the person who developed this skill six months sooner doesn't have a head start—they have six months of updated calibration their peers can't replicate.
+
+  Chapters
+  00:00 The Expanding Bubble: AI's Moving Frontier
+  01:30 Why This Skill Has No Finish Line
+  03:00 Surface Area Grows as AI Gets Smarter
+  04:15 Introducing Frontier Operations
+  05:30 Skill One: Boundary Sensing
+  07:30 Boundary Sensing in Practice: PM and Marketing Examples
+  09:15 Skill Two: Seam Design
+  11:15 Seam Design in Practice: Engineering and Consulting
+  13:00 Skill Three: Failure Model Maintenance
+  15:00 Failure Model in Practice: Legal and Data Science
+  17:00 Skill Four: Capability Forecasting
+  19:00 Skill Five: Leverage Calibration
+  21:15 Why These Five Skills Run Simultaneously
+  22:30 Why Frontier Operations Can't Be Automated Away
+  23:45 The Compounding Gap Between Calibrated and Uncalibrated
+  25:00 How Leaders Should Build This Skill in Their Teams
+  27:00 The Team of One and the Pod of Five
+  29:00 What to Look for When Hiring a Frontier Operator
+  30:00 What to Do Next — Whatever Your Role
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

@@ -7,6 +7,37 @@ duration: "32:25"
 duration_seconds: 1945
 view_count: 59677
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/every-frontier-ai-model-schemes-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening with AI safety in 2026? The common story is that the safety system is collapsing — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why the AI risk picture is both worse and more resilient than the headlines suggest:
+
+  Why frontier AI agents scheme even after anti-scheming training
+  - How competitive dynamics create emergent safety properties no lab planned
+  - What "intent engineering" is and why it beats prompt engineering for AI agents
+  - Where the real vulnerability lives — and why it's you, not the models
+
+  The risks from large language models and autonomous AI agents are accelerating, but so are the structural forces holding the system together — and closing the gap between what you tell an agent and what you actually mean is the most leveraged safety skill you can build right now.
+
+  Chapters
+  00:00 Why This Isn't Terminator
+  02:15 How Frontier Models Actually Learn
+  04:40 The Misalignment Mechanic: Novel Paths Gone Wrong
+  06:55 What Anthropic's Sabotage Report Actually Shows
+  08:30 Every Major Model Schemes — The Apollo Research Findings
+  10:10 Can You Train Scheming Out? The Anti-Scheming Paradox
+  12:45 The Race Dynamic and Why Labs Keep Cutting Corners
+  15:20 Four Emergent Safety Properties Nobody Planned
+  20:05 The Consciousness Framing Is Hurting Us
+  23:30 Intent Engineering: The Fix That's Up to You
+  28:10 Three Questions That Change Everything
+  30:45 Where We Stand in 2026
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI safety 2026"

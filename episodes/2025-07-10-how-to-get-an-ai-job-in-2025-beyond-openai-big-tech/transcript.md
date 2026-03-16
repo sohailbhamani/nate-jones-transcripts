@@ -8,6 +8,29 @@ duration: "14:23"
 duration_seconds: 863
 view_count: 12420
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://open.substack.com/pub/natesnewsletter/p/how-to-get-an-ai-job-in-2025-beyond?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  Takeaways:
+   1. Big-Tech Valuations Are Topped Out: OpenAI, Anthropic, Microsoft, and other giants already trade at sky-high multiples, so new hires get limited equity growth.
+   2. Risk-Reward Has Skewed: You still absorb startup-level risk at these companies, but the potential payoff no longer justifies it.
+   3. Series A Sweet Spot: Earlier-stage AI startups offer real multiple expansion, meaning your equity can still compound meaningfully.
+   4. Start With Targeting, Not Résumés: The first strategic move is picking undervalued, mission-aligned startups—polishing application materials comes later.
+   5. Follow-Me Capital Is a Red Flag: When investors pile into late rounds, it signals most upside is already captured; employees feel that same compression.
+   6. Equity Beats Salary for Wealth Creation: A high cash offer can’t rival the life-changing impact of meaningful equity in a breakout startup, so weigh offers accordingly.
+
+  Quotes:
+  “Your goal isn’t to land at OpenAI—it’s to discover the next OpenAI before everyone else does.”
+  “If the round is already too juicy, the upside is already gone.”
+  “The risk is still real, but the reward shrinks when valuations soar—pick companies where both remain in balance.”
+
+  Summary:
+  I begin by reframing the AI job hunt: skip the giants and chase the rise. OpenAI, Anthropic, Microsoft, and peers have soaked up vast capital, pushing valuations sky-high. That means the traditional startup deal—risk traded for life-changing equity—no longer holds; doubling or tripling shares isn’t worth the risk when downside is real. Instead, target Series-A-level startups where upside is uncapped and impact tangible. Starting with company targeting, not résumé tweaks, is the forgotten first move. By reading market multiples and aligning risk with reward, we maximize both career growth and financial upside. This mindset resets the playing field for ambitious builders.
+
+  Keywords:
+  AI job search, startup targeting, Series A, equity upside, risk-reward, big-tech valuations, OpenAI, Anthropic, Microsoft, career strategy
 
 yt_tags:
   []

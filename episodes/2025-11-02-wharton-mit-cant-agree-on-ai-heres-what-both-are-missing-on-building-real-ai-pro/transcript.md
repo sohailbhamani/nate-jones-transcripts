@@ -8,6 +8,24 @@ duration: "20:13"
 duration_seconds: 1213
 view_count: 8545
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-wharton-says-75?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  It's AI Fight Club for Academic studies.
+  The common story is that MIT found a 95% failure rate and Wharton found 75% success — but the reality is more complicated.
+
+  In this video, I share the inside scoop on what’s actually going on in corporate AI strategy and implementation:
+  • Why MIT’s “95% failure” and Wharton’s “75% success” don’t conflict
+  • How ROI definitions hide deep differences in AI maturity
+  • What “institutional fluency” really means for LLM adoption
+  • Where context, problem-solving, and taste drive real AI performance
+
+  The future belongs to teams that treat AI fluency as a core capability, not a headline.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

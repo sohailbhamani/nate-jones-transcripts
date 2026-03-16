@@ -8,6 +8,42 @@ duration: "5:19"
 duration_seconds: 319
 view_count: 5601
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My substack on DeepSeek: https://natesnewsletter.substack.com/p/deepseek-claims-to-threaten-nvidias?r=1z4sm5
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+  DeepSeek: https://www.businessinsider.com/deepseek-number-one-app-apple-store-openai-chatgpt-2025-1
+
+  Takeaways:
+   1. AI Market Disruption:
+  DeepSeek’s rise to the #1 spot in the App Store is shaking up the AI market. Its free ChatGPT-like features sparked concerns, leading to significant stock drops for NVIDIA (-11%), Microsoft (-4%), and others.
+   2. DeepSeek’s Key Features:
+  The app offers competitive AI capabilities for free, matches premium models like ChatGPT, and adds personality to responses. Its efficiency claims include being trained on minimal hardware, sparking skepticism.
+   3. Skepticism Around Compute Efficiency:
+  DeepSeek’s claim of using fewer chips raises questions about its infrastructure and chip sourcing, especially given the high demand from millions of users.
+   4. Investor Concerns About Moats:
+  Traders are worried about the replicability of AI models and the diminishing “moat” of proprietary AI investments, leading to fears over long-term profitability for big tech companies.
+   5. Demand for Intelligence Remains High:
+  The real investment opportunity lies in the assumption of infinite demand for intelligence, requiring continuous advancements in compute and serving capabilities.
+   6. Meta and DeepSeek’s Open-Source Impact:
+  Mark Zuckerberg is reportedly pushing Meta to learn from DeepSeek’s advancements, proving that even big players are adapting quickly to stay competitive.
+   7. Chips Still Matter:
+  Despite DeepSeek’s claims, advancing and serving AI at scale still depends heavily on chips. The demand for compute resources remains a key driver for the industry.
+
+  Quotes:
+
+  “We’re having a grownup moment for AI today—it’s big enough to make multi-trillion-dollar companies take a hit.”
+
+  “If you thought you could have a moat with a model, you don’t know AI. The moat is the innovation edge, not an uncopyable model.”
+
+  “The rocks have begun to think, and if there’s infinite demand for intelligence, there’s always room for more market growth.”
+
+  Summary:
+  DeepSeek has sent shockwaves through the AI and stock market, with NVIDIA down 11% and Microsoft down 4% following the app’s rise to #1 on the App Store. Offering free ChatGPT-like capabilities with bold efficiency claims, DeepSeek is raising questions about the replicability of AI models, chip usage, and market moats. Investors worry that proprietary AI investments may not be as defensible as previously thought. Despite skepticism, the industry continues to evolve with high demand for compute power. Companies like Meta are already adapting, ensuring that AI innovation remains a fast-moving and competitive landscape.
+
+  Keywords:
+  DeepSeek, NVIDIA, Microsoft, Meta, AI market, App Store, ChatGPT, chips, compute resources, AI models, innovation edge, investment, infinite intelligence demand, training infrastructure, open-source AI, AI disruption, stock market impact, Mark Zuckerberg, Llama, AI advancements, inference compute.
 
 yt_tags:
   []

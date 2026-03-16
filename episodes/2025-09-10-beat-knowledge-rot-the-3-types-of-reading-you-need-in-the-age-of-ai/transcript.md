@@ -8,6 +8,30 @@ duration: "19:03"
 duration_seconds: 1143
 view_count: 7660
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/the-complete-ai-reading-guide-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Awareness Reading: The lightest form of reading—keeping up with news, articles, or summaries to stay informed without deep engagement.
+   2. Retrieval Reading: Reading for specific facts or knowledge gaps, often assisted by AI tools like Perplexity or ChatGPT, similar to using Google to fetch answers.
+   3. Connectome Reading: Deep, energy-intensive reading that builds long-term understanding and rewires the brain’s pathways; reserved for works worth full attention.
+   4. AI as Reading Partner: AI should be seen as a tool to filter, retrieve, and scaffold knowledge—not as a replacement for curiosity or deep engagement.
+   5. Filtering Overload: The challenge is not “knowledge rot” but the flood of tokens AI produces, making sifting and prioritization the new core skill.
+   6. Curiosity as Fuel: Passion and curiosity remain the strongest assets for meaningful learning, even in the AI era.
+   7. From Reading to Creation: True mastery comes from transforming what you read into something new—whether bridging domains, publishing ideas, or finding your unique voice.
+
+  Quotes
+  “We need new skills in a world where we have artificial intelligence right next to us all the time.”
+  “People who passively use AI are bad readers. And that’s a different thing.”
+  “Your best asset, despite all of this, is still your curiosity.”
+
+  Summary
+  In this talk, I argue that reading is not dying in the age of AI—it’s evolving. I break down reading into three modes: awareness reading for skimming, retrieval reading for facts, and connectome reading for deep engagement. The real problem isn’t “knowledge rot” but the filtering challenge created by AI’s flood of tokens. AI can be a powerful partner in sifting and scaffolding knowledge, but curiosity and passion remain irreplaceable. By choosing what to read deeply and using AI to bridge domains, we can beat information overload and contribute new, meaningful ideas.
+
+  Keywords
+  reading, AI, knowledge rot, awareness reading, retrieval reading, connectome reading, information overload, Perplexity, GPT-5 Pro, Ethan Mollick, Richard Hamming, curiosity, learning pathways, information filtering, AI literacy
 
 yt_tags:
   []

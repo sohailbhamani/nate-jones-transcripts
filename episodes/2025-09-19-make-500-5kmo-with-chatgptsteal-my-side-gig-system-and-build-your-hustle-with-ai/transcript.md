@@ -8,6 +8,27 @@ duration: "17:49"
 duration_seconds: 1069
 view_count: 61651
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://open.substack.com/pub/natesnewsletter/p/chatgpt-build-my-side-hustlethe-complete?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  ________________
+
+  What’s really happening with building an AI-powered side gig?
+  The usual advice is super generic: "AI makes building a side gig easier than ever"—sure.
+
+  But HOW? What's the actual advantage now? Why? How do YOU leverage that advantage to build an AI side gig that actually stands a chance of making money?
+
+  In this video, I share the inside scoop on launching an AI-native side gig that actually ships:
+  • Why LLMs open a short-lived micro-niche window—and how to spot it.
+  • How to choose distribution-first micro markets you already know and serve.
+  • What tool stack ships fast: Lovable.dev, Outseta, Framer, Gemini—no heroics.
+  • Where to draw the line: ruthless scope, square-deal pricing, real traction.
+
+  For solo builders, the window is real but short; choose a niche you know, keep scope tight, and let distribution—not features—decide.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

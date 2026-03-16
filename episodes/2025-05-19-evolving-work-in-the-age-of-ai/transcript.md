@@ -8,6 +8,29 @@ duration: "7:37"
 duration_seconds: 457
 view_count: 4646
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Pride of Ownership Framework Persists: Three timeless questions—Do you know the material, can you trace its provenance, and will you own the outcome?—still govern trust in any work, AI-assisted or not.
+   2. Root Cause of AI Conflicts: Most battles over ChatGPT or Copilot are really about unanswered pride-of-ownership concerns, not the tech itself.
+   3. AI as Knowledge Amplifier: Used well, AI deepens product or domain expertise instead of replacing it, turning “yes” to “more yes” on true understanding.
+   4. Provenance Transparency Builds Trust: Explicitly logging prompts or at least describing how AI shaped your draft lets teammates reconstruct your reasoning and gain conviction.
+   5. Accountability Remains Human: KPIs, grades, and final decisions are still ours; blaming the model is a non-starter.
+   6. Artifact-Driven Conviction: Leave enough behind—notes, prompts, iterations—so a newcomer can follow the trail and reach the same confidence you hold.
+
+  Quotes:
+  “When you fight about AI at work, it’s almost always a fight about pride of ownership.”
+  “Humans expect humans to own the outcomes—you can’t blame the machine.”
+  “Could a stranger walk into your workspace, follow your artifacts, and arrive at the same conviction? That’s the real test.”
+
+  Summary:
+  I argue that most workplace conflicts about AI are really conflicts about pride of ownership. Whether before or after AI, people still ask three things: Do you truly know the material, can you trace its provenance, and will you own the outcome? AI doesn’t excuse us from these duties; used well, it can deepen them. It expands product knowledge, documents thought processes, and still leaves humans responsible for KPIs and grades. A workspace that preserves prompts and iterations lets any newcomer rebuild the same conviction. Re-forging work agreements around these principles allows organizations to adopt AI confidently, effectively, and successfully.
+
+  Keywords:
+  pride of ownership, AI, authorship, provenance, accountability, work culture, chain of provenance, product knowledge, transparency, KPIs, AI adoption
 
 yt_tags:
   []

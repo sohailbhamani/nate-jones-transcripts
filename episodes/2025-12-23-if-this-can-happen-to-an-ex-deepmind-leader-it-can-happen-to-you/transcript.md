@@ -7,6 +7,18 @@ duration: "9:31"
 duration_seconds: 571
 view_count: 52798
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with LLM-induced psychosis in leadership? The common story is that AI just makes us smarter, but the reality is more complicated when domain expertise gets quietly replaced by AI confidence and nobody notices until the damage is done. In this video, I share the inside scoop on a psychiatric risk emerging in 2026 workplaces:
+
+  * Why David Budden's Navier-Stokes claim reveals the specific symptoms of LLM psychosis in high-stakes decision making
+  * How leaders fall victim to confirmation bias with ChatGPT when the model tells them what they already believe
+  * What happens to organizations when executives can no longer distinguish their own expertise from the LLM's output
+  * Where businesses will start testing leaders for undue AI influence before it becomes a board-level liability
+
+  For executives and operators navigating 2026, the gap between using AI as a tool and letting it hijack your judgment will define stable leadership, and the ones who can't tell the difference will become liabilities to their organizations.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "LLM psychosis"

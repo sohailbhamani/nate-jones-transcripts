@@ -8,6 +8,35 @@ duration: "14:27"
 duration_seconds: 867
 view_count: 13516
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story: https://natesnewsletter.substack.com/p/the-ai-fluency-assessment-for-everyone?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  We aren't getting AI fluency right.
+  Like, at all.
+  We don't even have a language for it!
+
+  The common story is that “everyone’s learning AI fast or else" — but the reality is that most people plateau early because they never build a mental model of how large language models actually think.
+
+  And we miss a framework for understanding fluency levels beyond job family so we can reliably coach ourselves (and others) up.
+
+  In this video, I share the inside scoop on how to assess and grow your AI fluency:
+  • Why most AI users stay at the “rewrite emails” level
+  • How to develop mental models that make you faster and smarter
+  • What separates intuitive prompt engineering from systematic mastery
+  • Where to focus next if you want to lead, teach, or innovate in AI
+
+  The future of work belongs to people who can think in systems with AI — not just use it.
+
+  Chapters
+  00:00 Understanding AI Fluency Levels
+  04:41 Building Mental Models for AI
+  07:50 Mastering Systems Thinking in AI
+  11:22 Navigating the Evolving AI Landscape
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI fluency"

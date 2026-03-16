@@ -8,6 +8,41 @@ duration: "24:00"
 duration_seconds: 1440
 view_count: 9342
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/chatgpt-101-the-no-bs-guide-to-actually?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  ⸻
+
+  Takeaways
+   1. Context is the Magic: The more detail you give AI—situation, goals, constraints, audience—the more usable and specific the output becomes.
+   2. Prompts Aren’t Magic Words: Useful responses come from clear instructions, not secret phrasing. Categories like “situation, need, constraints, success” structure AI’s work.
+   3. Risks Need Surfacing: A generic meeting summary won’t highlight project risks. Explicitly ask for likelihood, impact, and ownership to reveal hidden issues.
+   4. Catch-All Prompts Scale: Instead of memorizing hundreds of prompts, use structured “write the prompt for me” approaches to adapt across scenarios.
+   5. Iteration Beats Perfection: Strong outputs come from multi-turn conversations—asking for edits, assumptions, and double-checks, not from one-shot queries.
+   6. Respect the Audience: Outputs improve when prompts include tone, relationship history, and real-world stakes (e.g., preserving a client relationship).
+   7. Courage to Ask: You don’t need precedent—AI can handle requests you’ve never seen before if you describe clearly what matters to you.
+
+  ⸻
+
+  Quotes
+
+  “We in the teaching community are doing you a disservice because we haven’t communicated clearly enough with good examples.”
+  “What you’re giving the AI in a prompt is not a set of magic words. It’s enough context for it to be helpful.”
+  “Have the courage to imagine a better way to do things and then find the words to express it.”
+
+  ⸻
+
+  Summary
+
+  This session is my no-BS guide to using AI effectively. Too often, people ask me reasonable questions—emails, reports, meeting notes—that AI should solve but doesn’t, because teaching has been too generic. I show how giving context (situation, needs, constraints, audience) transforms AI output from cold or vague into practical, real-world usable scripts and summaries. Strong results don’t come from magic words but from structured prompting, surfacing hidden risks, and iterating in conversation. With catch-all prompt frameworks and courage to describe what matters, anyone can use AI more productively.
+
+  ⸻
+
+  Keywords
+
+  AI prompting, context-driven prompts, structured prompting, meeting summaries, risk identification, financial report comparison, email drafting, multi-turn conversation, catch-all prompts, AI usability, real-world examples, teaching AI, constraints in prompts, success criteria, Nate Jones
 
 yt_tags:
   []

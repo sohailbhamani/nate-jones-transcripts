@@ -8,6 +8,43 @@ duration: "9:08"
 duration_seconds: 548
 view_count: 4795
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Blog post by Nicholas Carlini: https://nicholas.carlini.com/writing/2024/how-i-use-ai.html
+
+  Blog post by Erik Schluntz: https://erikschluntz.com/software/2024/07/30/code-with-ai.html
+
+  Learn more about me: https://www.natebjones.com/
+
+  Chapters
+
+  00:00 Introduction: Engineers Using LLMs in Everyday Coding Life
+  02:14 Making Tasks Easier and Lightening the Cognitive Load
+  04:00 Writing Throwaway Code
+  06:08 Changing the Time Value of Coding Work
+  07:56 LLMs in the Code Space
+  08:23 Conclusion: Practical and Usable Use Cases for LLMs in Coding
+
+  Takeaways
+
+  1. Engineers are using LLMs to perform tasks that are boring or difficult in coding.
+  2. LLMs are helpful in understanding APIs, diffing code, trimming and refactoring code, and writing documentation.
+  3. LLMs can be used to learn new programming languages and build apps.
+  4. They are particularly useful for writing throwaway code and breaking down technical requirements.
+  5. The common theme is that LLMs are used to lighten the cognitive load and save time for engineers.
+
+  Sound Bites
+
+  "Engineers are actually using AI in everyday coding life to do tasks that were boring or difficult to do."
+  "Taking stuff that you don't want to do or that your brain has a hard time doing and making it easier."
+  "Faster to get a clear explanation from an LLM than inferring from Google results."
+
+  Summary
+
+  Engineers are using large language models (LLMs) in everyday coding life to perform tasks that are boring or difficult. Some of the tasks include understanding APIs, diffing code, trimming and refactoring code, writing documentation, and solving larger problems. LLMs are also used to learn new programming languages and build apps. They are particularly useful for writing throwaway code and breaking down technical requirements. The common theme is that LLMs are used to lighten the cognitive load and save time for engineers.
+
+  Keywords
+
+  large language models, LLMs, engineers, coding, tasks, APIs, diffing code, trimming code, refactoring code, writing documentation, learning programming languages, building apps, throwaway code, technical requirements
 
 yt_tags:
   []

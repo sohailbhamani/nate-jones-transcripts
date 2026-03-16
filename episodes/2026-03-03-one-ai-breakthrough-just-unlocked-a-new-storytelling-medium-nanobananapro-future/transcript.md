@@ -7,6 +7,23 @@ duration: "2:06"
 duration_seconds: 126
 view_count: 18498
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/grab-my-ai-gap-finder-kit-for-operators?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________
+  What’s really happening with/inside jagged intelligence in LLMs as image AI gets “solved”?
+  The common story is that AI just gets steadily smarter — but the reality is more complicated.
+
+  In this video, I share the inside scoop on how Nano Banana Pro changes what’s buildable:
+  • Why LLMs are jagged intelligence surfaces
+  • How image breakthroughs unlock downstream businesses
+  • What Capsules enables as a new storytelling medium
+  • Where to watch for the next “solved enough” gaps
+
+  The takeaway: for builders and operators, the risk is betting on the wrong capability curve, but the upside is huge if you recognize when a trough just got filled and move fast.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

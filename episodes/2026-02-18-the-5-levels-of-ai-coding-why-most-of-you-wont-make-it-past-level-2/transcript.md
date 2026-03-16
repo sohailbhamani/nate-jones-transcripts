@@ -7,6 +7,17 @@ duration: "42:15"
 duration_seconds: 2535
 view_count: 136488
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster—but the reality is more complicated when a rigorous study found experienced developers took 19% longer while believing they were 24% faster.
+  In this video, I share the inside scoop on why the gap between dark factories and everyone else is the most important divide in tech:
+  • Why StrongDM's three-person team ships production software with no human-written or human-reviewed code
+  • How the five levels of vibe coding reveal that 90% of developers plateau at level three
+  • What external scenarios and digital twin universes solve that traditional tests cannot
+  • Where the bottleneck has moved from implementation speed to specification quality
+  For engineering leaders watching the frontier pull away, this is not a tool problem—it's a people problem, a culture problem, and a willingness-to-change problem that no vendor can close.
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

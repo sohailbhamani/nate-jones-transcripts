@@ -8,6 +8,30 @@ duration: "30:14"
 duration_seconds: 1814
 view_count: 9413
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/the-only-prompt-engineering-guide?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Beginner’s Four Moves: Effective prompting boils down to four moves—define the shape of the output, give minimal but sufficient context, suggest a silent plan, and add a quick self-check. These drastically improve reliability.
+   2. Pipelines Over Prompts: The true unit of design isn’t the individual prompt—it’s the pipeline. Prompts must be written to fit into a broader architecture of retrieval, memory, and evaluation.
+   3. Contracts and Scaffolding: Treat prompts like contracts with the AI. Clear output specifications matter more than prose. Scaffolding techniques often beat raw horsepower in efficiency and quality.
+   4. Entropy as a Design Variable: All prompting tools—temperature, constraints, examples, schemas—shape the probability distribution of outputs. Understanding entropy helps you apply leverage effectively.
+   5. Governance Beats Heroics: Distribution shifts will break your best prompts. Sustainable success requires versioning, monitoring, automated enforcement, and governance—not one-off clever prompts.
+   6. Economics and Efficiency: Token budgets, latency, and fallback logic are first-class design constraints. Simplicity and efficiency should drive architecture choices, not just model power.
+   7. Model Pluralism: Different models excel at different tasks. Advanced practitioners use multiple models in production environments to balance cost, efficiency, and quality.
+
+  Quotes
+  “We think of prompts as artifacts, but the real unit of design is the pipeline.”
+  “Scaffolding beats horsepower—good structure matters more than brute force.”
+  “Governance beats heroics. If you’re playing hero ball to keep a prompt alive, it’s not a good prompt.”
+
+  Summary
+  In this video, I pull together over a year of prompt engineering notes into a complete beginner-to-advanced guide. I start with four foundational moves—define output shape, provide minimal context, use a silent plan, and add self-checks. Then I share 12 advanced insights: design prompts within pipelines, treat context like a supply chain, use contracts and scaffolding, recognize entropy as a design lever, and expect model pluralism. I emphasize governance, efficiency, and safety over ad-hoc cleverness. Prompting is fractal—the same principles scale from simple chats to production architectures.
+
+  Keywords
+  prompt engineering, pipelines, AI prompting guide, output shape, context supply chain, contracts, scaffolding, entropy, probability mass, governance, economics, model pluralism, token budgets, safety, memory, automated enforcement
 
 yt_tags:
   []

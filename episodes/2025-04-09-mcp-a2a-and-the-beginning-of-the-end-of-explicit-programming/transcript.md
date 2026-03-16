@@ -8,6 +8,32 @@ duration: "8:56"
 duration_seconds: 536
 view_count: 23490
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My note on MCP: https://natesnewsletter.substack.com/p/how-i-think-about-mcp-a-practical?r=1z4sm5
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. A New Software Substrate: Google’s A2A (agent-to-agent) protocol and Model Context Protocol (MCP) signal a shift from deterministic, pre-programmed systems to dynamic, emergent, agent-driven software architectures.
+   2. MCP Enables Capability Descriptions: Instead of hardcoding instructions, MCP allows developers to describe tool capabilities in structured ways, enabling AI to figure out how best to use them.
+   3. A2A Unlocks Agent Collaboration: A2A allows agents to discover, understand, and collaborate with other agents dynamically, forming workflows on the fly rather than following static rules.
+   4. New Challenges in State, Cost, and Security: Agent-based systems raise complex issues around state management, resource consumption from reasoning overhead, and new security risks like authorization and auditability.
+   5. Optimization Is No Longer Straightforward: Unlike traditional software where pathways are known, agent-based systems must optimize in unpredictable, dynamic contexts, requiring entirely new approaches.
+   6. Open Standards for the Agentic Era: A2A is built on open, observable, and debuggable standards like HTTP and JSON-RPC, inviting broader ecosystem collaboration and development.
+   7. Delegating to Intelligence, Not Software: The shift means intelligence becomes part of the software fabric. We no longer delegate tasks to predefined logic—we delegate them to autonomous agents capable of learning and adaptation.
+
+  Quotes
+  “We’re not just adding new features to the same old software—we’re fundamentally rethinking what software can be.”
+  “Functionality isn’t just called, it’s negotiated now.”
+  “MCP gives agents the ability to understand and use tools; A2A gives them the ability to work together.”
+
+  Summary
+  Google’s A2A protocol and Model Context Protocol (MCP) mark a profound shift in AI architecture, moving us from deterministic software to dynamic, agent-based systems. MCP enables AI to understand and use tools without explicit instructions, while A2A allows agents to discover and collaborate with one another. This paradigm demands rethinking state management, security, and optimization strategies. It’s not just a technical evolution—it’s a redefinition of how we build and scale intelligent software. We are entering a world where we delegate to intelligence itself, not just code.
+
+  Keywords
+  agent-to-agent, A2A, Model Context Protocol, MCP, Google, AI agents, AI architecture, autonomous software, capability description, non-deterministic software, agent collaboration, software substrate, dynamic workflows, distributed systems, reasoning overhead, AI security, open protocols, HTTP, JSON-RPC, emergent behavior, agentic systems
 
 yt_tags:
   []

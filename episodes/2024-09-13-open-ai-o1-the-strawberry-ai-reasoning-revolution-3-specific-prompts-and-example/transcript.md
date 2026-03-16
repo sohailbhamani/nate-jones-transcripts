@@ -8,6 +8,54 @@ duration: "9:01"
 duration_seconds: 541
 view_count: 1007
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+
+  o1 intro course: https://openai.com/index/introducing-openai-o1-preview/
+
+  o1 will be in my Maven course (survey here): https://maven.com/forms/d2d3bd
+
+  o1 reasoning (API docs): https://platform.openai.com/docs/guides/reasoning
+
+  o1 hacked its own test:
+  https://www.thestack.technology/openais-unripe-strawberry-model-hacked-its-testing-infrastructure/
+
+  o1 technical readout:
+  https://braintitan.medium.com/discover-openais-new-o1-inference-model-dive-into-the-technical-report-now-8bb2337c56a8
+
+  Chapters
+
+  00:00 Introduction to ChetGPT's New Strawberry Model
+  03:10 Understanding the Reasoning Mechanism
+  06:02 Practical Applications and Limitations of O1 Model
+  08:45 User Experience and Future Developments
+
+  Takeaways
+
+  1. ChatGPT's new Strawberry model, O1, focuses on reasoning.
+  2. The O1 model can solve complex math problems with high accuracy.
+  3. Reasoning tokens are used to enhance the model's performance.
+  4. The model provides high-level explanations of its reasoning process.
+  5. O1 is slower than previous models but excels in complex tasks.
+  6. Users need to understand which model to use for specific tasks.
+  7. The model has a question limit, affecting user experience.
+  8. Practical applications of O1 include coding and problem-solving.
+  9. The development of the O1 model involved significant effort from OpenAI.
+  10. User experimentation is key to discovering the model's capabilities.
+
+  Summary:
+  In this conversation, Nate discusses the recent release of OpenAI's new O1 model, unofficially nicknamed "Strawberry," which was unveiled on September 12th. This model, available in both the Mac app and web app preview, represents a significant advancement in AI reasoning capabilities. Nate highlights the model's impressive performance on complex tasks, such as solving international math Olympiad problems with an 83% success rate, compared to GPT-4's 13%.
+
+  The key innovation of the O1 model lies in its architecture, which introduces a time element to token completion. This allows the model to automatically perform chain-of-thought reasoning without explicit prompting from the user. The model utilizes "reasoning tokens" to solve problems, discarding them before presenting the final output. While the detailed reasoning process remains hidden, the model still provides high-level explanations of its thought process in its responses.
+
+  Nate demonstrates the model's capabilities through examples, such as estimating the number of tech workers who like Legos and calculating average salaries from job titles. He emphasizes the model's ability to show its work, perform accurate calculations, and provide thoughtful, reasoned responses. This marks a significant improvement over traditional language models, which often struggle with mathematical accuracy due to their token prediction approach.
+
+  Despite its impressive capabilities, the O1 model has limitations. It operates more slowly than other models, which is intentional to allow for deeper reasoning. There are also usage restrictions, with users limited to 20-30 questions per week. Nate suggests that these limitations may not significantly impact practical use, as the model is best suited for complex, non-urgent problems that require thorough consideration.
+
+  In conclusion, Nate emphasizes the importance of understanding the strengths of different AI models for various tasks. He suggests that while O1 excels at multi-step reasoning, other models like Claude Sonnet or GPT-4 might be more suitable for text work or quick concept descriptions. The emergence of specialized models highlights the need for users to familiarize themselves with each model's capabilities to optimize their AI interactions.
+
+  Keywords:
+  ChetGPT, Strawberry Model, O1 Model, O1 mini, reasoning, AI, machine learning, OpenAI, technology, applications, user experience, reasoning tokens, token completion, time element, international math Olympiad, GPT-4, chain of thought, problem-solving, computational expense, rate limits, B2B SaaS pricing, intelligence allocation, Claude Sonnet, multi-step reasoning, coding, API, development environment, mathematics accuracy, hidden reasoning, complex tasks, automated explanations, model architecture, preview mode, usage restrictions, specialized AI models, comparative model strengths, next token prediction, reasoning capabilities, inference time, closed model, proprietary technology, AI breakthroughs, practical applications, model testing, user interaction, AI model comparison, tech industry, Lego enthusiasts, salary estimation, data analysis, AI limitations, AI advancements, cognitive computing, natural language processing, AI reasoning, problem complexity, computational power, AI integration, software development, AI-assisted coding, AI model selection, AI efficiency
 
 yt_tags:
   []

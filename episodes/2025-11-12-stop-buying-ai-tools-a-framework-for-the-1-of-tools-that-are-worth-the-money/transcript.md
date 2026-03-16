@@ -8,6 +8,29 @@ duration: "8:52"
 duration_seconds: 532
 view_count: 7774
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/99-of-ai-tools-are-uselessheres-how?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside the AI tool explosion?
+  The common story is that more tools mean more productivity — but the reality is a lot more complex.
+
+  Chapters:
+  00:00 Navigating the AI Tool Landscape
+  06:27 Critical Questions for AI Tool Evaluation
+  08:24 Showcasing Effective AI Tools
+
+  In this video, I share the inside scoop on choosing AI tools that actually work:
+  • Why most AI tools create more integration pain than value
+  • How to identify measurable problems before buying any tool
+  • What to map when assessing sustainment and change costs
+  • Where failure modes hide — and how to mitigate the risks
+
+  The takeaway: disciplined teams buy fewer AI tools but get far more out of them.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

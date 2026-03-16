@@ -8,6 +8,31 @@ duration: "11:39"
 duration_seconds: 699
 view_count: 7756
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  link to the post: https://open.substack.com/pub/natesnewsletter/p/a-quick-guide-to-openais-new-data?
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Connector Land-Grab: OpenAI’s new Deep Research connectors plug ChatGPT into Gmail, Outlook, Drive, SharePoint, GitHub, Linear, Zapier and more—positioning the model as the operating system for knowledge work.
+   2. Bandwidth Bottleneck: Each API call tops out at roughly 15 items, throttling large-scale analysis and exposing how retrieval limits can kneecap even strong reasoning models.
+   3. Precision over Breadth: Scoped, keyword-anchored queries (e.g., prepping a single webinar) succeed, while fuzzy, high-volume discovery tasks (e.g., cohorting 100+ emails) collapse under the data cap.
+   4. Training-Data Tug-of-War: Connectors are less a convenience feature and more a token-harvesting pipeline; Anthropic’s move to cut Windsurf’s Claude access shows vendors will weaponize endpoints to starve rivals of private corpora.
+   5. Point-Player Squeeze: Vertical specialists like Granola, Otter.ai, Fireflies and Grain must climb the stack into decision-grade analytics, because “good-enough” capture and summaries are now bundled with Plus.
+   6. Hidden Gold Veins: High-value data still hides in OT telemetry, clinical archives, core banking ledgers, geospatial sensor grids and encrypted comms—domains where SaaS connectors can’t easily reach.
+
+  Quotes:
+  “We’re watching connectors become the sluice gates for proprietary context—and the fight is over who gets to drink from the pipe.”
+  “Right now the tool is a scalpel; treat it like a chainsaw and it will amputate your insight.”
+  “The real moat isn’t transcription accuracy anymore—it’s the downstream workflow that actually moves revenue or risk.”
+
+  Summary:
+  OpenAI’s new data connectors let ChatGPT rummage through my Gmail, Calendar, Drive, GitHub and more, but the pipes are narrow: each request surfaces about fifteen items, so broad email-or calendar-wide analytics fizzle. Precise, keyword-focused tasks shine, delivering cohesive briefs across multiple sources. Strategically, the rollout is a token-harvesting play, mirroring Anthropic’s similar integrations and sparking endpoint skirmishes like Claude’s shutdown for Windsurf. Vertical note-takers now face commoditized capture and must pivot to higher-value insights. Meanwhile, rich, inaccessible troves—industrial telemetry, clinical datasets, core banking logs—remain fertile ground for builders outside the model-maker wars.
+
+  Keywords:
+  OpenAI connectors, Deep Research, ChatGPT, Gmail integration, Calendar search, retrieval limits, token harvesting, Anthropic, Windsurf acquisition, meeting intelligence, Granola, Otter.ai, Fireflies, vertical AI, enterprise OS, data sovereignty, precision prompting, industrial telemetry, clinical data, core banking, geospatial sensors
 
 yt_tags:
   []

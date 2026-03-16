@@ -8,6 +8,38 @@ duration: "5:00"
 duration_seconds: 300
 view_count: 760
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn more about me: https://www.natebjones.com/
+  Voice mode is out: https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/
+  Lightning Lesson: https://maven.com/p/3323c0/strategies-to-leverage-advanced-ai-models-at-work?utm_medium=ll_share_link&utm_source=instructor
+
+  Chapters
+
+  00:00 OpenAI's Voice Mode Launch
+  02:48 Design Implications of Voice Mode
+  04:40 The Human-AI Conversation Experience
+
+
+  Takeaways
+
+  1. OpenAI's voice mode enhances user interaction with AI.
+  2. Voice mode allows for a more relaxed and creative brainstorming experience.
+  3. The design of AI systems must evolve with user understanding.
+  4. Conversational AI can feel more human-like with voice interaction.
+  5. Designers face unique challenges in creating effective AI experiences.
+  6. User mindset is crucial for effective AI interaction.
+  7. Voice mode can facilitate personal and professional planning.
+  8. The latent space of LLMs requires exploration through conversation.
+  9. AI applications demand a shift in how we think about technology.
+  10. Voice mode represents a significant step in AI development.
+
+  Summary
+
+  In this conversation, Nate discusses the recent launch of OpenAI's voice mode, exploring its implications for user interaction and design. He reflects on how voice mode transforms the experience of conversing with AI, making it feel more human-like and engaging. Nate emphasizes the need for designers to adapt their approaches to accommodate the unique challenges posed by generative systems and the evolving nature of user understanding in AI interactions.
+
+  Keywords
+
+  OpenAI, voice mode, AI design, conversational AI, LLM, user experience, generative systems, AI interaction, technology trends, innovation
 
 yt_tags:
   []

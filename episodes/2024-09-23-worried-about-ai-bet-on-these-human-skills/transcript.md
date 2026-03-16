@@ -8,6 +8,40 @@ duration: "6:50"
 duration_seconds: 410
 view_count: 1184
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+  Maven course: https://maven.com/nate-b-jones/ai-career-accelerator
+  Super bowl load curve for electricity: https://insidelines.pjm.com/how-the-super-bowl-plays-into-electricity-use/
+  AI & food bloggers: https://www.npr.org/2024/09/23/g-s1-23843/artificial-intelligence-recipes-food-cooking-apple
+  o1 navigating drug pricing: https://www.hioscar.ai/blog/oscar-healths-early-observations-on-openai-o1-preview
+  o1 diagnosis current state (this will get better): https://machine-learning-made-simple.medium.com/openai-is-lying-about-o-1s-medical-diagnostic-capabilities-e5f4b4036eb8
+
+
+  Chapters
+
+  00:00 The Enduring Value of Human Skills in an AI World
+  03:03 AI's Limitations and Human Expertise
+  05:51 Navigating Careers in the Age of AI
+
+  takeaways
+  1. Human interaction skills are irreplaceable by AI.
+  2. AI's lack of feedback loops limits its effectiveness.
+  3. Medical diagnosis is becoming a stronghold for AI.
+  4. The importance of bedside manner in healthcare is rising.
+  5. Long-term career success will rely on human skills.
+  6. AI can misinterpret human-centric marketing needs.
+  7. Engineers must understand human behavior for effective solutions.
+  8. Feedback loops are crucial for human excellence in work.
+  9. Collaboration between AI and humans is essential.
+  10. Navigating the future requires adapting to AI's role.
+
+  Summary
+
+  In a world increasingly influenced by AI, the conversation explores the enduring value of human skills, particularly in areas requiring in-person interaction and nuanced understanding. It highlights the limitations of AI, especially in creative and empathetic domains, and emphasizes the importance of human expertise in fields like healthcare and engineering. The discussion also touches on the evolving nature of careers in the age of AI, advocating for a focus on skills that leverage human strengths alongside technological advancements.
+
+  Keywords
+
+  AI, human skills, medical diagnosis, career development, technology, feedback loops, engineering, healthcare, human interaction, future of work
 
 yt_tags:
   []

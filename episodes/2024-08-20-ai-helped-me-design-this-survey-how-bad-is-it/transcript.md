@@ -8,6 +8,11 @@ duration: "0:53"
 duration_seconds: 53
 view_count: 163
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Here's the survey: https://maven.com/forms/d2d3bd
+  Learn more: https://www.natebjones.com/
+
+  What do you think about the survey? What would you add? What would you take away? Is the course something that's interesting to you?
 
 yt_tags:
   []

@@ -8,6 +8,30 @@ duration: "10:22"
 duration_seconds: 622
 view_count: 21647
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/how-i-made-a-new-ai-discovery-a-coding?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside Codex vs Claude Code for AI strategy?
+  The common story is these “coding models” only help with code — but the reality is more complicated.
+
+  In this video, I share the inside scoop on using Codex as a strategic thinking partner beyond code, with a side-by-side against Anthropic’s Claude Code:
+  • Why planning beats vibe coding for agentic systems.
+  • How Codex structures options, trade-offs, and governance clearly.
+  • What a multi-agent JIRA triage pipeline really requires.
+  • Where Claude Code over-specifies and reduces strategic leverage.
+
+  Teams can unlock real leverage by using Codex for LLM-driven design and AI agents, but they still need clear automation boundaries, human-in-the-loop points, and risk metrics.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  CHAPTERS:
+  00:00 Introduction to Codex as a Strategic Partner
+  02:36 Comparative Analysis: Codex vs. Claude Code
+  05:11 Strategic Thinking and Planning with Codex
+  08:11 Conclusion: Unlocking Codex’s Potential
 
 yt_tags:
   - "AI strategy"

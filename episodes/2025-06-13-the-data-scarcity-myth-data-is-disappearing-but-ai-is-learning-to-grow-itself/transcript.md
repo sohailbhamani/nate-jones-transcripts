@@ -8,6 +8,32 @@ duration: "6:58"
 duration_seconds: 418
 view_count: 5272
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  More here: https://open.substack.com/pub/natesnewsletter/p/ais-synthetic-summer-the-2025-mid?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Data Ring-Fencing Accelerates: Major players are actively walling off live data streams—Slack logs, publisher archives, and copyrighted IP—turning once-open corpora into guarded assets.
+   2. Slack-Glean Block Shows Platform Guarding: Salesforce’s move to cut Glean from Slack underscores a new corporate instinct to keep high-value internal conversations out of rival AI pipelines.
+   3. Legal Suits Narrow Training Pools: Disney-MidJourney and New York Times-OpenAI lawsuits aim to restrict use of branded or premium content, signaling more courtroom gatekeeping of training data.
+   4. User-Generated Artificial Data Matters: Model outputs created inside products such as ChatGPT constitute a rich “renewable” data source—firms now view these prompt-driven tokens as proprietary gold.
+   5. Synthetic Tokens Become Training Fuel: 2025 leaks from OpenAI and Anthropic confirm that AI-generated text can now improve future models, overturning the 2023 belief that synthetic data was toxic.
+   6. AI-Driven Reinforcement Loops Emerge: Labs are letting autonomous agents run reinforcement learning, replacing costly human labelers and pushing toward self-improving systems limited mainly by compute.
+   7. Scarcity Shifts from Data to Power: As synthetic data and self-training take hold, raw compute—not open corpora—becomes the primary bottleneck for frontier-model progress.
+
+  Quotes
+  “We’re watching executives slam data doors faster than model makers can knock.”
+  “If AI handles the reinforcement, the only limit left is power—not data.”
+  “The 2025 battle isn’t about bigger models; it’s about who owns the feedback loop.”
+
+  Summary
+  Since Ilya Sutskever framed data as the new oil, two opposing forces have emerged. Executives are ring-fencing live data streams—Slack, publisher archives, copyrighted IP—forcing would-be trainers to scramble. Simultaneously, model labs are proving that synthetic tokens and AI-driven reinforcement loops can replace much of that lost fuel. Anthropic’s and OpenAI’s internal experiments show autonomous RL improving models without human labelers. If AI can grade its own work, scale is limited chiefly by compute. The result: data itself becomes politicized property while leading labs race to self-generate learning material, testing both quality and reliability in a rapidly global feedback arms race.
+
+  Keywords
+  Ilya Sutskovor, data lock-off, synthetic data, user-generated artificial data, reinforcement learning, AI training, Slack data, Salesforce, Glean, Disney lawsuit, MidJourney, New York Times vs OpenAI, data scarcity, 2025 AI trends, compute scaling, feedback loops
 
 yt_tags:
   []

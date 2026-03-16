@@ -7,6 +7,18 @@ duration: "22:58"
 duration_seconds: 1378
 view_count: 45720
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with AI and business competition? The common story is that AI disrupts everything uniformly, but the reality is more complicated when mid-tier digital firms are getting crushed from both directions while local plumbers and electricians are largely protected. In this video, I share the inside scoop on how AI is bifurcating the economy into a barbell with very little safe ground in the middle:
+
+  * Why tokenizable cognition like drafting, analysis, and coding is falling toward zero and what that means for anyone selling those services
+  * How physical, local businesses are actually protected by AI economics in ways most analysts miss entirely
+  * What three layers of business work determine your competitive vulnerability before you spend a dollar on AI
+  * Where your AI investment should go based on where your firm actually sits in this reshaped economy
+
+  For leaders navigating 2026, a three-person team with AI tools now rivals a fifty-person agency, but no AI can show up at your house and fix your furnace. The strategic opportunity is real, but only if you diagnose your position honestly before the market does it for you.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

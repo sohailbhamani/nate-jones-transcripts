@@ -8,6 +8,30 @@ duration: "40:49"
 duration_seconds: 2449
 view_count: 7287
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/finally-ai-can-do-excel-and-powerpointget?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Claude’s File Tools Cross the “Work Output” Bar: Anthropic’s new code-interpreter flow can directly create and edit Excel, PowerPoint, Word, and PDFs inside the app—producing usable spreadsheets (formulas, assumptions, scenarios, docs) and clean slides quickly.
+   2. Quality Over Ambition Beats Agent Mode: OpenAI’s Agent Mode aimed bigger (more tabs, fancier plans) but delivered broken sheets and sloppy slides; Claude shipped fewer features but working deliverables and better layout—and did it faster.
+   3. Self-Contained Prompts Win: Using Perplexity to bundle data + instructions into one prompt reduced failure modes. Research first, then hand the complete package to Claude for file generation.
+   4. Live Tests Show Real Capability: In a DCF on Oracle and a “movie night” pivot-table build, Claude added documentation, heatmaps, sparklines, and a README unprompted—evidence of sensible defaults and tool use.
+   5. Division of Labor Emerges: Agent Mode’s raw analysis was the more conservative take; Claude excelled at producing shareable artifacts. Daisy-chain them: analyze with Agent (or Perplexity), produce with Claude.
+   6. Workflow Shift = More Delegation: With reliable file outputs, more of the “last mile” (formatting, formulas, documentation) can be delegated. Humans spend time on the top-20% polish and narrative.
+   7. Principle: Automate the “Don’t Think” Steps: Borrowing Whitehead’s lens, Claude moves more operations into the “no-thought required” bucket (centering, spacing, heatmaps, doc tabs), raising the baseline quality of routine work.
+
+  Quotes:
+  “We should not be messing around with anything else for PowerPoint or Excel—go to Claude for that.”
+  “Agent Mode has eyes that are bigger than its stomach.”
+  “Civilization advances by extending the number of important operations which we can perform without thinking of them.” — Alfred North Whitehead
+
+  Summary:
+  I walked Rod through an experiment on Anthropic’s new Claude file tools that directly create and edit Excel, PowerPoint, Word, and PDFs. Using self-contained prompts assembled with Perplexity, Claude produced an eight-tab Excel model with working formulas and documentation, and a clean slide deck—fast. We repeated the test on Oracle’s valuation and a “movie night” pivot-table dataset; Claude added heatmaps, sparklines, and a README without being asked. Against OpenAI Agent Mode, Claude was faster with higher-quality outputs, while Agent’s analysis was more conservative but its Excel and slides fell apart. My takeaway: delegate document work to Claude and chain tools.
+
+  Keywords:
+  Anthropic, Claude, code interpreter, Excel, PowerPoint, Word, PDFs, pivot tables, heatmaps, sparklines, documentation tab, VLOOKUP, sensitivity analysis, Oracle valuation, DCF, OpenAI Agent Mode, Perplexity, self-contained prompts, prompting, tool use, daisy chaining, workflow, delegation, design quality, screen sharing, productivity, scenario planning, formulas, assumptions, README
 
 yt_tags:
   []

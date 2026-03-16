@@ -8,6 +8,18 @@ duration: "13:20"
 duration_seconds: 800
 view_count: 23171
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening inside advanced prompt engineering? The common story is that it's about clever wording, but the reality is more complicated when the best prompters are actually structuring how LLMs reason, verify, and evolve. In this video, I share the inside scoop on how advanced prompters actually think:
+
+  * Why self-correction systems matter more than single-pass generation
+  * How chain of verification and adversarial prompting improve reliability at scale
+  * What meta-prompting and recursive optimization unlock in large language models
+  * Where reasoning scaffolds and perspective engineering reshape AI analysis in ways basic prompting never will
+
+  For operators and teams navigating 2026, advanced prompting isn't about magic words. It's about building the cognitive architecture that makes AI output worth trusting.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

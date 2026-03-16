@@ -8,6 +8,55 @@ duration: "6:00"
 duration_seconds: 360
 view_count: 3209
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: [https://natebjones.com/](https://natebjones.com/)
+  My links: [https://linktr.ee/natebjones](https://linktr.ee/natebjones)
+  My substack: [https://natesnewsletter.substack.com/](https://natesnewsletter.substack.com/)
+  My review: https://open.substack.com/pub/natesnewsletter/p/a-complete-guide-to-claude-37-with?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ---
+
+  ### **Takeaways**
+
+  1. **AI Model Evaluations Are Overfitted**
+     Current AI benchmarks, like AIME, are widely known and models are trained to excel at them from the outset. This creates a circular problem where models perform well on evaluations but may not translate that performance to real-world tasks.
+
+  2. **Economically Useful Work Needs Better Benchmarks**
+     Satya Nadella’s emphasis on models doing "economically useful work" highlights a gap—there are few reliable benchmarks that measure how well AI contributes to real productivity and value.
+
+  3. **Lancer: A Step Toward Real-World Evaluation**
+     A new benchmark, Lancer, aims to assess models on their ability to independently complete freelance work. While OpenAI maintains it, independent organizations should be driving such evaluations.
+
+  4. **Claude 3.7’s Strategic Positioning**
+     Anthropic is playing a classic challenger brand strategy by focusing Claude 3.7’s availability around coding and development, leveraging its historical strengths rather than trying to generalize like ChatGPT.
+
+  5. **Benchmarks Should Not Be Controlled by Model Makers**
+     AI companies have strong incentives to create benchmarks they expect to excel at, making independent evaluation critical. OpenAI’s role in Lancer raises concerns about bias in what gets measured.
+
+  6. **The Challenge of Measuring AI Performance Beyond Vibes**
+     Experienced users can sense the qualitative differences between models like Claude 3.7 and 3.5, but the industry lacks structured ways to quantify these differences for non-experts.
+
+  7. **Funding is the Barrier to Independent AI Benchmarks**
+     Companies using AI for competitive advantage have no incentive to share their methodologies, leaving a gap where no one with sufficient funding is motivated to create unbiased, independent benchmarks.
+
+  ---
+
+  ### **Quotes**
+
+  - "Models are very good at this benchmark or that benchmark, but are they actually doing work that’s meaningful?"
+  - "We really need independent benchmarks that help us figure this out. It really shouldn’t be something that model makers do."
+  - "Claude 3.7 is doing a classic challenger brand play—focused on coding and building where it historically excels."
+
+  ---
+
+  ### **Summary**
+
+  The launch of Claude 3.7 highlights the urgent need for better AI evaluations. Current benchmarks, like AIME, are widely published, leading models to be overfitted to these tests rather than real-world performance. Satya Nadella’s call for AI to do "economically useful work" underscores this gap. A new benchmark, Lancer, attempts to measure AI’s ability to complete freelance work, but it’s controlled by OpenAI, raising concerns about neutrality. Claude 3.7, strategically positioned for developers, continues its strong coding legacy. Without independent benchmarks, AI performance will remain subjective, favoring those who can "feel" differences rather than quantify them.
+
+  ---
+
+  ### **Keywords**
+
+  Claude 3.7, AI benchmarks, Lancer, OpenAI, Anthropic, AI evaluation, economically useful work, AI model performance, coding AI, freelancer AI, AI bias, independent AI benchmarks, challenger brand strategy
 
 yt_tags:
   []

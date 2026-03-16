@@ -8,6 +8,28 @@ duration: "24:47"
 duration_seconds: 1487
 view_count: 5646
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/ai-news-and-notes-week-of-sep-8-300b?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  Welcome to the first edition of AI News & Notes.
+
+  Every week I’ll pull together the seven stories in AI that actually matter—then cut through the noise with why they matter, the implications you won’t find in the headlines, and sources if you want to dig deeper. Think of it as your briefing: part news, part analysis, part field notes from the frontier.
+
+  Here’s what we’ve got this week:
+   1. Oracle + OpenAI’s $300B cloud deal — the biggest contract in tech history, but it doesn’t kick in until 2027. What that says about demand, hype cycles, and profitability.
+   2. Claude’s enterprise memory — Anthropic rolls out a different vision of team collaboration, and it could threaten whole categories of AI wrappers.
+   3. FTC’s AI crackdown — regulators step into the fray, targeting chatbots and putting child safety at the center of AI policy.
+   4. Google AI Mode goes global — chat-powered commerce is coming, just in time for holiday shopping season.
+   5. The AI agent market surges — projected to 10x by 2030, with real-world deployments working better than the headlines suggest.
+   6. OpenAI’s “hallucination breakthrough” — hyped as new, but the causes have been obvious for years. What’s really at stake in fixing—or not fixing—the problem.
+
+  Subscribers get these rundowns every week. Let’s dive in.
+
+  ⸻
+
+  Want me to also draft a punchy preview line you can drop right under the title—like a one-liner tagline that makes people want to scroll?
 
 yt_tags:
   []

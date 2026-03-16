@@ -8,6 +8,18 @@ duration: "23:22"
 duration_seconds: 1402
 view_count: 52764
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with enterprise AI accuracy when models get paired with real company data? The common story is that bigger models mean better answers, but the reality is more complicated when bad chunking ruins more RAG projects than bad models ever do. In this video, I share the inside scoop on why Retrieval-Augmented Generation is becoming the dominant architecture for enterprise AI:
+
+  * Why pairing vector search with large language models eliminates knowledge cutoffs and slashes hallucinations without fine-tuning
+  * How clean text, smart metadata, and overlapping semantic chunks decide retrieval accuracy more than model size ever will
+  * What the roadmap from a simple FAQ bot to multimodal, agentic, enterprise-grade RAG actually looks like in practice
+  * Where RAG backfires: high-volatility data, creative writing, ultra-low-latency workflows, and tiny datasets where the next model upgrade suffices
+
+  For enterprise leaders navigating the next 24 months, the $2 billion to $40 billion market forecast isn't the story. The story is that retrieval discipline and data pipelines are the new competitive moat.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com
+  © Nate B. Jones 2026
 
 yt_tags:
   []

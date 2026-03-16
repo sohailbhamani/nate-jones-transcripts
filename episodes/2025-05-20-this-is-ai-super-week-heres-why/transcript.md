@@ -8,6 +8,29 @@ duration: "7:52"
 duration_seconds: 472
 view_count: 9214
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Super-Week Stack-Up: Five major AI moments land back-to-back—OpenAI’s Codex preview, Microsoft Build, Google I/O, and Anthropic’s first Code with Claude—creating a single, high-stakes narrative sprint.
+   2. Microsoft’s Agent Push: Build’s headline is Model Context Protocol baked into Windows, plus multi-agent orchestration and a GitHub autonomous coding agent that can open pull requests on its own.
+   3. Google’s Ambient Gambit: I/O (Tue–Wed) will drench Android and Workspace in Gemini, pitch “AI as a system service,” and tease an XR headset that fuses ambient context with on-device reasoning.
+   4. Anthropic’s Neutral Play: Thursday’s livestream should unveil the next Claude roadmap, open-source MCP security patterns, and a claude code CLI meant to spar with GitHub Copilot and Codex.
+   5. Calendar & CapEx Logic: Mid-May offers fair weather, avoids Apple’s WWDC, feeds investor expectations before Nvidia’s print, and lands early in enterprise budgeting for FY-2026 purchasing cycles.
+   6. Strategy Lens: Track five things—new defaults, feedback loops, bottleneck coherence, weekend-hack potential, and price or capacity thresholds—to judge which platform really moved the needle.
+
+  Quotes:
+  “This is an absolutely crazy week, and I want to tell you why.”
+  “At the end of the day, this period of time gives you space to shape earnings expectations before earnings go.”
+  “Ask these five questions across every vendor and you’ll think like a strategist, not a rabbit chasing headlines.”
+
+  Summary:
+  I explain why this “AI Super-Week” matters: OpenAI kicked things off with a Codex preview on Friday, and now Microsoft Build, Google I/O, and Anthropic’s Code with Claude are firing one after another. Build debuts Model Context Protocol and autonomous coding agents; I/O will flood Android with Gemini and tease an XR headset; Anthropic plans a Claude roadmap and open MCP security demos. The week clusters here because May lets vendors shape investor expectations and slip into enterprise budgeting cycles before FY-2026. I offer five high-leverage questions—defaults, feedback loops, bottlenecks, hackability, and price thresholds—to keep viewers strategically grounded amid the hype.
+
+  Keywords:
+  AI Super-Week, Microsoft Build, Google I/O, Anthropic Code with Claude, OpenAI Codex, Model Context Protocol, Gemini, autonomous coding agent, enterprise budgeting, strategic questions, feedback loops, bottleneck, token pricing, GPU capacity
 
 yt_tags:
   []

@@ -8,6 +8,29 @@ duration: "23:34"
 duration_seconds: 1414
 view_count: 9114
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://open.substack.com/pub/natesnewsletter/p/ai-lab-trust-report-2025-ranking?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  Takeaways
+   1. The Trust Gap Is Structural: Classical transactions work because both sides see what they get; with AI you buy a black box, forcing users to rely on lab claims instead of transparent evidence.
+   2. OpenAI’s “Gold Medal” Raises Eyebrows: Its Math Olympiad victory lacked the official marking guide and ignored the organizers’ request for silence—fitting a pattern of grabbing headlines before offering verification.
+   3. Every Lab Has a “Trust Fingerprint”: OpenAI chases PR and hides the “how,” Meta spends billions to brute-force demos, Anthropic pairs meticulous research with rosy futurism, Google couples world-class science with dismal UX, and XAI optimizes benchmarks while staying opaque.
+   4. Money Can’t Buy Passion—or Credibility: Zuckerberg’s $100-300 million recruiting blitz may fix talent shortages, but it can’t guarantee the cohesive, mission-driven teams required for true breakthroughs.
+   5. Domain Experts Are the Reality Check: Mathematicians like Terence Tao spot gaps in AI proofs that technologists celebrate; outside of code, labs often overstate usefulness because they don’t own the domain knowledge.
+   6. Heuristics Beat Hype: I trust OpenAI models already in production, expect Meta’s pendulum to swing back next year, read Anthropic papers but discount their utopia, test Google via API not UI, and keep XAI sandboxed until it shows its work.
+
+  Quotes
+  “We’re being asked to buy intelligence sight unseen—and the bill comes with a press release, not a receipt.”
+  “OpenAI will win the headline war every time; transparency is the price they never seem willing to pay.”
+  “Until domain experts say the model works for them, the lab’s confidence is just marketing in a lab coat.”
+
+  Summary
+  I unpack why trusting AI labs is fundamentally different from trusting traditional vendors. OpenAI’s headline-grabbing Math Olympiad claim illustrates the gap: no official graders, no marking guide, and a PR push that ignored the organizers’ wishes. Each lab shows a distinct “trust fingerprint”: OpenAI prizes publicity over details, Meta buys talent to fix demo failures, Anthropic mixes rigorous safety work with utopian forecasts, Google delivers superb science but poor interfaces, and XAI hides behind benchmark scores. Because domain experts—not technologists—ultimately validate usefulness, I rely on lab-specific heuristics before deploying any model.
+
+  Keywords
+  AI trust, OpenAI, International Math Olympiad, Sam Altman, Meta, Mark Zuckerberg, Anthropic, Claude, Google, Demis Hassabis, XAI, Grok 4, Terence Tao, trust fingerprint, model transparency, domain expertise, AI claims, PR strategy
 
 yt_tags:
   - "AI Comparisons"

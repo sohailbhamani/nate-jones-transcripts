@@ -8,6 +8,43 @@ duration: "5:24"
 duration_seconds: 324
 view_count: 442
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn more about me: https://www.natebjones.com/
+
+  Sources:
+  Strawberry: https://www.theinformation.com/articles/openai-races-to-launch-strawberry-reasoning-ai-to-boost-chatbot-business
+  Gemini: https://x.com/lmsysorg/status/1828506835370065994
+  Anthropic: https://www.anthropic.com/news/artifacts
+  Apple: https://www.cnn.com/2024/08/26/business/apple-iphone-16-artificial-intelligence/index.html
+
+  Chapters
+
+  00:00 OpenAI's Strawberry: Advancing Novel Reasoning and Problem Solving
+  01:23 The Challenge of Balancing Intelligence, Speed, and Usability
+  03:03 Task Allocation: A Key Skill in the New Economy
+  04:01 Exploring Other AI Models: Gemini and Claude
+  05:01 The Uncertainty of Apple's Intelligence Features for iPhone 16
+
+  Takeaways
+
+  1. OpenAI's Strawberry project aims to provide novel reasoning and complex problem solving.
+  2. Balancing intelligence with speed and usability is a challenge in AI development.
+  3. The ability to allocate tasks across different types of intelligences will be important in the future.
+  4. Other AI models like Gemini and Claude are also worth exploring.
+  5. Apple's intelligence features for iPhone 16 are still unclear.
+
+  Sound Bites
+
+  "Do I want the correct answer slowly or do I want the approximate answer quickly?"
+  "Fundamentally what we're going to need as a skill as humans in the new economy is the ability to allocate tasks across intelligences."
+
+  Summary
+
+  The conversation discusses OpenAI's new large language model intelligence project called Strawberry, which focuses on novel reasoning and complex problem solving. One challenge is balancing intelligence with speed and usability. The ability to allocate tasks across different types of intelligences, such as human intelligence, chat GPT, or Strawberry, will be crucial in the new economy. The conversation also mentions other AI models like Gemini and Claude, as well as the delayed Apple intelligence features.
+
+  Keywords
+
+  AI, news, OpenAI, Strawberry, large language model, novel reasoning, complex problem solving, intelligence, speed, usability, task allocation, Gemini, Claude, Apple intelligence
 
 yt_tags:
   []

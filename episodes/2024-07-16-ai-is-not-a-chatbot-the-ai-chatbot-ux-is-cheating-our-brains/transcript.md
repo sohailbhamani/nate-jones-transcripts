@@ -8,6 +8,31 @@ duration: "17:28"
 duration_seconds: 1048
 view_count: 3032
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Chapters
+  00:00 AI: Beyond Chatbots
+  03:43 AI is Fast and Cheap
+  07:56 Smart Deployment as Habitual Access
+  13:07 Flaws of Chatbots as a UI for AI
+  16:15 The Need for New Business Models and UI Models
+
+  Takeaways
+  1. AI has broader capabilities beyond chat interfaces and can be deployed in various ways.
+  2. Chatbots have limitations and flaws that hinder their effectiveness as a UI for AI.
+  3. There is a need for new business models and UI models to effectively deploy large language models.
+  4. Factual accuracy validation for LLM outputs can be a valuable service.
+  5. AI is evolving and getting better at producing factual outputs over time.
+
+  Sound Bites
+  "AI is not a chatbot."
+  "AI is fast and therefore cheap."
+  "AI is opening up new business models."
+
+  Summary
+  AI is not just a chatbot. It has broader capabilities and applications beyond chat interfaces. The capacities of AI include deployable intelligence, fast and cheap operations, opening up new business models, smart deployment as habitual access, and generative AI that includes hallucination. Chatbots, on the other hand, have flaws that limit their effectiveness as a UI for AI. These flaws include simulating human conversation, lack of evolution in interface design, and the requirement of advanced LLM knowledge. There is a need for new business models and UI models to effectively deploy large language models.
+
+  Keywords
+  AI, chatbot, deployable intelligence, fast and cheap, new business models, smart deployment, generative AI, hallucination, flaws of chatbots, UI models
 
 yt_tags:
   []

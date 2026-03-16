@@ -8,6 +8,32 @@ duration: "9:03"
 duration_seconds: 543
 view_count: 3400
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The stack with cards: https://open.substack.com/pub/natesnewsletter/p/learn-ai-the-easy-way-a-complete?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Semantic Naming Beats Numeric Labels: People remember stories, not version numbers, so giving each model a vivid persona makes the differences stick.
+   2. 16-Model Card Deck Released: I turned the top 16 models on the Hugging Face leaderboard into a printable card deck, each with art and a one-word identity.
+   3. One-Word Personas Anchor Understanding: Examples include “Artificer” (ChatGPT-03), “Voyager” (Yi 1.5 200B), “Polymath” (Claude Opus), “Maverick” (Grok), and “Collective” (Mixtral-8×22B).
+   4. Cards Include Strengths & Caveats: Every card highlights what the model excels at and a known weakness—no model is flawless.
+   5. Educational & Desk-Reference Tool: The deck is built for classrooms, workshops, or anyone who wants a quick visual guide on their desk.
+   6. Call for Transparency: I urge model makers (looking at you, Grok) to publish proper model cards so users can build accurate semantics.
+   7. Nate’s Working Stack: O3 handles ~70 % of my queries; ChatGPT-4 and Claude Opus split another ~25 %; Gemini 2.5 Pro and Deep Research cover fact-checking and long-form dives.
+
+  Quotes
+  “Humans remember stories, not strings, so we need semantic meaning for models.”
+  “I turned the 16 leading models into a card deck, each with a one-word persona and a flaw—because no model is perfect.”
+  “If you hate ‘Artificer,’ make a better word and let me know; the goal is memory, not perfection.”
+
+  Summary
+  I’m constantly asked why numeric model names confuse people. Humans remember stories, not strings, so I built a 16-card deck that assigns each leading model a vivid one-word persona. O3 becomes “Artificer,” a cool creator; Yi-1.5 is “Voyager,” bridging English and Chinese; Claude Opus the “Polymath;” Grok the “Maverick;” Mixtral-8×22B the “Collective.” Every card also flags a limitation, because no model is perfect. The deck works as classroom material or a desk reference, and it reflects my toolkit: 03 for problem-solving, 4.0 for warmth, Opus for structured tasks, Gemini for fact-checking, Deep Research for long dives.
+
+  Keywords
+  ChatGPT-03, ChatGPT-4, Claude Opus, Yi 1.5, Grok, Mixtral-8×22B, model card deck, semantic naming, AI model comparison, one-word personas, educational tool, Nate Jones, model transparency
 
 yt_tags:
   []

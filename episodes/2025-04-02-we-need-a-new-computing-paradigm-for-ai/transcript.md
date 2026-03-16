@@ -8,6 +8,38 @@ duration: "2:40"
 duration_seconds: 160
 view_count: 3901
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Original essay: https://github.com/timhwang/nyrc/blob/main/NYRC%201%20-%20The%20Computer%20is%20a%20Feeling.md
+
+  My note on this: https://open.substack.com/pub/natesnewsletter/p/the-ai-is-a-vibe-a-short-manifesto?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. A New Philosophy of Computing: We need to move beyond the traditional, deterministic view of computing. AI systems are not machines that give us correct answers—they are systems that perform reasoning and simulate human-like thought.
+   2. AI as Performance, Not Fact: Every AI response is a performance, not a statement of fact. Understanding this helps us interpret responses with a critical eye, using what’s useful and discarding the rest.
+   3. Skeptical Prompting Is Key: New users often prompt optimistically and trust outputs too easily. A healthy skepticism and awareness of how AI generates responses are essential for getting value from the tools.
+   4. Discipline Over Hype: Building useful AI work requires rigorous evaluation and structured methodology, like OpenAI’s 8,316 task benchmark for agentic performance—not just clever prompting or trendy demos.
+   5. Language Is the Substrate: Because AI is trained on our language, it inherits our fallibility. These systems will never be perfect; they’re built on messy, human foundations.
+   6. The Limits of Legacy Thinking: Many users struggle with AI because they apply outdated computing models. A philosophical shift is needed to work effectively with non-deterministic, language-based systems.
+   7. The Emotional Frame of Computing: Inspired by Huang and Rizwan’s “The Computer is a Feeling,” we’re reminded that the essence of computing today may be more about personal, emotional, and interpretive engagement than logic or machinery.
+
+  Quotes:
+
+  “We need a philosophy of AI that understands that each response is a performance.”
+
+  “The newer you are to AI, the more you tend to prompt optimistically.”
+
+  “The computer is a feeling, not a device.”
+
+  Summary:
+
+  I reflect on the need to rethink our philosophy of computing in the age of AI. Drawing on Tim Huang and Omar Rizwan’s idea that “the computer is a feeling,” I argue that AI outputs are performances—not facts—and that we must treat them as such. As users, especially new ones, we must prompt with skepticism and understand that fallibility is baked into the system. Highlighting OpenAI’s rigorous eval methodology, I call for more discipline in how we use AI and propose that our cultural relationship with computing must shift to better fit this new reality.
+
+  Keywords:
+  AI philosophy, AI performance, OpenAI, agentic evaluation, prompt skepticism, deterministic computing, human language, fallibility, Huang and Rizwan, Substack essay, computer as a feeling, AI literacy, AI trust, Nate Jones
 
 yt_tags:
   []

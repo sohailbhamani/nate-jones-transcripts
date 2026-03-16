@@ -8,6 +8,27 @@ duration: "10:40"
 duration_seconds: 640
 view_count: 10713
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/bonus-post-openai-is-terrified-of?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  What’s really happening with OpenAI’s Sora 2 launch?
+  The media is full of hype about how long and realistic the videos are (like 16 seconds, let's not hyperventilate guys).
+
+  But it's NOT just a video tool. It's a lot more. It's the next move in OpenAI's strategy for social media domination.
+
+  In this video, I share the inside scoop on why Sora 2 is a friend-centric social network and what that signals for AI strategy, LLMs, and monetization:
+  • Why OpenAI is shipping Sora 2 as a standalone social network.
+  • How friend-cameos counter “AI slop” and onboard new creators.
+  • What Pulse cards, Sora, and checkout reveal about ad funnels.
+  • Where this pressures Snap, Meta, and Google heading into Q4.
+
+  For teams and operators, the opportunity is safer AI-powered engagement via new ad surfaces—while the risk is eroding trust if ads ever bleed into core ChatGPT answers.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

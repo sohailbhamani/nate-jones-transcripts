@@ -8,6 +8,31 @@ duration: "12:10"
 duration_seconds: 730
 view_count: 8673
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story: https://natesnewsletter.substack.com/p/i-built-a-20-prompt-set-to-kill-ai?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  AI slop is a massive issue, but we're attacking it wrong.
+  The usual story is that “AI makes people lazy,” or "we should all learn to write better," but the reality is that our attention ratio is shifting, and we have to deploy AI as an asset to help us focus human attention.
+
+  In this video, I share the inside scoop on how to detect and fix low-quality AI output:
+  • Why every team now faces an AI slop problem
+  • How to build robust prompts that act as quality filters
+  • What a real “anti-slop machine” looks like in practice
+  • Where managers should focus their 2 % of human attention
+
+  Chapters
+  00:00 The AI Content Explosion and Quality Concerns
+  02:36 Leveraging AI for Quality Control
+  05:28 Creating Effective Prompts for Evaluation
+  08:05 Building a Feedback Loop to Combat AI Slop
+  10:46 Raising the Quality Bar in AI Outputs
+
+  If you’re drowning in AI-generated work, this is how to raise the quality bar—and make AI your quality control layer instead of your problem.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI slop"

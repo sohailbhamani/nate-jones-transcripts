@@ -8,6 +8,29 @@ duration: "7:29"
 duration_seconds: 449
 view_count: 2670
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  Deep dive: https://natesnewsletter.substack.com/p/saas-in-the-age-of-ai-the-great-software
+
+  Takeaways:
+   1. Customization at Scale: AI has shifted expectations, making deeply personalized software experiences possible without high costs. This creates a competitive edge for both incumbents and insurgents but challenges legacy systems.
+   2. Cost of Intelligence Drop: The near-zero cost of AI intelligence is reshaping SaaS pricing and ROI structures. New players can leverage AI-native architectures to disrupt verticals with cost advantages.
+   3. Workflow Breakage: AI collapses traditional workflows, as tools like V0 replace design steps previously dominated by platforms like Figma. This creates unpredictable winners and losers.
+   4. Incumbent Advantage: Established players like Adobe can leverage treasury and reputation to integrate AI, defending their market position despite disruption.
+   5. Ankle-Biter Startups: Small, AI-native companies are seizing opportunities to disrupt with lower costs and fast iteration cycles, putting pressure on traditional SaaS models.
+   6. Shifting SaaS Growth: SaaS growth rates have slowed significantly from the early 2010s, signaling a need for companies to evolve or face stagnation in the AI-driven future.
+
+  Quotes:
+  “We’re living on an overhang of value from the last decade, and we need to make choices.”
+  “AI doesn’t just reduce costs—it reshapes job families, software delivery models, and purchasing pathways.”
+  “Workflow breakage leads to massive winners overnight by collapsing traditional processes into faster, more automated solutions.”
+
+  Summary:
+  SaaS is at a tipping point as AI reshapes the software industry. Growth has slowed, and cracks are forming in traditional value chains. AI enables scalable customization, collapsing costs of intelligence, and breaking workflows in unpredictable ways. Startups leveraging AI-native architectures are challenging incumbents, while established players like Adobe defend their markets by integrating AI solutions. Success in this environment demands a nuanced understanding of three levers—customization, cost structure changes, and workflow breakage—that are reshaping how software creates and captures value. This is the moment for both incumbents and insurgents to define the future of SaaS in the AI era.
+
+  Keywords:
+  SaaS, customization at scale, cost of intelligence, workflow breakage, AI-native startups, incumbents, Adobe, Salesforce, AI disruption, V0, Figma, scalable software, SaaS growth slowdown.
 
 yt_tags:
   []

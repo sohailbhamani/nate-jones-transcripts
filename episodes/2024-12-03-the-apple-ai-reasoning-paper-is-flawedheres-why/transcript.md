@@ -8,6 +8,32 @@ duration: "6:46"
 duration_seconds: 406
 view_count: 2061
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+
+  Apple paper: https://arxiv.org/pdf/2410.05229
+  Andrew's blog: https://andrewmayne.com/2024/10/18/can-you-dramatically-improve-results-on-the-latest-large-language-model-reasoning-benchmark-with-a-simple-prompt/
+
+  Takeaways:
+   1. Stanford Sets the Bar for Benchmarks: Stanford’s call for better AI benchmarks is a pivotal step toward understanding and testing AI’s reasoning capabilities effectively.
+   2. Apple’s Flawed Assumptions: Apple’s GSM-Symbolic benchmark conflates logical reasoning with naivete, leading to misleading conclusions about AI’s capabilities.
+   3. Simple Prompts, Big Results: Andrew Mayne demonstrated that a single-line prompt warning about trick questions improved AI performance by 90%, undermining Apple’s conclusions.
+   4. LLMs Assume Good Faith: AI models are trained to respond earnestly, making them vulnerable to questions designed with misleading nuances.
+   5. AI Reasoning Evidence Exists: Evidence shows AI can reason functionally, even if it’s different from human reasoning, challenging the skeptics to provide stronger proof against it.
+   6. Benchmarks Need Precision: Effective benchmarks should test AI’s actual reasoning, avoiding tests that conflate unrelated traits like naivete.
+   7. Humans Fail Reasoning Tests Too: Many humans wouldn’t pass strict reasoning tests either, making the comparison to AI reasoning worth reconsidering.
+
+  Quotes:
+  “We’re measuring two things, not one: logical reasoning and naivete—and that’s a bad benchmark.”
+  “If a single line can improve performance by 90%, you don’t have a benchmark. You have flawed data.”
+  “If it looks like reasoning, acts like reasoning, and can adapt with a small prompt, it’s probably reasoning.”
+
+  Summary:
+  Stanford’s call for better AI benchmarks is crucial, but Apple’s GSM-Symbolic reasoning test misses the mark. The benchmark conflates reasoning with naivete, as highlighted by Andrew Mayne’s experiment showing a 90% performance boost with a simple prompt. This reveals the test’s flaws rather than AI’s lack of reasoning. AI models are trained to assume good faith, making them vulnerable to misleading questions. Evidence suggests AI reasoning exists, even if it differs from human reasoning. Good benchmarks must isolate specific capabilities, focusing on testing reasoning without introducing distractions. It’s time to rethink how we measure AI intelligence.
+
+  Keywords:
+  AI, reasoning, benchmarks, Stanford, Apple, GSM-Symbolic, large language models, LLMs, Andrew Mayne, naivete, logical reasoning, trick questions, performance, AI skepticism, prompt engineering, AI benchmarks, artificial intelligence, NotebookLM, AI community, tech.
 
 yt_tags:
   []

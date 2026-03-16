@@ -7,6 +7,18 @@ duration: "23:23"
 duration_seconds: 1403
 view_count: 33164
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when enterprise AI agents stall even after you solve the memory problem? The common story is that better models and better prompt engineering will unlock automation, but the reality is both simpler and more complicated when the missing layer is primitive fluency, not intelligence. In this video, I share the inside scoop on why most agents never graduate from drafting assistants:
+
+  * Why opaque GUI workflows block agent collaboration no matter how capable the underlying model is
+  * How most agents stall because work lives in formats they can't read, verify, or hand off cleanly
+  * What Cursor's CMS rollback teaches about the difference between abstraction layers that help and ones that hide
+  * Where artifacts, checks, and traceability are the actual unlock for real leverage at the execution layer
+
+  For execs and operators navigating 2026, the upside is real speed, but only if teams shift work into agent-legible artifacts with clear validation and rollback. Otherwise you're just buying conversation on top of the same bottlenecks.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

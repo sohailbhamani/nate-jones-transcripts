@@ -8,6 +8,34 @@ duration: "15:31"
 duration_seconds: 931
 view_count: 668
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn more about me: https://www.natebjones.com/
+
+  Chapters
+  00:00 What Large Language Models Are Not Good At
+  07:17 The Strengths of Large Language Models
+
+  Takeaways
+
+  1. LLMs are not designed to handle breaking news or make decisions
+  2. LLMs are great at synthesizing and summarizing information
+  3. LLMs are skilled at describing images and pattern recognition
+  4. LLMs can be good companions and conversationalists
+  5. LLMs excel at business writing and analysis
+
+  Sound Bites
+
+  "We not treat a large language model as if it was a magic wand"
+  "Large language models are really, really terrible at handling news right now"
+  "Large language models are really, really bad at making decisions"
+
+  Summary
+
+  Large language models (LLMs) are not good at handling breaking news, making decisions, or making management decisions. On the other hand, LLMs are excellent at synthesizing and summarizing information, describing images, pattern recognition, being companions and conversationalists, business writing, and analysis.
+
+  Keywords
+
+  large language models, LLMs, AI, breaking news, decision making, management decisions, synthesizing, summarizing, describing images, pattern recognition, companions, conversationalists, business writing, analysis
 
 yt_tags:
   []

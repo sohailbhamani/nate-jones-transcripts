@@ -8,6 +8,30 @@ duration: "11:35"
 duration_seconds: 695
 view_count: 27778
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What’s really happening inside this week’s surge in AI breakthroughs?
+  The common story is that it’s just another benchmark race — but the reality is WAY bigger and more transformational than benchmarks.
+
+  In this video, I share the inside scoop on how AI models and agents are shifting real workflows:
+
+  • Why Gemini 3 and antigravity signal a fight for the developer environment
+  • How Nano Banana Pro makes visual reasoning usable in product work
+  • What SAM3 unlocks for video, robotics, and semantic perception
+  • Where scientific LLMs like GPT-5 start behaving like research partners
+
+  Chapters:
+  00:00 AI Breakthroughs: The Week in Review
+  02:17 Visual Reasoning and Image Generation Revolution
+  05:07 Semantic Perception: Transforming Computer Vision
+  07:58 3D Content Creation: A New Era
+  09:16 Scientific Reasoning: AI as a Research Partner
+  10:23 Physical Integration: OpenAI's New Data Center
+  10:41 Visualizing AI News: A New Approach
+
+  The takeaway: operators who learn to work with agentic tooling now will outpace teams waiting for “stable” playbooks.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

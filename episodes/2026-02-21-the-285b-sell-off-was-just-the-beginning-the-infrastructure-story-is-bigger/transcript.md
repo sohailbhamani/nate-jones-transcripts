@@ -7,6 +7,17 @@ duration: "29:14"
 duration_seconds: 1754
 view_count: 94698
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when Coinbase launches wallets for agents, Cloudflare ships Markdown for agents, and OpenAI publishes tools that let agents install software and write files—all in the same week? The common story is that these are separate product launches—but the reality is more interesting when you recognize the web itself is forking.
+  In this video, I share the inside scoop on why every major infrastructure company is simultaneously building toward the same agent-native future:
+  • Why 13,000 AI agents registered Ethereum wallets within 24 hours of Coinbase's launch
+  • How Stripe had to retrain its entire fraud detection system because agent traffic doesn't move a mouse
+  • What Cloudflare's Markdown conversion and X402 monetization support means for content access
+  • Where the mobile web analogy breaks down—the new client isn't a smaller screen, it's no screen at all
+  For builders watching the primitives snap together, the gap between infrastructure being built and trust people are willing to extend is the central tension of the next few years.
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

@@ -8,6 +8,33 @@ duration: "11:20"
 duration_seconds: 680
 view_count: 44491
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  The apple paper: https://machinelearning.apple.com/research/illusion-of-thinking
+
+  My longer take: https://open.substack.com/pub/natesnewsletter/p/lets-talk-that-apple-ai-paperheres?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Testing Small Models in Isolation: Apple evaluated four compact LLMs (Claude-Haiku, Gemini Nano, DeepSeek-Moe, and OpenAI o3-mini) on bespoke logic puzzles without tools, long inference, or search, using only the models’ own chain-of-thought outputs to judge reasoning.
+   2. Complexity Cliff Discovered: Extra “thinking” tokens improved performance on medium tasks, but all models collapsed on high-complexity versions of Tower of Hanoi and river-crossing problems, revealing a sharp capability cliff under strict latency budgets.
+   3. Limitations Undermine Big Claims: Because the study barred tool use, external code, larger frontier models, and Anthropic’s new reasoning-trace framework, its results say little about real-world systems that routinely rely on those aids.
+   4. Overreaction Online: Memes declaring “AI is dead” ignore the paper’s narrow scope; the researchers themselves did not claim to debunk machine reasoning—Twitter did.
+   5. “Call for Help” Framework Needed: The real lesson is that production LLMs must recognize when a task exceeds their capabilities and escalate to slower, tool-rich or larger models, much like a game-show lifeline.
+   6. Practical Low-Latency Use Cases: Customer-service bots or real-time fraud checks can’t afford long inference; defining trigger thresholds for escalation will keep those workflows both fast and reliable.
+
+  Quotes:
+  “The internet lost its gosh-darn mind and needs to settle down.”
+  “What Apple showed is that tiny models without tools hit a wall—­not that reasoning itself is dead.”
+  “If we want multi-agent systems to succeed, we need clear lifelines so models know when to call upstairs for help.”
+
+  Summary:
+  I explain why Apple’s new paper doesn’t kill AI reasoning—it simply shows that small models, stripped of tools and extra inference time, fail on very hard logic puzzles. The study’s narrow setup sparked a meme frenzy declaring AI useless, but those hot-takes ignore everyday systems that rely on bigger models, Python, and search. The real takeaway is architectural: production agents must recognize their own limits and escalate to heavier resources when complexity spikes. Rather than eulogizing AI, we should build standardized “call for help” triggers and rerun these tests with modern tool-enabled models. (100 words)
+
+  Keywords:
+  Apple research paper, chain-of-thought, reasoning cliff, Tower of Hanoi, river crossing puzzle, small language models, tool use, inference time, latency, escalation framework, multi-agent systems, customer-service bots, fraud detection, AI reasoning, model evaluation
 
 yt_tags:
   []

@@ -8,6 +8,30 @@ duration: "22:00"
 duration_seconds: 1320
 view_count: 59431
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/how-gemini-3-changes-your-job-a-practical?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside Gemini 3’s impact on AI strategy and work?
+  The common story is that “the best model wins” — but the reality is more complicated.
+
+  In this video, I share the inside scoop on how Gemini 3 reshapes core workflows across the organization:
+  • Why the real shift is routing models to the right workflows
+  • How “eyes-on-glass” tasks become AI-native territory
+  • What specification and review now mean in AI-driven teams
+  • Where product, engineering, and marketing gain new leverage
+
+  Chapters:
+  00:00 The Emergence of Gemini 3
+  03:22 AI's New Workflows and Applications
+  10:54 Job Family Insights with Gemini 3
+  21:28 Summarizing the Impact of Gemini 3
+
+  Teams that learn to articulate intent and review AI agents’ output will widen the gap between those who only test chat and those who rethink entire workflows.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

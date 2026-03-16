@@ -8,6 +8,28 @@ duration: "13:03"
 duration_seconds: 783
 view_count: 9795
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Tokenization First Test – Before asking “Can AI do this?”, ask whether the data could live in a Word doc. If it can, it’s almost certainly tokenizable and ready for LLM work.
+   2. Three Data Tiers Matter – Tier A: Word-doc content (easy, immediate wins). Tier B: spreadsheet-scale data (needs massaging and specialized helpers). Tier C: data-lake scale (requires retrieval architectures, not straight prompting).
+   3. Jagged Intelligence Is Real – Today’s models mix Einstein-level brilliance with intern-grade gaps, mostly around memory and basic math. Your prompting skill and taste determine how often you hit the peaks instead of the valleys.
+   4. Prompt Size Follows Goal – Big, structured prompts anchor high-stakes tasks with known context; short prompts excel when you’re discovering the problem space and need rapid back-and-forth iteration.
+   5. Prompt-Project Fit Is a Metric – Track how often the first prompt actually fits the job. Frequent restarts signal unclear intent or a poor match between prompt style and task type.
+   6. Tokenize to Gain Leverage – Anything you can OCR, transcribe, or restructure into tokens (even messy notebook scribbles) expands the surface area where AI can create value for you.
+
+  Quotes:
+  “Start by asking: could this live in a Word doc? If yes, you’ve already won half the AI battle.”
+  “AI is Einstein in some places and the worst intern in others—that jagged surface defines how you work with it.”
+  “Use heavyweight prompts for production, lightweight prompts for discovery—it’s that simple and that hard.”
+
+  Summary:
+  In this talk I break down three concepts people trip over again and again. First, tokenizable data: if your information fits in a document, AI can likely handle it; spreadsheets need tricks, data lakes demand retrieval. Second, jagged intelligence: models swing from genius to clueless because of memory and reasoning gaps, so your taste and prompting discipline decide the outcome. Third, prompt strategy: long, structured prompts shine when stakes and context are clear, while short iterative prompts fuel exploration. Master these distinctions, and you’ll push AI further this week—by tokenizing wisely, respecting its jagged edges, and matching prompt size to the job.
+
+  Keywords:
+  tokenizable data, jagged intelligence, big prompts, casual chats, context window, spreadsheets vs Word docs, data lake, retrieval architectures, AI memory limits, prompt strategy, Agent Mode, DataRails, napkin test
 
 yt_tags:
   []

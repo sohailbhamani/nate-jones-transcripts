@@ -8,6 +8,32 @@ duration: "20:12"
 duration_seconds: 1212
 view_count: 14022
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/executive-briefing-ai-usage-is-not?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside teams that “adopt AI” but don’t get faster?
+  The common story is that AI automatically drives productivity — but the reality is more complicated.
+
+  In this video, I share the inside scoop on how to build true AI fluency at work:
+  • Why enabling constraints raise team performance instead of slowing it
+  • How to teach AI-fungible problem-solving skills that transfer across tools
+  • What mistakes lead to “AI spaghetti” when every team builds Skills and automations
+  • Where leaders should hold off on infrastructure until workflows actually break
+
+  Chapters
+  00:00 The Challenge of AI Integration in Teams
+  03:04 Building AI Fluency: Key Principles
+  06:48 Enabling Constraints vs. Processes
+  11:33 Developing AI-Fungible Problem-Solving Skills
+  12:53 Avoiding Over-Infrastructure in AI Adoption
+  17:07 Fostering a Culture of AI Problem Solving
+
+  The takeaway: teams win with judgment and structure, not volume — and the difference shows fast.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

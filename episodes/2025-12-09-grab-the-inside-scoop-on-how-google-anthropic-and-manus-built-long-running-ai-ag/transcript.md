@@ -7,6 +7,31 @@ duration: "20:18"
 duration_seconds: 1218
 view_count: 18459
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/i-read-everything-google-anthropic?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening with agentic context engineering for AI agents?
+
+  The common story is that bigger context windows and RAG magically solve AI memory — but that actually makes them dumber in many cases.
+
+  In this video, I share the inside scoop on building memory-first architectures for large language model agents:
+  • Why naive “just add context” designs quietly degrade AI performance
+  • How tiered memory, retrieval, and artifacts keep agents coherent
+  • What common pitfalls break long-horizon agents in real workloads
+  • Where ADK, ACE, and Manus point to a new agent OS
+
+  Chapters:
+  00:00 Understanding Agentic Context Engineering
+  03:48 Principles of Memory-First Design
+  11:11 Common Pitfalls in Agentic Memory Systems
+  15:06 Use-Cases for Long-Running Agents
+
+  If you’re an operator or builder, getting memory and context engineering right is now the difference between fragile AI demos and reliable automation at work.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

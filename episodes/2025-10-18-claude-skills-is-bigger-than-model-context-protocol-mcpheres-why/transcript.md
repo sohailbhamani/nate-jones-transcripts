@@ -8,6 +8,33 @@ duration: "10:00"
 duration_seconds: 600
 view_count: 17465
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompt: https://natesnewsletter.substack.com/p/i-read-17-hours-of-ai-news-this-week?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  Google Exploded, Claude shipped like crazy, and the AI platform wars HEATED UP.
+
+  The common story is that everyone’s racing to ship new models — but the reality is that control over the agent layer, compute, and discovery channels is what now defines power in AI—and the ability to accelerate.
+
+  In this video, I share the inside scoop on the week’s biggest shifts in AI strategy:
+  • Why agent skills like Claude’s may redefine enterprise automation
+  • How AI is accelerating scientific discovery and drug development
+  • What OpenAI’s Broadcom deal reveals about compute sovereignty
+  • Where conversational discovery is replacing traditional search
+
+  The takeaway: AI builders and operators need to simplify, specialize, and prepare for vertically integrated ecosystems that move faster than regulation or infrastructure can keep up.
+
+  Chapters:
+  00:00 Strategic Principles in AI Development
+  01:23 AI Breakthroughs in Medical Science
+  03:32 Collaborations and Innovations in AI Technology
+  05:18 Emerging Trends in AI and Commerce
+  07:07 Democratization of AI Development
+  08:52 Reflections on Agentic Infrastructure
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

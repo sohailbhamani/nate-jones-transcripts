@@ -177,6 +177,14 @@ def save_transcript(metadata, transcript):
     episode_dir = EPISODES_DIR / folder_name
     episode_dir.mkdir(parents=True, exist_ok=True)
 
+    # Format description as YAML block scalar
+    desc = metadata.get("description", "")
+    if desc:
+        desc_lines = desc.replace("\r\n", "\n").replace("\r", "\n").split("\n")
+        desc_yaml = "description: |\n" + "\n".join(f"  {line}" for line in desc_lines)
+    else:
+        desc_yaml = 'description: ""'
+
     yaml_content = f'''---
 title: "{metadata.get("title", "Unknown").replace('"', '\\"')}"
 video_id: "{metadata["video_id"]}"
@@ -186,6 +194,7 @@ duration: "{metadata.get("duration", "unknown")}"
 duration_seconds: {metadata.get("duration_seconds", 0)}
 view_count: {metadata.get("view_count", 0)}
 author: "{metadata.get("author", "Nate B Jones")}"
+{desc_yaml}
 
 yt_tags:
 {chr(10).join(f'  - "{tag}"' for tag in metadata.get("keywords", [])) or "  []"}
@@ -273,7 +282,11 @@ def main():
 
     # Filter to remaining videos
     no_transcript = set(progress.get("no_transcript", []))
-    remaining = [vid for vid in all_video_ids if vid not in completed and vid not in no_transcript]
+    remaining = [
+        vid
+        for vid in all_video_ids
+        if vid not in completed and vid not in no_transcript
+    ]
     to_process = remaining[:limit]
 
     print(f"Total videos: {len(all_video_ids)}")
@@ -323,7 +336,10 @@ def main():
                 )
                 save_progress(progress)
                 break
-            elif "No transcript content returned" in error_msg or "no transcript" in error_msg.lower():
+            elif (
+                "No transcript content returned" in error_msg
+                or "no transcript" in error_msg.lower()
+            ):
                 print(f"  Permanent skip: no transcript available for {video_id}")
                 if "no_transcript" not in progress:
                     progress["no_transcript"] = []

@@ -8,6 +8,28 @@ duration: "9:28"
 duration_seconds: 568
 view_count: 19319
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Intent Gap Drives Prompt Failures: Most prompts collapse because we never transmit our true intent; human language leaves too much room for misinterpretation by the model.
+   2. Contract-First Prompting: Treat the LLM like an engineering partner—draft a “contract” that defines mission, success criteria, and guardrails before any work starts.
+   3. Structured Clarification Loop: The prompt forces the model to list every unknown, then ask one question at a time until it reaches 95 % confidence it can deliver accurately.
+   4. Echo Check for Alignment: A single crisp sentence—deliverable, must-include fact, hardest constraint—lets me confirm we’re synchronized before locking scope.
+   5. Token-Efficient Precision: Lengthy system prompts aren’t required; a clear sequence of steps (gap listing, targeted Q&A, contract lock) achieves deep alignment with minimal tokens.
+   6. Domain-Agnostic Utility: Whether I’m summarizing 365 years of Balkan history or scoping a multi-platform livestream comment tool, the same framework extracts fuzzy intent and turns it into an executable work order.
+
+  Quotes
+  “Almost every prompt that fails fails because intent wasn’t clearly communicated.”
+  “Giving the LLM free rein to ask scattershot clarifying questions is an unprofessional way to handle ambiguity.”
+  “All we’re doing is listing the gaps to goal, digging until 95 % confidence, then locking the contract.”
+
+  Summary
+  I argue that unclear intent—our inability to translate rich domain knowledge into precise instructions—is the root cause of failed prompts. My solution is contract-first prompting: assign the model a mission, force it to enumerate missing facts, and interrogate me step-by-step until it’s 95 % certain it can deliver. An echo check locks the agreement, after which the model builds and self-tests the work. I demonstrate the method on gnarly tasks—from a 500-word Balkan history overview to a livestream comment aggregator—showing how a lean, structured prompt reliably converts vague ideas into high-quality output.
+
+  Keywords
+  contract-first prompting, intent gap, LLM alignment, clarification loop, echo check, prompt engineering, token efficiency, AI workflow, structured prompts, work order
 
 yt_tags:
   []

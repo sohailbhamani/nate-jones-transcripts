@@ -8,6 +8,29 @@ duration: "11:47"
 duration_seconds: 707
 view_count: 25719
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The Story : https://open.substack.com/pub/natesnewsletter/p/i-threw-my-real-workday-at-two-ai?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  Takeaways:
+   1. UI, Not AI: Comet’s breakthrough is a friction-free interface that lets the assistant disappear and simply get the job done, instead of forcing users to micromanage agent steps.
+   2. True General-Purpose Agent: Unlike task builders such as Zapier or n8n, Comet juggles email, calendar, LinkedIn, research, and web actions in one fluent workflow.
+   3. Operator’s UX Cautionary Tale: OpenAI’s Operator shows that even powerful models fail if wrapped in a toy-sized, sluggish browser—bad UX kills adoption.
+   4. ROI by Time-Saved Math: At $200/month, Comet’s value hinges on adding up the 10-15-minute slices it saves; ten hours saved at $35/hour already doubles the spend.
+   5. Browser-as-OS Strategy: By owning the browsing layer and “glowing” the page blue while it works, Perplexity positions Comet as the operating system for web-based AI.
+   6. Months Ahead of Schedule: Comet’s speed, reliability, and data hookups arrived three-to-four months sooner than expected, delivering the first general-purpose agent that feels production-ready.
+
+  Quotes:
+  “We want the assistant to do the work and disappear.”
+  “It’s not AI, it’s UI—that’s why Comet shines.”
+  “I actually saw a general-purpose agent that worked today.”
+
+  Summary:
+  I’ve spent months testing AI “agents,” but none impacted my day until Perplexity’s Comet. The magic isn’t the model; it’s the interface. Comet slips into the background, handles calendar reshuffles, email drafts, LinkedIn triage, even local restaurant searches, all without making me babysit it. Operator and other tools bury you in tiny toy browsers or flow builders, proving that bad UX kills great tech. At $200 a month the only question is whether its 10-15-minute micro-saves add up to more than the cost. For me, the speed, reliability and browser-level integration finally deliver a general-purpose agent worth paying for today.
+
+  Keywords:
+  Comet, Perplexity, AI agent, general-purpose assistant, user interface, Operator, Mariner, Zapier, n8n, time savings, ROI, browser OS, calendar integration, Gmail, LinkedIn, agentic workflow, $200/month, social commerce, TikTok Shop, Amazon strategy
 
 yt_tags:
   []

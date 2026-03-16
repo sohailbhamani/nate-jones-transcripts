@@ -8,6 +8,29 @@ duration: "6:21"
 duration_seconds: 381
 view_count: 9455
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Task-Level Saturation Arrives: For many discrete tasks, today’s models already deliver “good enough” performance, so further accuracy gains feel irrelevant.
+   2. Jobs Outpace Tasks: A job involves sustained intent, context, and tacit knowledge—capabilities that remain firmly human even when individual tasks are automated.
+   3. Intent Persistence Is Hard: The most optimistic road-maps give autonomous agents one-to-two weeks of reliable focus within the next few years, far from the multi-year span humans manage.
+   4. Intelligence Becomes Commodity: As model capabilities converge, raw intelligence stops being a differentiator for model makers or app builders.
+   5. Workflow Integration Is Advantage: Competitive edge will come from embedding AI deeply into toolchains, eliminating copy-paste friction and aligning with real-world processes.
+   6. Code Leads Other Domains: Software development integrates AI faster because code offers clear success signals (it runs or it doesn’t), whereas textual workflows still lack objective feedback.
+
+  Quotes
+  “We are getting to intelligence saturation faster than we’re getting to general intelligence.”
+  “A job is the ability to maintain intent over time—AI can’t do that yet.”
+  “When everyone has the intelligence, the advantage shifts to how you install it in the workflow.”
+
+  Summary
+  I argue that AI models are fast approaching “intelligence saturation,” where their performance on individual tasks is already more than adequate, so incremental gains feel irrelevant. My colleague’s experience with O3 illustrates this: for his tasks, newer models offer no practical improvement. Crucially, a job is far more than isolated tasks; sustaining intent over months or years remains uniquely human. While agents may soon maintain focus for a week or two, they won’t rival human persistence in the near term. As intelligence commoditizes, competitive advantage will shift to seamless workflow integration, reducing copy-paste friction and embedding AI deeply into toolchains.
+
+  Keywords
+  intelligence saturation, task-level AI, sustained intent, workflow integration, AI commoditization, autonomous agents, code generation, Polanyi’s paradox, model capability, AI workflow friction
 
 yt_tags:
   []

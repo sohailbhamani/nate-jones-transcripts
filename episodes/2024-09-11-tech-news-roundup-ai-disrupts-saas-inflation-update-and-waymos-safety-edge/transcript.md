@@ -8,6 +8,48 @@ duration: "6:32"
 duration_seconds: 392
 view_count: 740
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn more about me: https://www.natebjones.com/
+
+  Learn more about the stories:
+
+  Waymo - https://www.understandingai.org/p/human-drivers-are-to-blame-for-most
+
+  Glean - https://www.glean.com/blog/glean-series-e-prompting-launch
+
+  Prohost / Airbnb AI - https://www.ycombinator.com/launches/Lmd-prohostai-ai-property-manager-for-airbnb-hosts
+
+  IPO gap since 2022 - https://www.saastr.com/coate-we-have-a-25-year-ipo-backlog/
+
+  Online grocery CPI print - https://www.bloomberg.com/news/articles/2024-09-10/us-online-grocery-prices-plunge-the-most-on-record-in-august
+
+  Chapters
+
+  00:00 The Future of Software as a Service: In-House AI vs. External Solutions
+  01:53 AI Solutions for Business: Glean and Prohost AI
+  04:12 The Impact of Decreasing Online Grocery Sales on the Venture Capital Model
+  05:30 Waymo's Self-Driving Vehicles: Safer Than Human Drivers
+
+  Takeaways
+
+  1. The rise of in-house AI solutions raises questions about the future of software as a service.
+  2. Companies like Glean and Prohost AI are leveraging AI to solve business problems and improve efficiency.
+  3. The decrease in online grocery sales may impact the venture capital model and IPO rates.
+  4. Waymo's crash driving data shows that self-driving vehicles can be safer than human drivers.
+
+  Sound Bites
+
+  "Klarna has started to replace Salesforce with in-house AI."
+  "Glean raised $260 million and is positioned as AI native."
+  "Prohost AI automates the Airbnb host experience."
+
+  Summary
+
+  In this conversation, Nate discusses three big pieces of news in the tech industry. He starts by talking about Klarna replacing Salesforce with in-house AI, which raises questions about the future of software as a service. Nate then highlights two companies, Glean and Prohost AI, that are leveraging AI in different ways to solve business problems. He moves on to discuss the impact of online grocery sales falling and its potential effect on the venture capital model. Finally, Nate mentions Waymo's crash driving data, which shows that Waymo's self-driving vehicles are safer than human drivers.
+
+  Keywords
+
+  software, AI, Klarna, Salesforce, Glean, Prohost AI, online grocery sales, inflation, IPOs, venture capital, Waymo, self-driving vehicles
 
 yt_tags:
   []

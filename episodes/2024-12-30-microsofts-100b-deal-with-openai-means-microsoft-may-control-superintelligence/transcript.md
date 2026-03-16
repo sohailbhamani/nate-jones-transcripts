@@ -8,6 +8,35 @@ duration: "5:16"
 duration_seconds: 316
 view_count: 3139
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  More on Substack: https://natesnewsletter.substack.com/
+  The story: https://www.theverge.com/2024/12/26/24329618/openai-microsoft-and-the-100-billion-agi-question
+
+  Yes this ties into the for-profit negotiations--someone is leaking this dollar amount now for REASONS.
+
+  Takeaways
+   1. AGI Defined by Profits: Microsoft and OpenAI agreed that achieving $100 billion in profits will signify AGI, tying the milestone to financial performance rather than technical intelligence.
+   2. Exclusive Corporate Club: Only about 10 companies in history, including Microsoft and Apple, have surpassed $100 billion in profits, emphasizing how rare and ambitious this goal is.
+   3. Microsoft’s Favorable Terms: Microsoft receives 75% of OpenAI’s profits until AGI is reached, locking OpenAI into a financially one-sided agreement for years.
+   4. OpenAI’s Resource Dependency: OpenAI’s reliance on Microsoft for servers and compute power underscores its lack of leverage in the deal.
+   5. Satya Nadella’s Strategic Timing: Nadella expedited the deal in 2024, anticipating rapid developments at OpenAI and ensuring Microsoft maintains its advantageous position.
+   6. Cost of Innovation vs. Profitability: OpenAI’s high innovation costs may delay or prevent it from ever reaching $100 billion in profits, a threshold historically difficult for companies to achieve.
+   7. Shift from Mission to Metrics: By linking AGI to profits, OpenAI risks deviating from its mission to benefit humanity and instead prioritizes financial targets.
+
+  Quotes
+   1. “Microsoft has a hundred billion reasons to decide when AGI is achieved.”
+   2. “Satya Nadella drew a financial line in the sand—and it’s extremely favorable to Microsoft.”
+   3. “OpenAI may never reach $100 billion in profits given the cost of innovation and burn rate required to build AGI.”
+
+  Summary
+
+  Microsoft has tied the definition of AGI to OpenAI generating $100 billion in profits, ensuring long-term financial leverage over OpenAI. With only 10 companies in history crossing this threshold, the milestone appears ambitious, if not unreachable, for OpenAI given its high innovation costs and dependence on Microsoft for resources. Satya Nadella’s strategic timing in 2024 locked in this financially favorable deal, positioning Microsoft to benefit significantly while OpenAI balances its mission to serve humanity with financial metrics. This redefinition of AGI raises questions about whether intelligence should be measured in dollars instead of technical breakthroughs.
+
+  Keywords
+
+  Microsoft, OpenAI, AGI, artificial general intelligence, Satya Nadella, $100 billion profits, financial milestones, innovation costs, resource dependency, tech strategy, compute power, legal agreements, corporate leverage, AI partnerships, business strategy, AI development, profit thresholds.
 
 yt_tags:
   []

@@ -8,6 +8,33 @@ duration: "9:06"
 duration_seconds: 546
 view_count: 42724
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/gemini-3-is-1-day-1-impressions-heremore?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  The tired story these days is AI is slowing down. Or AI is hitting a wall.
+
+  That's just wrong.
+
+  Gemini 3 just posted a clear lead on the hardest benchmarks for math, vision, and multimodal reasoning. And the benchmarks aren't even the point.
+
+  In this video, I share the inside scoop on what it means to have a new number one large language model:
+  • Why Gemini 3 is an unambiguous number one model.
+  • How its math and multimodal scores crush prior LLM records.
+  • What these leaps mean for complex workflows, coding, and research.
+  • Where humans still matter in judgment, ambiguity, and real work.
+
+  Chapters:
+  00:00 Introduction to Gemini 3: The Number One Model
+  02:52 Benchmarking Excellence: Understanding Gemini 3's Performance
+  05:24 The Implications of Being Number One in AI
+  07:37 Multimodal Capabilities: The Future of AI Interaction
+
+  For operators and builders, Gemini 3 is a sharper colleague, not a job-ending replacement.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "Gemini 3"

@@ -7,6 +7,24 @@ duration: "17:11"
 duration_seconds: 1031
 view_count: 30976
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/ilya-vs-google-the-trillion-dollar?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What's really happening with AI scaling and the future of large language models? The common story is that bigger models mean better results — but the reality is more complicated.
+
+  In this video, I share the inside scoop on Ilya Sutskever's perspective on where AI research is heading:
+
+  Why today's LLMs generalize worse than a bright teenager
+  How emotions might be the missing value function in AI
+  What the end of scaling means for frontier model development
+  Where multi-agent ecosystems could become the real competitive moat
+
+  For AI strategists and builders, the tension between scaling believers and research-first thinkers signals both opportunity and uncertainty ahead.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

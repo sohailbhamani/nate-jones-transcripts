@@ -8,6 +8,30 @@ duration: "20:05"
 duration_seconds: 1205
 view_count: 21291
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://open.substack.com/pub/natesnewsletter/p/software-engineering-isnt-dead-its?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  Takeaways:
+   1. Engineering Over Code Generation: AI can write code, but engineered systems require invariants, interfaces, safety cases, and reliability under load.
+   2. AI as Force Multiplier: AI democratizes coding, yet chiefly amplifies trained engineers; the real divide shifts from “who can code” to “who can engineer.”
+   3. Human Responsibilities Don’t Go Away: Engineers translate intent to specs, convert probabilistic behavior into contracts, reason about emergent effects at scale, and manage latency–quality–cost trade-offs.
+   4. New Disciplines, Same Ethos: Semantic, boundary, memory/knowledge, and safety & assurance engineering emerge to tame injection, drift, context/versioning, and auditability.
+   5. Enduring Human Skills Matter: System intuition, empathy for messy human use, judgment under uncertainty, and orchestration of complex toolchains determine outcomes.
+   6. Demos Aren’t Production: Production demands observability, telemetry, semantic forensics, and design for hostile inputs; “works once” doesn’t count.
+   7. Three Laws for AI-Era Engineering: 1) No invariants → not engineered; 2) Not measurable in prod → not built; 3) Can’t explain failure → you don’t own it.
+
+  Quotes:
+  “AI writes code; engineers write invariants, interfaces, and guarantees.”
+  “The divide isn’t who can code—it’s who can engineer.”
+  “If you can’t measure it in production and explain failures, you don’t own the system.”
+
+  Summary:
+  This is my love letter to engineering in the age of AI. AI can generate working code, but engineered systems demand invariants, guarantees, and accountability. I argue the divide is shifting from who can code to who can engineer: translate intent into specs, write contracts for probabilistic components, think at scale, and practice economic engineering. New disciplines emerge—semantic, boundary, memory/knowledge, and safety assurance—while timeless skills endure: system intuition, empathy, judgment under uncertainty, and orchestration of complexity. I close with three laws: define invariants, measure in production, and explain failures. Engineers aren’t being replaced; they’re being asked to carry greater responsibility.
+
+  Keywords:
+  engineering, AI, vibe coding, invariants, probabilistic systems, intent to specification, observability, telemetry, semantic forensics, injection attacks, semantic engineering, boundary engineering, memory engineering, knowledge engineering, safety assurance, model drift, emergent behavior, orchestration, economic engineering, production readiness, accountability, human-in-the-loop, reliability, scale effects, guarantees
 
 yt_tags:
   []

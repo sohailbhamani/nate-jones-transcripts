@@ -8,6 +8,42 @@ duration: "12:27"
 duration_seconds: 747
 view_count: 4148
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  ⸻
+
+  Takeaways:
+   1. Scaling Beyond 1T Tokens: Expanding beyond today’s 1 trillion-token training sets requires deeper multilingual integration, better curation tools, and more flexible tokenization to capture underrepresented languages and linguistic diversity.
+   2. Multi-Modal Expansion: The next leap to 100T tokens will involve real-time web streams, large-scale podcast transcription, high-quality social media content, and the integration of vision data to build a more comprehensive AI understanding.
+   3. The Robotics Data Wave: Moving into quadrillions (10^15) of tokens means pulling in sensor logs, robotics data, and embodied AI experiences—using vision, LiDAR, tactile feedback, and motor command data as new forms of training input.
+   4. Zettabyte Era AI: Beyond quadrillions, AI training at 10^20+ tokens will require processing 3D scans, continuous sensor streams from entire cities, and industry-scale IoT data from manufacturing, healthcare, and autonomous vehicles.
+   5. Reasoning as a Cheat Code: AI models might not need to reach the zettabyte level for general intelligence—scaling reasoning at test time through more powerful compute could be an alternative pathway to smarter AI without endlessly expanding datasets.
+   6. The Data Arms Race: OpenAI, Anthropic, Meta, and Chinese LLM developers are locked into an escalating cycle of model scaling, where continuous growth is necessary to maintain an edge—but startups are challenging them with model distillation techniques.
+   7. The NVIDIA Advantage: As AI moves into robotics and sensor-driven learning, NVIDIA’s dominance in GPUs, AI hardware, and robotics processing suggests it will be a foundational player in enabling the infrastructure for the next wave of AI development.
+
+  ⸻
+
+  Quotes:
+
+  “We need to be honest that we have barely scratched the surface of high-quality tokens, but at the same time, getting 10x, 100x, 1000x more will be extremely difficult.”
+
+  “I don’t want to sit there and say that data is oil and we can’t go get more—I want to think about the world in terms of tokenization and get more creative.”
+
+  “OpenAI is kind of locked into this arms race. Whether they like it or not, so are Anthropic, Gemini, and Meta. They all need to get to the winner’s circle—but they don’t know where the finish line is.”
+
+  ⸻
+
+  Summary:
+
+  We are currently at 1 trillion tokens for AI training, but moving beyond requires breakthroughs in multilingual datasets, curated expansion, and better tokenization. Scaling to 100 trillion tokens means leveraging real-time web streams, podcasts, and vision data, while quadrillion-level training introduces robotics and sensor-based learning. Beyond that, zettabyte-scale AI would integrate city-scale IoT, healthcare, and industrial data. However, reasoning at test time might serve as an alternative to sheer data volume. OpenAI, Anthropic, and Meta are caught in a relentless data arms race, while NVIDIA stands to benefit as robotics and sensor integration drive the next evolution of AI.
+
+  ⸻
+
+  Keywords:
+  AI scaling, tokenization, multilingual AI, robotics, sensor data, OpenAI, Anthropic, NVIDIA, reasoning models, model distillation, data arms race, zettabyte AI, IoT data, AI infrastructure, large language models
 
 yt_tags:
   []

@@ -8,6 +8,30 @@ duration: "12:50"
 duration_seconds: 770
 view_count: 8603
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://open.substack.com/pub/natesnewsletter/p/the-ai-analysis-edge-7-prompts-that?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  Takeaways
+   1. MIT “Brain-Drain” Study: Copy-pasting ChatGPT answers lowers cognitive effort, proving passive AI use literally shrinks our mental workload.
+   2. Decision Anxiety Loop: People hand tough choices to AI so they can claim credit when it works—or blame the bot when it fails.
+   3. Answer vs. Analysis Prompts: Google excels at domain-completion questions (“Give me the answer”); LLMs shine when asked for scenario analysis with rich inputs.
+   4. Structured Thinking Framework: Effective prompts define role, inputs, silent reflection, output format, success criteria, and rejection conditions—forcing deeper reasoning.
+   5. Finance as a Testbed: Money decisions are high-leverage and emotionally charged, making them the perfect arena to practice analysis-first prompting.
+   6. Live 90-Day Experiment: I’m allocating real dollars on Robinhood and Kalshi, letting O3 Pro, Opus 4, and Grok 4 generate trades to measure analytical depth—outcomes will be published.
+   7. Embrace Uncertainty: LLMs expand optionality and surface trade-offs, but humans must still own the decision and its consequences.
+
+  Quotes
+  “We keep begging ChatGPT for certainty when its real superpower is exploring uncertainty.”
+  “Google is the answer machine; ChatGPT is the thinking machine—if you let it think.”
+  “The goal is to keep responsibility inside you and let AI synthesize the options.”
+
+  Summary
+  I unpack why many smart people use AI to dodge responsibility instead of sharpening judgment. An MIT study shows that blindly copying ChatGPT narrows brain engagement, yet decision anxiety drives us to seek definitive answers, especially in finance. I argue for analysis-first prompts: feed LLMs structured data, role instructions, and reflection steps so they map scenarios rather than dictate actions. To prove the point, I’m running a 90-day live test on Robinhood and Kalshi, giving O3 Pro, Opus 4, and Grok 4 real money and rigorous prompts. The experiment will reveal how well each model supports human agency—and how we can reclaim it.
+
+  Keywords
+  MIT brain-drain study, decision anxiety, AI judgment, structured prompts, answer vs analysis, financial decisions, Robinhood, Kalshi, O3 Pro, Opus 4, Grok 4, live LLM experiment, thinking machine, domain completion, uncertainty, optionality
 
 yt_tags:
   []

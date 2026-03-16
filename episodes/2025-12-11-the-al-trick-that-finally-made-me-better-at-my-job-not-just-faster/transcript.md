@@ -7,6 +7,45 @@ duration: "20:42"
 duration_seconds: 1242
 view_count: 27422
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/grab-the-9-prompts-i-use-to-turn?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What's really happening with skills development in the AI age? The common story is that AI replaces skills — but the reality is that AI finally makes deliberate practice possible for knowledge workers.
+
+  In this video, I share the inside scoop on how to train like an athlete for your career:
+
+   • Why knowledge workers have never had a real practice environment
+   • How to build rubrics that turn fuzzy feedback into measurable scores
+   • What five skills actually matter when AI handles execution
+   • Where team-level practice loops create compounding improvement
+
+  Chapters:
+  Here are YouTube chapters for this video:
+
+  0:00 Why we need a skills-first mindset
+  0:18 Athletes train — knowledge workers don't
+  01:24 Skills are baked into job titles (and that's broken)
+  02:20 What deliberate practice looks like for knowledge work
+  03:55 Three reasons practicing is structurally hard
+  05:48 Five skills that actually matter in the AI age
+  08:00 Skills live in artifacts, not adjectives
+  09:08 How AI changes the practice equation
+  10:09 Step one: Define what good looks like
+  11:19 Turn your rubric into an AI grading system
+  13:25 From film review to repeatable drills
+  15:41 The behavior chain: skill → artifact → grade → practice
+  16:20 Running practice loops at the team level
+  18:37 Using the same rubrics for hiring
+  20:49 Why AI usage doesn't undermine skill evaluation
+  22:08 Limits and how to start small
+  23:30 Becoming athletes about our knowledge work
+
+  Professionals who define what good looks like and use AI as a consistent coach will build irreplaceable judgment — those waiting for their next performance review to learn won't keep pace.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI career advice"

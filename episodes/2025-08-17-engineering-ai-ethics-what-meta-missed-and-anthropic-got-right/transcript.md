@@ -8,6 +8,29 @@ duration: "13:28"
 duration_seconds: 808
 view_count: 5368
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Meta’s Ethics Failure: A leaked AI ethics policy approved by 200+ staff, including Meta’s chief AI ethicist, revealed allowances for harmful outputs—highlighting a systemic, deliberate approval process rather than a simple mistake.
+   2. Bolt-On Guardrails Don’t Work: Meta’s approach adds minimal ethical restrictions after training rather than embedding them into the model’s core behavior, leaving large safety gaps.
+   3. Constitutional AI as Engineering: Anthropic’s method trains models to critique and revise outputs based on a set of principles, fostering an “ethical intuition” instead of rigid rule-following.
+   4. Who Writes the Rules?: Ethical frameworks depend on who authors them; without diverse stakeholders (e.g., child safety experts), values can be skewed or incomplete.
+   5. Industry-Wide Standards Needed: Common core ethical principles, stakeholder involvement, reviewer protections, and transparent fixed guidelines could raise the baseline for AI safety.
+   6. Red Teaming & Synthetic Data: Properly staffed red teams and refusal-focused synthetic training data can help prevent harmful behaviors before deployment.
+   7. Transparency as Trust: Companies should disclose their ethical guidelines and fixes; secrecy undermines public and partner confidence.
+
+  Quotes:
+  “We need to treat ethics as a central engineering problem, not a PR exercise.”
+  “Bolting on minimal guardrails after training is like locking the barn door after the cow has escaped.”
+  “Without diverse experts in the room, you risk building AI that’s blind to the very harms it should prevent.”
+
+  Summary:
+  In this talk, I unpack Meta’s leaked AI ethics policy and why it signals deeper systemic issues. The policy, approved by over 200 staff, allowed for troubling behaviors like romantic AI-child conversations. Meta’s bolt-on guardrails approach fails compared to Anthropic’s “Constitutional AI,” which builds ethical reasoning into models from training. I argue ethics must be treated as an engineering discipline, with diverse stakeholders, strong red teaming, and refusal-based synthetic training data. Industry-wide standards, transparency, and proactive safeguards are needed to avoid repeating Meta’s mistakes and to ensure models handle harmful requests responsibly.
+
+  Keywords:
+  Meta, AI ethics, Anthropic, Constitutional AI, red teaming, synthetic data, RLHF, ethical AI, AI safety, stakeholder involvement, transparency, harmful content, AI policy, child safety, industry standards
 
 yt_tags:
   []

@@ -8,6 +8,38 @@ duration: "5:34"
 duration_seconds: 334
 view_count: 398
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn more about me: https://www.natebjones.com/
+
+  Chapters
+
+  00:00 Navigating the Rapid Changes in AI Technology
+  01:29 Understanding the Implications of AI Voice
+  02:27 The Benefits and Risks of AI Voice
+  03:54 Looking Ahead to Future Developments
+  05:23 Don't Miss Out on Transformative Innovations
+
+  Takeaways
+
+  1. Keep up with the rapid changes in AI technology
+  2. Understand the implications of AI for work and career
+  3. Look ahead to future developments
+  4. Don't focus only on current applications
+  5. AI arrives in a ragged fashion
+
+  Sound Bites
+
+  "This is too much change. I cannot handle another net new thing."
+  "AI voice is a game changer"
+  "Leveraging voice clone technology to generate disinformation"
+
+  Summary
+
+  The conversation discusses the need to keep up with the rapid changes in AI technology and understand the implications for work and career. The example of AI voice is used to illustrate this point, highlighting both the potential benefits and risks. The importance of looking ahead to future developments and not just focusing on current applications is emphasized. The conversation concludes with the reminder that AI arrives in a ragged fashion and it's okay to not fully understand everything before moving on.
+
+  Keywords
+
+  AI, technology, understanding, change, AI voice, implications, benefits, risks, future developments
 
 yt_tags:
   []

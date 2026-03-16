@@ -8,6 +8,23 @@ duration: "6:32"
 duration_seconds: 392
 view_count: 29764
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/grab-this-weeks-news-prompts-6-minutes?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside enterprise AI this week? The common story is that AI platforms are stabilizing — but the reality is more complicated.
+
+  In this video, I share the inside scoop on the six AI stories that matter most right now:
+  • Why prompt injection is a real vulnerability for ChatGPT
+  • How 84% of leaders admit their data strategy blocks AI adoption
+  • What new agentic AI platforms from Snowflake, New Relic, and SnapLogic reveal
+  • Where Anthropic and OpenAI are racing to scale enterprise AI
+
+  AI demand keeps outpacing the fixes to its flaws — and that tension defines the next phase of opportunity for operators and builders alike.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

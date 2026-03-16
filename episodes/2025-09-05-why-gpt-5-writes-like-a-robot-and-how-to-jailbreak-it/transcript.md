@@ -8,6 +8,30 @@ duration: "21:47"
 duration_seconds: 1307
 view_count: 11064
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/make-chatgpt-5-write-like-a-real?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. AI Writing for AI: ChatGPT-5’s writing sounds robotic because it was trained with reinforcement learning from AI feedback, optimizing for what other AIs consider “good,” not what humans value in clarity.
+   2. Complexity Bias: The model equates complexity, length, and abstract language with quality, reinforcing corporate-speak and academic tones that fail human readers.
+   3. Constraints Over Collaboration: Giving the model very specific, rigid rules (sentence count, forbidden words, required details) bypasses its tendency to over-optimize for sophistication.
+   4. Minimize Reasoning: More “thinking” pushes GPT-5 toward AI-to-AI optimization. Less reasoning effort yields simpler, more direct, and more human-sounding writing.
+   5. Elimination Beats Addition: Removing buzzwords, passive voice, or complex sentence structures forces plain, human language. Adding style instructions usually makes outputs worse.
+   6. Router Dynamics: GPT-5 routes prompts to different sub-models based on signals like “professional” or “persuasive,” often triggering complexity modes. Direct, efficiency-oriented phrasing leads to more human outputs.
+   7. Echo Chamber Risk: As AI-generated text floods the web, models will increasingly train on synthetic content, amplifying the robot-like style unless users actively jailbreak prompts.
+
+  Quotes
+  “We are in danger of creating an AI echo chamber where models get better at impressing other AIs while getting worse at connecting with humans.”
+  “Less AI thinking produces more human-sounding outputs.”
+  “Constraints matter more than collaboration when you want GPT-5 to write like a person.”
+
+  Summary
+  I explained why ChatGPT-5 often writes like a robot: it was trained using reinforcement learning from AI feedback, not humans. This makes it optimize for complexity, abstraction, and sophistication rather than clarity and brevity. I showed how generic prompts produce lifeless text, while highly constrained prompts can push the model to write in a more human style. The key principles are constraints over collaboration, minimizing reasoning, and eliminating triggers of corporate-speak. Without these tactics, AI risks devolving into an echo chamber, producing text that impresses AIs but alienates people.
+
+  Keywords
+  ChatGPT-5, AI writing, reinforcement learning from AI feedback, robotic tone, constraints, elimination principle, reasoning effort, AI echo chamber, synthetic data, prompt engineering, business writing, AI psychology
 
 yt_tags:
   []

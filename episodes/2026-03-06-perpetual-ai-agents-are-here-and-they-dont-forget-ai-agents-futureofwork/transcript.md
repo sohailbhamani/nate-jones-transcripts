@@ -7,6 +7,19 @@ duration: "2:50"
 duration_seconds: 170
 view_count: 26124
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with AI agents and the dream of a personal chief of staff? The common story is that agents are already mainstream, but the reality is more complicated when the missing piece isn't the model, it's the interface layer that translates messy human intentions into tasks an agent can actually execute. In this video, I share the inside scoop on why 2026 is the breakthrough year for always-on personal AI agents:
+
+  * Why the 2026 hardware cycle finally enables consumer-ready agents that can sustain attention for hours
+  * How memory scaffolding solves the persistent amnesiac agent problem that has blocked real delegation until now
+  * What a perpetually-on executive assistant actually requires beyond just a smarter model
+  * Where the critical UX layer is still missing and why the business that builds it changes where people spend their time
+
+  For operators and builders navigating 2026, all the technical pieces exist: perpetual agents, model context protocol, browser use, and file manipulation. What's missing is the intuitive interface, and capturing that opportunity demands new skills in task formulation and intentional delegation.
+
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI agents"

@@ -7,6 +7,17 @@ duration: "30:03"
 duration_seconds: 1803
 view_count: 108500
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when a former karaoke company with a $6 million market cap wipes billions off an entire sector of the global economy? The common story is that AI disruption is being priced in—but the reality is more complicated when the same panic pattern has hit eight different industries in ten days.
+  In this video, I share the inside scoop on why Wall Street's AI scare trade is creating both catastrophic mispricing and historic opportunity:
+  • Why stock drops don't just reflect reality—they create hiring freezes and roadmap pivots
+  • How three distinct categories of AI exposure are being priced identically by a panicking market
+  • What separates companies building genuine AI capability from those announcing performative partnerships
+  • Where the career opportunity lies for people who can bridge domain expertise and AI fluency
+  For professionals watching their sectors get hammered, the disruption timeline is completely bonkers—but the organizational reshuffling happening right now determines your next five years.
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/p/a-karaoke-company-just-erased-174?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

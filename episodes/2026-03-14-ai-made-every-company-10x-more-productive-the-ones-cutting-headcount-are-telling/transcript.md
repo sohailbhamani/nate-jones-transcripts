@@ -7,6 +7,39 @@ duration: "19:53"
 duration_seconds: 1193
 view_count: 34068
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/whoop-is-hiring-600-people-while?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening when Whoop announces it's hiring 600 people while the media narrative focuses entirely on job displacement? The common story is about how many fewer people companies need—but the reality is more interesting when execution costs drop by an order of magnitude and the pie itself expands.
+
+  In this video, I share the inside scoop on six unlocks that give you a picture of what the future actually looks like:
+
+   • Why iteration cycles compressing from months to days changes the mechanics of strategy
+   • How hundreds of millions of domain experts become builders when the translation layer disappears
+   • What happens when quality software becomes the default, not a premium
+   • Where the market for ambition explodes when CFO math flips on experiments
+
+  For anyone wrestling with the people challenges of AI, the hardest work ahead isn't technical—it's figuring out what upskilling looks like when the job isn't do the same thing faster.
+
+  Chapters
+  00:00 The Most Important Strategic Bet of 2026
+  02:15 The Wrong Question vs The Right Question
+  04:15 Jevons Paradox: Why Consumption Goes Up
+  06:00 Unlock One: Learn How to Go Fast
+  08:30 Unlock Two: The Builder Equation Has Changed
+  11:00 Unlock Three: Quality Software Is the Default
+  13:00 Unlock Four: Every Company Is a Platform
+  14:30 Unlock Five: The Market for Ambition
+  16:15 Unlock Six: Move at the Speed of Insight
+  18:00 None of These Require a Tech Breakthrough
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  Listen to this video as a podcast.
+  - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372
 
 yt_tags:
   - "AI strategy"

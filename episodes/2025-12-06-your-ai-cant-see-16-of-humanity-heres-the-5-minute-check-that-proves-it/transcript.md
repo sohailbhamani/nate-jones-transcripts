@@ -7,6 +7,24 @@ duration: "20:18"
 duration_seconds: 1218
 view_count: 4262
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/grab-the-4-accessibility-prompts?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What's really happening with AI and disability representation? The common story is that AI erases disabled bodies — but the reality is more complicated and finally starting to shift.
+
+  In this video, I share the inside scoop on how AI is evolving as both a visibility tool and adaptive aid:
+
+  - Why AI image generators kept erasing disabilities until recently
+  - How disabled users leverage LLMs for daily autonomy and privacy
+  - What builders get wrong when treating WCAG as a checkbox
+  - Where accessibility tech debt will cost you far more than fixing it early
+
+  Builders who design for the 1 billion disabled people worldwide unlock genuine market opportunity — those who punt accessibility to an AI overlay will pay for it in technical debt and exclusion.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI accessibility"

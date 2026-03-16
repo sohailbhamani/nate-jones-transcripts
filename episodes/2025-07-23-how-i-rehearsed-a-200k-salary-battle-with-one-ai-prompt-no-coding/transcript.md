@@ -8,6 +8,28 @@ duration: "26:41"
 duration_seconds: 1601
 view_count: 7621
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Digital-Twin Super Prompt: A single, system-level prompt collects scenario details, embeds them, and instantly launches a multi-stakeholder simulation—no code required.
+   2. Deterministic State Machine: A fixed nine-question intake script plus echo-confirmation ensures the model gathers exactly what it needs, one answer at a time.
+   3. Explicit Output Contract: Clear purpose, mode, effort, references, and “BEGIN ROUND 1” delimiter lock the twins’ identities and prevent drift throughout the run.
+   4. Model Behavior Matters: In tests, o3 played a hard-nosed negotiator, while 4o was friendlier and gave away an extra $6 K—highlighting real-world differences between models.
+   5. Versatile Use Cases: The framework handles salary talks, product approvals, sales pitches, board debates, and interviews—any situation with competing stakeholders.
+   6. Built-in Debrief & Metrics: Automatic scorecards, concession ledgers, and post-round analysis turn each run into a learning loop for sharpening strategy.
+
+  Quotes
+  “We’re literally measuring in dollars the dumbness of the model.”
+  “Humans aren’t great at simulating an entire boardroom—this prompt lets ChatGPT do it for us.”
+  “I create a deterministic state machine: ask, confirm, embed, and run.”
+
+  Summary
+  In this walkthrough I unpack my Digital-Twin Negotiation Builder prompt and demonstrate its power. By defining a clear role, a nine-question intake, and an explicit output contract, I turn ChatGPT into a deterministic state machine capable of realistic, multi-stakeholder simulations. Live demos—one product pitch and one salary negotiation—show the prompt in action and reveal sharp contrasts between o3 and 4o: o3 negotiates hard while 4o flatters and concedes an extra $6 K. The same framework can stress-test interviews, sales deals, or board debates, giving anyone a no-code way to rehearse high-stakes conversations.
+
+  Keywords
+  digital twin, negotiation simulation, prompt engineering, deterministic state machine, progressive disclosure, ChatGPT o3, ChatGPT 4o, salary negotiation, product approval, concession ledger, multi-stakeholder dialogue, AI prompting
 
 yt_tags:
   []

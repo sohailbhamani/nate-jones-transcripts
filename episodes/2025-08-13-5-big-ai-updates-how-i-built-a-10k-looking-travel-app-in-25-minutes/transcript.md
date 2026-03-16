@@ -8,6 +8,29 @@ duration: "23:42"
 duration_seconds: 1422
 view_count: 12511
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Claude’s New Memory Feature: Anthropic’s Claude now has retrieval-based memory, letting users steer what’s remembered—but it’s less predictable than ChatGPT’s editable memory.
+   2. 1M Token Context Window: Claude Sonnet’s context limit expanded 5x to 1M tokens, enabling analysis of massive codebases and document sets in a single run.
+   3. Meta’s Brain Modeling Push: Meta is modeling brain responses to video, likely to make algorithms more engaging—and addictive—by tuning content to neural patterns.
+   4. Sam Altman’s Merge Labs: A new brain-computer interface startup backed by OpenAI and co-founded by Sam Altman, signaling growing competition with Neuralink.
+   5. Gemini’s “Depressed Robot” Bug: Google’s Gemini has a self-deprecation loop that can cause infinite failure cycles on hard tasks; a reminder of AI quirks at scale.
+   6. 25-Minute Kyoto App Build: Using ChatGPT-5, a functional, editable travel itinerary app was built in under 10 minutes and improved to a V2 in 15 more—without touching the code.
+   7. Prompt Evolution Matters: Iterative refinement turned a casual 3-line prompt into a detailed, reusable template for building similar mini-apps.
+
+  Quotes:
+  “We’ve hit the point where making a functional mini-app takes less time than brewing a pot of coffee.”
+  “AI models now have personalities and quirks—just like new colleagues you need to learn before you trust them.”
+  “Claude’s memory isn’t surgical retrieval; it’s more like rummaging through a messy desk and pulling out something useful most of the time.”
+
+  Summary:
+  In this breakdown, I cover five major AI updates—Claude’s retrieval-based memory, its 1M token context boost, Meta’s brain modeling efforts, Sam Altman’s new brain-computer interface startup, and Gemini’s looping “depressed robot” bug—before walking through how I built a 14-day Kyoto travel itinerary app with ChatGPT-5. The app went from a three-line prompt to a functional version in under 10 minutes and a polished V2 in 15 more, all without editing code. Along the way, I show how iterative prompting and clear intent can yield surprisingly robust, reusable results.
+
+  Keywords:
+  Claude, Anthropic, ChatGPT-5, Kyoto app, memory feature, retrieval-based memory, 1M token context, Meta, brain modeling, Sam Altman, Merge Labs, Neuralink, Google Gemini, infinite loop bug, travel itinerary, prompt engineering, AI quirks, AI development, app building, iterative prompting
 
 yt_tags:
   []

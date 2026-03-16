@@ -8,6 +8,30 @@ duration: "14:30"
 duration_seconds: 870
 view_count: 8745
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://natesnewsletter.substack.com/p/will-ai-really-doom-us-3-hard-facts?r=1z4sm5
+
+  Takeaways:
+   1. Doom Narratives Lack a Mechanism: We have zero evidence that LLMs can form self-generated, long-horizon goals—making human-extinction scenarios speculative at best.
+   2. Current Agents Are Clumsy: OpenAI’s Agent Mode needed 58 minutes and multiple hand-offs to order cupcakes, while Claude bungled a vending-machine side hustle—hardly signs of unstoppable super-intelligence.
+   3. Efficiency Outpaces Resource Fears: Cloud providers aim for water-positive data centers and each new GPU generation squeezes markedly more compute from the same watts, undercutting energy-doom arguments.
+   4. Jobs Are More Than Tasks: Roles like radiologic technologists are still projected to grow because real-world work bundles skills, context, and “glue tasks” that AI can’t yet replicate.
+   5. Non-Zero Risk Is Normal: Society lives with nuclear power and aviation despite tail risks; AI should be treated the same—mitigate and regulate, but keep moving.
+   6. Emergence Needs Seeds: Translation flourished after years of incremental progress; there’s no comparable “seed” for dominance-seeking behavior in today’s LLMs.
+   7. Prioritize Present, Solvable Risks: Deepfake scams, AI-driven fraud, and outdated learning models hurt people now—addressing these is more productive than debating hypothetical extinction.
+
+  Quotes:
+  “I would not hire this intern—it takes 58 minutes to get cupcakes.”
+  “We haven’t seen LLMs develop the self-directed planning a real doom scenario demands.”
+  “It’s more useful to fix the risks we face today than to argue over hypothetical extinction odds.”
+
+  Summary:
+  I push back on “P-Doom” fears by grounding the conversation in observable evidence. Today’s LLMs struggle with sustained planning—Agent Mode can’t even order cupcakes efficiently—so extinction scenarios lack a plausible mechanism. Resource and job-market doom myths also break down: data-center efficiency is accelerating, and roles like x-ray techs are growing. History shows we accept non-zero tail risks from technologies like nuclear power; AI should be no different. Instead of obsessing over speculative end-times, we should focus on immediate risks—deepfake scams, education reform, and practical safeguards that help people right now.
+
+  Keywords:
+  AI doom, P-Doom, extinction risk, large language models, Agent Mode, Claude vending machine, long-term planning, energy efficiency, water-positive data centers, job disruption, emergent behavior, deepfake scams, education reform, non-zero risk, transformer architecture
 
 yt_tags:
   - "AI Assurance"

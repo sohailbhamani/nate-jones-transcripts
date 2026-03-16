@@ -8,6 +8,18 @@ duration: "15:59"
 duration_seconds: 959
 view_count: 45672
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's the real story with prompting ChatGPT 5.1 versus Gemini 3? The common story is that models matter most, but the reality is more complicated when the same prompt lands completely differently depending on whether your input is clean or chaotic. In this video, I share the inside scoop on how to match the right model to the right kind of work:
+
+  * Why GPT-5.1 thrives on clean inputs and complex, structured tasks where precision is the priority
+  * How Gemini 3 handles messy multimodal context at scale in ways GPT-5.1 wasn't built for
+  * What shifts in your results when you align prompts to context entropy instead of task complexity alone
+  * Where each model wins for operators, builders, and teams when the hype cycle stops driving the decision
+
+  For operators and teams navigating 2026, the teams that match the model to the entropy of the work get dramatically better results than the ones still chasing the latest benchmark.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

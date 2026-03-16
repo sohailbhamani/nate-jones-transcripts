@@ -8,6 +8,35 @@ duration: "4:10"
 duration_seconds: 250
 view_count: 2537
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Apple’s Siri Delay: Apple is reportedly not planning to release a new, smart LLM-powered Siri until at least 2027, leaving it lagging behind more advanced voice assistants.
+   2. Small Labs Lead in Voice AI: Independent companies like Sesame and 11 Labs are advancing voice AI, while larger corporations struggle to innovate in the space.
+   3. Amazon’s Voice Strategy: Amazon’s Alexa Plus is powered by Anthropic’s Claude, highlighting a trend where big companies rely on smaller AI labs for cutting-edge technology.
+   4. Sesame’s Hyper-Realistic AI: Sesame’s AI is so human-like in speech patterns and vocal inflection that it can subconsciously trick users into feeling like they’re speaking to a real person.
+   5. Mergers and Acquisitions on the Horizon: The gap between innovation and distribution suggests that major tech companies will continue acquiring or partnering with voice AI startups.
+   6. Parallel Trends in AI Development: Small, nimble companies are driving breakthroughs in voice and image generation, mirroring historical innovation cycles where startups disrupt and larger firms consolidate.
+   7. Memory and Personalization in AI: Sesame remembers conversations for two weeks, indicating a shift toward AI systems that offer deeper, context-aware interactions.
+
+  Quotes
+
+  “We should look for mergers and acquisitions in this space—big companies need the distribution, but small companies are the ones making voice AI actually work.”
+
+  “My brain is interacting with it like it’s human because it sounds so human. It pauses, it breathes—it even hesitates like a person.”
+
+  “Voice is hard, but it’s also highly valuable, and the companies that crack it first will have an enormous advantage in AI-driven interaction.”
+
+  Summary
+
+  Apple is delaying a major Siri upgrade until at least 2027, leaving an opening for smaller voice AI innovators. Independent labs like Sesame and 11 Labs are making rapid progress in realistic AI speech, while larger companies like Amazon are relying on external partnerships—Alexa Plus now runs on Anthropic’s Claude. Sesame, a new AI lab, is pushing the boundaries of voice realism to the point where users unconsciously interact with it as if it were human. The voice AI market is ripe for acquisitions, as startups create superior technology while tech giants have the distribution power to scale it.
+
+  Keywords
+
+  Apple, Siri, voice AI, Alexa Plus, Claude, Anthropic, Sesame AI, AI assistants, natural voice AI, AI innovation, AI acquisitions, voice recognition, conversational AI, startup innovation, large language models, AI personalization, AI speech synthesis.
 
 yt_tags:
   []

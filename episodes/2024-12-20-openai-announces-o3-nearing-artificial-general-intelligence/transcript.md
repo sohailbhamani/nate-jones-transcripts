@@ -8,6 +8,40 @@ duration: "4:03"
 duration_seconds: 243
 view_count: 3475
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  AI - AGI: https://x.com/fchollet/status/1870169764762710376
+  o3 model: https://openai.com/index/early-access-for-safety-testing/
+  o3 news: https://www.reuters.com/technology/artificial-intelligence/openai-unveils-o3-reasoning-ai-models-test-phase-2024-12-20/
+
+  Chapters:
+  00:01 - OpenAI’s O3 Model Release
+  01:15 - Limited Access and Safety Testing
+  02:30 - O3’s General Intelligence Potential
+  03:50 - Cost Structure and Use Cases
+  05:10 - Intelligence as a Utility in 2025
+  07:00 - Future Implications of O3
+
+  Takeaways:
+   1. O3 Model Released: OpenAI unveiled its O3 model, restricted initially to safety researchers to ensure robust testing before broader public access.
+   2. Alignment Testing Innovation: O3’s capabilities required OpenAI to develop entirely new safety and alignment testing protocols, reflecting its unprecedented potential.
+   3. Public Release Timeline: O3 Mini launches in January 2024, with the full version to follow later in the year, pending safety work completion.
+   4. Cost Structure Highlights: The full O3 model costs over $1,000 per compute-heavy task, while O3 Mini is priced at $100 per task, limiting its use to high-value applications.
+   5. Approaching AGI: Early testers suggest O3 may meet OpenAI’s definition of AGI, capable of outperforming humans in most economically valuable tasks.
+   6. Intelligence as a Utility: By 2025, intelligence will no longer be the bottleneck; the focus will shift to strategically deploying the right level of intelligence for each task.
+   7. Strategic Applications: O3 will likely be reserved for specialized, complex problems, as more affordable, capable models handle routine tasks.
+
+  Quotes:
+  “We’re entering a world where intelligence is no longer a bottleneck—it’s about applying the right level of intelligence to the task.”
+  “O3 is pushing us closer to general intelligence, capable of outperforming humans in most economically valuable tasks.”
+  “By 2025, intelligence will be abundant; the challenge will be figuring out how to use it wisely.”
+
+  Summary:
+  At 10 a.m. on December 20th, OpenAI announced its O3 model, marking a significant step toward AGI. Initially available only to safety researchers, O3 introduces groundbreaking capabilities requiring new alignment protocols. Public access begins in January 2024 with O3 Mini, while the full version follows later. With costs over $1,000 per task, O3 is designed for specialized, high-value problems. OpenAI projects that by 2025, intelligence will be an abundant resource, shifting focus from creating smarter systems to applying intelligence strategically. This marks a pivotal moment in how we use AI in daily life and complex challenges.
+
+  Keywords:
+  OpenAI, O3, AGI, artificial general intelligence, alignment testing, safety protocols, intelligence as a utility, compute costs, AI strategy, O3 Mini, red-teaming, 2025, PhD-level tasks, AI advancements, strategic intelligence deployment.
 
 yt_tags:
   []

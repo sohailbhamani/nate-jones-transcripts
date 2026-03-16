@@ -8,6 +8,32 @@ duration: "9:24"
 duration_seconds: 564
 view_count: 14851
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/nates-prompt-framework-how-i-scale?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  Scaling expertise is a 2,000 year old problem.
+  There hasn't been a great solve for it until AI.
+  For the first time in human history, expertise can compound instead of bottlenecking in one person’s head.
+
+  In this video, I share the inside scoop on the method I use to scale expertise with AI:
+  • Why “work more hours” and “hire more people” both fail
+  • How AI removes the translation bottleneck between thought and output
+  • What “context as a multiplier” means for prompt engineering and LLMs
+  • Where experts can scale judgment without diluting quality
+
+  AI doesn’t replace expertise — it multiplies it for those who learn to separate knowledge from documentation.
+
+  Chapters
+  00:00 The Challenge of Scaling Expertise
+  02:31 AI: The Fourth Way to Scale Expertise
+  05:12 Principles of Expertise and Documentation
+  08:12 Implementing AI to Enhance Expertise
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

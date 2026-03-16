@@ -8,6 +8,25 @@ duration: "20:12"
 duration_seconds: 1212
 view_count: 15239
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/new-proof-ai-is-exploding-exponentiallybut?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside the so-called “AI bubble”?
+  The common story is that we’ve hit a wall—but the reality is more complicated.
+
+  In this video, I share the inside scoop on why leading researchers see exponential progress, not slowdown:
+
+  • Why humans keep misreading exponential growth in AI progress
+  • How internal data at Anthropic and METR proves continued 10x gains
+  • What metrics like GDPVal reveal about real-world AI performance
+  • Where the next “Move 37” breakthrough could emerge by 2027
+
+  For operators and teams, the takeaway is clear: the window to prepare for large-scale automation and human-AI collaboration is closing fast—this is acceleration, not hype.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

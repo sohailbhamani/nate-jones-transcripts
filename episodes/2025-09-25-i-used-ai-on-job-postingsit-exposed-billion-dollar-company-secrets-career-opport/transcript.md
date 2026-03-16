@@ -8,6 +8,30 @@ duration: "12:57"
 duration_seconds: 777
 view_count: 6460
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/grab-my-prompts-i-used-ai-on-job?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  Job postings hide company secrets worth billions of dollars.
+
+  But until now, it hasn't been easy to get those secrets out!
+
+  Enter AI: I'm going to show you how to use prompts, lovable, and perplexity to extract job opportunity angles, company roadmaps, technical strengths and weaknesses, and even sales angles—all from a close read of job openings data.
+
+  The common story is these jobs are just for good for looking at hiring — but the reality is far more strategic.
+
+  Grab the inside scoop:
+  • Why job postings reveal hidden AI strategy signals
+  • How to infer B2B sales approaches from hiring gaps
+  • What job seekers can learn about risks and timing
+  • Where trivial data becomes competitive intelligence at scale
+
+  The takeaway: whether you’re a job seeker, operator, or investor, AI turns simple postings into a powerful lens on company strategy.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

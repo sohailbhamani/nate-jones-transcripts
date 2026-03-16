@@ -8,6 +8,40 @@ duration: "6:49"
 duration_seconds: 409
 view_count: 191
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Chapters
+
+  00:00 Glaring Issues in CrowdStrike's Software Deployment Process
+  02:23 Canary Testing and Phased Rollout: Best Practices
+  04:26 Client Control in the Deployment Process
+  05:24 The Importance of Release Notes
+  06:02 Inadequate Apology: $10 Uber Eats Gift Cards
+  06:26 Respecting Clients and Addressing Cultural Issues
+
+  Takeaways
+
+  1. Chief technical officers should hold a higher standard when deploying software on their systems.
+  2. There is a need for a structured way to evaluate software deployments on Windows machines.
+  3. Deployments should have the option to roll back in case of bugs or issues.
+  4. Canary testing and phased rollout are best practices that can minimize the impact of software deployments.
+  5. Clients should have more control over the deployment process and be able to assess the risk to their systems.
+  6. Release notes are essential for transparency and communication with clients.
+  7. Apologies for software failures should be thoughtful and considerate of the impact on clients.
+  8. Cultural issues within a company can contribute to software deployment failures and need to be addressed.
+
+  Sound Bites
+
+  "There are some absolutely glaring issues that they are saying they are going to correct that should never, ever have been there in the first place."
+  "CrowdStrike did not test on CrowdStrike production deployments."
+  "They had no canary testing and they had no phased rollout."
+
+  Summary
+
+  CrowdStrike's error correction document reveals glaring issues in their software deployment process. This conversation discusses six related issues that highlight the need for higher standards in software deployment. The issues include not testing on production deployments, lack of structured evaluation for Windows machines, deploying without an option to roll back, no canary testing or phased rollout, lack of control for clients in the deployment process, and the absence of release notes. The conversation also mentions the inadequate apology from CrowdStrike, which involved sending $10 Uber Eats gift cards that were deemed fraudulent by some recipients.
+
+  Keywords
+
+  CrowdStrike, error correction, software deployment, testing, production deployments, Windows machines, roll back, canary testing, phased rollout, client control, release notes, apology, Uber Eats gift cards
 
 yt_tags:
   []

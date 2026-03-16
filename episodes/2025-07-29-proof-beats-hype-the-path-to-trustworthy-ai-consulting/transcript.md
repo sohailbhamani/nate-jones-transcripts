@@ -8,6 +8,29 @@ duration: "18:57"
 duration_seconds: 1137
 view_count: 8516
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  Story: https://natesnewsletter.substack.com/p/the-end-to-end-ai-client-value-playbook?r=1z4sm5
+
+  Takeaways
+   1. Distribution Is King: Consultants who already own client relationships can scale fastest—provided their AI advice is substantive, not surface-level.
+   2. Kill the AI-Wash: Buzzword-heavy pitches (“AI-powered everything”) destroy credibility; clients expect clear, technically sound answers like when RAG is appropriate.
+   3. Own a Specific Domain: Wrap AI around deep sector expertise—much like a strangler fig—so your niche authority and pricing power grow together.
+   4. Package With Living Templates: AI lets templates evolve in real time, making services sharply scoped yet highly customizable for each engagement.
+   5. Build a Trusted Network: No one covers the full value chain; cultivate specialist partners so you can bring the right “James” to every project.
+   6. Publish to Prove Credibility: Sharing detailed, NDA-safe insights publicly separates you from the sea of generic “AI consultants” and fuels referrals.
+
+  Quotes
+  “We don’t need more AI slogans; we need consultants who can answer, ‘When should I use RAG—and why?’”
+  “A strangler-fig strategy works: grow AI expertise around the trunk of the domain you already dominate.”
+  “If you AI-wash today, you don’t just lose the deal—you poison the whole ecosystem tomorrow.”
+
+  Summary
+  I argue that great AI consultants win by combining genuine domain mastery with deep, specific AI fluency rather than vague “AI-washing.” Distribution still rules, so leverage an existing book of business or build one through clear, public content that showcases expertise. Focus on a narrow niche, articulate concrete deliverables, and back them with living, AI-enabled templates. Cultivate trusted partners for adjacent parts of the value chain and stay transparent to avoid poisoning the ecosystem with overhyped claims. When consultants pair granular knowledge with credible, outcome-oriented packages, they command higher fees and earn the long-term trust that keeps clients coming back.
+
+  Keywords
+  AI consulting, distribution, AI-washing, domain expertise, specificity, RAG, templates, partnerships, content marketing, trust, value chain, niche, client retention
 
 yt_tags:
   []

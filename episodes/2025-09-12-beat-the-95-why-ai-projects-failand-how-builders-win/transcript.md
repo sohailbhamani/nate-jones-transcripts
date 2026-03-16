@@ -8,6 +8,42 @@ duration: "19:19"
 duration_seconds: 1159
 view_count: 9701
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/beat-the-95-ai-fail-rate-a-builders?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  ⸻
+
+  Takeaways
+   1. Executive Narratives Miss the Real Story: The MIT study only surveyed executives, so it overlooks the practical workflows and innovations that builders actually use to make AI valuable.
+   2. Success Requires Hybrid Architectures: Real-world wins come from combining best-in-class bought solutions with custom-built workflows—buy vs. build is a false binary.
+   3. Learning Systems Drive Value: Feedback loops, retraining pipelines, and persistent context separate the 5% of successful AI projects from the failures.
+   4. Intelligent Friction Builds Trust: Confidence thresholds, human review gates, and override sliders create better systems than frictionless “black box” AI.
+   5. Instrumentation is a Builder’s Superpower: Accuracy, latency, and error-rate monitoring give builders leading indicators that executives can trust beyond vanity metrics.
+   6. Shadow AI is Gold: Mining guerrilla AI use cases inside teams or customers surfaces real workflows that can be formalized into enterprise value.
+   7. Influence Comes from Translation: Builders who connect technical KPIs to ROI, design reusable prompt libraries, and systematize shadow AI earn influence—even without VP titles.
+
+  ⸻
+
+  Quotes
+
+  “Even if you buy, you are buying work.”
+
+  “You want to embed smart friction—confidence thresholds, human review gates, override sliders—because that’s what builds trust long-term.”
+
+  “Your competitive advantage is that you know the hidden workflows that actually work; the execs don’t.”
+
+  ⸻
+
+  Summary
+
+  In this talk, I break down why the viral MIT study claiming 95% of AI initiatives fail is flawed and misleading. It only surveyed executives and focused narrowly on ROI, missing the reality builders see every day. Real success comes from hybrid architectures, building feedback-driven learning systems, embedding intelligent friction, and instrumenting workflows for accuracy and trust. Shadow AI use cases are an untapped resource waiting to be formalized into real business value. Builders who master these principles can extend influence far beyond prompt mastery and avoid the 95% failure trap.
+
+  ⸻
+
+  Keywords
+  MIT AI study, AI adoption, ROI, prompt mastery, hybrid architectures, learning systems, intelligent friction, instrumentation, shadow AI, builders vs executives, enterprise AI success, RAG systems, feedback loops, AI workflows, organizational AI
 
 yt_tags:
   []

@@ -8,6 +8,32 @@ duration: "9:16"
 duration_seconds: 556
 view_count: 7635
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My post on AI and jobs: https://open.substack.com/pub/natesnewsletter/p/finishing-what-ai-starts-the-new
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Rethinking Job Families: Traditional risk assessments miss the mark in the AI era, urging us to focus on emerging roles where human insight is irreplaceable.
+   2. Identifying AI Gaps: While AI excels in certain domains, significant cracks remain—areas that demand human intuition and sophisticated reasoning.
+   3. Competitive Assessments & Fuzzy Logic: AI struggles with the nuanced, gut-level intuition needed for competitive strategies and market distribution.
+   4. Complex Interaction Design Limitations: AI-generated designs are often simplistic, lacking the depth required for intricate, modern user interfaces.
+   5. Technical Architecture Challenges: Effective solution architecture still relies on seasoned human expertise to make strategic, informed decisions.
+   6. Bridging Product Execution: There’s a growing need for roles that connect creative intent with robust technical implementation.
+   7. Marketing & Brand Optimization: As AI reshapes communication, human insight remains crucial for crafting effective marketing strategies.
+
+  Quotes:
+  “Job families at risk is the wrong category for assessing human talent in the AI era.”
+  “AI is not a wall, but a structure with canyons and cracks where human insight creates opportunity.”
+  “AI struggles with gut-level intuition and complex design thinking, leaving space for strategic human intervention.”
+
+  Summary:
+  In this transcript, I explore how traditional job family risk assessments fall short in the AI era. I highlight that while AI excels at tasks like code production and text generation, it leaves significant gaps in areas requiring human intuition and complex reasoning. I explain that AI struggles with competitive assessments, fuzzy logic tasks, and intricate interaction design, which are essential for effective marketing, technical solution architecture, and product execution. I advocate for rethinking our approach to job roles and upskilling in fields where human judgment remains critical. I encourage embracing emerging opportunities that bridge AI capabilities with human expertise.
+
+  Keywords:
+  AI era, job families, human talent, competitive assessments, fuzzy logic, interaction design, technical architecture, app development, upskilling, marketing optimization, human intuition
 
 yt_tags:
   []

@@ -8,6 +8,29 @@ duration: "8:13"
 duration_seconds: 493
 view_count: 2997
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. LLM Search Reaches Disruption Threshold: O3 already delivers clear, actionable answers that siphon early‑stage queries from Google’s blue‑link paradigm.
+   2. Bias for Action Beats Blue Links: Each response bundles strategy, next steps, and context—far more usable than scrolling through pages of links.
+   3. No‑Ads Model Threatens Google Revenue: An ad‑free results page undercuts Google’s core economics and makes self‑disruption financially painful.
+   4. Visual & Speed Gaps Persist: O3 lacks inline diagrams/videos and can be slow, giving Google a temporary edge in rich media queries.
+   5. Mass Adoption Could Flip the Curve: When this quality lands on the free tier, a billion‑user base could trigger a sigmoid decline in Google search share.
+   6. Fuzzy Recall Queries Showcase LLM Edge: Pattern matching across pre‑training data solves vague “what was that movie?” questions faster and more reliably than traditional search.
+
+  Quotes:
+  “This is an LLM search results page that has no ads. That does not suit Google’s business model.”
+  “Search is at the point in LLMs where it is potentially disruptible if they can bring this kind of quality down across the free tier.”
+  “O3 has the highest bias for action of any model I’ve seen—it’s higher than my bias for action, and that is saying something.”
+
+  Summary:
+  I walked through a series of real‑world queries in ChatGPT’s new O3 search to test whether LLMs can threaten Google. O3 gave me ticket prices, flight strategies, back‑health workouts, and even the title of an obscure 1980s movie – all without ads and in a single, opinionated answer. Its bias for action and ability to pattern‑match fuzzy requests feel like a leap beyond the blue‑link wall. Limitations remain: responses are slow and lack diagrams or video, and long queries may deter casual users. Still, with O3 likely hitting the free tier soon, we may be nearing a search tipping point.
+
+  Keywords:
+  ChatGPT O3, LLM search, Google disruption, ad‑free results, bias for action, mass adoption, search tipping point, visual content gap, slow response, fuzzy recall queries, beginner coding guidance
 
 yt_tags:
   []

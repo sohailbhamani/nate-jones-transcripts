@@ -8,6 +8,29 @@ duration: "25:24"
 duration_seconds: 1524
 view_count: 10602
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Chat Is a Weakly Intelligent Layer – Chat models feel smart, but their isolation from real data means they can only kick-start tasks; serious work must move elsewhere.
+   2. Design for Multi-Turn Intelligence – The real magic happens across whole conversation threads. Treat the first message as an anchor and let successive turns surface and refine insights.
+   3. Conversations Supersede Files – We need tooling that makes the dialogue itself the primary artifact of computing, hiding databases, auth, and plumbing so anyone can “open the fridge and cook.”
+   4. Planning Delivers Power-Law Returns – Doubling the time spent structuring an AI session yields outsized gains because AI magnifies good plans and catastrophizes bad ones.
+   5. Tool Ecosystems Are Splintering – Cursor, Claude Code, and Lovable are converging from different directions; your choice now reflects talent profile and brand affinity, echoing the Mac vs. Windows wars.
+   6. Token Depth Drives Agent Value – Agents matter because they burn more tokens on your behalf. Giving users explicit control (and pay-as-you-go pricing) over that depth unlocks harder problems.
+   7. Data Middleware Is the Missing Middle – Boardrooms are walling off data, stalling agentic dreams. Startups that unblock secure, seamless data flows will own distribution.
+
+  Quotes:
+  “Chat is dangerous because it’s a weakly intelligent layer—good enough to start a task, never good enough to finish it.”
+  “The leverage isn’t in the model; it’s in how well you plan the conversation before you ever hit ‘send.’”
+  “We have to make the conversation—not the file—the fundamental unit of computing if we want AI to build for us.”
+
+  Summary:
+  I argue that today’s chat interfaces are only a weakly intelligent starting point. Real value emerges in multi-turn conversations, yet our tools and mindsets still assume one-shot prompts and file-based workflows. We need a new vocabulary that treats conversations as first-class building blocks, backed by smarter planning, deeper token budgets, and seamless data access. Tool stacks are stratifying—Cursor, Claude Code, and Lovable each serve different skill bands—and the real bottleneck isn’t model quality but data availability. Master these dynamics and you’ll turn AI from a flashy assistant into a serious productivity engine.
+
+  Keywords:
+  chat interface, weakly intelligent AI, multi-turn conversation, conversational computing, AI planning, token depth, agents, data middleware, distribution, Cursor, Claude Code, Lovable, vibe coding, build tools, templates
 
 yt_tags:
   []

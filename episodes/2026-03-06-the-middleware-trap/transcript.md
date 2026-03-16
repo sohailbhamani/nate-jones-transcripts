@@ -7,6 +7,17 @@ duration: "30:05"
 duration_seconds: 1805
 view_count: 10655
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening inside the AI software stack that nobody's pricing correctly? The common story is that Perplexity Computer is a bold new agentic product — but the reality is that great execution on the wrong layer of the stack won't save you.
+  In this video, I share the inside scoop on why the middleware position is more fragile than it looks:
+  - Why Perplexity's core reasoning engine runs on a direct competitor's model
+  - How hyperscalers are structurally compelled to collapse every layer they don't own
+  - What four positions actually offer durable advantage in the AI stack
+  - Where middleware companies are building toward dead ends without knowing it
+  The teams that survive this consolidation won't be the ones with the best orchestration — they'll be the ones that found the corner where hyperscaler incentives align with their existence rather than their replacement.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   []

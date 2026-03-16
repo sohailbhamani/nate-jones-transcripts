@@ -7,6 +7,49 @@ duration: "26:20"
 duration_seconds: 1580
 view_count: 40996
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/openai-raised-110b-and-the-pentagon?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening when Anthropic gets designated a supply chain risk hours after OpenAI signs a Pentagon deal and the largest private funding round in history? The common story is about principles versus pragmatism—but the reality is more interesting when Claude was too embedded in combat operations to rip out even after a presidential order.
+
+  In this video, I share the inside scoop on why Dario misread the room while Sam walked away with the keys to the kingdom:
+
+  • Why Anthropic's objection was technical, not moral—and contingent on model reliability
+  • How OpenAI's $110 billion round equals 65% of all US venture capital in 2023
+  • What the circular financing structure reveals about who's picking winners
+  • Where enterprise contracts will be won or lost as government revenue becomes the gold standard
+
+  For builders watching cloud providers play every side of the board, the question is whether you're okay with a one-model winner world or fighting for a multi-model future.
+
+  Chapters
+  00:00 The Week That Reshaped AI Power
+  01:45 Iran Strikes and AI in Combat Operations
+  04:40 The Pentagon Ultimatum to Anthropic
+  06:30 What Dario Actually Said vs. What the Market Heard
+  08:15 How Sam Altman Played the Same Hand Differently
+  09:05 The $110 Billion OpenAI Funding Round Breakdown
+  12:55 Stargate and the Infrastructure Buildout
+  14:40 Anthropic's Real Financial Position
+  17:00 Enterprise Fallout from the Supply Chain Designation
+  18:10 Why the Demand Side Is the Only Number That Matters
+  18:43 What Enterprise Leaders Should Do Now
+  20:55 Cloud Providers Are Neutral — Plan Accordingly
+  22:01 The AWS Frontier Deal and Agent Lock-In
+  23:00 Why Government Contracts Are the New Gold Standard
+  24:00 The Circular Financing Structure and Its Risks
+  25:00 Are We Actually Underbuilding?
+  26:00 The 10X Model Question for Your Product Strategy
+  27:30 Regulatory and Antitrust Risks to Watch
+  28:00 Expect a Fast Follow from OpenAI
+  29:00 The Big Picture
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  Listen to this video as a podcast.
+  - Spotify: https://open.spotify.com/episode/4hbdnikT4fogPqSHJojC4p?si=2cd128e8a5684844
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372?i=1000752979046
 
 yt_tags:
   - "AI strategy"

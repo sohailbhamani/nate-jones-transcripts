@@ -7,6 +7,37 @@ duration: "29:55"
 duration_seconds: 1795
 view_count: 91550
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/same-model-78-vs-42-the-harness-made?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening inside AI coding tools that nobody's comparing? The common story is that Claude vs. ChatGPT is a model competition — but the reality is that the model is the least important part.
+
+  In this video, I share the inside scoop on why the AI harness matters more than the model:
+
+  - Why the same Claude model scored 78% vs. 42% on identical benchmarks
+  - How Claude Code and Codex embody opposite philosophies of AI - collaboration
+  - What harness lock-in actually costs teams who switch tools later
+  - Where non-technical leaders are making the wrong procurement decisions
+
+  The teams getting this right aren't choosing the smartest AI agent — they're choosing the architecture that matches how they work, and that decision compounds every quarter.
+
+  Chapters
+  00:00 The harness vs. the model — what everyone gets wrong
+  01:45 Why nobody compares AI harnesses
+  03:20 Same model, double the performance: the benchmark that proves it
+  04:50 How Anthropic built Claude Code's harness
+  07:10 How OpenAI built Codex's harness
+  09:30 Five ways the harnesses are diverging
+  13:45 State and memory: where institutional knowledge lives
+  16:20 Context management and tool integration
+  19:00 Multi-agent coordination: collaboration vs. isolation
+  21:30 Harness lock-in: the cost nobody is pricing in
+  24:00 What this means for engineers and engineering leaders
+  26:30 Why non-technical leaders need to understand this now
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   []

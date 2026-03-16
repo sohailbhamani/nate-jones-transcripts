@@ -8,6 +8,24 @@ duration: "12:51"
 duration_seconds: 771
 view_count: 10578
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/executive-briefing-why-84-of-companies?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside enterprise AI data architectures?
+  The common story is that companies are already “data-driven” — but the reality is that most aren’t ready for AI at all.
+
+  In this video, I share the inside scoop on building an AI-ready data foundation:
+  • Why most AI initiatives fail before they start
+  • How to diagnose weak data systems before deploying agents
+  • What zero-copy architecture really means for real-time AI
+  • Where executives and engineers must align to close the perception gap
+
+  The winners of the AI era will be the ones who do the boring data work early — before models and agents can do anything smart.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

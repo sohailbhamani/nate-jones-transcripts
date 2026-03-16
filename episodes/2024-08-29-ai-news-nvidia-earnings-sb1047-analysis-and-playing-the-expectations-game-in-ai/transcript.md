@@ -8,6 +8,45 @@ duration: "5:31"
 duration_seconds: 331
 view_count: 179
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn more about me: https://www.natebjones.com/
+
+  Sources:
+  Guide to 1047: https://thezvi.substack.com/p/guide-to-sb-1047
+  1047 passes: https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature
+  Reuters on 1047: https://www.reuters.com/technology/artificial-intelligence/contentious-california-ai-bill-passes-legislature-awaits-governors-signature-2024-08-28/
+  Nvidia earnings: https://www.reuters.com/technology/nvidias-forecast-dampens-ai-enthusiasm-other-tech-stocks-2024-08-28/
+
+  Chapters
+
+  00:00 The Impact of Expectations on AI
+  01:28 Nvidia's Earnings and the Expectation Game
+  01:51 California Bill SB 1047: Addressing AI Safety
+  03:19 Opposition to the California Bill
+  03:49 Focusing on Real-World AI Risks
+  05:14 Aligning Expectations with Reality
+
+  Takeaways
+
+  1. Expectations play a significant role in shaping the perception and reality of AI.
+  2. Exceeding or falling short of expectations can impact stock prices and public perception of AI companies.
+  3. The California bill SB 1047 aims to address AI safety concerns, particularly the potential for AI to cause significant damages.
+  4. There is opposition to the bill from companies like Google, Meta, Microsoft, and OpenAI.
+  5. The conversation questions the need to focus on imagined AI harms versus addressing real-world risks like disinformation and unauthorized access.
+
+  Sound Bites
+
+  "Expectations are through the roof, and the expectation game is what matters."
+  "AI takes over critical infrastructure systems... does hundreds of millions of dollars in damages."
+  "We need to think about AI risk in terms of disinformation... unauthorized access to accounts or property."
+
+  Summary
+
+  The conversation discusses two AI-related news items: Nvidia's earnings and the California bill SB 1047. The main theme is the role of expectations in shaping the perception and reality of AI. The conversation explores how exceeding or falling short of expectations can impact stock prices and public perception. It also delves into the purpose and opposition to the California bill, which aims to address AI safety concerns. The conversation concludes by questioning the need to focus on imagined AI harms versus addressing the real-world risks of disinformation and unauthorized access.
+
+  Keywords
+
+  AI, expectations, Nvidia, earnings, stock price, California bill, AI safety, Skynet, attack vectors, LLMs, disinformation, imagined harms
 
 yt_tags:
   []

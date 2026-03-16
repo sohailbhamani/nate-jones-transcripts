@@ -8,6 +8,29 @@ duration: "11:12"
 duration_seconds: 672
 view_count: 15221
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Pascal’s Career Wager: Treat the AI-and-jobs debate like Pascal’s wager—prepare for any outcome by investing in skills that pay off whether automation explodes or stalls.
+   2. Solve High-Quality Problems: The safest hedge is becoming excellent at spotting and solving complex, high-value problems; that value endures in both optimistic and pessimistic futures.
+   3. Agency Over Fear: High-agency professionals who act, learn, and adapt will outperform those who doom-scroll and wait for clarity. Action is the low-risk option.
+   4. Human Skills Resurge: Emotional clarity, discernment, and genuine connection are rising in importance as interviews and work shift back in person to verify “you’re not an LLM.”
+   5. Signal Beyond Perfect Resumes: AI has commoditized flawless résumés; differentiated proof now comes from shipping real projects and demonstrating end-to-end problem ownership.
+   6. Low-Regret Skill Investment: Strengthening meta-skills—problem recognition, solution design, resource marshalling, execution, integration—never hurts and often future-proofs a career.
+
+  Quotes
+  “We should treat AI careers like Pascal’s wager: act as if agency always matters, because it does.”
+  “High-agency people don’t work harder—they run around obstacles the rest of us stare at.”
+  “In a world of perfect résumés, real signal is shipping something that actually works.”
+
+  Summary
+  I argue that the AI-jobs debate is a distraction; like Pascal’s wager, the rational move is to build skills that win either way. Whether Dario Amodei’s forecast of vanishing entry-level jobs proves right or Gergely Orosz’s optimism prevails, careers hinge on high agency and the ability to solve complex problems. That means sharpening meta-skills, shipping tangible projects, and cultivating human strengths—emotional clarity, discernment, authentic connection—as interviews return in person. Perfect résumés are now meaningless; demonstrable impact and adaptable wisdom carry real signal. Prepare, act, and you de-risk your future instead of betting on headlines. (100 words)
+
+  Keywords
+  AI jobs, Pascal’s wager, high agency, problem solving, meta-skills, human skills, emotional clarity, in-person interviews, résumé signal, Dario Amodei, Gergely Orosz, entry-level automation, career strategy, GitHub projects, fear vs action
 
 yt_tags:
   []

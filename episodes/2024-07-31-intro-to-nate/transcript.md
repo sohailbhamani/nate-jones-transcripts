@@ -8,6 +8,17 @@ duration: "0:42"
 duration_seconds: 42
 view_count: 13862
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  I'm Nate Jones, 20-year product management veteran. I've founded, I've done product at hundred millions scale at Amazon, I've done an alphabet soup of startups and private equity. And now I want to bring what I've learned over 20 years to life here as we look at the changing tech landscape of 2024.
+
+  Here's what you'll get on my YouTube channel:
+
+  1. Product strategies that win in today's market
+  2. AI insights: from hype to real-world application
+  3. Tech news analysis: what it means for your career
+  4. Job transition tips from someone who's reviewed thousands of applications
+
+  Enjoy, and check out my other channels on TikTok and LinkedIn! You can learn more here: https://www.natebjones.com/
 
 yt_tags:
   []

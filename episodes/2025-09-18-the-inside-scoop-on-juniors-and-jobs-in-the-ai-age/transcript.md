@@ -8,6 +8,18 @@ duration: "11:21"
 duration_seconds: 681
 view_count: 6572
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What’s really happening to juniors in the AI job market? The common story is that entry-level roles are disappearing — but the reality is more complicated.
+
+  In this video, I share the inside scoop on how AI is reshaping the labor market:
+   • Why seniors with AI skills are thriving
+   • Why some experienced pros are walking away
+   • Why AI-native juniors are still critical hires
+   • How juniors can stand out and become “one of one”
+
+  The market is rough, but it’s not the end for juniors. Companies still need sharp, hungry talent who know how to partner with AI.
+
+  Subscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI jobs"

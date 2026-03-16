@@ -7,6 +7,24 @@ duration: "10:09"
 duration_seconds: 609
 view_count: 11560
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/grab-the-10-prompts-i-use-to-decompose?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What's really happening with AI model selection for serious work? The common story is that one model handles everything — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why thinking at the task level changes everything:
+
+  - Why workflows fail when you throw a single agent at 14 steps
+  - How to break work into atomic units like cleaning data or reasoning
+  - What fingertip feel for models actually means in practice
+  - Where the exponential ROI curve kicks in for AI investment
+
+  For operators and builders, the skill that separates casual users from serious practitioners is matching the right model to each task — not the whole workflow.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

@@ -7,6 +7,18 @@ duration: "32:19"
 duration_seconds: 1939
 view_count: 189341
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with AI agents and knowledge work? The common story is that coding tools are for coders, but the reality is more complicated when developers were using Claude Code to organize expense receipts and Anthropic shipped an entirely new product in ten days based on that signal. In this video, I share the inside scoop on why Claude Cowork matters more than the feature list suggests:
+
+  * Why file system agents beat browser agents for high-stakes work when your local machine is not adversarial territory
+  * How the anti-slop architecture shifts cognitive load upstream by forcing specificity before generation begins
+  * What task queues replacing chat means for the social dynamics of AI interaction and how you direct complex work
+  * Why Anthropic shipping this in ten days using their own tool tells you something important about where general purpose agents are headed
+
+  For knowledge workers navigating 2026, this is the moment file-based AI work becomes accessible to anyone, but verification and intent formulation become the scarce skills that separate the people getting leverage from the ones just getting output.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI agents"

@@ -8,6 +8,30 @@ duration: "11:55"
 duration_seconds: 715
 view_count: 18008
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://open.substack.com/pub/natesnewsletter/p/ai-bubble-why-the-doom-narrative?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  Takeaways
+   1. Narrative Swings Drive Bubble Talk: A mix of hype disappointment (GPT-5 rollout), layoffs, and Sam Altman’s “bubble” comment created the perfect conditions for a doom narrative.
+   2. Chatbot Plateau: The chat interface is reaching saturation—further model improvements won’t feel as dramatic to end users.
+   3. Progress Shifts to Agentic Use Cases: Real breakthroughs are happening in complex workflows and proofs, but these are harder to grasp than chatbot gains.
+   4. Benchmarks Show Exponential Gains: Non-saturated benchmarks like METR still demonstrate accelerating AI capability growth.
+   5. Chip Scarcity Reflects Demand: Both OpenAI and Anthropic admit they’re under-allocated on chips, showing strong underlying demand, not weakness.
+   6. Restructuring = Refocusing: Meta’s layoffs are less about retreat than reorganizing around inference and next-stage gains.
+   7. Power Law Dynamics: AI investment and returns follow power laws, rewarding outsized bets and forcing firms to specialize in their niches.
+
+  Quotes
+  “We are in a world where model makers are showing exponential gains in model performance and we are very early in seeing how that lands with business.”
+  “If it really was a bubble, we wouldn’t all be complaining about it—instead, we would all be hyping it up.”
+  “With any gold rush you get people rushing in to stake a claim, but that doesn’t mean it’s inherently a bubble.”
+
+  Summary
+  The current AI “bubble” narrative is driven by hype swings, layoffs, and public comments, but the reality is more nuanced. While chatbots are plateauing, progress continues in harder-to-see agentic use cases. Benchmarks show exponential gains, demand for chips is still outstripping supply, and corporate restructurings signal refocus rather than retreat. AI adoption is a power law game: most projects fail, but the successes deliver existential 10x returns, making heavy investment rational. Far from an AI winter, we are entering a phase where the biggest value will come from specialized, high-impact business use cases beyond chat.
+
+  Keywords
+  AI bubble, GPT-5, Sam Altman, MIT study, enterprise AI, agentic use cases, Meta layoffs, chip scarcity, exponential benchmarks, METR, power law dynamics, AI investment, Anthropic, OpenAI, business AI adoption, AI winter
 
 yt_tags:
   []

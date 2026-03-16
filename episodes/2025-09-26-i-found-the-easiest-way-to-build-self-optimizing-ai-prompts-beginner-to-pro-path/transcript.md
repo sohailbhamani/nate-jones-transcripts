@@ -8,6 +8,26 @@ duration: "16:14"
 duration_seconds: 974
 view_count: 14121
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/quick-start-make-ai-optimize-your?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  ________________________
+
+  What’s really happening when big companies install billion dollar prompt engineering pipelines?
+
+  The common story is you need elite prompters and Python to optimize — but the reality is more nuanced: you can let AI optimize prompts in chat and then scale the same principles with DSPy.
+
+  In this video, I share the inside scoop on self-optimizing prompts that scale from chat to production:
+  • Why letting AI tune prompts beats ad-hoc tweaking.
+  • How to do it in ChatGPT without touching Python.
+  • What DSPy adds: signatures, modules, optimizers, metrics.
+  • Where teams win—and where governance, cost, and quality creep bite.
+
+  Teams can get consistent, scalable quality by treating prompts as code, but without clear metrics, governance, and cost control, you’ll trade speed for chaos.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

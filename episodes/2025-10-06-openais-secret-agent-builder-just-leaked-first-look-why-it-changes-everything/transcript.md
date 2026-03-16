@@ -8,6 +8,34 @@ duration: "15:40"
 duration_seconds: 940
 view_count: 16042
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/new-openai-is-launching-an-agent?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s the real story with OpenAI’s new Agent Builder? (Likely launching today)
+
+  The launch story seems to be “point-and-click agents make everyone a builder” — but the reality is a lot trickier.
+
+  In this video, I share the inside scoop on the new Agent Builder (leakded) plus, my hard-won principles on building reliable AI agents at production standards:
+
+  • Why drag-and-drop agents change org behavior and security reviews.
+  • How outcome-first design and proof of correctness prevent failures.
+  • What “dumb, deterministic” multi-agent chains beat smart monoliths.
+  • Where MCP tool choices, catalogs, and token burn go wrong.
+
+  Takeaway: teams that adopt outcome-first, minimal-intelligence agents with tight prompts, structured retrieval, and a small, clear MCP tool dictionary will ship safely—everyone else risks ambiguity, cost, and ungoverned workflows.
+
+  Chapters
+  00:00 Introduction to OpenAI’s Agent Builder
+  02:42 Building Agents: Key Considerations
+  05:40 Designing for Outcomes and Predictability
+  08:10 Tool Choice and Management in Agent Building
+  10:28 Organizational Standards for Agent Builds
+  13:07 Final Thoughts on Agent Design and Best Practices
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

@@ -8,6 +8,40 @@ duration: "8:42"
 duration_seconds: 522
 view_count: 553
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn about me: https://www.natebjones.com/
+  Sample Strawberry rumor post: https://venturebeat.com/ai/sam-altman-stokes-rumors-of-new-openai-foundation-model-strawberry/
+
+  Chapters
+
+  00:00 The Tension Between Hype and Actual Product Releases
+  01:01 OpenAI's Hype Approach
+  05:18 Meta's Focus on Building an Ecosystem
+  06:41 Investments and Depreciation in LLMs
+  07:24 Delayed Monetization in the Race for Dominant Market Position
+
+  Takeaways
+
+  1. Large language models often face delays in widely releasing hyped features.
+  2. OpenAI and other model makers prioritize hype to maintain market leadership and attract attention.
+  3. Meta focuses on building an ecosystem and widely releasing models.
+  4. Users need to adapt their prompting strategies as LLMs are frequently updated.
+  5. The industry is investing billions of dollars in LLMs, but the investments depreciate quickly.
+  6. Monetization is delayed as companies aim to establish a dominant market position.
+
+  Sound Bites
+
+  "Large language models and the updates that they get are hard enough to understand without having a constant tension between the hype that these LLM makers bring to the table and the actual product releases that they offer."
+  "OpenAI needs attention to maintain market leadership and be seen as the leaders in AI."
+  "OpenAI's leaks of 'Strawberry' are part of a hype battle in response to reports of people moving away from their models."
+
+  Summary
+
+  Large language models (LLMs) and their updates are often hyped up by the makers, but the actual product releases can be delayed. OpenAI, for example, adopts a hype approach to maintain market leadership and attract attention. This strategy is frustrating for customers who are eagerly waiting for widely available features like advanced voice mode and video generation. Other model makers also prioritize hype, while companies like Meta focus on building an ecosystem and widely releasing models. The rapid pace of LLM intelligence development leads to frequent updates and the need for users to adapt their prompting strategies. The industry is investing billions of dollars in LLMs, but the investments depreciate quickly as new models are released. Monetization is delayed as companies aim to establish a dominant market position.
+
+  Keywords
+
+  large language models, LLMs, updates, hype, OpenAI, market leadership, attention, advanced voice mode, video generation, Meta, ecosystem, prompting strategies, investments, depreciation, dominant market position
 
 yt_tags:
   []

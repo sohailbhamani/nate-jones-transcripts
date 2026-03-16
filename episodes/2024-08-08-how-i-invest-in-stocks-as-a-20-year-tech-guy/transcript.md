@@ -8,6 +8,10 @@ duration: "7:27"
 duration_seconds: 447
 view_count: 615
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Yes I know the quality is terrible but the audio is decent and I’m on the road lol
+
+  Wanted to talk about stocks, how I think about risk, and what risk assessment is especially hard when we work in tech for a living
 
 yt_tags:
   []

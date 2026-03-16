@@ -8,6 +8,43 @@ duration: "4:39"
 duration_seconds: 279
 view_count: 1486
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  about me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  Black Spatula: https://amistrongeryet.substack.com/p/the-black-spatula-project
+  Super human medical reasoning: https://arxiv.org/pdf/2412.10849
+  o1 api: https://openai.com/index/o1-and-new-tools-for-developers/
+
+  Takeaways:
+   1. O1 API Reasoning Parameter:
+  OpenAI added a reasoning parameter to its O1 API, allowing developers to adjust how much the model “thinks” before responding, offering more control over AI-generated answers.
+   2. Visual Reasoning Expansion:
+  Developers can now pass photos into the O1 API for visual reasoning, extending beyond text-based queries into more dynamic use cases like medical imaging or scientific analysis.
+   3. Token Limit Increase:
+  OpenAI significantly increased input and output token limits for O1, enabling larger, more complex queries and more detailed responses.
+   4. AI-Powered Peer Review:
+  The Black Spatula Project aims to evaluate AI’s ability to detect errors in published scientific papers, pushing AI toward real-world applications in research and academia.
+   5. Medical Diagnostics Revolution:
+  In a test with the New England Journal of Medicine, O1 scored 80% on a challenging diagnostic exam, outperforming physicians’ 30% average, highlighting AI’s potential role in clinical decision-making.
+   6. Challenge of Practical Recommendations:
+  While AI excelled at diagnostics, its treatment recommendations were sometimes impractical, suggesting the need for prompts that simulate human-like judgment.
+   7. Cultural Resistance in Medicine:
+  Despite AI’s high diagnostic scores, cultural resistance from physicians could delay its adoption, showing that technical performance alone isn’t enough for real-world integration.
+
+  Quotes:
+
+  “We’re moving toward real-world AI evaluation beyond controlled model tests—this changes everything for research and medicine.”
+
+  “AI scoring 80% on a top-tier medical test while doctors average 30% is a sign of what’s coming in healthcare by 2025.”
+
+  “Correct but impractical treatment plans reveal that AI still needs prompting strategies that reflect real-world constraints.”
+
+  Summary:
+
+  OpenAI’s O1 API now supports a reasoning parameter and visual input, expanding its developer toolkit. The Black Spatula Project is testing AI’s ability to find errors in published research, moving beyond lab-based evaluations. Meanwhile, O1 achieved an 80% score on a challenging medical diagnosis test, far surpassing doctors’ average of 30%. However, cultural resistance from physicians and occasional impractical AI recommendations show that successful integration will require more than technical superiority. These updates mark a significant leap toward AI-driven decision-making in research, medicine, and beyond.
+
+  Keywords:
+  OpenAI, O1 API, AI diagnostics, medical AI, Black Spatula Project, scientific research, visual reasoning, peer review, API updates, AI in medicine, diagnostic tests, AI prompting, AI research, New England Journal of Medicine, healthcare AI, AI adoption, future of AI, AI technology, AI integration, AI evaluation, medical test automation, artificial intelligence tools, developer API, tech trends, research automation, AI in healthcare, 2025 AI predictions.
 
 yt_tags:
   []

@@ -8,6 +8,41 @@ duration: "9:10"
 duration_seconds: 550
 view_count: 890
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://www.natebjones.com/
+  My links: https://linktr.ee/natebjones
+
+  Million chip scaling: https://semianalysis.com/2024/09/04/multi-datacenter-training-openais/
+  100K H100 clusters: https://semianalysis.com/2024/06/17/100000-h100-clusters-power-network/
+  Patent: https://x.com/Dan_Jeffries1/status/1854583551745736870
+  AI Personhood: https://www.youtube.com/watch?v=LWiM-LuRe6w
+  Polymarket: https://www.coindesk.com/business/2024/11/06/polymarket-prediction-betting-markets-vindicated-by-trumps-strong-showing/
+
+  Chapters:
+  00:00 - The Future of AI Personhood
+  02:59 - Microsoft’s Patent Controversy
+  06:01 - Polymarket and Blockchain Innovations
+  08:50 - Advancements in AI Models and Training
+
+  Takeaways:
+   1. AI Personhood Possibility: Yuval Noah Harari suggests AI could achieve legal personhood by incorporating itself, marking a shift in how society may treat advanced AI systems.
+   2. Microsoft’s RAG Patent: Microsoft’s attempt to patent a version of Retrieval-Augmented Generation (RAG) sparked debate, as the technique has been used widely in AI before their filing.
+   3. Blockchain Beyond Crypto: Polymarket processed $4 billion in election trades, showing how blockchain can scale globally and gain trust outside of cryptocurrency.
+   4. Google Gemini 2.0 Leak: A brief release of Gemini 2.0 sparked speculation about AI’s rapid advancements, despite struggles with simple tasks like spelling.
+   5. AI’s Coding Capabilities: OpenAI’s “01” model was reportedly able to code physics-enabled icons, suggesting new depth in understanding real-world physics and coding logic.
+   6. Data Center Challenges: Scaling large AI models requires complex data center coordination, and Google’s multi-center training innovation could unlock future growth.
+   7. Multi-Data Center Training: Nvidia and OpenAI are working to solve training challenges across data centers, aiming for efficiency in large AI model training.
+
+  Quotes:
+  “An AI that can incorporate itself would redefine what it means to be a legal entity.”
+  “Microsoft’s attempt to patent RAG has raised eyebrows across the AI community.”
+  “Polymarket’s $4 billion in election trades may be blockchain’s first mainstream, non-crypto success.”
+
+  Summary:
+  This video dives into groundbreaking AI updates and their implications for the future. Starting with AI personhood, Yuval Noah Harari suggests AI could achieve legal status by incorporating itself as a company. Microsoft’s recent attempt to patent Retrieval-Augmented Generation (RAG) raised controversy, especially among developers who have long used this technique. Polymarket’s use of blockchain to predict election results proved blockchain’s value outside crypto, while Google’s Gemini 2.0 leak hinted at rapid model evolution. OpenAI and Nvidia are tackling the technical challenge of scaling AI models across multiple data centers, a crucial step toward building even larger models.
+
+  Keywords:
+  AI personhood, Yuval Noah Harari, Microsoft RAG patent, Retrieval-Augmented Generation, Polymarket, blockchain, Google Gemini 2.0, OpenAI, Nvidia, multi-data center training, large AI models, artificial general intelligence, AI coding, OpenAI 01 model, data center scaling, legal AI entities, Nvidia scaling solutions
 
 yt_tags:
   []

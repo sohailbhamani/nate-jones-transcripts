@@ -8,6 +8,25 @@ duration: "12:22"
 duration_seconds: 742
 view_count: 27932
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/i-tested-openais-200-prompt-templatestheyre?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+
+  What is the deal with OpenAI’s prompt pack for teams?
+  200 prompts that are supposed to be grab-n-go for teams. The reality is a lot more complicated, and it has real implications for teams and how organizations adopt AI in 2025 (and 2026).
+
+  In this video, I share the inside scoop on why prompt education must match the pace of LLMs and real work:
+  • Why one-line prompts trap teams in AI’s messy middle
+  • How to ground prompt engineering in real workflow pain
+  • What hands-on work showed about GPT-5 vs Claude
+  • Where managers should start: use cases, tool use, upskilling
+
+  Teams that treat LLMs as workflow engines—not search—will move faster, but shallow training will leave them behind.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

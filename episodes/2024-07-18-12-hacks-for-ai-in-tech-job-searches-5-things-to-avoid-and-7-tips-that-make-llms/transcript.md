@@ -8,6 +8,40 @@ duration: "14:36"
 duration_seconds: 876
 view_count: 749
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Learn more about Nate: https://www.natebjones.com/
+
+  Chapters
+
+  00:00 Introduction: Resumes and AI
+  01:57 Don'ts: Answering Company Questions with LLMs
+  04:05 Don'ts: Interview Preparation with LLMs
+  06:25 Dos: Role Fit Analysis with LLMs
+  08:19 Dos: Identifying Missing Keywords with LLMs
+  10:13 Dos: Breaking Through Fluency Blocks with LLMs
+  12:04 Dos: Initial Interview Structure Practice with LLMs
+
+  Takeaways
+
+  1. Do not use large language models to write your entire resume or answer interview questions
+  2. Avoid using LLMs to tune your resumes or prepare for interviews
+  3. LLMs can be helpful for role fit analysis and understanding distinct job descriptions
+  4. Use LLMs to identify missing keywords in your resume and overcome writer's block
+  5. LLMs can assist in breaking through fluency blocks and gaining a high-level view of the industry and competitors
+
+  Sound Bites
+
+  "We need to talk about resumes and AI because there are a lot of people who are giving really conflicting perspectives"
+  "Do not use a large language model to write your whole resume for you"
+  "If there are questions from the company to you during the applicant process, don't use an LLM to answer them"
+
+  Summary
+
+  In this conversation, Nate discusses the dos and don'ts of using large language models (LLMs) in the job application process. He provides a list of things that should not be done, such as using LLMs to write the entire resume, answer interview questions, tune resumes, prepare for interviews, and conduct high-fidelity company research. On the other hand, he highlights the ways LLMs can be effectively used, including role fit analysis, understanding distinct job descriptions, identifying missing keywords, overcoming writer's block, breaking through fluency blocks, and gaining a high-level view of the industry and competitors.
+
+  Keywords
+
+  resumes, AI, job application, large language models, role fit analysis, job descriptions, missing keywords, writer's block, fluency blocks, industry research, competitors
 
 yt_tags:
   []

@@ -8,6 +8,30 @@ duration: "21:59"
 duration_seconds: 1319
 view_count: 7290
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  The Story : https://open.substack.com/pub/natesnewsletter/p/the-real-talk-guide-to-using-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. The Four Buckets: Problems fall into four categories—data processing, traditional ML, generative AI, and AI agents. Always start with the simplest possible solution.
+   2. Don’t Overuse AI: If a problem is deterministic and can be solved with SQL or basic math, AI is unnecessary, more expensive, and less reliable.
+   3. Machine Learning Still Matters: For structured data with clear prediction goals (fraud, churn, demand), classical ML is more effective and cheaper than LLMs.
+   4. Generative AI Strength: Best for mixed or unstructured data and when the output requires words, summaries, or creative synthesis—but it comes with risks like hallucinations and higher costs.
+   5. Agents for Workflows: Use agents only when tasks require multi-step orchestration and clear decision points. They offer massive leverage but demand strong error handling and observability.
+   6. ROI & Cost Discipline: If AI or agents don’t deliver at least 10x improvement over the baseline, stick with simpler methods. Maintenance and compute costs rise steeply as complexity increases.
+   7. Boring Wins: Reliable dashboards and simple pipelines often outperform overengineered AI systems. Fix data quality before adding complexity.
+
+  Quotes
+  “We are living in a hype cycle, and the real skill is learning to focus on problem structure, not solution buzzwords.”
+  “Generative AI is powerful, but if it isn’t delivering a 10x improvement, it’s probably not worth the cost and complexity.”
+  “Agents can deliver thousand-fold leverage, but they behave more like little employees you pay every month—costly to run and maintain.”
+
+  Summary
+  In this video, I explain when to use data pipelines, traditional ML, generative AI, and AI agents. The key is choosing the lowest rung of the ladder that solves the problem—simple queries for reporting, ML for structured predictions, LLMs for unstructured or word-heavy tasks, and agents for multi-step workflows. Each rung offers more leverage but also more cost, complexity, and maintenance. ROI focus is critical: if an AI solution doesn’t deliver at least 10x over the baseline, it’s usually not worth it. I stress boring, reliable solutions, strong data quality, and human-in-the-loop adoption.
+
+  Keywords
+  AI decision framework, data processing, SQL, machine learning, predictive analytics, generative AI, large language models, AI agents, workflows, ROI, compute costs, maintenance, hallucinations, agent orchestration, human in the loop, business value, data quality, dashboards
 
 yt_tags:
   []

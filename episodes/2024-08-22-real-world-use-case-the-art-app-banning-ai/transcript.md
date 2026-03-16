@@ -8,6 +8,39 @@ duration: "5:00"
 duration_seconds: 300
 view_count: 136
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  Procreate statement on AI: https://procreate.com/ai
+  Adobe on AI: https://helpx.adobe.com/creative-cloud/generative-ai-overview.html
+  Canva + OpenAI: https://openai.com/index/canva/
+  Learn more about me: https://www.natebjones.com/
+
+  Chapters
+
+  00:00 Introduction to Procreate and its Anti-AI Stance
+  01:29 Adobe and Canva's Embrace of Generative AI
+  03:22 Procreate's Focus on Serving Serious Artists
+  04:41 The Future of Procreate's Anti-AI Stance
+
+  Takeaways
+
+  1. Procreate is taking a strong anti-AI stance and targeting professional artists who are skeptical of AI.
+  2. Adobe and Canva are embracing generative AI to cater to a market of casual creators and professional artists who need AI to keep up with higher expectations for quality work.
+  3. There is room for both approaches in the market, but the bigger market seems to be with Adobe and Canva.
+  4. It will be interesting to see if Procreate's stance against AI changes in the future.
+
+  Sound Bites
+
+  "AI is not our future, creativity is made, not generated."
+  "AI helps you bring your creative vision to life."
+  "Procreate serves serious artists who do not want anything touched by AI."
+
+  Summary
+
+  Procreate, an artwork app for the iPad, has taken a strong stance against generative AI, stating that creativity is made, not generated. They are targeting professional artists who may be skeptical of AI and are committed to serving them. In contrast, Adobe and Canva are embracing generative AI to cater to a market of casual creators and professional artists who need AI to keep up with higher expectations for quality work. While Procreate's focus on serving artists who do not want AI involvement may pay off, the bigger market seems to be with Adobe and Canva. It will be interesting to see if Procreate's stance changes in the future.
+
+  Keywords
+
+  Procreate, generative AI, creativity, professional artists, Adobe, Canva, casual creators, workflow, market
 
 yt_tags:
   []

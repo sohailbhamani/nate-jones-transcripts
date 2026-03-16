@@ -8,6 +8,29 @@ duration: "12:26"
 duration_seconds: 746
 view_count: 12082
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://natesnewsletter.substack.com/p/openai-chatgpt-agent-mode-review?r=1z4sm5
+
+  Takeaways
+   1. Hype vs Reality: Agent Mode behaves like an “over-thinking intern,” delivering less autonomy and speed than the marketing suggests.
+   2. Excel Automation Edge: Its most credible win is auto-building straightforward Excel models, finally closing AI’s long-standing spreadsheet gap for finance teams.
+   3. Mandatory Babysitting: Heavy guardrails force constant user approval, slowing work and revealing OpenAI’s priority to limit liability over efficiency.
+   4. Prompt-Injection Risk: Sam Altman admits a simple email can hijack the agent—spotlighting a new, highly exploitable attack surface.
+   5. Data-Harvest Strategy: OpenAI is shipping early to collect real-world usage data, effectively turning users into test subjects for a decade-long general agent project.
+   6. Specialized Beats General (for now): Narrow, task-focused agents—like code or calendaring bots—still deliver more day-to-day value than this broad but cumbersome tool.
+
+  Quotes
+  “We are all guinea pigs in OpenAI’s decade-long quest to build a general-purpose agent.”
+  “All you get when you give deep research arms and legs is an over-thinking intern.”
+  “An agent I have to babysit isn’t an assistant; it’s another task.”
+
+  Summary
+  I argue that OpenAI’s new Agent Mode, despite the hype, behaves like an over-thinking intern: it can build simple Excel models and rudimentary decks but demands constant supervision, slows work, and invites liability. Guardrails force repeated hand-offs, and Sam Altman admits the system remains vulnerable to prompt-injection hijacks, making email triage risky. Finance professionals may glean value from automated spreadsheet creation, yet most users will see limited day-to-day payoff. OpenAI is effectively using us as guinea pigs to gather data for a decade-long quest toward a true general-purpose agent; until then, specialized task-focused agents will deliver more practical gains.
+
+  Keywords
+  OpenAI, Agent Mode, general-purpose agent, Excel automation, guardrails, prompt injection, supervised AI, finance workflows, intern analogy, data collection, Sam Altman, liability, specialized agents
 
 yt_tags:
   - "58 Minutes"

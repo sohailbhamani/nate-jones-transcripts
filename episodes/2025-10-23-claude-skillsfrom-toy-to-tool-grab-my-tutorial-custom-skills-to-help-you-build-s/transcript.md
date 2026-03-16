@@ -8,6 +8,23 @@ duration: "21:38"
 duration_seconds: 1298
 view_count: 17431
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/i-watched-100-people-hit-the-same?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  The reaction to Claude Skills has been huge, but most of us are missing the insights needed to turn Skills from a toy into a tool.
+
+  In this video, I share the inside scoop on building and mastering Claude skills:
+  • Why skills extend what large language models can actually do
+  • How to build your own .skill file from scratch
+  • What pitfalls most people hit—and how to avoid them
+  • Where meta-skills come in to debug, document, and scale your AI work
+
+  Claude skills aren’t just toys—they’re the new building blocks of automation for anyone serious about AI fluency.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

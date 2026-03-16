@@ -8,6 +8,29 @@ duration: "12:39"
 duration_seconds: 759
 view_count: 16757
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways
+   1. Time Perception Divide: I experience denser days, while AI stretches each second by cramming more compute-driven work into it.
+   2. Intent Over Time Bottleneck: Humans still hold strategy in mind better than agents; even optimistic forecasts give agents only a week of reliable focus by 2026.
+   3. Divergent Scaling Curves: Intelligence rockets upward, but temporal coherence lags, forcing me to limit what I delegate.
+   4. Physical Turing Test Benchmark: Jim Fan’s household-cleaning challenge underscores how far embodied competence lags conversational prowess.
+   5. Simulation Compression: NVIDIA’s virtual worlds reduced a decade of robot training to two hours, proving compute can vaporize calendar time.
+   6. Practical Delegation Lessons: Tools like Devin thrive on tightly scoped tickets yet falter on open-ended architecture, reminding me to frame tasks to match their memory horizon.
+
+  Quotes
+  “For humans time feels short because the workload grows; for AI, work compresses because compute grows.”
+  “By 2026 we may finally see an agent that can stay on a single task for an entire week.”
+  “Simulation let us shrink ten years of robot practice into just two hours.”
+
+  Summary
+  AI compresses the work I need to process while stretching what it can achieve in each second. I explain how silicon makes time elastic for machines, yet agents still struggle to hold purpose. Our intelligence curve is vertical, but sustained intent climbs slowly; right now humans remain better at carrying goals across weeks. Jim Fan’s ‘physical Turing test’ shows simulation shrinking a decade of robot practice into two hours, proving what compute acceleration can do. Tools like Devin hint at near-term potential: scoped, high-quality bursts of labor that still demand my framing, supervision, and narrative stitching in creative, technical domains.
+
+  Keywords
+  AI time compression, compute scaling, intent over time, intelligence scaling, Physical Turing Test, Jim Fan, NVIDIA, simulation, Devin, AI agents, robotics, temporal perception, task delegation
 
 yt_tags:
   []

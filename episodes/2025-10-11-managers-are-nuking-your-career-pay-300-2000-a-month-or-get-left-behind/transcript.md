@@ -8,6 +8,30 @@ duration: "10:04"
 duration_seconds: 604
 view_count: 14585
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/dear-manager-your-ai-budget-is-costing?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What is going on with AI budgeting and adoption?
+  Companies can get literally infinite intelligence for a few hundred bucks a month but most of them...are saying no. In 2025 if you are sticking with the cheap version of a single AI you are begging your best people to leave. You are saying no to intelligence. You are volunteering to be left behind as a business.
+
+  In this video, I share the inside scoop on why traditional software budgets break in the AI era—and what managers must change:
+  • Why “mechanical horse” thinking cripples AI procurement
+  • How budget lines must shift from tools to outcomes
+  • What happens when top ICs can’t access AI tools
+  • Where leaders should reset per-employee AI spend
+
+  Chapters
+  00:00 The AI Revolution and Managerial Challenges
+  02:36 The Cost of AI Tools and Budgeting Issues
+  05:35 Cultural Shifts and Employee Retention in the AI Era
+  08:07 The Need for New Budgeting Strategies for AI
+
+  Takeaway: teams that budget like it’s 2023 will lose talent and stagnate; teams that fund AI agents now expand impact without ballooning headcount.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

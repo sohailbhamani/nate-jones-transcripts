@@ -8,6 +8,28 @@ duration: "24:14"
 duration_seconds: 1454
 view_count: 23911
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Prompt Architecture = Performance: The layout of role, purpose, instructions, reference, output, and workflow rules is psychological engineering that determines how the model thinks and responds.
+   2. Roles Prime Semantic Space: A role statement doesn’t boost factual accuracy; it drops the model into the right conversational context so dialogue flows toward the goal.
+   3. Hard-Mode Blueprint Builds a Custom Tutor: The advanced prompt gathers exhaustive user input, gatekeeps incomplete answers, and assembles a personalized Prompt Blueprint before teaching begins.
+   4. Easy-Mode Streamlines Onboarding: Pre-filled defaults plus single-question, micro-lesson constraints let beginners start learning instantly without feeling overwhelmed.
+   5. Small Tweaks, Big Shifts: Changing one constraint—like enforcing single-question mode—completely reshapes the learning experience, proving nuance in wording matters.
+   6. Meta-Prompting & AI Self-Review: Logging prompts in Notion and letting an AI assistant critique them turns AI into a self-learning partner for faster mastery.
+
+  Quotes:
+  “We don’t prompt for a single response—we design systems of learning.”
+  “The role isn’t for factual recall; it’s to drop the model into the right semantic space.”
+  “A few words of constraint can flip a prompt from overwhelming to beginner-friendly.”
+
+  Summary:
+  I walk through two prompts that teach AI while revealing how prompt structure shapes behavior. The hard-mode version asks exhaustive questions, gatekeeps answers, and then outputs a bespoke Prompt Blueprint; the easy-mode version pre-loads defaults, enforces single-question micro-lessons, and starts teaching immediately. I show why role statements guide semantic context, not accuracy, and how minor wording changes create radically different user experiences. By logging prompts and letting AI critique them, I demonstrate meta-prompting and prove that effective prompting is about building iterative learning systems—not chasing one-off answers.
+
+  Keywords:
+  prompting, prompt blueprint, semantic space, role assignment, AI tutor, single-question mode, micro-lessons, meta-prompting, progressive difficulty, learning system
 
 yt_tags:
   - "AI Demo"

@@ -8,6 +8,18 @@ duration: "11:47"
 duration_seconds: 707
 view_count: 111887
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when enterprise AI strategy gets shaped by builders versus consultants? The common story is that agentic AI is ready to plug into any workflow, but the reality is more complicated when the people actually building it say the infrastructure doesn't exist yet. In this video, I share the inside scoop on why Andrej Karpathy's Software 3.0 vision and McKinsey's agentic mesh can't both be right:
+
+  * Why treating large language models as "people spirits" changes how you design every layer of your stack
+  * How making validation frictionless and limiting AI generation keeps humans meaningfully in the loop
+  * What the gap between CI/CD reality and consultant frameworks means for enterprise AI budgets
+  * Where the edge computing bet stands when large centralized models still outperform small deployments in 2025
+
+  For enterprise leaders navigating the next 24 months, the honest assessment is that incremental crawl-walk-run adoption beats comforting fiction, and tech leaders who push for empirically grounded plans will outrun those who don't.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   []

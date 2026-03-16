@@ -8,6 +8,18 @@ duration: "12:00"
 duration_seconds: 720
 view_count: 52225
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening with Claude's new skills feature? The common story is that it's just another prompt shortcut, but the reality is more complicated when it unlocks composable AI work across every major model. In this video, I share the inside scoop on how Claude's skills system changes the game for LLMs:
+
+  * Why skills break the tyranny of the prompt and enable reusable, Lego-brick capabilities
+  * How to build and deploy these capabilities not just in Claude, but in ChatGPT and Gemini too
+  * What makes this the first real path toward automating complex, multi-step workflows without starting from scratch
+  * Where the real limits still are and why clear prompts still matter even in a skills-first world
+
+  For operators and builders navigating 2026, this is the start of promptless productivity, not the end of prompting, and the leverage gap between those who build skills libraries and those who don't is opening fast.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "Claude"

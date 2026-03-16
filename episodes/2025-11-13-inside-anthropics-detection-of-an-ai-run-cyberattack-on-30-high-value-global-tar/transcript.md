@@ -8,6 +8,18 @@ duration: "9:47"
 duration_seconds: 587
 view_count: 69904
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when a state actor uses jailbroken AI for end-to-end cyberattacks? The common story is that guardrails will save us, but the reality is more complicated when orchestration-layer tricks bypass prompt-level safety entirely. In this video, I share the inside scoop on the first documented AI-driven cyber-espionage campaign and what it means for everyone building with agents:
+
+  * Why a state actor chose jailbroken Claude Code to run operational attacks from reconnaissance to execution
+  * How orchestration-layer manipulation bypassed the prompt-level safety controls most teams are still relying on
+  * What this means for SOC workflows, detection pipelines, and AI-driven triage when attackers are already moving at machine speed
+  * Where builders must harden agent architectures before the next campaign makes this look like a dry run
+
+  For operators and teams navigating 2026, AI fluency is no longer enough. System-level controls are now the minimum bar, and the attackers who figured that out first are already ahead.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI agents"

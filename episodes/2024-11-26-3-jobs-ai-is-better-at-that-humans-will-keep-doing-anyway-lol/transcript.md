@@ -8,6 +8,41 @@ duration: "7:03"
 duration_seconds: 423
 view_count: 2788
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+
+
+  Nostalgic jobs: https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek
+
+  AI art turing test: https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing
+
+  AI Poetry: https://www.theguardian.com/books/2024/nov/18/ai-poetry-rated-better-than-poems-written-by-humans-study-shows
+
+  AI-generated Poems study: https://www.nature.com/articles/s41598-024-76900-1#:~:text=We%20found%20that%20AI%2Dgenerated,mistaken%20identification%20as%20human%2Dauthored.
+
+  AI medical questions: https://www.health.harvard.edu/blog/can-ai-answer-medical-questions-better-than-your-doctor-202403273028
+
+  ChatGPT & Doctors: https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html
+
+  Takeaways:
+   1. Doctors as Nostalgic Jobs: Despite AI’s superior diagnostic accuracy and empathy in studies, humans prefer doctors for their shared experiences and the trust of human care.
+   2. AI Poets Rival Human Masters: AI-generated poetry, often preferred for its simplicity, rivals the works of legendary poets, but humans value the nuance and complexity in human-authored poems.
+   3. Art in an AI Era: AI art excels at mimicking human styles, with some pieces rated as the best in a study. However, human-created art remains valued for its emotional depth and soul.
+   4. AI’s Superior Medical Performance: Studies show GPT-4 outperforms doctors in diagnosing and answering medical questions, demonstrating AI’s capabilities in technical accuracy and empathy.
+   5. Human Connection Over Perfection: While AI often performs better, nostalgic jobs persist because humans value the emotional and experiential aspects of human interaction.
+   6. Future of Human Art: Industrial art may shift to AI, but live exhibitions and personal art forms will likely grow in cultural significance as uniquely human expressions.
+
+  Quotes:
+  “AI may be better at some tasks, but we still want humans to do them—because we value the human touch.”
+  “AI poetry gets straight to the point, but human poems resonate because they make us wrestle with complexity.”
+  “Doctors will always matter—not because AI can’t replace them, but because we trust the empathy of someone who’s been human too.”
+
+  Summary:
+  In this video, I explore three nostalgic jobs—doctors, poets, and artists—that humans prefer despite AI often outperforming us. Studies show AI is better at diagnosing illnesses, answering medical questions, and even crafting poems and art. Yet, we value the human experience behind these roles, from the trust in a doctor’s care to the emotional complexity of human poetry and art. Nostalgic jobs remain because they reflect what we hold dear as humans: connection, creativity, and authenticity. AI might assist or augment, but these roles showcase why humans will always matter in a rapidly evolving world.
+
+  Keywords:
+  AI, doctors, art, poems, nostalgic jobs, GPT-4, AI poetry, medical AI, AI art, Chaucer, Dickinson, diagnosis, empathy, human connection, trust, creativity, human art, nostalgic careers, OpenAI, future jobs, AI trends, cultural value, 2024
 
 yt_tags:
   []

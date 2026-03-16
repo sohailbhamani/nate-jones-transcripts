@@ -7,6 +7,40 @@ duration: "37:39"
 duration_seconds: 2259
 view_count: 38591
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-one-solo-founder?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening with solo founders and AI productivity inside your company? The common story is that solo founders are outliers with nothing to teach enterprise teams — but the reality is more complicated.
+  In this video, I share the inside scoop on what solo founder AI workflows reveal about unleashing talent at scale:
+
+  - Why AI agents reduce coordination overhead, not just headcount
+  - How taste without conviction leaves your best people stuck
+  - What "speed of control" means for managing AI-powered workflows
+  - Where extraordinary talent goes when companies refuse to remove overhead
+
+  Execs and operators who ignore these patterns will keep losing their best people to solo founding — not because it's glamorous, but because it's the only place those people feel unblocked.
+
+  Chapters
+  0:00 Introduction: The 25% Problem
+  1:45 Solo Founders Hitting Millions With Zero Employees
+  4:30 What Harvard's P&G Research Actually Shows
+  7:15 AI as a Coordination Proxy Inside Big Companies
+  9:45 Taste vs. Conviction: What Everyone Gets Wrong
+  14:30 Speed of Control, Not Just Span of Control
+  18:00 Extraordinary People Were Never Blocked by Ability
+  22:00 AI Grows Talent — It Doesn't Just Unleash It
+  25:30 The Averaging Cost Problem in Your Organization
+  28:30 Three Traits to Identify AI-Ready Talent
+  33:00 Ambition, Autonomy, and the Solo Founding Trap
+  37:00 What Leaders Must Do Before It's Too Late
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  Listen to this video as a podcast.
+  - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372
 
 yt_tags:
   - "AI agents"

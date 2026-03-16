@@ -7,6 +7,54 @@ duration: "30:16"
 duration_seconds: 1816
 view_count: 168160
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/every-ai-you-use-forgets-you-heres?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening when Claude's memory doesn't know what you told ChatGPT and your phone app doesn't share context with your coding agent? The common story is that AI memory is getting better—but the reality is more interesting when every platform has built a walled garden designed to create lock-in.
+
+  In this video, I share the inside scoop on why the architecture of agent-readable memory matters more than any individual tool:
+
+  • Why your Notion workspace is beautiful for humans and useless for agents that search by meaning
+  • How a Postgres database with vector embeddings runs for 10-30 cents a month
+  • What MCP servers enable when one brain connects to every AI you touch
+  • Where the compounding advantage lives for people who stop re-explaining themselves
+
+  For anyone watching the agent revolution go mainstream, the gap between starting from zero and starting with six months of accumulated context is the career gap of this decade.
+  Subscribe for daily AI strategy and news.
+
+  Chapters
+  00:00 Your AI Agent Doesn't Have a Brain
+  01:30 Why the Second Brain Guide Needed an Upgrade
+  03:00 The Memory Problem Hiding in Your Prompting
+  04:30 Why Context Infrastructure Beats Better Models
+  06:00 The Walled Garden Problem: Siloed AI Memory
+  07:30 How Corporate Memory Lock-In Works Against You
+  09:00 Agents Are Mainstream — and They Need Context Too
+  10:15 Why Note-Taking Apps Weren't Built for Agents
+  11:30 The Human Web vs. the Agent Web
+  13:00 Introducing Open Brain: The Architecture That Fixes This
+  14:15 Why Postgres Is the Right Foundation
+  15:15 Vector Embeddings and Semantic Search Explained
+  16:30 What the System Actually Looks Like in Practice
+  17:45 Capture and Retrieval: How the Two Sides Work
+  18:45 The Cost: 10 to 30 Cents a Month
+  19:30 Person A vs. Person B: The Compounding Advantage
+  21:00 Why This Is the Career Gap of the Decade
+  22:00 What You Can Build on Top of Open Brain
+  23:15 Honest Limitations to Know Before You Start
+  24:00 The Four Prompts That Run the Full Lifecycle
+  26:30 Weekly Review: Five Minutes That Compound Forever
+  27:30 What It Feels Like When the System Works
+  28:30 The Bigger Lesson: AI Forces Clarity of Thought
+  29:30 Open Brain vs. the Original Second Brain
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  Listen to this video as a podcast.
+  - Spotify: https://open.spotify.com/episode/57x8ZaXXInAN7NmeuXrJ0q
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372?i=1000752782596
 
 yt_tags:
   - "AI agents"

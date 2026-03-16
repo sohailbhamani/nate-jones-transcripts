@@ -8,6 +8,36 @@ duration: "4:33"
 duration_seconds: 273
 view_count: 619
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  About me: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+
+  Luma Dream Machine: https://lumalabs.ai/dream-machine
+  Flux pro 1.1 Ultra: https://fluxai.pro/flux-1-1-ultra
+
+  Looks like Google Gemini codebase upload did drop!
+  https://www.testingcatalog.com/google-gemini-introduces-codebase-analysis-with-folder-upload-feature/
+
+  /dev/agents: https://www.businesspost.ie/tech-news/former-stripe-cto-david-singleton-raises-56m-for-new-start-up/
+
+  Takeaways:
+   1. Flux Pro’s Realism in 4K: Flux Pro can generate photos so realistic that 98–99% of people can’t distinguish them from real images, marking a major leap for AI content creation.
+   2. Dream Machine Revolutionizes Video: Luma AI’s Dream Machine delivers short-form videos that rival professional videography, with significant advancements in character persistence and frame stability.
+   3. Potential for Misinformation: With AI-generated images and videos becoming indistinguishable from reality, these tools have incredible potential but also pose serious risks for misuse, such as disinformation.
+   4. Agent Infrastructure Advances: Slash Dev Slash Agents raised $56M to build the “operating system for agents,” reflecting the rising importance of AI-powered workflows in business.
+   5. Gemini’s Codebase Upload Feature: Google’s Gemini LLM may soon allow users to upload 1,000 files (up to 100MB), an important step toward expanded context windows and improved coding assistance.
+   6. Near-Infinite Context Windows by 2025: Execs at major tech companies, including Microsoft, hint at near-infinite AI context windows on the horizon, enabling more comprehensive large-scale processing.
+
+  Quotes:
+  “We’re at a point where AI-generated visuals rival reality in quality, but the dark side of misinformation can’t be ignored.”
+  “Agent infrastructure is the next frontier for AI—expect breakthroughs in workflows and integration.”
+  “Google Gemini’s rumored codebase upload feature signals the race toward limitless AI context processing.”
+
+  Summary:
+  Flux Pro and Luma AI’s Dream Machine are reshaping AI-generated content, bringing photo and video quality to near-perfect realism. While these tools inspire creativity, they also raise concerns about misinformation. Slash Dev Slash Agents made waves with a $56M funding round to develop agent infrastructure, and Google’s Gemini LLM is rumored to debut codebase upload capabilities. These innovations underscore the fast-evolving AI landscape, hinting at near-infinite AI context windows by 2025. With these developments, we’re closer than ever to AI transforming workflows, creativity, and productivity on a global scale.
+
+  Keywords:
+  Flux Pro, Luma AI, Dream Machine, AI-generated visuals, agent infrastructure, Slash Dev Slash Agents, Google Gemini, codebase upload, AI context windows, 2025 AI trends, misinformation, AI workflows, agentic AI, product management, AI in startups, tech innovations, AI development, 4K AI content, coding tools, engineering, business AI integration, OpenAI, Microsoft, large language models.
 
 yt_tags:
   []

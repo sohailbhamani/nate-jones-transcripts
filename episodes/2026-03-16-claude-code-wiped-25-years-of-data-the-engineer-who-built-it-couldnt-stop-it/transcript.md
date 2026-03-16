@@ -7,6 +7,41 @@ duration: "21:30"
 duration_seconds: 1290
 view_count: 21980
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-ai-agent-just-mass-deleted-a?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening with AI agents when vibe coders try to scale their builds? The common story is that better prompting solves everything — but the reality is that agents introduce a supervision problem, not just a prompting one.
+
+  In this video, I share the inside scoop on the five management skills every vibe coder needs to survive the agentic era:
+
+  - Why version control is your most critical safety habit now
+  - How context window limits silently destroy long agent runs
+  - What standing orders do that repeated prompting never will
+  - Where small bets beat sweeping changes every single time
+
+  Builders who treat AI agents like a powerful but unsupervised contractor — without save points, scoped tasks, or persistent rules files — are one bad session away from losing real production work.
+
+  ---
+  Chapters:
+
+  0:00 The wall vibe coders are hitting in 2026
+  1:45 Agents vs. vibe coding: it's a supervision problem
+  3:20 The 5 skills overview
+  4:00 Skill 1: Save points and version control
+  6:20 Skill 2: When to start fresh (and the advanced fix)
+  8:40 Skill 3: Standing orders and rules files
+  11:10 Skill 4: Small bets and blast radius
+  13:56 Skill 5: Questions your agent will never ask
+  17:20 When to bring in a real engineer
+  19:00 The wall is a management problem, not a code problem
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
+
+  Listen to this video as a podcast.
+  - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4
+  - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372
 
 yt_tags:
   - "AI agents"

@@ -7,6 +7,22 @@ duration: "0:58"
 duration_seconds: 58
 view_count: 11201
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/my-honest-field-notes-on-why-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  _______________________
+
+  What's really happening with AI agents that keeps them from reliable execution? The common story is that agents fail because of hallucinations or lack of context — but the reality is more complicated.
+  In this video, I share the inside scoop on why intent is the center of the agent problem:
+
+  -Why LLMs are trained for plausible text, not understanding your priorities
+  -How intent differs from context and why it stays hidden
+  -What disambiguation loops and intent commits enable in agentic systems
+  -Where reinforcement learning and crypto-style solvers point the way forward
+
+  Builders who learn to carry intent clearly from prompt to execution will ship agents that scale in 2026, while those who ignore the intent gap will keep wrestling with subtly wrong outcomes that look confidently right.
+
+  Subscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI agents"

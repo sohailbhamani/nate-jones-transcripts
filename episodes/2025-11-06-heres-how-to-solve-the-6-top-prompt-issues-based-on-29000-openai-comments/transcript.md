@@ -8,6 +8,24 @@ duration: "11:23"
 duration_seconds: 683
 view_count: 7899
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-prompt-doctor-is-in-fixes-for?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside AI workflows when they break?
+  The common story is that models hallucinate or fail at reasoning — but the reality is more complicated.
+
+  In this video, I share the inside scoop on the six failure patterns I see across AI use at work:
+  • Why “schema-first prompting” fixes most misunderstood outputs
+  • How to stop the infinite regeneration loop in ChatGPT
+  • What causes planning and confidence illusions in large language models
+  • Where context overload and drift quietly destroy consistency
+
+  The takeaway: most AI errors aren’t model failures—they’re design errors in how we prompt, plan, and constrain.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

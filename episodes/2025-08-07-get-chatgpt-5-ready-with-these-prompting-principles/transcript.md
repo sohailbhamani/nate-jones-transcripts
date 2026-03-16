@@ -8,6 +8,29 @@ duration: "15:10"
 duration_seconds: 910
 view_count: 18546
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Ditch GPT-4.0: Upgrading to reasoning models—GPT-0.3, Claude Opus 4, or Gemini 2.5 Pro—immediately raises the ceiling on what AI can do for you.
+   2. Self-Consistency Checks: Prompt the model for multiple answers, then have it compare and reconcile them to slash hallucinations and boost accuracy.
+   3. Program-of-Thought: Tell the model to solve problems with code or math tools; numerical precision skyrockets when it writes and runs functions.
+   4. Plan-and-Solve Workflow: Make the model outline a step-by-step plan before executing any task for clearer logic and better results.
+   5. Structural Guardrails: Wrap your instructions with explicit edge cases, fallbacks, and output formats—90 % of Claude’s system prompt is guardrails for a reason.
+   6. Context Positioning & Negatives: Put mission-critical instructions in the first and last 10 % of the prompt and include “don’t do this” examples to avoid failure modes.
+   7. Meta-Prompting: Ask the model to critique, clarify, and suggest improvements to your prompt; it knows its own capabilities better than you do.
+
+  Quotes:
+  “We’re stuck on GPT-4.0, and it’s capping our perception of what AI can do.”
+  “Models know themselves better than we know them—use meta-prompting to let them teach you.”
+  “Good instructions are just the motor; guardrails and edge cases build the ship that actually sails.”
+
+  Summary:
+  I argue that real progress starts by abandoning ChatGPT-4.0 and switching to inference-first models like GPT-0.3, Claude Opus 4, or Gemini 2.5 Pro. With a better engine in place, I share three evidence-backed techniques—self-consistency, program-of-thought, and plan-then-solve—that reliably improve outputs. I then outline structural prompt principles: embed guardrails and edge cases, prioritize first-and-last-ten-percent context, and use negative examples. Finally, I show how meta-prompting lets the model refine prompts, surface uncertainties, and reveal new approaches. These simple, memorable moves make prompting easier and dramatically more effective in 2025’s reasoning-model era.
+
+  Keywords:
+  GPT-0.3, Claude Opus 4, Gemini 2.5 Pro, reasoning models, prompt engineering, self-consistency, program of thought, plan and solve, guardrails, edge cases, context positioning, negative examples, meta-prompting
 
 yt_tags:
   []

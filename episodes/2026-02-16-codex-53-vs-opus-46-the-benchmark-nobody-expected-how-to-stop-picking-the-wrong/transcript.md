@@ -7,6 +7,17 @@ duration: "28:22"
 duration_seconds: 1702
 view_count: 73285
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening when two competing visions of AI agents ship 20 minutes apart? The common story is that this is a benchmark race—but the reality is more complicated when the choice between Codex and Claude determines how your entire week changes.
+  In this episode, I share the inside scoop on why OpenAI and Anthropic built fundamentally different answers to the same question:
+  • Why Codex bets on autonomous correctness while Claude bets on integration and coordination
+  • How the three-layer orchestrator architecture enables hand-it-off-and-walk-away work
+  • What Agent Teams with peer-to-peer messaging means for interdependent problems
+  • Where the meta-skill of evaluating new capabilities becomes the durable advantage
+  For knowledge workers choosing between delegation-shaped problems and coordination-shaped problems, the right question is not which tool wins—it's which organizational muscle you want to build.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   - "AI strategy"

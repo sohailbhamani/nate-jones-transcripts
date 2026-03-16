@@ -8,6 +8,31 @@ duration: "4:12"
 duration_seconds: 252
 view_count: 785
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  about me: https://natebjones.com/
+  Lex: https://lex.page/
+  My note on how writing is changing: https://lex.page/read/b54cc283-525f-4000-b939-399684abf2a7
+  Look at Lex on youtube: https://www.youtube.com/watch?v=XoCzf--j8uQ
+
+  Takeaways:
+   1. Writing as AI Partnership: Writing has evolved from a solitary task to a collaborative process with AI, shifting from pure generation to orchestration.
+   2. Frustrations with Chatbots: Current AI workflows rely heavily on chatbots, which are cumbersome and require significant manual input and editing.
+   3. Lex’s Context Tags: Lex introduces context tags, allowing writers to quickly evoke style, research, and insights as reusable variables, streamlining the writing process.
+   4. Multi-Model Integration: Lex allows seamless switching between AI models in the same interface, eliminating the need for external tools and copy-pasting.
+   5. Intuitive Editing Tools: Features like strikethroughs for deletions and green highlights for additions provide clarity and improve the editing experience.
+   6. Future of AI Modalities: Lex’s approach is analogous to tools like Cursor for coding, but focused on writing, showing the potential for AI-native interfaces in diverse fields.
+   7. Call for Better UX: The transcript highlights the need for more AI-native modalities that align with human workflows and cognitive processes.
+
+  Quotes:
+   • “Writing isn’t dying—it’s evolving into a partnership with AI, shifting from generation to orchestration.”
+   • “Lex’s context tags let me tag in style, research, and audience instantly, making writing faster and more seamless.”
+   • “We need AI-native interfaces that work with how our brains collaborate with AI, not against them.”
+
+  Summary:
+  The writing process has shifted dramatically, evolving into a collaborative effort between humans and AI. Current tools, like chatbots, struggle to support this partnership due to inefficiencies in workflows. Lex emerges as a game-changing writing tool with features like context tags, which allow writers to reuse and remix key elements like style and research seamlessly. Its ability to switch between AI models within a single interface eliminates the need for manual copy-pasting, while intuitive editing tools simplify revisions. The transcript underscores the need for more AI-native modalities that align with human cognition and workflows, fostering creativity and efficiency.
+
+  Keywords:
+  writing, AI-native, Lex, context tags, OpenAI, Claude, ChatGPT, collaboration, AI workflows, UX modalities, Cursor, Windsurf, multi-model integration, automation, editing tools, innovation, research, AI partnership, creative tools, productivity, artificial intelligence
 
 yt_tags:
   []

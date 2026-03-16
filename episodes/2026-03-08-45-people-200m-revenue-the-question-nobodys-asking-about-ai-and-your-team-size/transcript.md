@@ -7,6 +7,40 @@ duration: "25:45"
 duration_seconds: 1545
 view_count: 56817
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  ___________________
+  What's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount — but the reality is more complicated.
+
+  In this video, I share the inside scoop on why the five-person strike team is the structural unit of the AI era:
+
+  - Why AI raised coordination costs by the same order as output
+  - How scouts and strike teams map to different AI-era missions
+  - What correctness-first thinking means for how you hire and build
+  - Where the real opportunity is — expanding ambition, not shrinking headcount
+
+  AI agents and LLMs didn't break your meetings problem — they amplified a team size problem you already had, and the leaders who restructure around small, high-judgment teams will build the defining companies of this decade.
+
+  Chapters
+  00:00 Your Meetings Problem Is Actually a Team Size Problem
+  02:10 The Math of Communication Pathways
+  04:15 Dunbar's Number and Why the Military Cracked This First
+  06:00 What AI Actually Changed About Team Size
+  08:20 Why Volume Is Free and Correctness Is Scarce
+  10:45 The Harvard Study That Proves the Point
+  12:30 Scouts: The One-Person AI Strike Force
+  15:00 Peter Steinberger and the Solo Agent Model
+  17:10 Strike Teams: Why Five Is the Magic Number
+  20:00 The Ambition Failure Nobody Talks About
+  23:15 How to Compose Many Strike Teams Into One Org
+  25:40 The AI Slop Tax and the True Cost of a Weak Link
+  28:00 How to Test Who's Ready for the Strike Team Model
+  30:20 The Shopify Mandate and What Toby Lutke Got Right
+  33:00 Restructure for Ambition, Not Efficiency
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

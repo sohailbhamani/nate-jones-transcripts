@@ -7,6 +7,24 @@ duration: "11:01"
 duration_seconds: 661
 view_count: 9910
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  Full Story: https://natesnewsletter.substack.com/p/i-tested-5-ais-on-black-friday-shopping?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+  My substack: https://natesnewsletter.substack.com/
+  _______________________
+  What’s really happening inside AI-powered deal hunting on Black Friday?
+  The common story is that any large language model can find bargains — but the reality is more complicated.
+
+  In this video, I share the inside scoop on which AIs actually surface the best deals:
+  • Why intent clarity determines whether LLMs deliver real value
+  • How browsers and models differ in economic search behavior
+  • What ChatGPT 5.1 got right that Claude and Gemini missed
+  • Where prompt engineering shifts the gap between agents and models
+
+  When the stakes are finding real savings, operators need to know which AI tools are actually reliable.
+
+  Subscribe for daily AI strategy and news.
+  For deeper playbooks and analysis: https://natesnewsletter.substack.com/
 
 yt_tags:
   - "AI strategy"

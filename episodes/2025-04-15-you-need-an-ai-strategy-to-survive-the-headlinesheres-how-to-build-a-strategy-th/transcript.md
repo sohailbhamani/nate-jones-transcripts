@@ -8,6 +8,32 @@ duration: "8:43"
 duration_seconds: 523
 view_count: 7449
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My note on strategy: https://open.substack.com/pub/natesnewsletter/p/you-dont-need-better-modelsyou-need?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  My site: https://natebjones.com/
+  My links: https://linktr.ee/natebjones
+  My substack: https://natesnewsletter.substack.com/
+
+  Takeaways:
+   1. Strategy Is Not a List: Most teams confuse motion with strategy. A backlog of ideas or AI features isn’t a strategy—it’s just activity. Strategy requires clarity, discipline, and structure.
+   2. Diagnosis Comes First: Strategic thinking begins with naming the real challenge. Without a grounded, honest diagnosis, teams waste time solving the wrong problems.
+   3. Guiding Policy Creates Focus: A strategy isn’t a detailed plan—it’s a posture. A guiding policy defines how you move through complexity and what you’re choosing not to do.
+   4. Coherent Action Compounds: Actions only become strategic when they reinforce one another. Random experiments don’t build leverage—systems do.
+   5. In the AI Era, Clarity Wins: Everyone has access to the same models and tools. What sets teams apart is how clearly they choose their terrain and focus their energy.
+   6. The Strategy Loop Is Continuous: Good strategy isn’t static. Teams must loop through diagnosis, filtering, building, observing, and adjusting—repeatedly.
+   7. Leverage Beats Velocity: In a fast-moving landscape, doing less with precision creates more value than chasing trends with volume.
+
+  Quotes:
+  “We’re moving fast, but we’re not moving with clarity.”
+  “A list is not a strategy. A list is just motion.”
+  “Clarity is the only thing that compounds in a world where everyone has the same tools.”
+
+  Summary:
+  In this video, I explain what strategy really is—and why most teams operating in AI right now don’t have one. Using Richard Rumelt’s framework of diagnosis, guiding policy, and coherent action, I walk through how to think strategically under uncertainty. Most roadmaps today are just lists—ideas without focus, features without leverage. In the AI era, when everyone has access to the same models and tools, the only true advantage is clarity: knowing what game you’re playing, what to say no to, and what builds systems that learn and improve over time.
+
+  Keywords:
+  AI strategy, product leadership, Richard Rumelt, diagnosis, guiding policy, coherent action, compounding systems, roadmap design, leverage, strategic clarity, product management, LLMs, AI tools, focus, execution, prototyping, feedback loops, clarity over speed, startup strategy, building with AI
 
 yt_tags:
   []

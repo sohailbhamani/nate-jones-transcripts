@@ -8,6 +8,30 @@ duration: "22:27"
 duration_seconds: 1347
 view_count: 13783
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  My site: https://natebjones.com
+  My substack: https://natesnewsletter.substack.com/
+  The story: https://open.substack.com/pub/natesnewsletter/p/the-complete-52-page-guide-to-ai?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  Takeaways
+   1. Codebase Mapping & Onboarding: Aim the model at a repo, prompt for summaries, graphs, or PR analysis, and refine manually to slash ramp-up time for both engineers and non-coders.
+   2. Plan-First Development: Treat AI as an architect—force it to outline edge cases, pseudo-code, and road-maps before it writes a single line, then code against the approved plan.
+   3. Natural-Language “Vibe Coding”: Clear, intent-rich prompts let tools like Lovable or Cursor turn plain English into deployable apps; ambiguity is the only bottleneck.
+   4. AI-Augmented Debugging & Testing: Paste explicit error traces, ask for root-cause analysis, loop fixes in a sandbox, and guard against regressions.
+   5. AI-Assisted Reviews & Refactors: Use the model as a pre-pull reviewer for scoped diffs, but require human sign-off to avoid runaway edits.
+   6. Context Engineering for Consistency: Maintain repo-level rules files (e.g., .cursor-rules, claude.md) so prompts stay on brand, hallucinations drop, and multi-agent workflows stay coherent.
+   7. Durable Patterns Trump Tools: Tools will churn (ChatGPT-5, Gemini, etc.), but these six workflows form a stable playbook you can slot any new model into.
+
+  Quotes
+  “We keep chasing shiny tools, but the only thing that survives the hype cycle is a repeatable workflow.”
+  “Knowing how to code is now as easy—and as valuable—as knowing how to cook.”
+  “AI just made it possible for you to be your own technical founder; the gatekeepers are gone.”
+
+  Summary
+  I break today’s AI-powered coding chaos into six enduring workflows—mapping codebases, planning before coding, natural-language “vibe coding,” AI-driven debugging, AI-assisted reviews, and rigorous context engineering. By spotlighting real tactics from leaders using tools like Devin, Cursor, Claude, Lovable, and Windsurf, I show how these patterns remain stable even as models and products churn. Mastering them lets anyone—from indie hackers to product execs—build faster, onboard quicker, and avoid brittle prompt hacks. If you’ve never shipped code, start small, follow the patterns, and discover that becoming your own builder is finally within reach.
+
+  Keywords
+  AI development, workflow patterns, codebase mapping, onboarding, plan-first development, vibe coding, natural language coding, AI debugging, code reviews, context engineering, Devin, Cursor, Claude, Lovable, Windsurf, model context protocol
 
 yt_tags:
   []

@@ -8,6 +8,18 @@ duration: "8:44"
 duration_seconds: 524
 view_count: 38746
 author: "AI News & Strategy Daily | Nate B Jones"
+description: |
+  What's really happening to the value of knowledge in an AI era? The common story is that learning more and earning more credentials keeps you ahead, but the reality is more complicated when a language model can fake a perfect resume in seconds. In this video, I share the inside scoop on why the knowledge economy is cracking and what replaces it:
+
+  * Why AI has compressed Buckminster Fuller's knowledge doubling curve from decades to months, flooding the market faster than anyone can absorb
+  * How Monster.com's bankruptcy signals that traditional job application signals no longer prove real competence
+  * What the five human moats look like: taste, extreme agency, learning velocity, long intent horizons, and interruptibility
+  * Where proof-of-work projects beat credentials when machines can fake the credential but not the judgment
+
+  For knowledge workers navigating 2026, the future pays for judgment, not just knowledge, and the window to build unmistakably human proof-of-work is open right now.
+  Subscribe for daily AI strategy and news.
+  For playbooks and analysis: https://natesnewsletter.substack.com/
+  © Nate B. Jones 2026
 
 yt_tags:
   []
