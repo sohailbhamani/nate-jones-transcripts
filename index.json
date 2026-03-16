@@ -1,53 +1,8 @@
 {
   "episodes": [
     {
-      "video_id": "5Et9WoDCsYs",
-      "title": "Unknown",
-      "published": "unknown",
-      "url": "https://www.youtube.com/watch?v=5Et9WoDCsYs",
-      "duration": "unknown",
-      "view_count": "0",
-      "author": "Nate B Jones"
-    },
-    {
-      "video_id": "h7dbkDcb3hA",
-      "title": "Unknown",
-      "published": "unknown",
-      "url": "https://www.youtube.com/watch?v=h7dbkDcb3hA",
-      "duration": "unknown",
-      "view_count": "0",
-      "author": "Nate B Jones"
-    },
-    {
-      "video_id": "M9TJizOxNFk",
-      "title": "Unknown",
-      "published": "unknown",
-      "url": "https://www.youtube.com/watch?v=M9TJizOxNFk",
-      "duration": "unknown",
-      "view_count": "0",
-      "author": "Nate B Jones"
-    },
-    {
-      "video_id": "TTMOSR-nKjg",
-      "title": "Unknown",
-      "published": "unknown",
-      "url": "https://www.youtube.com/watch?v=TTMOSR-nKjg",
-      "duration": "unknown",
-      "view_count": "0",
-      "author": "Nate B Jones"
-    },
-    {
-      "video_id": "dzp0OQbElpU",
-      "title": "Unknown",
-      "published": "unknown",
-      "url": "https://www.youtube.com/watch?v=dzp0OQbElpU",
-      "duration": "unknown",
-      "view_count": "0",
-      "author": "Nate B Jones"
-    },
-    {
       "video_id": "O-0poNv2jD4",
-      "title": "The $285B Sell-Off Was Just the Beginning \u2014 The Infrastructure Story Is Bigger.",
+      "title": "The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.",
       "published": "2026-02-21",
       "url": "https://www.youtube.com/watch?v=O-0poNv2jD4",
       "duration": "29:14",
@@ -83,7 +38,7 @@
     },
     {
       "video_id": "6r0UeMQE66I",
-      "title": "Why the Biggest AI Career Opportunity Just Appeared\u2014and Almost Nobody Sees It.",
+      "title": "Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.",
       "published": "2026-02-19",
       "url": "https://www.youtube.com/watch?v=6r0UeMQE66I",
       "duration": "30:03",
@@ -185,44 +140,17 @@
       "title": "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)",
       "published": "2026-01-14",
       "url": "https://www.youtube.com/watch?v=h7dbkDcb3hA",
-      "duration": "unknown",
-      "view_count": "0",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
-      "video_id": "h7dbkDcb3hA",
-      "title": "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)",
-      "published": "2026-01-14",
-      "url": "https://www.youtube.com/watch?v=h7dbkDcb3hA",
       "duration": "32:19",
       "view_count": "189341",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
       "video_id": "dzp0OQbElpU",
-      "title": "Shopify's AI Memo Changed Hiring Forever\u2014And Why Google, Meta & Nvidia Are Copying It",
+      "title": "Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It",
       "published": "2026-01-13",
       "url": "https://www.youtube.com/watch?v=dzp0OQbElpU",
       "duration": "25:36",
       "view_count": "29856",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
-      "video_id": "dzp0OQbElpU",
-      "title": "Shopify's AI Memo Changed Hiring Forever\u2014And Why Google, Meta & Nvidia Are Copying It",
-      "published": "2026-01-13",
-      "url": "https://www.youtube.com/watch?v=dzp0OQbElpU",
-      "duration": "unknown",
-      "view_count": "0",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
-      "video_id": "M9TJizOxNFk",
-      "title": "What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)",
-      "published": "2026-01-12",
-      "url": "https://www.youtube.com/watch?v=M9TJizOxNFk",
-      "duration": "unknown",
-      "view_count": "0",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -232,15 +160,6 @@
       "url": "https://www.youtube.com/watch?v=M9TJizOxNFk",
       "duration": "23:10",
       "view_count": "33285",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
-      "video_id": "5Et9WoDCsYs",
-      "title": "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace",
-      "published": "2026-01-11",
-      "url": "https://www.youtube.com/watch?v=5Et9WoDCsYs",
-      "duration": "unknown",
-      "view_count": "0",
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
@@ -262,15 +181,6 @@
       "author": "AI News & Strategy Daily | Nate B Jones"
     },
     {
-      "video_id": "TTMOSR-nKjg",
-      "title": "OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories",
-      "published": "2026-01-10",
-      "url": "https://www.youtube.com/watch?v=TTMOSR-nKjg",
-      "duration": "unknown",
-      "view_count": "0",
-      "author": "AI News & Strategy Daily | Nate B Jones"
-    },
-    {
       "video_id": "0TpON5T-Sw4",
       "title": "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)",
       "published": "2026-01-09",
@@ -281,7 +191,7 @@
     },
     {
       "video_id": "5Kp-Gj5qXL0",
-      "title": "NVIDIA told us exactly where AI is going \u2014 and almost everyone heard it wrong",
+      "title": "NVIDIA told us exactly where AI is going — and almost everyone heard it wrong",
       "published": "2026-01-08",
       "url": "https://www.youtube.com/watch?v=5Kp-Gj5qXL0",
       "duration": "18:37",
@@ -326,7 +236,7 @@
     },
     {
       "video_id": "s1eqzfXCgXI",
-      "title": "The Fork Most Leaders Don\u2019t See: Visibility vs. Execution",
+      "title": "The Fork Most Leaders Don’t See: Visibility vs. Execution",
       "published": "2026-01-03",
       "url": "https://www.youtube.com/watch?v=s1eqzfXCgXI",
       "duration": "13:25",
@@ -380,7 +290,7 @@
     },
     {
       "video_id": "X_EJi6yCuTM",
-      "title": "Anthropic's New Benchmark Changes Everything\u2014Most People Will Miss Why",
+      "title": "Anthropic's New Benchmark Changes Everything—Most People Will Miss Why",
       "published": "2025-12-29",
       "url": "https://www.youtube.com/watch?v=X_EJi6yCuTM",
       "duration": "10:23",
@@ -434,7 +344,7 @@
     },
     {
       "video_id": "0jSE0NABcY8",
-      "title": "Claude Code Snuck in 7 Updates in 2 Weeks\u2014Here's What You Need to Know in 10 Minutes",
+      "title": "Claude Code Snuck in 7 Updates in 2 Weeks—Here's What You Need to Know in 10 Minutes",
       "published": "2025-12-22",
       "url": "https://www.youtube.com/watch?v=0jSE0NABcY8",
       "duration": "10:51",
@@ -659,7 +569,7 @@
     },
     {
       "video_id": "HDVG8RKYX9s",
-      "title": "AI Certifications Focus on Tools NOT Skills\u2014Here's a Better Way",
+      "title": "AI Certifications Focus on Tools NOT Skills—Here's a Better Way",
       "published": "2025-11-26",
       "url": "https://www.youtube.com/watch?v=HDVG8RKYX9s",
       "duration": "35:12",
@@ -686,7 +596,7 @@
     },
     {
       "video_id": "iGvJpBWWGOU",
-      "title": "Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes\u2014Plus My Top Takeaways",
+      "title": "Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways",
       "published": "2025-11-23",
       "url": "https://www.youtube.com/watch?v=iGvJpBWWGOU",
       "duration": "15:46",
@@ -713,7 +623,7 @@
     },
     {
       "video_id": "11Bq5sxbP68",
-      "title": "The Real Difference Between Gemini 3 and ChatGPT 5.1\u2014Context vs. Task",
+      "title": "The Real Difference Between Gemini 3 and ChatGPT 5.1—Context vs. Task",
       "published": "2025-11-20",
       "url": "https://www.youtube.com/watch?v=11Bq5sxbP68",
       "duration": "15:59",
@@ -821,7 +731,7 @@
     },
     {
       "video_id": "O_VL5clgN_I",
-      "title": "Everyone's Chasing AI Skills\u2014But Judgement is Now Priceless",
+      "title": "Everyone's Chasing AI Skills—But Judgement is Now Priceless",
       "published": "2025-11-10",
       "url": "https://www.youtube.com/watch?v=O_VL5clgN_I",
       "duration": "14:45",
@@ -848,7 +758,7 @@
     },
     {
       "video_id": "lY6voDZpu3Y",
-      "title": "Nov 2025: My Personal AI Stack\u2014Pros, Cons, and Pitfalls",
+      "title": "Nov 2025: My Personal AI Stack—Pros, Cons, and Pitfalls",
       "published": "2025-11-07",
       "url": "https://www.youtube.com/watch?v=lY6voDZpu3Y",
       "duration": "11:04",
@@ -911,7 +821,7 @@
     },
     {
       "video_id": "8W_IUoSMvu0",
-      "title": "Mark Zuckerburg Laid Off 600 AI Researchers\u2014Here's the AI Talent Takeaway Everyone MISSED",
+      "title": "Mark Zuckerburg Laid Off 600 AI Researchers—Here's the AI Talent Takeaway Everyone MISSED",
       "published": "2025-11-01",
       "url": "https://www.youtube.com/watch?v=8W_IUoSMvu0",
       "duration": "7:56",
@@ -983,7 +893,7 @@
     },
     {
       "video_id": "uCVjXKFyiEQ",
-      "title": "I Tested Claude & ChatGPT's New Knowledge Connectors\u2014Here's Your TLDR + Pros & Cons",
+      "title": "I Tested Claude & ChatGPT's New Knowledge Connectors—Here's Your TLDR + Pros & Cons",
       "published": "2025-10-25",
       "url": "https://www.youtube.com/watch?v=uCVjXKFyiEQ",
       "duration": "9:53",
@@ -992,7 +902,7 @@
     },
     {
       "video_id": "61IJSZ6GOuU",
-      "title": "I Spent 200 Hours Teaching AI Writing\u2014Here Are 6 Principles Everyone Gets WRONG (+ Demo Prompt)",
+      "title": "I Spent 200 Hours Teaching AI Writing—Here Are 6 Principles Everyone Gets WRONG (+ Demo Prompt)",
       "published": "2025-10-24",
       "url": "https://www.youtube.com/watch?v=61IJSZ6GOuU",
       "duration": "14:53",
@@ -1001,7 +911,7 @@
     },
     {
       "video_id": "WKFFFumnzYI",
-      "title": "Claude Skills\u2014From TOY to TOOL: Grab My Tutorial + Custom Skills To Help You Build Skills Fast",
+      "title": "Claude Skills—From TOY to TOOL: Grab My Tutorial + Custom Skills To Help You Build Skills Fast",
       "published": "2025-10-23",
       "url": "https://www.youtube.com/watch?v=WKFFFumnzYI",
       "duration": "21:38",
@@ -1010,7 +920,7 @@
     },
     {
       "video_id": "5ioEQigrJOA",
-      "title": "I Summarized Andrej Karpathy's 2.5 Hour Podcast in 20 Min\u2014Grab 4 Takeaways No One's Talking About",
+      "title": "I Summarized Andrej Karpathy's 2.5 Hour Podcast in 20 Min—Grab 4 Takeaways No One's Talking About",
       "published": "2025-10-22",
       "url": "https://www.youtube.com/watch?v=5ioEQigrJOA",
       "duration": "20:24",
@@ -1019,7 +929,7 @@
     },
     {
       "video_id": "9ydIVzh7TBo",
-      "title": "I Tested OpenAI's Atlas Browser on 12+ Tasks\u2014Here's My Full Breakdwon + Grade",
+      "title": "I Tested OpenAI's Atlas Browser on 12+ Tasks—Here's My Full Breakdwon + Grade",
       "published": "2025-10-22",
       "url": "https://www.youtube.com/watch?v=9ydIVzh7TBo",
       "duration": "10:02",
@@ -1028,7 +938,7 @@
     },
     {
       "video_id": "KT4v_I9zvH4",
-      "title": "I Spent Months Studying the AI Job Market\u2014Here are 5 Secrets to Stand Out No One is Talking About",
+      "title": "I Spent Months Studying the AI Job Market—Here are 5 Secrets to Stand Out No One is Talking About",
       "published": "2025-10-21",
       "url": "https://www.youtube.com/watch?v=KT4v_I9zvH4",
       "duration": "16:10",
@@ -1046,7 +956,7 @@
     },
     {
       "video_id": "rlJmALoNl5g",
-      "title": "500 AI-Trained Employees Will LOSE to 10 Truly AI-Fluent Ones\u2014Here's Why",
+      "title": "500 AI-Trained Employees Will LOSE to 10 Truly AI-Fluent Ones—Here's Why",
       "published": "2025-10-19",
       "url": "https://www.youtube.com/watch?v=rlJmALoNl5g",
       "duration": "20:12",
@@ -1055,7 +965,7 @@
     },
     {
       "video_id": "jv8sJHVmySg",
-      "title": "Claude Skills is BIGGER than Model Context Protocol (MCP)\u2014Here's Why",
+      "title": "Claude Skills is BIGGER than Model Context Protocol (MCP)—Here's Why",
       "published": "2025-10-18",
       "url": "https://www.youtube.com/watch?v=jv8sJHVmySg",
       "duration": "10:00",
@@ -1091,7 +1001,7 @@
     },
     {
       "video_id": "obqjIoKaqdM",
-      "title": "Stop Asking for AI Agents When You're Not Ready for Them\u2014Here's What You Really Need",
+      "title": "Stop Asking for AI Agents When You're Not Ready for Them—Here's What You Really Need",
       "published": "2025-10-14",
       "url": "https://www.youtube.com/watch?v=obqjIoKaqdM",
       "duration": "14:37",
@@ -1100,7 +1010,7 @@
     },
     {
       "video_id": "Z88hYmdxp00",
-      "title": "I Analyzed 170 Million AI Jobs with ChatGPT\u2014Grab Insights for 17 AI Careers + a Prompt Demo",
+      "title": "I Analyzed 170 Million AI Jobs with ChatGPT—Grab Insights for 17 AI Careers + a Prompt Demo",
       "published": "2025-10-13",
       "url": "https://www.youtube.com/watch?v=Z88hYmdxp00",
       "duration": "17:07",
@@ -1109,7 +1019,7 @@
     },
     {
       "video_id": "gRhOo6uT-fM",
-      "title": "I Summarized the 313 Slide State of AI Report so You Don't Have to Read It\u2014Here's the TLDR",
+      "title": "I Summarized the 313 Slide State of AI Report so You Don't Have to Read It—Here's the TLDR",
       "published": "2025-10-12",
       "url": "https://www.youtube.com/watch?v=gRhOo6uT-fM",
       "duration": "28:28",
@@ -1127,7 +1037,7 @@
     },
     {
       "video_id": "rY6MOdXv02M",
-      "title": "I Stopped Drowning in AI Slop\u2014Prompts That Saved Me 100+ Hours (Demo Inside)",
+      "title": "I Stopped Drowning in AI Slop—Prompts That Saved Me 100+ Hours (Demo Inside)",
       "published": "2025-10-10",
       "url": "https://www.youtube.com/watch?v=rY6MOdXv02M",
       "duration": "12:10",
@@ -1136,7 +1046,7 @@
     },
     {
       "video_id": "EDcWcPueRSE",
-      "title": "I Tested Both Claude & Codex\u2014They're Building Opposite Futures",
+      "title": "I Tested Both Claude & Codex—They're Building Opposite Futures",
       "published": "2025-10-09",
       "url": "https://www.youtube.com/watch?v=EDcWcPueRSE",
       "duration": "17:06",
@@ -1154,7 +1064,7 @@
     },
     {
       "video_id": "DdlMoRSojtE",
-      "title": "Everyone is Getting AI Fluency Wrong\u2014Steal My 10 Level Framework That Exposes the Real AI Skill Gap",
+      "title": "Everyone is Getting AI Fluency Wrong—Steal My 10 Level Framework That Exposes the Real AI Skill Gap",
       "published": "2025-10-07",
       "url": "https://www.youtube.com/watch?v=DdlMoRSojtE",
       "duration": "14:27",
@@ -1181,7 +1091,7 @@
     },
     {
       "video_id": "DWb4SqILvvM",
-      "title": "Claude 4.5 Built Slack in 30 Hours Straight\u2014Here's My Take After Testing",
+      "title": "Claude 4.5 Built Slack in 30 Hours Straight—Here's My Take After Testing",
       "published": "2025-10-04",
       "url": "https://www.youtube.com/watch?v=DWb4SqILvvM",
       "duration": "10:37",
@@ -1190,7 +1100,7 @@
     },
     {
       "video_id": "S-g778Djaas",
-      "title": "FIRE McKinsey: The $20,000 Board Deck You Can Build with AI in 10 Minutes\u2014Prompt Demo!",
+      "title": "FIRE McKinsey: The $20,000 Board Deck You Can Build with AI in 10 Minutes—Prompt Demo!",
       "published": "2025-10-03",
       "url": "https://www.youtube.com/watch?v=S-g778Djaas",
       "duration": "21:53",
@@ -1199,7 +1109,7 @@
     },
     {
       "video_id": "xCrd3ajdlzw",
-      "title": "Excel AI Will Replace Finance Teams by 2026\u2014Here's Why (And What to Do)",
+      "title": "Excel AI Will Replace Finance Teams by 2026—Here's Why (And What to Do)",
       "published": "2025-10-02",
       "url": "https://www.youtube.com/watch?v=xCrd3ajdlzw",
       "duration": "24:54",
@@ -1208,7 +1118,7 @@
     },
     {
       "video_id": "N8ddmMBJrzo",
-      "title": "OpenAI Just Launched 200 Prompts for Pros\u2014They Will Destroy Your Career (Here's Why)",
+      "title": "OpenAI Just Launched 200 Prompts for Pros—They Will Destroy Your Career (Here's Why)",
       "published": "2025-10-01",
       "url": "https://www.youtube.com/watch?v=N8ddmMBJrzo",
       "duration": "12:22",
@@ -1217,7 +1127,7 @@
     },
     {
       "video_id": "oqgk6fdjnno",
-      "title": "OpenAI Just Launched a SOCIAL NETWORK\u2014This Changes Everything (Sora 2 Breakdown)",
+      "title": "OpenAI Just Launched a SOCIAL NETWORK—This Changes Everything (Sora 2 Breakdown)",
       "published": "2025-09-30",
       "url": "https://www.youtube.com/watch?v=oqgk6fdjnno",
       "duration": "10:40",
@@ -1226,7 +1136,7 @@
     },
     {
       "video_id": "Pvis4-OXGEs",
-      "title": "Google Made Lovable FREE This Week\u2014Full Demo of 3 Apps + Prompting & Launch Tips",
+      "title": "Google Made Lovable FREE This Week—Full Demo of 3 Apps + Prompting & Launch Tips",
       "published": "2025-09-30",
       "url": "https://www.youtube.com/watch?v=Pvis4-OXGEs",
       "duration": "14:38",
@@ -1253,7 +1163,7 @@
     },
     {
       "video_id": "-hK4Qt8B9Fg",
-      "title": "I Tested ChatGPT's New Overnight Mode\u2014It Changed How I Work",
+      "title": "I Tested ChatGPT's New Overnight Mode—It Changed How I Work",
       "published": "2025-09-27",
       "url": "https://www.youtube.com/watch?v=-hK4Qt8B9Fg",
       "duration": "15:53",
@@ -1271,7 +1181,7 @@
     },
     {
       "video_id": "DHZgLzwWXfs",
-      "title": "I Used AI on Job Postings\u2014It Exposed Billion-Dollar Company Secrets + Career Opportunities",
+      "title": "I Used AI on Job Postings—It Exposed Billion-Dollar Company Secrets + Career Opportunities",
       "published": "2025-09-25",
       "url": "https://www.youtube.com/watch?v=DHZgLzwWXfs",
       "duration": "12:57",
@@ -1280,7 +1190,7 @@
     },
     {
       "video_id": "BP-N7xjz-vM",
-      "title": "This is THE Way to Build Custom AI Agents in 2025\u2014Full Demo + Prompt Tips",
+      "title": "This is THE Way to Build Custom AI Agents in 2025—Full Demo + Prompt Tips",
       "published": "2025-09-24",
       "url": "https://www.youtube.com/watch?v=BP-N7xjz-vM",
       "duration": "22:11",
@@ -1316,7 +1226,7 @@
     },
     {
       "video_id": "8psoB8EFdc8",
-      "title": "Make $500-$5K/mo with ChatGPT\u2014Steal my Side-Gig System and Build Your Hustle with AI!",
+      "title": "Make $500-$5K/mo with ChatGPT—Steal my Side-Gig System and Build Your Hustle with AI!",
       "published": "2025-09-19",
       "url": "https://www.youtube.com/watch?v=8psoB8EFdc8",
       "duration": "17:49",
@@ -1370,7 +1280,7 @@
     },
     {
       "video_id": "1FKxyPAJ2Ok",
-      "title": "Your Boss says 'Use AI!'\u2014Here's When to Actually Use AI & AI Agents For Real",
+      "title": "Your Boss says 'Use AI!'—Here's When to Actually Use AI & AI Agents For Real",
       "published": "2025-09-15",
       "url": "https://www.youtube.com/watch?v=1FKxyPAJ2Ok",
       "duration": "21:59",
@@ -1397,7 +1307,7 @@
     },
     {
       "video_id": "zw39KBZkPeA",
-      "title": "Beat the 95%: Why AI Projects Fail\u2014And How Builders Win",
+      "title": "Beat the 95%: Why AI Projects Fail—And How Builders Win",
       "published": "2025-09-12",
       "url": "https://www.youtube.com/watch?v=zw39KBZkPeA",
       "duration": "19:19",
@@ -1496,7 +1406,7 @@
     },
     {
       "video_id": "SLYKFHtKR90",
-      "title": "The New AI Operating System of Work\u2014Goodbye Docs, Hello Executable Artifacts",
+      "title": "The New AI Operating System of Work—Goodbye Docs, Hello Executable Artifacts",
       "published": "2025-08-27",
       "url": "https://www.youtube.com/watch?v=SLYKFHtKR90",
       "duration": "16:19",
@@ -1523,7 +1433,7 @@
     },
     {
       "video_id": "VN8_LWeYlHk",
-      "title": "I made 17 AI Predictions for 2025\u2014Here's What Actually Happened (41% Were Right)",
+      "title": "I made 17 AI Predictions for 2025—Here's What Actually Happened (41% Were Right)",
       "published": "2025-08-22",
       "url": "https://www.youtube.com/watch?v=VN8_LWeYlHk",
       "duration": "17:10",
@@ -1649,7 +1559,7 @@
     },
     {
       "video_id": "kN1h33Fbiio",
-      "title": "6 Structural Gaps ChatGPT Can't Close\u2014And 12 Killer AI Tools That Do",
+      "title": "6 Structural Gaps ChatGPT Can't Close—And 12 Killer AI Tools That Do",
       "published": "2025-08-05",
       "url": "https://www.youtube.com/watch?v=kN1h33Fbiio",
       "duration": "17:56",
@@ -1775,7 +1685,7 @@
     },
     {
       "video_id": "ahHgc6GOb-M",
-      "title": "OpenAI Agent Mode: 58 Minutes for Cupcakes\u2014Should You Trust It?",
+      "title": "OpenAI Agent Mode: 58 Minutes for Cupcakes—Should You Trust It?",
       "published": "2025-07-18",
       "url": "https://www.youtube.com/watch?v=ahHgc6GOb-M",
       "duration": "12:26",
@@ -1784,7 +1694,7 @@
     },
     {
       "video_id": "hW5ne_14OQg",
-      "title": "AI Just Hijacked 15% of Google Traffic\u2014Win Yours Back",
+      "title": "AI Just Hijacked 15% of Google Traffic—Win Yours Back",
       "published": "2025-07-17",
       "url": "https://www.youtube.com/watch?v=hW5ne_14OQg",
       "duration": "16:03",
@@ -1793,7 +1703,7 @@
     },
     {
       "video_id": "duA2AwL7keg",
-      "title": "We're Getting AI Agents Backwards\u2014Simulation Wins",
+      "title": "We're Getting AI Agents Backwards—Simulation Wins",
       "published": "2025-07-16",
       "url": "https://www.youtube.com/watch?v=duA2AwL7keg",
       "duration": "15:33",
@@ -1811,7 +1721,7 @@
     },
     {
       "video_id": "CEgyitKYhb4",
-      "title": "Grok 4 is \\\"#1\\\" but Real-World Users Ranked It #66\u2014Here's the Gap",
+      "title": "Grok 4 is \\\"#1\\\" but Real-World Users Ranked It #66—Here's the Gap",
       "published": "2025-07-14",
       "url": "https://www.youtube.com/watch?v=CEgyitKYhb4",
       "duration": "13:34",
@@ -1829,7 +1739,7 @@
     },
     {
       "video_id": "rkQhpiLn8EI",
-      "title": "I Was Wrong About AI Agents \u2014 This $200 Browser Actually Works",
+      "title": "I Was Wrong About AI Agents — This $200 Browser Actually Works",
       "published": "2025-07-11",
       "url": "https://www.youtube.com/watch?v=rkQhpiLn8EI",
       "duration": "11:47",
@@ -1865,7 +1775,7 @@
     },
     {
       "video_id": "JdTgxpfCa3E",
-      "title": "The Honest Case for AI Note-Taking\u2014From a Skeptic",
+      "title": "The Honest Case for AI Note-Taking—From a Skeptic",
       "published": "2025-07-08",
       "url": "https://www.youtube.com/watch?v=JdTgxpfCa3E",
       "duration": "14:51",
@@ -1874,7 +1784,7 @@
     },
     {
       "video_id": "R-CASOusCJo",
-      "title": "Million Token Context Windows? Myth Busted\u2014Limits & Fixes",
+      "title": "Million Token Context Windows? Myth Busted—Limits & Fixes",
       "published": "2025-07-07",
       "url": "https://www.youtube.com/watch?v=R-CASOusCJo",
       "duration": "15:00",
@@ -1901,7 +1811,7 @@
     },
     {
       "video_id": "z8-0INxN_Hg",
-      "title": "RAG: The $40B AI Technique 80% of Enterpises Use\u2014Finally Explained",
+      "title": "RAG: The $40B AI Technique 80% of Enterpises Use—Finally Explained",
       "published": "2025-07-02",
       "url": "https://www.youtube.com/watch?v=z8-0INxN_Hg",
       "duration": "23:22",
@@ -1919,7 +1829,7 @@
     },
     {
       "video_id": "HfvO5Hcdyt4",
-      "title": "Catch Up Before ChatGPT-5: Your Complete AI Guide\u2014Timeline, AI Basics, Resources, and Who To Follow",
+      "title": "Catch Up Before ChatGPT-5: Your Complete AI Guide—Timeline, AI Basics, Resources, and Who To Follow",
       "published": "2025-06-30",
       "url": "https://www.youtube.com/watch?v=HfvO5Hcdyt4",
       "duration": "22:11",
@@ -1937,7 +1847,7 @@
     },
     {
       "video_id": "POLFZdG54Kw",
-      "title": "ChatGPT-5 Rumors Decoded\u2014How Prompting is Evolving in the Next Age of AI",
+      "title": "ChatGPT-5 Rumors Decoded—How Prompting is Evolving in the Next Age of AI",
       "published": "2025-06-26",
       "url": "https://www.youtube.com/watch?v=POLFZdG54Kw",
       "duration": "12:11",
@@ -1946,7 +1856,7 @@
     },
     {
       "video_id": "ktZgXtCIYAA",
-      "title": "We Got Claude Code Backwards: It Isn't Just Code\u2013It's Anthropic's Hidden Super-Agent in Plain Sight",
+      "title": "We Got Claude Code Backwards: It Isn't Just Code–It's Anthropic's Hidden Super-Agent in Plain Sight",
       "published": "2025-06-25",
       "url": "https://www.youtube.com/watch?v=ktZgXtCIYAA",
       "duration": "9:26",
@@ -2000,7 +1910,7 @@
     },
     {
       "video_id": "l8Po2CyWZag",
-      "title": "Code Evolved More in 60 Years than Writing did in 5,000\u2014Now AI is About to Rewrite Writing",
+      "title": "Code Evolved More in 60 Years than Writing did in 5,000—Now AI is About to Rewrite Writing",
       "published": "2025-06-18",
       "url": "https://www.youtube.com/watch?v=l8Po2CyWZag",
       "duration": "10:28",
@@ -2036,7 +1946,7 @@
     },
     {
       "video_id": "5kWuXbiQ2zY",
-      "title": "o3 Pro is Out\u2014Here's Everything You Need to Know",
+      "title": "o3 Pro is Out—Here's Everything You Need to Know",
       "published": "2025-06-11",
       "url": "https://www.youtube.com/watch?v=5kWuXbiQ2zY",
       "duration": "14:26",
@@ -2045,7 +1955,7 @@
     },
     {
       "video_id": "p63MKDEsuFc",
-      "title": "Most of Us Are Using AI Backwards\u2014Here's Why",
+      "title": "Most of Us Are Using AI Backwards—Here's Why",
       "published": "2025-06-10",
       "url": "https://www.youtube.com/watch?v=p63MKDEsuFc",
       "duration": "12:58",
@@ -2054,7 +1964,7 @@
     },
     {
       "video_id": "I9tYAvjkOQk",
-      "title": "Let's Talk THAT Apple AI Paper\u2014Here's the Takeaway Everyone is Ignoring",
+      "title": "Let's Talk THAT Apple AI Paper—Here's the Takeaway Everyone is Ignoring",
       "published": "2025-06-09",
       "url": "https://www.youtube.com/watch?v=I9tYAvjkOQk",
       "duration": "11:20",
@@ -2099,7 +2009,7 @@
     },
     {
       "video_id": "SykH1k65Dy4",
-      "title": "I read Mary Meeker's 340 Slide AI Deck\u2014Here Are the Top Takeaways",
+      "title": "I read Mary Meeker's 340 Slide AI Deck—Here Are the Top Takeaways",
       "published": "2025-06-02",
       "url": "https://www.youtube.com/watch?v=SykH1k65Dy4",
       "duration": "12:59",
@@ -2144,7 +2054,7 @@
     },
     {
       "video_id": "WNTovbxHwWI",
-      "title": "Claude 4 is out\u2014comparison vs. o3 and Gemini 2.5 pro",
+      "title": "Claude 4 is out—comparison vs. o3 and Gemini 2.5 pro",
       "published": "2025-05-23",
       "url": "https://www.youtube.com/watch?v=WNTovbxHwWI",
       "duration": "8:09",
@@ -2162,7 +2072,7 @@
     },
     {
       "video_id": "9wJvpiztpg8",
-      "title": "May 20: What Really Mattered at Google I/O\u2014and Why",
+      "title": "May 20: What Really Mattered at Google I/O—and Why",
       "published": "2025-05-21",
       "url": "https://www.youtube.com/watch?v=9wJvpiztpg8",
       "duration": "7:40",
@@ -2297,7 +2207,7 @@
     },
     {
       "video_id": "TMnJDCNx06A",
-      "title": "I Paid for Claude's Gmail 'Superpower'\u2014and Anthropic's Compute Crunch Made it Useless",
+      "title": "I Paid for Claude's Gmail 'Superpower'—and Anthropic's Compute Crunch Made it Useless",
       "published": "2025-04-18",
       "url": "https://www.youtube.com/watch?v=TMnJDCNx06A",
       "duration": "8:34",
@@ -2315,7 +2225,7 @@
     },
     {
       "video_id": "8CVHjUACvVo",
-      "title": "You need an AI strategy to survive the headlines\u2014here's how to build a strategy that sticks",
+      "title": "You need an AI strategy to survive the headlines—here's how to build a strategy that sticks",
       "published": "2025-04-15",
       "url": "https://www.youtube.com/watch?v=8CVHjUACvVo",
       "duration": "8:43",
@@ -2324,7 +2234,7 @@
     },
     {
       "video_id": "Jl7wX80nxlo",
-      "title": "ChatGPT 4.1 vs Gemini 2.5\u2014analysis both on test results and actual usage",
+      "title": "ChatGPT 4.1 vs Gemini 2.5—analysis both on test results and actual usage",
       "published": "2025-04-14",
       "url": "https://www.youtube.com/watch?v=Jl7wX80nxlo",
       "duration": "4:14",
@@ -2351,7 +2261,7 @@
     },
     {
       "video_id": "YHmZqFs2kQE",
-      "title": "Stocks are Crashing\u2014Here's How That Changes AI in 2025",
+      "title": "Stocks are Crashing—Here's How That Changes AI in 2025",
       "published": "2025-04-07",
       "url": "https://www.youtube.com/watch?v=YHmZqFs2kQE",
       "duration": "5:46",
@@ -2432,7 +2342,7 @@
     },
     {
       "video_id": "uB-4OJD_73E",
-      "title": "AI is Going to Break SAAS Pricing Models\u2014And That's Breaking VC",
+      "title": "AI is Going to Break SAAS Pricing Models—And That's Breaking VC",
       "published": "2025-03-20",
       "url": "https://www.youtube.com/watch?v=uB-4OJD_73E",
       "duration": "9:40",
@@ -2441,7 +2351,7 @@
     },
     {
       "video_id": "0IxUJJCBkPI",
-      "title": "We have a problem with AI and hallucinations\u2014and not what you think",
+      "title": "We have a problem with AI and hallucinations—and not what you think",
       "published": "2025-03-19",
       "url": "https://www.youtube.com/watch?v=0IxUJJCBkPI",
       "duration": "9:17",
@@ -2459,7 +2369,7 @@
     },
     {
       "video_id": "wIWtp0KZa3c",
-      "title": "From 1T Tokens to ZB Scale\u2014How to move past the internet and scale LLMs",
+      "title": "From 1T Tokens to ZB Scale—How to move past the internet and scale LLMs",
       "published": "2025-03-17",
       "url": "https://www.youtube.com/watch?v=wIWtp0KZa3c",
       "duration": "12:27",
@@ -2486,7 +2396,7 @@
     },
     {
       "video_id": "OneEZG8xROo",
-      "title": "OpenAI Drops New Agents API\u2014Ecosystem Comparison with Claude MCP and LangChain",
+      "title": "OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain",
       "published": "2025-03-12",
       "url": "https://www.youtube.com/watch?v=OneEZG8xROo",
       "duration": "4:18",
@@ -2513,7 +2423,7 @@
     },
     {
       "video_id": "OzMZI9Hcs-k",
-      "title": "Qwen Beats DeepSeek R1 with 20x Smaller Model\u2014where is Meta?",
+      "title": "Qwen Beats DeepSeek R1 with 20x Smaller Model—where is Meta?",
       "published": "2025-03-06",
       "url": "https://www.youtube.com/watch?v=OzMZI9Hcs-k",
       "duration": "3:24",
@@ -2522,7 +2432,7 @@
     },
     {
       "video_id": "Vn9tVViLyRA",
-      "title": "Voice mode: Sesame, Alexa+ and Siri\u2014Product Strategy & What's Next for Meta, Google, Amazon, etc.",
+      "title": "Voice mode: Sesame, Alexa+ and Siri—Product Strategy & What's Next for Meta, Google, Amazon, etc.",
       "published": "2025-03-05",
       "url": "https://www.youtube.com/watch?v=Vn9tVViLyRA",
       "duration": "4:10",
@@ -2558,7 +2468,7 @@
     },
     {
       "video_id": "q1hyh5m1u2g",
-      "title": "I got early access to Claude 3.7\u2014Here's what builders can expect",
+      "title": "I got early access to Claude 3.7—Here's what builders can expect",
       "published": "2025-02-24",
       "url": "https://www.youtube.com/watch?v=q1hyh5m1u2g",
       "duration": "3:21",
@@ -2657,7 +2567,7 @@
     },
     {
       "video_id": "DaDxAwF_JSI",
-      "title": "Feb 5: Google Releases Three New Flash Models\u2014But Does It Matter?",
+      "title": "Feb 5: Google Releases Three New Flash Models—But Does It Matter?",
       "published": "2025-02-05",
       "url": "https://www.youtube.com/watch?v=DaDxAwF_JSI",
       "duration": "4:04",
@@ -2855,7 +2765,7 @@
     },
     {
       "video_id": "aqiAlXWs4Uc",
-      "title": "The Media got the AI and Cybertruck Story Wrong\u2014Here's What Happened and Why Google Should Worry",
+      "title": "The Media got the AI and Cybertruck Story Wrong—Here's What Happened and Why Google Should Worry",
       "published": "2025-01-08",
       "url": "https://www.youtube.com/watch?v=aqiAlXWs4Uc",
       "duration": "6:26",
@@ -2873,7 +2783,7 @@
     },
     {
       "video_id": "7fJSM4G9Efg",
-      "title": "Founder of OpenAI says AI Agents are Coming to Work in 2025\u2014and ASI is next",
+      "title": "Founder of OpenAI says AI Agents are Coming to Work in 2025—and ASI is next",
       "published": "2025-01-06",
       "url": "https://www.youtube.com/watch?v=7fJSM4G9Efg",
       "duration": "4:28",
@@ -2882,7 +2792,7 @@
     },
     {
       "video_id": "OVTJUykc6B0",
-      "title": "GitHub Shut Down a Major AI Builder Overnight\u2014Here's what happened why it gets worse in 2025",
+      "title": "GitHub Shut Down a Major AI Builder Overnight—Here's what happened why it gets worse in 2025",
       "published": "2025-01-03",
       "url": "https://www.youtube.com/watch?v=OVTJUykc6B0",
       "duration": "5:39",
@@ -2891,7 +2801,7 @@
     },
     {
       "video_id": "lZYTJ9wQSBo",
-      "title": "AI Can Do Standup: Here are some actual jokes from Claude\u2014funny or not?",
+      "title": "AI Can Do Standup: Here are some actual jokes from Claude—funny or not?",
       "published": "2025-01-02",
       "url": "https://www.youtube.com/watch?v=lZYTJ9wQSBo",
       "duration": "4:46",
@@ -2900,7 +2810,7 @@
     },
     {
       "video_id": "3nkxiAb7Jr4",
-      "title": "2025 starts hot: a broke web dev, a 6D demon, and an AI clone of a VC\u2014the insane story of ai16z",
+      "title": "2025 starts hot: a broke web dev, a 6D demon, and an AI clone of a VC—the insane story of ai16z",
       "published": "2025-01-01",
       "url": "https://www.youtube.com/watch?v=3nkxiAb7Jr4",
       "duration": "6:18",
@@ -2936,7 +2846,7 @@
     },
     {
       "video_id": "b6Rw0ZsTh5g",
-      "title": "OpenAI is thinking about building a robot\u2014why that would be a risky bet",
+      "title": "OpenAI is thinking about building a robot—why that would be a risky bet",
       "published": "2024-12-25",
       "url": "https://www.youtube.com/watch?v=b6Rw0ZsTh5g",
       "duration": "2:55",
@@ -2999,7 +2909,7 @@
     },
     {
       "video_id": "-tVUWx61EJY",
-      "title": "First Evidence of AI Faking Alignment\u2014HUGE Deal\u2014Study on Claude Opus 3 by Anthropic",
+      "title": "First Evidence of AI Faking Alignment—HUGE Deal—Study on Claude Opus 3 by Anthropic",
       "published": "2024-12-18",
       "url": "https://www.youtube.com/watch?v=-tVUWx61EJY",
       "duration": "6:34",
@@ -3053,7 +2963,7 @@
     },
     {
       "video_id": "SBeKkPqpXvI",
-      "title": "Google Gemini 2.0 is here\u2014this feels like the future of AI",
+      "title": "Google Gemini 2.0 is here—this feels like the future of AI",
       "published": "2024-12-11",
       "url": "https://www.youtube.com/watch?v=SBeKkPqpXvI",
       "duration": "3:21",
@@ -3125,7 +3035,7 @@
     },
     {
       "video_id": "Ahtx-Lo1Oa0",
-      "title": "The Apple AI Reasoning Paper is Flawed\u2014Here's Why",
+      "title": "The Apple AI Reasoning Paper is Flawed—Here's Why",
       "published": "2024-12-03",
       "url": "https://www.youtube.com/watch?v=Ahtx-Lo1Oa0",
       "duration": "6:46",
@@ -3179,7 +3089,7 @@
     },
     {
       "video_id": "WlecNrvXNcc",
-      "title": "AI News: AWS $4B Anthropic Deal, Windsurf vs Cursor\u2014The Battle of Agentic LLM Coding Applications",
+      "title": "AI News: AWS $4B Anthropic Deal, Windsurf vs Cursor—The Battle of Agentic LLM Coding Applications",
       "published": "2024-11-25",
       "url": "https://www.youtube.com/watch?v=WlecNrvXNcc",
       "duration": "7:55",
@@ -4105,6 +4015,6 @@
       "author": "Nate B Jones"
     }
   ],
-  "count": 456,
+  "count": 446,
   "last_updated": "unknown"
 }
