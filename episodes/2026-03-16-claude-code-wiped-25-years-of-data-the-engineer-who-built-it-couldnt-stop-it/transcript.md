@@ -22,7 +22,78 @@ description: |
 
   Builders who treat AI agents like a powerful but unsupervised contractor — without save points, scoped tasks, or persistent rules files — are one bad session away from losing real production work.
 
-  ---
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "AI Tools"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+entities:
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Google"
+    - "Meta"
+    - "Microsoft"
+    - "Apple"
+    - "GitHub"
+    - "Stripe"
+    - "Cursor"
+    - "Lovable"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Copilot"
+    - "GitHub Copilot"
+    - "Cursor"
+    - "Make"
+    - "Artifacts"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "Chapters:
+
+  0:00 The wall vibe coders are hitting in 2026
+  1:45 Agents vs"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "stripe"
+  - "tutorials"
+  - "workflows"
+---
   Chapters:
 
   0:00 The wall vibe coders are hitting in 2026

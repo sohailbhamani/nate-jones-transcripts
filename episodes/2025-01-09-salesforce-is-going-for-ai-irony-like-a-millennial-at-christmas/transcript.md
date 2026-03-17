@@ -15,7 +15,6 @@ description: |
   Hiring sales guys: https://www.saastr.com/salesforce-actually-were-going-to-hire-2000-sales-execs-now-to-sell-ai/
   Hiring engineers: https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/
 
-
   Takeaways:
    1. AI Productivity Claims Don’t Match Reality: Salesforce CEO Marc Benioff claimed a 30% productivity boost from AI would eliminate the need for hiring engineers in 2025, but the careers page tells a different story.
    2. Over 100 Engineering Roles Open: Despite the hiring freeze announcement, Salesforce is actively recruiting for engineering positions across various levels, from entry to senior.

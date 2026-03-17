@@ -19,7 +19,6 @@ description: |
   02:48 Design Implications of Voice Mode
   04:40 The Human-AI Conversation Experience
 
-
   Takeaways
 
   1. OpenAI's voice mode enhances user interaction with AI.

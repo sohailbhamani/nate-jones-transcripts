@@ -38,7 +38,6 @@ description: |
   05:06 Understanding the Chip Manufacturing Process
   10:10 The Fragility of Global Supply Chains
 
-
   Takeaways
   1. Hurricane Helene’s impact on the tech supply chain: The storm has disrupted Spruce Pine, North Carolina, a key source of pure quartz sand crucial for the chip-making process.
   2. The importance of silicon purity: Chips require silicon with a purity level of 11 nines (99.999999999%)—one of the purest substances created by humans.

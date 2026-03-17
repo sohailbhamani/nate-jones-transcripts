@@ -14,7 +14,6 @@ description: |
   My substack: https://natesnewsletter.substack.com/
   Sam's post: https://blog.samaltman.com/reflections
 
-
   Takeaways:
    1. AI Agents as Slack Colleagues: Sam Altman predicts AGI will emerge in 2025 as workplace AI agents integrated into Slack, working alongside humans to complete tasks collaboratively.
    2. Minimal Workplace Disruption: Despite AGI advancements, these agents will require human oversight and collaboration, suggesting limited disruption to jobs in the near term.

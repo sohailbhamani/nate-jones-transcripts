@@ -15,7 +15,6 @@ description: |
   Google FX: https://labs.google/fx
   Willow: https://blog.google/technology/research/google-willow-quantum-chip/
 
-
   Takeaways:
    1. Gemini 2.0 Redefines Speed and Power: Google’s new language model is so fast that users have requested the company slow it down, marking a new standard in AI performance.
    2. Quantum Computing Milestone: Willow Quantum Chip shattered a 30-year challenge, achieving exponential error reduction with more qubits—an unprecedented leap in quantum tech.

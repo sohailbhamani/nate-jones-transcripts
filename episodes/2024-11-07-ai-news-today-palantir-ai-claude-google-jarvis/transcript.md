@@ -16,7 +16,6 @@ description: |
   Wendy's: https://www.allsides.com/news/2024-11-07-0315/technology-wendy-s-bets-palantir-ai-keep-1-frosty-demand
   Claude: https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/
 
-
   Takeaways:
    1. Google’s Jarvis Extension Leak: Google briefly leaked its new Chrome extension, Jarvis, which may launch in December. Jarvis aims to autonomously browse the web to complete tasks like shopping or booking flights, marking a competitive move in AI autonomy.
    2. Wendy’s Uses AI for Frosty Supply Chain: Wendy’s is using Palantir’s AI to manage the supply chain for Frosties, predicting shortages and keeping popular items in stock, demonstrating AI’s reach into retail logistics.

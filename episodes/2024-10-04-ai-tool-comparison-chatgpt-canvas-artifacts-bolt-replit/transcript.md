@@ -18,7 +18,6 @@ description: |
   Learn about Artifacts: https://www.anthropic.com/news/artifacts
   Learn about Replit AI: https://replit.com/ai
 
-
   Chapters:
   00:00 - Introduction: AI Tool Comparison
   01:30 - Canvas vs. Artifacts: Key Differences

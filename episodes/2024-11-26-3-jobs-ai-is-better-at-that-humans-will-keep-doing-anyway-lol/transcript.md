@@ -12,7 +12,6 @@ description: |
   About me: https://natebjones.com/
   My links: https://linktr.ee/natebjones
 
-
   Nostalgic jobs: https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek
 
   AI art turing test: https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing

@@ -1,8 +1,9 @@
 # Framework
 
-Episodes discussing **Framework** (131 episodes):
+Episodes discussing **Framework** (132 episodes):
 
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
 - [Stop trusting AI agents to guess your intent! #ai #aiagents #futureofwork](../episodes/2026-03-11-stop-trusting-ai-agents-to-guess-your-intent-ai-aiagents-futureofwork/transcript.md) (2026-03-11)
 - [Your AI Buddy Doesn't Work Here Anymore #futureofwork #ai #personalai](../episodes/2026-03-09-your-ai-buddy-doesnt-work-here-anymore-futureofwork-ai-personalai/transcript.md) (2026-03-09)

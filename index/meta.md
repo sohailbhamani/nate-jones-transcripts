@@ -1,6 +1,6 @@
 # Meta
 
-Episodes discussing **Meta** (100 episodes):
+Episodes discussing **Meta** (102 episodes):
 
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
@@ -80,8 +80,10 @@ Episodes discussing **Meta** (100 episodes):
 - [Distribution beats AI, even if AI gets MUCH better](../episodes/2025-03-21-distribution-beats-ai-even-if-ai-gets-much-better/transcript.md) (2025-03-21)
 - [Tuesday March 18: Nvidia GTC Keynote Takeaways](../episodes/2025-03-18-tuesday-march-18-nvidia-gtc-keynote-takeaways/transcript.md) (2025-03-18)
 - [From 1T Tokens to ZB Scale—How to move past the internet and scale LLMs](../episodes/2025-03-17-from-1t-tokens-to-zb-scalehow-to-move-past-the-internet-and-scale-llms/transcript.md) (2025-03-17)
+- [OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain](../episodes/2025-03-12-openai-drops-new-agents-apiecosystem-comparison-with-claude-mcp-and-langchain/transcript.md) (2025-03-12)
 - [Qwen Beats DeepSeek R1 with 20x Smaller Model—where is Meta?](../episodes/2025-03-06-qwen-beats-deepseek-r1-with-20x-smaller-modelwhere-is-meta/transcript.md) (2025-03-06)
 - [Voice mode: Sesame, Alexa+ and Siri—Product Strategy & What's Next for Meta, Google, Amazon, etc.](../episodes/2025-03-05-voice-mode-sesame-alexa-and-siriproduct-strategy-whats-next-for-meta-google-amaz/transcript.md) (2025-03-05)
+- [Claude 3.7: Anthropic's Strategy, ChatGPT's Strategy, plus the need for real world evals](../episodes/2025-02-25-claude-37-anthropics-strategy-chatgpts-strategy-plus-the-need-for-real-world-eva/transcript.md) (2025-02-25)
 - [Meta is Building Robots and AI Brain Implants, Claude 4 Soon](../episodes/2025-02-14-meta-is-building-robots-and-ai-brain-implants-claude-4-soon/transcript.md) (2025-02-14)
 - [What's next for DeepSeek, NVIDIA, OpenAI, Meta, and Microsoft](../episodes/2025-01-29-whats-next-for-deepseek-nvidia-openai-meta-and-microsoft/transcript.md) (2025-01-29)
 - [NVIDIA and Microsoft are Crashing Today Jan 27 Because of a ChatGPT Competitor Named DeepSeek](../episodes/2025-01-27-nvidia-and-microsoft-are-crashing-today-jan-27-because-of-a-chatgpt-competitor-n/transcript.md) (2025-01-27)

@@ -16,7 +16,6 @@ description: |
   SpaceX: https://www.vice.com/en/article/spacexs-mechazilla-arms-make-history-as-they-catch-super-heavy-rocket-booster/
   Tesla: https://www.theverge.com/2024/10/10/24265530/tesla-robotaxi-elon-musk-features-range-price-release-date
 
-
   Chapters:
   00:00 Elon Musk’s Wild Week in Tech
   03:16 The Implications of Taking Risks in Technology

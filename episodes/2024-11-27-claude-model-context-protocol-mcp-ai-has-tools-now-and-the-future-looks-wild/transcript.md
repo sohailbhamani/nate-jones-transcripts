@@ -16,8 +16,6 @@ description: |
   https://blog.securitybreak.io/building-a-threat-intelligence-genai-reporter-with-orkl-and-claude-a0ae2e969693
   https://medium.com/@jalajagr/the-secret-sauce-for-smarter-ai-exploring-model-context-protocol-mcp-00301f0149e5
 
-
-
   Takeaways:
    1. Tool Use Unlocks AI Power: The Model Context Protocol (MCP) gives Claude the ability to use tools, much like how early humans or crows use tools to extend their abilities. MCP connects Claude to systems like Google Maps, GitHub, and SQL databases.
    2. Flexibility in Integration: MCP allows Claude to interact with various tools by editing JSON files to set up custom servers. Though clunky now, this process already enables powerful workflows like automated data retrieval and app prototyping.

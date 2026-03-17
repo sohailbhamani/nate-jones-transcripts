@@ -1,11 +1,12 @@
 # Workflows
 
-Episodes discussing **Workflows** (203 episodes):
+Episodes discussing **Workflows** (206 episodes):
 
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
 - [Why AI-powered dashboards are lying to leadership #futureofwork #ai](../episodes/2026-03-15-why-ai-powered-dashboards-are-lying-to-leadership-futureofwork-ai/transcript.md) (2026-03-15)
 - [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
@@ -147,6 +148,8 @@ Episodes discussing **Workflows** (203 episodes):
 - [You need an AI strategy to survive the headlines—here's how to build a strategy that sticks](../episodes/2025-04-15-you-need-an-ai-strategy-to-survive-the-headlinesheres-how-to-build-a-strategy-th/transcript.md) (2025-04-15)
 - [Why Your Team is Probably Missing the AI Revolution (And NASA Can Explain Why)](../episodes/2025-04-11-why-your-team-is-probably-missing-the-ai-revolution-and-nasa-can-explain-why/transcript.md) (2025-04-11)
 - [Stocks are Crashing—Here's How That Changes AI in 2025](../episodes/2025-04-07-stocks-are-crashingheres-how-that-changes-ai-in-2025/transcript.md) (2025-04-07)
+- [OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain](../episodes/2025-03-12-openai-drops-new-agents-apiecosystem-comparison-with-claude-mcp-and-langchain/transcript.md) (2025-03-12)
+- [Claude 3.7: Anthropic's Strategy, ChatGPT's Strategy, plus the need for real world evals](../episodes/2025-02-25-claude-37-anthropics-strategy-chatgpts-strategy-plus-the-need-for-real-world-eva/transcript.md) (2025-02-25)
 - [Feb 24: The Microsoft AI Spend Drama Continues (Real Housewives Edition)](../episodes/2025-02-24-feb-24-the-microsoft-ai-spend-drama-continues-real-housewives-edition/transcript.md) (2025-02-24)
 - [AI for science: Google announces an AI co-scientist, plus Microsoft builds a quantum chip](../episodes/2025-02-21-ai-for-science-google-announces-an-ai-co-scientist-plus-microsoft-builds-a-quant/transcript.md) (2025-02-21)
 - [Hugging Face Deep Dive: A Case Study in How to Win with Open Source](../episodes/2025-02-07-hugging-face-deep-dive-a-case-study-in-how-to-win-with-open-source/transcript.md) (2025-02-07)
