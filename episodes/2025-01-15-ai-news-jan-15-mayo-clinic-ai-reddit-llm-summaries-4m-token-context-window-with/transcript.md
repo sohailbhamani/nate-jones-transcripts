@@ -16,7 +16,6 @@ description: |
   Hailuo Minimax paper: https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf
   Reddit: https://www.businessinsider.com/reddit-answers-how-it-works-performs-early-access-2024-12
 
-
   Takeaways:
    1. AI in Radiology: Mayo Clinic is using AI to streamline radiology workflows, including report generation, tube placement evaluation, and change detection in chest X-rays, moving beyond anecdotal successes to clinical integration.
    2. Genomic Personalization: Mayo Clinic is collaborating with Azure to create a “perfect human genome” reference dataset, potentially advancing personalized medicine through genome variant analysis.

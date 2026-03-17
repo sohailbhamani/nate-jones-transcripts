@@ -32,7 +32,6 @@ description: |
   13:25 Showcasing Nano Banana Pro Outputs
   15:37 The Future of Visual Reasoning
 
-
   When AI can output finished, executive-ready artifacts, operators and teams gain leverage — but the bar for clarity and intent rises fast.
 
   Subscribe for daily AI strategy and news.

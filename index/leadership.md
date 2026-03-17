@@ -1,6 +1,6 @@
 # Leadership
 
-Episodes discussing **Leadership** (218 episodes):
+Episodes discussing **Leadership** (219 episodes):
 
 - [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
@@ -133,6 +133,7 @@ Episodes discussing **Leadership** (218 episodes):
 - [AI is Going to Break SAAS Pricing Models—And That's Breaking VC](../episodes/2025-03-20-ai-is-going-to-break-saas-pricing-modelsand-thats-breaking-vc/transcript.md) (2025-03-20)
 - [We have a problem with AI and hallucinations—and not what you think](../episodes/2025-03-19-we-have-a-problem-with-ai-and-hallucinationsand-not-what-you-think/transcript.md) (2025-03-19)
 - [The Copy-Paste Problem: Why AI is Killing Software Lock-In](../episodes/2025-03-14-the-copy-paste-problem-why-ai-is-killing-software-lock-in/transcript.md) (2025-03-14)
+- [OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain](../episodes/2025-03-12-openai-drops-new-agents-apiecosystem-comparison-with-claude-mcp-and-langchain/transcript.md) (2025-03-12)
 - [ChatGPT 4.5 explained: OpenAI product strategy, model pricing and feature breakdown](../episodes/2025-02-27-chatgpt-45-explained-openai-product-strategy-model-pricing-and-feature-breakdown/transcript.md) (2025-02-27)
 - [Feb 24: The Microsoft AI Spend Drama Continues (Real Housewives Edition)](../episodes/2025-02-24-feb-24-the-microsoft-ai-spend-drama-continues-real-housewives-edition/transcript.md) (2025-02-24)
 - [AI for science: Google announces an AI co-scientist, plus Microsoft builds a quantum chip](../episodes/2025-02-21-ai-for-science-google-announces-an-ai-co-scientist-plus-microsoft-builds-a-quant/transcript.md) (2025-02-21)

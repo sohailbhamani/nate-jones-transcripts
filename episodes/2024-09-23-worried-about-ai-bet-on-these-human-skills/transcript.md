@@ -16,7 +16,6 @@ description: |
   o1 navigating drug pricing: https://www.hioscar.ai/blog/oscar-healths-early-observations-on-openai-o1-preview
   o1 diagnosis current state (this will get better): https://machine-learning-made-simple.medium.com/openai-is-lying-about-o-1s-medical-diagnostic-capabilities-e5f4b4036eb8
 
-
   Chapters
 
   00:00 The Enduring Value of Human Skills in an AI World

@@ -14,7 +14,6 @@ description: |
   Google Deep Research: https://blog.google/products/gemini/google-gemini-deep-research/
   Project Mariner: https://deepmind.google/technologies/project-mariner/
 
-
   Takeaways:
    1. AI-Powered Research Advances: Google’s Deep Research tool tackles one of AI’s biggest challenges—research accuracy—by eliminating hallucinations in citations, making AI-driven research more reliable.
    2. Education & AI Skills Debate: Deep Research sparks a critical education debate: Should students still learn traditional research skills, or can they rely on AI-powered tools to accelerate learning?

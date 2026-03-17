@@ -1,6 +1,6 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (113 episodes):
+Episodes discussing **Microsoft** (114 episodes):
 
 - [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
@@ -77,6 +77,7 @@ Episodes discussing **Microsoft** (113 episodes):
 - [This is AI Super Week: Here's Why](../episodes/2025-05-20-this-is-ai-super-week-heres-why/transcript.md) (2025-05-20)
 - [Misalignment Bingo: AI (almost certainly) helped crash the economy this week](../episodes/2025-04-04-misalignment-bingo-ai-almost-certainly-helped-crash-the-economy-this-week/transcript.md) (2025-04-04)
 - [From 1T Tokens to ZB Scale—How to move past the internet and scale LLMs](../episodes/2025-03-17-from-1t-tokens-to-zb-scalehow-to-move-past-the-internet-and-scale-llms/transcript.md) (2025-03-17)
+- [Claude 3.7: Anthropic's Strategy, ChatGPT's Strategy, plus the need for real world evals](../episodes/2025-02-25-claude-37-anthropics-strategy-chatgpts-strategy-plus-the-need-for-real-world-eva/transcript.md) (2025-02-25)
 - [Feb 24: The Microsoft AI Spend Drama Continues (Real Housewives Edition)](../episodes/2025-02-24-feb-24-the-microsoft-ai-spend-drama-continues-real-housewives-edition/transcript.md) (2025-02-24)
 - [AI for science: Google announces an AI co-scientist, plus Microsoft builds a quantum chip](../episodes/2025-02-21-ai-for-science-google-announces-an-ai-co-scientist-plus-microsoft-builds-a-quant/transcript.md) (2025-02-21)
 - [Takeaways from Satya's Dwarkesh podcast: Microsoft is watching earnings more than AI](../episodes/2025-02-20-takeaways-from-satyas-dwarkesh-podcast-microsoft-is-watching-earnings-more-than/transcript.md) (2025-02-20)

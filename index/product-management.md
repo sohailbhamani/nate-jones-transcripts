@@ -1,6 +1,6 @@
 # Product Management
 
-Episodes discussing **Product Management** (312 episodes):
+Episodes discussing **Product Management** (313 episodes):
 
 - [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
@@ -214,6 +214,7 @@ Episodes discussing **Product Management** (312 episodes):
 - [OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain](../episodes/2025-03-12-openai-drops-new-agents-apiecosystem-comparison-with-claude-mcp-and-langchain/transcript.md) (2025-03-12)
 - [Voice mode: Sesame, Alexa+ and Siri—Product Strategy & What's Next for Meta, Google, Amazon, etc.](../episodes/2025-03-05-voice-mode-sesame-alexa-and-siriproduct-strategy-whats-next-for-meta-google-amaz/transcript.md) (2025-03-05)
 - [ChatGPT 4.5 explained: OpenAI product strategy, model pricing and feature breakdown](../episodes/2025-02-27-chatgpt-45-explained-openai-product-strategy-model-pricing-and-feature-breakdown/transcript.md) (2025-02-27)
+- [Claude 3.7: Anthropic's Strategy, ChatGPT's Strategy, plus the need for real world evals](../episodes/2025-02-25-claude-37-anthropics-strategy-chatgpts-strategy-plus-the-need-for-real-world-eva/transcript.md) (2025-02-25)
 - [Feb 24: The Microsoft AI Spend Drama Continues (Real Housewives Edition)](../episodes/2025-02-24-feb-24-the-microsoft-ai-spend-drama-continues-real-housewives-edition/transcript.md) (2025-02-24)
 - [I got early access to Claude 3.7—Here's what builders can expect](../episodes/2025-02-24-i-got-early-access-to-claude-37heres-what-builders-can-expect/transcript.md) (2025-02-24)
 - [AI for science: Google announces an AI co-scientist, plus Microsoft builds a quantum chip](../episodes/2025-02-21-ai-for-science-google-announces-an-ai-co-scientist-plus-microsoft-builds-a-quant/transcript.md) (2025-02-21)

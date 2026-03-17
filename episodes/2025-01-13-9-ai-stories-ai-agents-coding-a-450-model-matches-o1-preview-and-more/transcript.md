@@ -13,7 +13,6 @@ description: |
   My links: https://linktr.ee/natebjones
   My substack: https://natesnewsletter.substack.com/
 
-
   Takeaways
    1. AI Case Reopened:
   A significant case linked to AI has been revisited with new evidence, sparking industry-wide conversations about ethics and transparency in the AI field.

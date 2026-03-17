@@ -13,7 +13,53 @@ description: |
   My links: [https://linktr.ee/natebjones](https://linktr.ee/natebjones)
   My substack: [https://natesnewsletter.substack.com/](https://natesnewsletter.substack.com/)
   My review: https://open.substack.com/pub/natesnewsletter/p/a-complete-guide-to-claude-37-with?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
-  ---
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Tools"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Product Managers"
+entities:
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "GitHub"
+    - "Cursor"
+  people:
+    - "Satya Nadella"
+  products:
+    - "ChatGPT"
+    - "Claude"
+    - "Cursor"
+    - "Make"
+  models:
+    - "Claude 3"
+concepts:
+  []
+summary:
+  - "**AI Model Evaluations Are Overfitted**
+     Current AI benchmarks, like AIME, are widely known and models are trained to excel at them from the outset"
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "workflows"
+---
 
   ### **Takeaways**
 

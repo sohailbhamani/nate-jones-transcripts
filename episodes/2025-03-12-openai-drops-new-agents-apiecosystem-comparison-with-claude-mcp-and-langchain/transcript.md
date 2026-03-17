@@ -14,7 +14,53 @@ description: |
   My substack: https://natesnewsletter.substack.com/
   Article: https://natesnewsletter.substack.com/p/coming-into-focus-the-state-of-the?r=1z4sm5
 
-  ---
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+entities:
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "LangChain"
+  people:
+    []
+  products:
+    - "Claude"
+    - "LangChain"
+    - "Make"
+    - "MCP"
+    - "Model Context Protocol"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "**OpenAI's New Agent API**
+     OpenAI released a new API aimed at helping developers build and manage AI agents more effectively"
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "langchain"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "model-context-protocol"
+  - "openai"
+  - "product-management"
+  - "workflows"
+---
 
   ### **Takeaways**
 

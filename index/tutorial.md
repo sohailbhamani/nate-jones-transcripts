@@ -3,7 +3,6 @@
 Episodes discussing **Tutorial** (146 episodes):
 
 - [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
-- [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [Why AI agents need every guardrail made explicit! #ai #aiagents #futureofwork](../episodes/2026-03-12-why-ai-agents-need-every-guardrail-made-explicit-ai-aiagents-futureofwork/transcript.md) (2026-03-12)
@@ -100,6 +99,7 @@ Episodes discussing **Tutorial** (146 episodes):
 - [The Copy-Paste Problem: Why AI is Killing Software Lock-In](../episodes/2025-03-14-the-copy-paste-problem-why-ai-is-killing-software-lock-in/transcript.md) (2025-03-14)
 - [Manus AI: Explainer plus How it Beat ChatGPT](../episodes/2025-03-10-manus-ai-explainer-plus-how-it-beat-chatgpt/transcript.md) (2025-03-10)
 - [Voice mode: Sesame, Alexa+ and Siri—Product Strategy & What's Next for Meta, Google, Amazon, etc.](../episodes/2025-03-05-voice-mode-sesame-alexa-and-siriproduct-strategy-whats-next-for-meta-google-amaz/transcript.md) (2025-03-05)
+- [Claude 3.7: Anthropic's Strategy, ChatGPT's Strategy, plus the need for real world evals](../episodes/2025-02-25-claude-37-anthropics-strategy-chatgpts-strategy-plus-the-need-for-real-world-eva/transcript.md) (2025-02-25)
 - [I got early access to Claude 3.7—Here's what builders can expect](../episodes/2025-02-24-i-got-early-access-to-claude-37heres-what-builders-can-expect/transcript.md) (2025-02-24)
 - [AI for science: Google announces an AI co-scientist, plus Microsoft builds a quantum chip](../episodes/2025-02-21-ai-for-science-google-announces-an-ai-co-scientist-plus-microsoft-builds-a-quant/transcript.md) (2025-02-21)
 - [AI Misalignment: Google Gemini Flash Tried to Charge a User $500](../episodes/2025-02-11-ai-misalignment-google-gemini-flash-tried-to-charge-a-user-500/transcript.md) (2025-02-11)

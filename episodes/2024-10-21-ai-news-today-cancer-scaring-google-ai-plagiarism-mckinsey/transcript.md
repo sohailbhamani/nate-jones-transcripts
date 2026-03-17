@@ -17,7 +17,6 @@ description: |
   Perplexity raise: https://finance.yahoo.com/news/ai-search-startup-perplexity-talks-034421376.html
   McKinsey email bot: https://uk.finance.yahoo.com/news/microsoft-ai-bots-worker-admin-115446617.html?guccounter=1
 
-
   Chapters:
   00:00 - AI Innovations in Cancer Detection
   02:55 - Legal Implications of AI in Education
