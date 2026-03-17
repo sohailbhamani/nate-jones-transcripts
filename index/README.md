@@ -113,10 +113,10 @@ Index of 485 episodes across 113 topics.
 - [Chroma](chroma.md) (1 episodes)
 - [Alfred](alfred.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Cowork](cowork.md) (1 episodes)
 - [Claude Cowork](claude-cowork.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
+- [Cowork](cowork.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 
 ## Search
 
