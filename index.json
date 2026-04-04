@@ -1,10 +1,693 @@
 {
-  "total_videos": 518,
+  "total_videos": 533,
   "date_range": {
-    "newest": "2026-04-04",
+    "newest": "unknown",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "0TpON5T-Sw4",
+      "youtube_url": "https://www.youtube.com/watch?v=0TpON5T-Sw4",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Microsoft",
+          "Apple",
+          "Notion",
+          "Slack",
+          "Box",
+          "Zapier",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Zapier",
+          "Make",
+          "Projects",
+          "Canvas"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Because your brain was never designed to be a storage system"
+      ],
+      "summary": [
+        "# Unknown\nFor 500,000 years, we've had essentially the same cognitive architecture"
+      ],
+      "transcript_chars": 33688,
+      "folder": "unknown-0tpon5t-sw4"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "5Et9WoDCsYs",
+      "youtube_url": "https://www.youtube.com/watch?v=5Et9WoDCsYs",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "X",
+          "Tailwind"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "That ai is not uniformly intensifying competition everywhere",
+        "Changing what you charge for, right? you can't ch charge for deliverables in the same way you're charging for the quality of the output that you're actually selling"
+      ],
+      "summary": [
+        "# Unknown\nIf you're in business and you're a leader trying to figure out where to place your AI bets, most of the analysis you read these days is kind of useless"
+      ],
+      "transcript_chars": 24090,
+      "folder": "unknown-5et9wodcsys"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "5Kp-Gj5qXL0",
+      "youtube_url": "https://www.youtube.com/watch?v=5Kp-Gj5qXL0",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Nvidia",
+          "AWS",
+          "Azure",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "Gemini"
+        ],
+        "models": [
+          "Gemini",
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "When we talk about the ai factory future, everyone else is talking about this after openai wrote the deals to secure their own future for the next few years",
+        "There are broader shortages across the ai economy because we are so demand constrained"
+      ],
+      "summary": [
+        "# Unknown\nCES is usually treated as a consumer electronic spectacle, but every so often it becomes something more than that"
+      ],
+      "transcript_chars": 18507,
+      "folder": "unknown-5kp-gj5qxl0"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "BaC5FEN2e4Y",
+      "youtube_url": "https://www.youtube.com/watch?v=BaC5FEN2e4Y",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "LinkedIn",
+          "Netflix"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "To ask the llm to interview you and push you so that you are honest about what your initial assumptions were for this quarter"
+      ],
+      "summary": [
+        "# Unknown\nI think one of the biggest gaps we consistently see is how we coach and train ourselves to be better in our careers over time"
+      ],
+      "transcript_chars": 14663,
+      "folder": "unknown-bac5fen2e4y"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "dzp0OQbElpU",
+      "youtube_url": "https://www.youtube.com/watch?v=dzp0OQbElpU",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Amazon",
+          "Nvidia",
+          "Shopify",
+          "Salesforce",
+          "Slack",
+          "GitHub",
+          "Box",
+          "Duolingo",
+          "Fiverr"
+        ],
+        "people": [
+          "Josh Miller",
+          "Toby Look",
+          "Aaron Levy"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Copilot",
+          "GitHub Copilot",
+          "Cursor",
+          "Arc",
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "What he meant by it because this this affects every single person in tech",
+        "Restructuring how work gets done"
+      ],
+      "summary": [
+        "# Unknown\nEight months ago, Toby Look posted a memo that most people dismissed as typical tech CEO posturing"
+      ],
+      "transcript_chars": 26659,
+      "folder": "unknown-dzp0oqbelpu"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "fyHnGHxGuhI",
+      "youtube_url": "https://www.youtube.com/watch?v=fyHnGHxGuhI",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Opus",
+          "Artifacts"
+        ],
+        "models": [
+          "Opus 4.5"
+        ]
+      },
+      "concepts": [
+        "What changed is what it means to be technical"
+      ],
+      "summary": [
+        "# Unknown\nIf Andre Karpathy says he's never felt this behind as a programmer, which he did, all of us should be glad to know as much as we have and should not feel bad about trying to learn more"
+      ],
+      "transcript_chars": 25939,
+      "folder": "unknown-fyhnghxguhi"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "h7dbkDcb3hA",
+      "youtube_url": "https://www.youtube.com/watch?v=h7dbkDcb3hA",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Cursor",
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Copilot",
+          "Cursor",
+          "Make",
+          "Atlas",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "For how teams are structured"
+      ],
+      "summary": [
+        "That's how long it took Anthropic to build and ship Claude Co-work after they noticed something their product team was not expecting"
+      ],
+      "transcript_chars": 34706,
+      "folder": "unknown-h7dbkdcb3ha"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "iG_CCjdyeX0",
+      "youtube_url": "https://www.youtube.com/watch?v=iG_CCjdyeX0",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThe hottest thing in coding right now is a little plugin for Claude Code named after a Simpsons character"
+      ],
+      "transcript_chars": 13593,
+      "folder": "unknown-ig_ccjdyex0"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "M9TJizOxNFk",
+      "youtube_url": "https://www.youtube.com/watch?v=M9TJizOxNFk",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Airbnb",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Sora",
+          "Arc",
+          "Make"
+        ],
+        "models": [
+          "Gemini",
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "We can start to see which strategy is winning for whom",
+        "Different theories about how you achieve it"
+      ],
+      "summary": [
+        "# Unknown\nToday we're going to look at which AI strategy is going to win in 2026"
+      ],
+      "transcript_chars": 23966,
+      "folder": "unknown-m9tjizoxnfk"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "pOb0pjXpn6Q",
+      "youtube_url": "https://www.youtube.com/watch?v=pOb0pjXpn6Q",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Opinion",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Make",
+          "MCP"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nHow will the world be different in 2026 with artificial intelligence"
+      ],
+      "transcript_chars": 17344,
+      "folder": "unknown-pob0pjxpn6q"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "qw7HDITpTR4",
+      "youtube_url": "https://www.youtube.com/watch?v=qw7HDITpTR4",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Meta",
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Artifacts"
+        ],
+        "models": [
+          "Llama"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nMeta just paid over $2 billion for a rapper named Manis"
+      ],
+      "transcript_chars": 12487,
+      "folder": "unknown-qw7hditptr4"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "s1eqzfXCgXI",
+      "youtube_url": "https://www.youtube.com/watch?v=s1eqzfXCgXI",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Opinion",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Amazon",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "You should measure your teams by their outcomes, by the impact that they deliver, not by just adherence to an ai generated plan"
+      ],
+      "summary": [
+        "# Unknown\nAI just made it really really cheap for companies to see what's going on inside themselves, right"
+      ],
+      "transcript_chars": 13022,
+      "folder": "unknown-s1eqzfxcgxi"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "T74uZgfu6mU",
+      "youtube_url": "https://www.youtube.com/watch?v=T74uZgfu6mU",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "LangChain",
+          "Bolt"
+        ],
+        "people": [],
+        "products": [
+          "LangChain",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "You tell an AI agent to clean up the old docs on your laptop"
+      ],
+      "transcript_chars": 19058,
+      "folder": "unknown-t74uzgfu6mu"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "TTMOSR-nKjg",
+      "youtube_url": "https://www.youtube.com/watch?v=TTMOSR-nKjg",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Nvidia",
+          "Cursor",
+          "AMD"
+        ],
+        "people": [
+          "Greg Brockman"
+        ],
+        "products": [
+          "Cursor",
+          "Make",
+          "MCP",
+          "Model Context Protocol",
+          "Atlas",
+          "Operator",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nAll right, if you took time out over the holidays, good for you"
+      ],
+      "transcript_chars": 13366,
+      "folder": "unknown-ttmosr-nkjg"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "Zwq_5jvFZH8",
+      "youtube_url": "https://www.youtube.com/watch?v=Zwq_5jvFZH8",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Nate B Jones",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "Cursor",
+          "X",
+          "Figma"
+        ],
+        "people": [],
+        "products": [
+          "Cursor",
+          "Make",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "We're moving toward componentizing everything"
+      ],
+      "summary": [
+        "# Unknown\nFront-end engineering is dead, but front-end composability is not"
+      ],
+      "transcript_chars": 16442,
+      "folder": "unknown-zwq_5jvfzh8"
+    },
     {
       "title": "The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia",
       "video_id": "rEHVyGi0owo",
@@ -319,7 +1002,7 @@
       "duration_seconds": 94,
       "view_count": 7586,
       "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "What's really happening when AI enables active systems instead of passive storage? \n\nThe common story is that second brains are just better note-taking, but the reality is more complicated when AI loops can classify, route, and surface information automatically while you sleep. \n\nIn this video, I share the inside scoop on building a second brain with Slack, Notion, Zapier, and Claude or ChatGPT that actually works for more than one in twenty people:\n\n* Why traditional storage systems fail because they're passive and require you to remember what you stored and where you put it\n* How AI loops handle classification, routing, and surfacing so the system comes to you instead of waiting to be searched \n* What eight building blocks make second brain systems actually work, from frictionless capture to confidence filters to daily nudges \n* Where engineering principles translate into no-code automation that non-engineers can build, maintain, and trust\n\nFor knowledge workers navigating 2026, for the first time in human history you can build systems that work while you sleep, closing open loops and nudging you toward what matters without requiring a single line of code.\n\nSubscribe for daily AI strategy and news. \nFor playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "description": "What's really happening when AI enables active systems instead of passive storage?\n\nThe common story is that second brains are just better note-taking, but the reality is more complicated when AI loops can classify, route, and surface information automatically while you sleep.\n\nIn this video, I share the inside scoop on building a second brain with Slack, Notion, Zapier, and Claude or ChatGPT that actually works for more than one in twenty people:\n\n* Why traditional storage systems fail because they're passive and require you to remember what you stored and where you put it\n* How AI loops handle classification, routing, and surfacing so the system comes to you instead of waiting to be searched\n* What eight building blocks make second brain systems actually work, from frictionless capture to confidence filters to daily nudges\n* Where engineering principles translate into no-code automation that non-engineers can build, maintain, and trust\n\nFor knowledge workers navigating 2026, for the first time in human history you can build systems that work while you sleep, closing open loops and nudging you toward what matters without requiring a single line of code.\n\nSubscribe for daily AI strategy and news.\nFor playbooks and analysis: https://natesnewsletter.substack.com/\n",
       "yt_tags": [],
       "content_type": "News Roundup",
       "primary_topic": "AI Strategy",
@@ -494,7 +1177,7 @@
       "duration_seconds": 77,
       "view_count": 6126,
       "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "What's really happening when AI enables active systems instead of passive storage? \n\nThe common story is that second brains are just better note-taking, but the reality is more complicated when AI loops can classify, route, and surface information automatically while you sleep. \n\nIn this video, I share the inside scoop on building a second brain with Slack, Notion, Zapier, and Claude or ChatGPT that actually works for more than one in twenty people:\n\n* Why traditional storage systems fail because they're passive and require you to remember what you stored and where you put it\n* How AI loops handle classification, routing, and surfacing so the system comes to you instead of waiting to be searched \n* What eight building blocks make second brain systems actually work, from frictionless capture to confidence filters to daily nudges \n* Where engineering principles translate into no-code automation that non-engineers can build, maintain, and trust\n\nFor knowledge workers navigating 2026, for the first time in human history you can build systems that work while you sleep, closing open loops and nudging you toward what matters without requiring a single line of code.\n\nSubscribe for daily AI strategy and news. \nFor playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "description": "What's really happening when AI enables active systems instead of passive storage?\n\nThe common story is that second brains are just better note-taking, but the reality is more complicated when AI loops can classify, route, and surface information automatically while you sleep.\n\nIn this video, I share the inside scoop on building a second brain with Slack, Notion, Zapier, and Claude or ChatGPT that actually works for more than one in twenty people:\n\n* Why traditional storage systems fail because they're passive and require you to remember what you stored and where you put it\n* How AI loops handle classification, routing, and surfacing so the system comes to you instead of waiting to be searched\n* What eight building blocks make second brain systems actually work, from frictionless capture to confidence filters to daily nudges\n* Where engineering principles translate into no-code automation that non-engineers can build, maintain, and trust\n\nFor knowledge workers navigating 2026, for the first time in human history you can build systems that work while you sleep, closing open loops and nudging you toward what matters without requiring a single line of code.\n\nSubscribe for daily AI strategy and news.\nFor playbooks and analysis: https://natesnewsletter.substack.com/\n",
       "yt_tags": [],
       "content_type": "Tutorial",
       "primary_topic": "AI Strategy",
@@ -1134,7 +1817,7 @@
       "duration_seconds": 119,
       "view_count": 10229,
       "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:\n\n* Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output \n* How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance \n* What separating generation from decisioning actually means when you're the one accountable for what the LLM produces \n* Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense\n\nFor organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:\n\n* Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output\n* How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance\n* What separating generation from decisioning actually means when you're the one accountable for what the LLM produces\n* Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense\n\nFor organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
       "yt_tags": [
         "AI strategy",
         "large language models",
@@ -1261,7 +1944,7 @@
       "duration_seconds": 95,
       "view_count": 7996,
       "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:\n\n* Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output \n* How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance \n* What separating generation from decisioning actually means when you're the one accountable for what the LLM produces \n* Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense\n\nFor organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:\n\n* Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output\n* How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance\n* What separating generation from decisioning actually means when you're the one accountable for what the LLM produces\n* Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense\n\nFor organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
       "yt_tags": [
         "AI strategy",
         "large language models",
@@ -1384,7 +2067,7 @@
       "duration_seconds": 168,
       "view_count": 3185,
       "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-rarest-thing-in-work-why-360?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________\nWhat's really happening with AI and personal career development? The common story is that career coaching is reserved for Silicon Valley executives who can afford it \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on building an AI board of directors to hold yourself accountable:\n\u2022 Why nobody is watching your career except you \n\u2022 How we are all unreliable narrators of our own progress \n\u2022 What a quarterly self-report should actually include \n\u2022 How LLMs can instantiate multiple perspectives in one session\n\nWe require public companies to have boards because smart people make bad decisions when nobody is watching. Your career deserves the same governance structure \u2014 and now AI makes that possible at scale.\n\nFor professionals serious about leveling up, this system offers real accountability \u2014 but only if you're willing to be genuinely honest with yourself.\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-rarest-thing-in-work-why-360?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________\nWhat's really happening with AI and personal career development? The common story is that career coaching is reserved for Silicon Valley executives who can afford it \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on building an AI board of directors to hold yourself accountable:\n\u2022 Why nobody is watching your career except you\n\u2022 How we are all unreliable narrators of our own progress\n\u2022 What a quarterly self-report should actually include\n\u2022 How LLMs can instantiate multiple perspectives in one session\n\nWe require public companies to have boards because smart people make bad decisions when nobody is watching. Your career deserves the same governance structure \u2014 and now AI makes that possible at scale.\n\nFor professionals serious about leveling up, this system offers real accountability \u2014 but only if you're willing to be genuinely honest with yourself.\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
       "yt_tags": [
         "AI career advice",
         "LLMs",
@@ -1570,7 +2253,7 @@
       "duration_seconds": 110,
       "view_count": 10291,
       "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:\n\n* Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output \n* How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance \n* What separating generation from decisioning actually means when you're the one accountable for what the LLM produces \n* Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense\n\nFor organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:\n\n* Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output\n* How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance\n* What separating generation from decisioning actually means when you're the one accountable for what the LLM produces\n* Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense\n\nFor organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
       "yt_tags": [
         "AI strategy",
         "large language models",
@@ -1728,7 +2411,7 @@
       "duration_seconds": 89,
       "view_count": 1916,
       "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:\n\n* Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output \n* How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance \n* What separating generation from decisioning actually means when you're the one accountable for what the LLM produces \n* Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense\n\nFor organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-the-leveling-crisis?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with technical skills in the age of AI? The common story is that engineers need to code faster, but the reality is more complicated when even Andrej Karpathy says he feels behind and the leverage has shifted from writing code to orchestrating probabilistic systems. In this video, I share the inside scoop on the new technical skill tree that applies to everyone, not just engineers:\n\n* Why the phase transition from authorship to orchestration broke the old assumption that effort maps to output\n* How the four-level skill tree works from conditioning intent and context all the way to compounding through evals, feedback loops, and governance\n* What separating generation from decisioning actually means when you're the one accountable for what the LLM produces\n* Where authority comes from in a world where the abstraction stack got inverted and old technical boundaries no longer make sense\n\nFor organizations navigating 2026, those that build deliberate skill trees around separating generation from decisioning will realize 10X speedups, while those clinging to technical versus non-technical hierarchies will fall behind before they realize what happened.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
       "yt_tags": [
         "AI strategy",
         "large language models",
@@ -1852,7 +2535,7 @@
       "duration_seconds": 1413,
       "view_count": 36131,
       "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-single-sentence-from-a-family-member?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI agents when they give you the wrong answer? \n\nThe common story is that smarter models mean safer agents \u2014 but the reality is that reasoning traces and final outputs often operate as two entirely separate processes.In this video, I share the inside scoop on why AI agents fail in production and how to build evals that actually catch it:\n\n- Why agents perform worst precisely where the stakes are highest\n- How reasoning traces routinely contradict an agent's final recommendation\n- What factorial stress testing reveals that standard benchmarks completely miss\n- Where to build the four-layer architecture that keeps agents honest in production\n\nOperators who ignore this now will face it later \u2014 through customer harm, regulatory pressure, or an insurance policy they can't obtain.\n\nChapters\n00:00 When your AI agent knows the answer but says the opposite\n01:30 The Mount Sinai ChatGPT Health study explained\n03:00 Why this matters beyond healthcare\n04:15 Failure mode 1: The inverted U (agents fail at the extremes)\n06:30 Failure mode 2: Reasoning trace contradicts the output\n08:45 Failure mode 3: Social context hijacks agent judgment\n10:30 Failure mode 4: Guardrails that fire on vibes, not real risk\n12:30 The Mount Sinai methodology: factorial design\n14:15 Building a reusable eval context library\n16:00 Layer 1: Progressive autonomy, not full autonomy\n17:30 Layer 2: Deterministic validation rules\n18:45 Layer 3: Building a continuous eval flywheel\n20:30 Layer 4: Factorial stress testing in production\n22:00 How to front-load eval infrastructure\n23:30 The coming reality of AI insurance for agents\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-single-sentence-from-a-family-member?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI agents when they give you the wrong answer?\n\nThe common story is that smarter models mean safer agents \u2014 but the reality is that reasoning traces and final outputs often operate as two entirely separate processes.In this video, I share the inside scoop on why AI agents fail in production and how to build evals that actually catch it:\n\n- Why agents perform worst precisely where the stakes are highest\n- How reasoning traces routinely contradict an agent's final recommendation\n- What factorial stress testing reveals that standard benchmarks completely miss\n- Where to build the four-layer architecture that keeps agents honest in production\n\nOperators who ignore this now will face it later \u2014 through customer harm, regulatory pressure, or an insurance policy they can't obtain.\n\nChapters\n00:00 When your AI agent knows the answer but says the opposite\n01:30 The Mount Sinai ChatGPT Health study explained\n03:00 Why this matters beyond healthcare\n04:15 Failure mode 1: The inverted U (agents fail at the extremes)\n06:30 Failure mode 2: Reasoning trace contradicts the output\n08:45 Failure mode 3: Social context hijacks agent judgment\n10:30 Failure mode 4: Guardrails that fire on vibes, not real risk\n12:30 The Mount Sinai methodology: factorial design\n14:15 Building a reusable eval context library\n16:00 Layer 1: Progressive autonomy, not full autonomy\n17:30 Layer 2: Deterministic validation rules\n18:45 Layer 3: Building a continuous eval flywheel\n20:30 Layer 4: Factorial stress testing in production\n22:00 How to front-load eval infrastructure\n23:30 The coming reality of AI insurance for agents\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
       "yt_tags": [
         "AI agents",
         "AI strategy",

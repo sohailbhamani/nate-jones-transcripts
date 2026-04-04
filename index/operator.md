@@ -1,7 +1,8 @@
 # Operator
 
-Episodes discussing **Operator** (21 episodes):
+Episodes discussing **Operator** (22 episodes):
 
+- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
 - [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)

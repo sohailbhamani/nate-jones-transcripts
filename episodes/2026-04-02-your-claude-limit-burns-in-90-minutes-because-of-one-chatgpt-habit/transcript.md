@@ -66,6 +66,7 @@ yt_tags:
   - "chatgpt"
 
 
+
 # AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Tools"

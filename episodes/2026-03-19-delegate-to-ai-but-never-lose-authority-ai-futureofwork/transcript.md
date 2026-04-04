@@ -44,6 +44,7 @@ yt_tags:
   - "upskilling for executives"
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"

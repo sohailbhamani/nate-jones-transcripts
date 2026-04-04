@@ -65,6 +65,7 @@ yt_tags:
   - "upskilling with AI"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
