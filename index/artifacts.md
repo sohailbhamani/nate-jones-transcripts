@@ -1,13 +1,18 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (43 episodes):
+Episodes discussing **Artifacts** (48 episodes):
 
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
+- [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
+- [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
+- [Feeling behind with AI? You're reading it right! #ai #futureofwork](../episodes/2026-03-20-feeling-behind-with-ai-youre-reading-it-right-ai-futureofwork/transcript.md) (2026-03-20)
+- [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
 - [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
 - [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)

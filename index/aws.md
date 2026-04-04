@@ -1,7 +1,9 @@
 # Aws
 
-Episodes discussing **Aws** (30 episodes):
+Episodes discussing **Aws** (32 episodes):
 
+- [The AI Job Market Split in Two. One Side Pays $400K and Can't Hire Fast Enough.](../episodes/2026-03-26-the-ai-job-market-split-in-two-one-side-pays-400k-and-cant-hire-fast-enough/transcript.md) (2026-03-26)
+- [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
 - [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)

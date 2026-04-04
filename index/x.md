@@ -1,8 +1,14 @@
 # X
 
-Episodes discussing **X** (86 episodes):
+Episodes discussing **X** (93 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
+- [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
+- [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
+- [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
+- [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
+- [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [Stop executing, start delegating to LLMs! #ai #futureofwork #llm](../episodes/2026-03-23-stop-executing-start-delegating-to-llms-ai-futureofwork-llm/transcript.md) (2026-03-23)
+- [ChatGPT Health Identified Respiratory Failure. Then It Said Wait.](../episodes/2026-03-18-chatgpt-health-identified-respiratory-failure-then-it-said-wait/transcript.md) (2026-03-18)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.](../episodes/2026-03-08-45-people-200m-revenue-the-question-nobodys-asking-about-ai-and-your-team-size/transcript.md) (2026-03-08)
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
@@ -13,6 +19,7 @@ Episodes discussing **X** (86 episodes):
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)
 - [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/2026-01-01-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md) (2026-01-01)

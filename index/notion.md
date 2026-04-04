@@ -1,7 +1,9 @@
 # Notion
 
-Episodes discussing **Notion** (22 episodes):
+Episodes discussing **Notion** (24 episodes):
 
+- [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
+- [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
 - [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)

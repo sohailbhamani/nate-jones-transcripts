@@ -1,9 +1,25 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (204 episodes):
+Episodes discussing **Ai Agents** (222 episodes):
 
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
+- [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
+- [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
+- [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
+- [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [The AI factory race that's reshaping every chip deal! #ai #futureofwork #nvidia](../episodes/2026-03-28-the-ai-factory-race-thats-reshaping-every-chip-deal-ai-futureofwork-nvidia/transcript.md) (2026-03-28)
+- [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
+- [Tobi Lütke Made a 20-Year-Old Codebase 53% Faster Overnight. Here's How.](../episodes/2026-03-25-tobi-lütke-made-a-20-year-old-codebase-53-faster-overnight-heres-how/transcript.md) (2026-03-25)
+- [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
+- [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
+- [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
+- [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
+- [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
+- [Force AI to actually finish tasks with this hack! #ai #futureofwork #prompting](../episodes/2026-03-20-force-ai-to-actually-finish-tasks-with-this-hack-ai-futureofwork-prompting/transcript.md) (2026-03-20)
+- [AI agents work while you rest—if you do this #ai #futureofwork #agenticai](../episodes/2026-03-19-ai-agents-work-while-you-restif-you-do-this-ai-futureofwork-agenticai/transcript.md) (2026-03-19)
+- [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
+- [ChatGPT Health Identified Respiratory Failure. Then It Said Wait.](../episodes/2026-03-18-chatgpt-health-identified-respiratory-failure-then-it-said-wait/transcript.md) (2026-03-18)
+- [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
@@ -29,7 +45,9 @@ Episodes discussing **Ai Agents** (204 episodes):
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
 - [Why AI is structurally superior at specific architecture work](../episodes/2026-02-15-why-ai-is-structurally-superior-at-specific-architecture-work/transcript.md) (2026-02-15)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)

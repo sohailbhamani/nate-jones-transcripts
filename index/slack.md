@@ -1,8 +1,13 @@
 # Slack
 
-Episodes discussing **Slack** (52 episodes):
+Episodes discussing **Slack** (58 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
+- [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
+- [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
+- [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
+- [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
 - [Why AI-powered dashboards are lying to leadership #futureofwork #ai](../episodes/2026-03-15-why-ai-powered-dashboards-are-lying-to-leadership-futureofwork-ai/transcript.md) (2026-03-15)
 - [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
 - [Stop accepting AI output that "looks right." The other 17% is everything and nobody is ready for it.](../episodes/2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody/transcript.md) (2026-03-10)
@@ -16,6 +21,7 @@ Episodes discussing **Slack** (52 episodes):
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/2026-01-03-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md) (2026-01-03)

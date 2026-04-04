@@ -1,7 +1,10 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (63 episodes):
+Episodes discussing **Chatgpt** (66 episodes):
 
+- [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
+- [The AI demand shock execs aren't talking about enough! #ai #chatgpt #futureofwork](../episodes/2026-03-27-the-ai-demand-shock-execs-arent-talking-about-enough-ai-chatgpt-futureofwork/transcript.md) (2026-03-27)
+- [ChatGPT Health Identified Respiratory Failure. Then It Said Wait.](../episodes/2026-03-18-chatgpt-health-identified-respiratory-failure-then-it-said-wait/transcript.md) (2026-03-18)
 - [Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt](../episodes/2026-03-15-why-messy-teams-outperform-perfectly-planned-ones-ai-futureofwork-chatgpt/transcript.md) (2026-03-15)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)

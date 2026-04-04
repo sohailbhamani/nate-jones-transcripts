@@ -1,10 +1,20 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (213 episodes):
+Episodes discussing **Tutorials** (226 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
+- [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
+- [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
+- [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
+- [The AI Job Market Split in Two. One Side Pays $400K and Can't Hire Fast Enough.](../episodes/2026-03-26-the-ai-job-market-split-in-two-one-side-pays-400k-and-cant-hire-fast-enough/transcript.md) (2026-03-26)
+- [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
+- [Stop executing, start delegating to LLMs! #ai #futureofwork #llm](../episodes/2026-03-23-stop-executing-start-delegating-to-llms-ai-futureofwork-llm/transcript.md) (2026-03-23)
+- [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
+- [The AI career coach execs pay millions for! #ai #futureofwork](../episodes/2026-03-21-the-ai-career-coach-execs-pay-millions-for-ai-futureofwork/transcript.md) (2026-03-21)
+- [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
+- [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
+- [Feeling behind with AI? You're reading it right! #ai #futureofwork](../episodes/2026-03-20-feeling-behind-with-ai-youre-reading-it-right-ai-futureofwork/transcript.md) (2026-03-20)
+- [ChatGPT Health Identified Respiratory Failure. Then It Said Wait.](../episodes/2026-03-18-chatgpt-health-identified-respiratory-failure-then-it-said-wait/transcript.md) (2026-03-18)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
 - [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
@@ -20,8 +30,11 @@ Episodes discussing **Tutorials** (213 episodes):
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)

@@ -1,7 +1,8 @@
 # Tsmc
 
-Episodes discussing **Tsmc** (6 episodes):
+Episodes discussing **Tsmc** (7 episodes):
 
+- [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)
 - [The Nvidia-Groq Deal Is WAY Bigger Than Reported (3 Things the Headlines Missed)](../episodes/2025-12-27-the-nvidia-groq-deal-is-way-bigger-than-reported-3-things-the-headlines-missed/transcript.md) (2025-12-27)
 - [OpenAI Hitting Diminishing Returns or Not plus TSMC export ban to China plus tariffs and TSMC](../episodes/2024-11-11-openai-hitting-diminishing-returns-or-not-plus-tsmc-export-b/transcript.md) (2024-11-11)
 - [OpenAI Hitting Diminishing Returns or Not plus TSMC export ban to China plus tariffs and TSMC](../episodes/2024-11-11-openai-hitting-diminishing-returns-or-not-plus-tsmc-export-ban-to-china-plus-tar/transcript.md) (2024-11-11)

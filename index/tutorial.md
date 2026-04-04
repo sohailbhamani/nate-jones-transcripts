@@ -1,8 +1,19 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (146 episodes):
+Episodes discussing **Tutorial** (159 episodes):
 
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
+- [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
+- [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
+- [Your brain isn't storage—let AI handle it! #ai #futureofwork](../episodes/2026-03-30-your-brain-isnt-storagelet-ai-handle-it-ai-futureofwork/transcript.md) (2026-03-30)
+- [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)
+- [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
+- [The AI Job Market Split in Two. One Side Pays $400K and Can't Hire Fast Enough.](../episodes/2026-03-26-the-ai-job-market-split-in-two-one-side-pays-400k-and-cant-hire-fast-enough/transcript.md) (2026-03-26)
+- [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
+- [Stop executing, start delegating to LLMs! #ai #futureofwork #llm](../episodes/2026-03-23-stop-executing-start-delegating-to-llms-ai-futureofwork-llm/transcript.md) (2026-03-23)
+- [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
+- [Feeling behind with AI? You're reading it right! #ai #futureofwork](../episodes/2026-03-20-feeling-behind-with-ai-youre-reading-it-right-ai-futureofwork/transcript.md) (2026-03-20)
+- [AI agents work while you rest—if you do this #ai #futureofwork #agenticai](../episodes/2026-03-19-ai-agents-work-while-you-restif-you-do-this-ai-futureofwork-agenticai/transcript.md) (2026-03-19)
 - [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [Why AI agents need every guardrail made explicit! #ai #aiagents #futureofwork](../episodes/2026-03-12-why-ai-agents-need-every-guardrail-made-explicit-ai-aiagents-futureofwork/transcript.md) (2026-03-12)
@@ -15,7 +26,9 @@ Episodes discussing **Tutorial** (146 episodes):
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Nano Banana Pro closed a gap — and unlocked billions #nanobananapro #ai #futureofwork](../episodes/2026-03-01-nano-banana-pro-closed-a-gap-and-unlocked-billions-nanobananapro-ai-futureofwork/transcript.md) (2026-03-01)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)

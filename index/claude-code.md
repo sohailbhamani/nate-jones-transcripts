@@ -1,10 +1,14 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (60 episodes):
+Episodes discussing **Claude Code** (67 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
+- [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
+- [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
+- [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
+- [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
+- [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
+- [Force AI to actually finish tasks with this hack! #ai #futureofwork #prompting](../episodes/2026-03-20-force-ai-to-actually-finish-tasks-with-this-hack-ai-futureofwork-prompting/transcript.md) (2026-03-20)
+- [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
 - [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
@@ -14,8 +18,11 @@ Episodes discussing **Claude Code** (60 episodes):
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)

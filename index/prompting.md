@@ -1,7 +1,16 @@
 # Prompting
 
-Episodes discussing **Prompting** (171 episodes):
+Episodes discussing **Prompting** (180 episodes):
 
+- [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
+- [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
+- [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [Stop executing, start delegating to LLMs! #ai #futureofwork #llm](../episodes/2026-03-23-stop-executing-start-delegating-to-llms-ai-futureofwork-llm/transcript.md) (2026-03-23)
+- [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
+- [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
+- [Feeling behind with AI? You're reading it right! #ai #futureofwork](../episodes/2026-03-20-feeling-behind-with-ai-youre-reading-it-right-ai-futureofwork/transcript.md) (2026-03-20)
+- [Force AI to actually finish tasks with this hack! #ai #futureofwork #prompting](../episodes/2026-03-20-force-ai-to-actually-finish-tasks-with-this-hack-ai-futureofwork-prompting/transcript.md) (2026-03-20)
+- [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [Why AI agents need every guardrail made explicit! #ai #aiagents #futureofwork](../episodes/2026-03-12-why-ai-agents-need-every-guardrail-made-explicit-ai-aiagents-futureofwork/transcript.md) (2026-03-12)
 - [Stop accepting AI output that "looks right." The other 17% is everything and nobody is ready for it.](../episodes/2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody/transcript.md) (2026-03-10)

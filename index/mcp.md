@@ -1,9 +1,14 @@
 # Mcp
 
-Episodes discussing **Mcp** (48 episodes):
+Episodes discussing **Mcp** (55 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
+- [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
+- [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
+- [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
+- [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
+- [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [Stop accepting AI output that "looks right." The other 17% is everything and nobody is ready for it.](../episodes/2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody/transcript.md) (2026-03-10)
 - [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
@@ -11,7 +16,9 @@ Episodes discussing **Mcp** (48 episodes):
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/2026-01-01-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md) (2026-01-01)
 - [The "Human Throttle" Problem That's Killing Enterprise AI Agent ROI](../episodes/2025-12-29-the-human-throttle-problem-thats-killing-enterprise-ai-agent-roi/transcript.md) (2025-12-29)

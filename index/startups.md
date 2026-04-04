@@ -1,10 +1,10 @@
 # Startups
 
-Episodes discussing **Startups** (95 episodes):
+Episodes discussing **Startups** (98 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
+- [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)
+- [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
+- [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
 - [Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt](../episodes/2026-03-15-why-messy-teams-outperform-perfectly-planned-ones-ai-futureofwork-chatgpt/transcript.md) (2026-03-15)
@@ -12,8 +12,11 @@ Episodes discussing **Startups** (95 episodes):
 - [Big tech stopped buying startups — here's what changed #nvidia #groq #ai](../episodes/2026-03-04-big-tech-stopped-buying-startups-heres-what-changed-nvidia-groq-ai/transcript.md) (2026-03-04)
 - [Nano Banana Pro closed a gap — and unlocked billions #nanobananapro #ai #futureofwork](../episodes/2026-03-01-nano-banana-pro-closed-a-gap-and-unlocked-billions-nanobananapro-ai-futureofwork/transcript.md) (2026-03-01)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)
 - [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/2026-01-01-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md) (2026-01-01)
