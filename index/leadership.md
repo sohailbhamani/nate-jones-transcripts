@@ -1,7 +1,16 @@
 # Leadership
 
-Episodes discussing **Leadership** (236 episodes):
+Episodes discussing **Leadership** (245 episodes):
 
+- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-5kp-gj5qxl0/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-bac5fen2e4y/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-fyhnghxguhi/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-s1eqzfxcgxi/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)

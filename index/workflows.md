@@ -1,7 +1,18 @@
 # Workflows
 
-Episodes discussing **Workflows** (221 episodes):
+Episodes discussing **Workflows** (232 episodes):
 
+- [Unknown](../episodes/unknown-0tpon5t-sw4/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-bac5fen2e4y/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-fyhnghxguhi/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-ig_ccjdyex0/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-pob0pjxpn6q/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-s1eqzfxcgxi/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-zwq_5jvfzh8/transcript.md) (unknown)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)

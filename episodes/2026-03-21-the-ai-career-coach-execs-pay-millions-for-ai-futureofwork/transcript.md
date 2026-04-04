@@ -43,6 +43,7 @@ yt_tags:
   - "self improvement with AI"
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "Career"

@@ -44,6 +44,7 @@ yt_tags:
   - "upskilling for executives"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
