@@ -1,8 +1,10 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (56 episodes):
+Episodes discussing **Deep Dive** (59 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
+- [Industrial-scale AI is here: what execs must know! #ai #nvidia #openai](../episodes/2026-03-27-industrial-scale-ai-is-here-what-execs-must-know-ai-nvidia-openai/transcript.md) (2026-03-27)
+- [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
+- [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
 - [Why messy teams outperform perfectly planned ones #ai #futureofwork #chatgpt](../episodes/2026-03-15-why-messy-teams-outperform-perfectly-planned-ones-ai-futureofwork-chatgpt/transcript.md) (2026-03-15)
 - [Don't mistake AI visibility for actual control #ai #futureofwork](../episodes/2026-03-14-dont-mistake-ai-visibility-for-actual-control-ai-futureofwork/transcript.md) (2026-03-14)
 - [Stop accepting AI output that "looks right." The other 17% is everything and nobody is ready for it.](../episodes/2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody/transcript.md) (2026-03-10)
@@ -11,6 +13,7 @@ Episodes discussing **Deep Dive** (56 episodes):
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
 - [Sam Altman admits OpenAI can't keep up with demand #chatgpt #ai #futureofwork](../episodes/2026-02-18-sam-altman-admits-openai-cant-keep-up-with-demand-chatgpt-ai-futureofwork/transcript.md) (2026-02-18)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)

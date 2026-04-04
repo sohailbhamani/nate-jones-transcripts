@@ -1,8 +1,9 @@
 # Amd
 
-Episodes discussing **Amd** (5 episodes):
+Episodes discussing **Amd** (6 episodes):
 
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
 - [Trump Just Gutted State Al Laws, OpenAl Panicked, Al Agents Stole $4.6M--Your 10-Minute Breakdown](../episodes/2025-12-13-trump-just-gutted-state-al-laws-openal-panicked-al-agents-stole-46m-your-10-minu/transcript.md) (2025-12-13)

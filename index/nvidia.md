@@ -1,14 +1,25 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (51 episodes):
+Episodes discussing **Nvidia** (62 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
+- [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
+- [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
+- [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
+- [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)
+- [The AI factory race that's reshaping every chip deal! #ai #futureofwork #nvidia](../episodes/2026-03-28-the-ai-factory-race-thats-reshaping-every-chip-deal-ai-futureofwork-nvidia/transcript.md) (2026-03-28)
+- [Who gets to ship AI at scale? The answer is at CES! #ai #futureofwork](../episodes/2026-03-28-who-gets-to-ship-ai-at-scale-the-answer-is-at-ces-ai-futureofwork/transcript.md) (2026-03-28)
+- [Industrial-scale AI is here: what execs must know! #ai #nvidia #openai](../episodes/2026-03-27-industrial-scale-ai-is-here-what-execs-must-know-ai-nvidia-openai/transcript.md) (2026-03-27)
+- [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
+- [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
+- [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
 - [The AI talent grab big tech doesn't want you to see #futureofwork #ai #groq #nvidia](../episodes/2026-03-05-the-ai-talent-grab-big-tech-doesnt-want-you-to-see-futureofwork-ai-groq-nvidia/transcript.md) (2026-03-05)
 - [Why NVIDIA bought Groq — it's not what you think #nvidia #groq #futureofwork #ai](../episodes/2026-03-05-why-nvidia-bought-groq-its-not-what-you-think-nvidia-groq-futureofwork-ai/transcript.md) (2026-03-05)
 - [Big tech stopped buying startups — here's what changed #nvidia #groq #ai](../episodes/2026-03-04-big-tech-stopped-buying-startups-heres-what-changed-nvidia-groq-ai/transcript.md) (2026-03-04)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
+- [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
 - [The Nvidia-Groq Deal Is WAY Bigger Than Reported (3 Things the Headlines Missed)](../episodes/2025-12-27-the-nvidia-groq-deal-is-way-bigger-than-reported-3-things-the-headlines-missed/transcript.md) (2025-12-27)

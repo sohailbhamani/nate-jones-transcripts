@@ -1,8 +1,21 @@
 # Framework
 
-Episodes discussing **Framework** (132 episodes):
+Episodes discussing **Framework** (146 episodes):
 
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
+- [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
+- [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
+- [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
+- [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
+- [The AI factory race that's reshaping every chip deal! #ai #futureofwork #nvidia](../episodes/2026-03-28-the-ai-factory-race-thats-reshaping-every-chip-deal-ai-futureofwork-nvidia/transcript.md) (2026-03-28)
+- [Who gets to ship AI at scale? The answer is at CES! #ai #futureofwork](../episodes/2026-03-28-who-gets-to-ship-ai-at-scale-the-answer-is-at-ces-ai-futureofwork/transcript.md) (2026-03-28)
+- [The AI demand shock execs aren't talking about enough! #ai #chatgpt #futureofwork](../episodes/2026-03-27-the-ai-demand-shock-execs-arent-talking-about-enough-ai-chatgpt-futureofwork/transcript.md) (2026-03-27)
+- [Tobi Lütke Made a 20-Year-Old Codebase 53% Faster Overnight. Here's How.](../episodes/2026-03-25-tobi-lütke-made-a-20-year-old-codebase-53-faster-overnight-heres-how/transcript.md) (2026-03-25)
+- [Why even Andrej Karpathy feels behind with AI! #ai #futureofwork](../episodes/2026-03-24-why-even-andrej-karpathy-feels-behind-with-ai-ai-futureofwork/transcript.md) (2026-03-24)
+- [The AI career coach execs pay millions for! #ai #futureofwork](../episodes/2026-03-21-the-ai-career-coach-execs-pay-millions-for-ai-futureofwork/transcript.md) (2026-03-21)
+- [Force AI to actually finish tasks with this hack! #ai #futureofwork #prompting](../episodes/2026-03-20-force-ai-to-actually-finish-tasks-with-this-hack-ai-futureofwork-prompting/transcript.md) (2026-03-20)
+- [Delegate to AI but never lose authority! #ai #futureofwork](../episodes/2026-03-19-delegate-to-ai-but-never-lose-authority-ai-futureofwork/transcript.md) (2026-03-19)
+- [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
+- [ChatGPT Health Identified Respiratory Failure. Then It Said Wait.](../episodes/2026-03-18-chatgpt-health-identified-respiratory-failure-then-it-said-wait/transcript.md) (2026-03-18)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
 - [Stop trusting AI agents to guess your intent! #ai #aiagents #futureofwork](../episodes/2026-03-11-stop-trusting-ai-agents-to-guess-your-intent-ai-aiagents-futureofwork/transcript.md) (2026-03-11)
@@ -23,6 +36,7 @@ Episodes discussing **Framework** (132 episodes):
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [Why AI is structurally superior at specific architecture work](../episodes/2026-02-15-why-ai-is-structurally-superior-at-specific-architecture-work/transcript.md) (2026-02-15)
 - [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)
