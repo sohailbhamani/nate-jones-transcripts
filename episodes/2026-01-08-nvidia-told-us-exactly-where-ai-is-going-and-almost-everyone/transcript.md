@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "NVIDIA told us exactly where AI is going — and almost everyone heard it wrong"
 video_id: "5Kp-Gj5qXL0"
 youtube_url: "https://www.youtube.com/watch?v=5Kp-Gj5qXL0"
-publish_date: "unknown"
+publish_date: "2026-01-08"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:

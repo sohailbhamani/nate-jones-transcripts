@@ -2,14 +2,14 @@
 
 Episodes discussing **Opinion** (30 episodes):
 
-- [Unknown](../episodes/unknown-pob0pjxpn6q/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-s1eqzfxcgxi/transcript.md) (unknown)
 - [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
 - [Why AI-powered dashboards are lying to leadership #futureofwork #ai](../episodes/2026-03-15-why-ai-powered-dashboards-are-lying-to-leadership-futureofwork-ai/transcript.md) (2026-03-15)
 - [2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork](../episodes/2026-03-09-2026-will-require-more-retraining-than-the-last-25-years-combined-ai-futureofwor/transcript.md) (2026-03-09)
 - [Why OpenAI is selling seats, not software #chatgpt #ai #futureofwork](../episodes/2026-02-17-why-openai-is-selling-seats-not-software-chatgpt-ai-futureofwork/transcript.md) (2026-02-17)
 - [Unlocking AI Talent: OpenAI's Unexpected Blueprint! #ai #openai #codex #futureofwork #aiimpact](../episodes/2026-02-15-unlocking-ai-talent-openais-unexpected-blueprint-ai-openai-codex-futureofwork-ai/transcript.md) (2026-02-15)
+- [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/2026-01-03-the-fork-most-leaders-don-t-see-visibility-vs-execution/transcript.md) (2026-01-03)
 - [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/2026-01-03-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md) (2026-01-03)
+- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/2026-01-01-the-compounding-gap-that-makes-2026-the-last-chance-to-catch/transcript.md) (2026-01-01)
 - [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/2026-01-01-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md) (2026-01-01)
 - [The Al Trick That Finally Made Me Better at My Job (Not Just Faster)](../episodes/2025-12-11-the-al-trick-that-finally-made-me-better-at-my-job-not-just-faster/transcript.md) (2025-12-11)
 - [My Take on the Hard AI Questions: Jobs, Water, Artificial Romance, School Cheating & More](../episodes/2025-11-27-my-take-on-the-hard-ai-questions-jobs-water-artificial-romance-school-cheating-m/transcript.md) (2025-11-27)

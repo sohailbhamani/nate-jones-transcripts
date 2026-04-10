@@ -2,9 +2,9 @@
 
 Episodes discussing **Zapier** (12 episodes):
 
-- [Unknown](../episodes/unknown-0tpon5t-sw4/transcript.md) (unknown)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
+- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-nee/transcript.md) (2026-01-09)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)](../episodes/2025-12-19-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today/transcript.md) (2025-12-19)
 - [500 AI-Trained Employees Will LOSE to 10 Truly AI-Fluent Ones—Here's Why](../episodes/2025-10-19-500-ai-trained-employees-will-lose-to-10-truly-ai-fluent-onesheres-why/transcript.md) (2025-10-19)

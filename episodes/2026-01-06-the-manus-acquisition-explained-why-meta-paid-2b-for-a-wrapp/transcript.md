@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "The Manus Acquisition Explained: Why Meta Paid $2B for a 'Wrapper'"
 video_id: "qw7HDITpTR4"
 youtube_url: "https://www.youtube.com/watch?v=qw7HDITpTR4"
-publish_date: "unknown"
+publish_date: "2026-01-06"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:

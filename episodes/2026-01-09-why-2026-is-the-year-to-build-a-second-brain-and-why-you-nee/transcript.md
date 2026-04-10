@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)"
 video_id: "0TpON5T-Sw4"
 youtube_url: "https://www.youtube.com/watch?v=0TpON5T-Sw4"
-publish_date: "unknown"
+publish_date: "2026-01-09"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:

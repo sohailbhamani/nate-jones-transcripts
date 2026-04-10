@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "The Fork Most Leaders Don’t See: Visibility vs. Execution"
 video_id: "s1eqzfXCgXI"
 youtube_url: "https://www.youtube.com/watch?v=s1eqzfXCgXI"
-publish_date: "unknown"
+publish_date: "2026-01-03"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:
