@@ -3,7 +3,7 @@ name: Daily Transcript Sync
 on:
   schedule:
     # Midnight and noon CST (6 AM and 6 PM UTC)
-    - cron: '0 6,18 * * *'
+    - cron: '20 6,18 * * *'
   workflow_dispatch:
 
 permissions:
