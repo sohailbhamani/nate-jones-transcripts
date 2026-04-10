@@ -2,12 +2,12 @@
 
 Episodes discussing **Sora** (19 episodes):
 
+- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
 - [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
-- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/unknown-m9tjizoxnfk/transcript.md) (2026-01-12)
 - [Codex 5.2 Launch Revealed: How OpenAI Got Non-Engineers Shipping Real Code](../episodes/2025-12-18-codex-52-launch-revealed-how-openai-got-non-engineers-shipping-real-code/transcript.md) (2025-12-18)
 - [Master Perplexity Prompting -- Why It's Different from ChatGPT + Demo](../episodes/2025-10-28-master-perplexity-prompting-why-its-different-from-chatgpt-demo/transcript.md) (2025-10-28)
 - [Claude 4.5 Built Slack in 30 Hours Straight—Here's My Take After Testing](../episodes/2025-10-04-claude-45-built-slack-in-30-hours-straightheres-my-take-after-testing/transcript.md) (2025-10-04)

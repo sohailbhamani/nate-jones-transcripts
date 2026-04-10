@@ -13,10 +13,11 @@ yt_tags:
   []
 
 
+
 # AI-enriched metadata
-content_type: "Framework"
+content_type: "Tutorial"
 primary_topic: "Prompting"
-difficulty: "Intermediate"
+difficulty: "Beginner"
 audience:
   - "Engineers"
   - "Product Managers"
@@ -49,6 +50,7 @@ keywords:
   - "make"
   - "product-management"
   - "prompting"
+  - "tutorials"
   - "workflows"
 ---
 
