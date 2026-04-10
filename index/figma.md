@@ -2,10 +2,10 @@
 
 Episodes discussing **Figma** (14 episodes):
 
-- [Unknown](../episodes/unknown-zwq_5jvfzh8/transcript.md) (unknown)
 - [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
 - [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
 - [From Pixels to Primitives: What Front-End Actually Is Now #engineering #ai #futureofwork](../episodes/2026-03-08-from-pixels-to-primitives-what-front-end-actually-is-now-engineering-ai-futureof/transcript.md) (2026-03-08)
+- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-go/transcript.md) (2025-12-31)
 - [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md) (2025-12-31)
 - [Why Flash Models, Not Frontier Models, Will Win in 2026](../episodes/2025-12-24-why-flash-models-not-frontier-models-will-win-in-2026/transcript.md) (2025-12-24)
 - [Meta Just Cracked Vision with SAM 3: Robotics, Moderation, and Video Editing Will Transform](../episodes/2025-11-22-meta-just-cracked-vision-with-sam-3-robotics-moderation-and-video-editing-will-t/transcript.md) (2025-11-22)

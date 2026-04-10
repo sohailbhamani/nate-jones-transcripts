@@ -2,11 +2,6 @@
 
 Episodes discussing **Framework** (151 episodes):
 
-- [Unknown](../episodes/unknown-5kp-gj5qxl0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-bac5fen2e4y/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-fyhnghxguhi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ig_ccjdyex0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
@@ -43,7 +38,12 @@ Episodes discussing **Framework** (151 episodes):
 - [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/unknown-ttmosr-nkjg/transcript.md) (2026-01-10)
+- [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone/transcript.md) (2026-01-08)
 - [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/2026-01-08-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md) (2026-01-08)
+- [Why 'Pretty Good on First Pass' Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-t/transcript.md) (2026-01-07)
+- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters/transcript.md) (2026-01-05)
+- [Why Andrej Karpathy Feels 'Behind' (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-/transcript.md) (2026-01-04)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)
 - [3 Startups Deep in 30 Days: How Nano Banana Pro Just Triggered a Billion-Dollar Chain Reaction](../episodes/2025-12-26-3-startups-deep-in-30-days-how-nano-banana-pro-just-triggered-a-billion-dollar-c/transcript.md) (2025-12-26)
 - [I Tracked Every AI Win & Failure in 2025. Here's What Actually Worked (9 Surprises)](../episodes/2025-12-25-i-tracked-every-ai-win-failure-in-2025-heres-what-actually-worked-9-surprises/transcript.md) (2025-12-25)

@@ -2,8 +2,6 @@
 
 Episodes discussing **Apple** (63 episodes):
 
-- [Unknown](../episodes/unknown-0tpon5t-sw4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
@@ -12,6 +10,8 @@ Episodes discussing **Apple** (63 episodes):
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/unknown-m9tjizoxnfk/transcript.md) (2026-01-12)
+- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-nee/transcript.md) (2026-01-09)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [The Nvidia-Groq Deal Is WAY Bigger Than Reported (3 Things the Headlines Missed)](../episodes/2025-12-27-the-nvidia-groq-deal-is-way-bigger-than-reported-3-things-the-headlines-missed/transcript.md) (2025-12-27)
 - [Is OpenAI a Bubble? Here's the 2026 Test (Unit Economics + Compute + Enterprise Proof)](../episodes/2025-12-21-is-openai-a-bubble-heres-the-2026-test-unit-economics-compute-enterprise-proof/transcript.md) (2025-12-21)

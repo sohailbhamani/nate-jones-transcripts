@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance"
 video_id: "Zwq_5jvFZH8"
 youtube_url: "https://www.youtube.com/watch?v=Zwq_5jvFZH8"
-publish_date: "unknown"
+publish_date: "2025-12-31"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:

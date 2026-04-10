@@ -2,8 +2,8 @@
 
 Episodes discussing **Computer Use** (13 episodes):
 
-- [Unknown](../episodes/unknown-zwq_5jvfzh8/transcript.md) (unknown)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-go/transcript.md) (2025-12-31)
 - [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md) (2025-12-31)
 - [The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)](../episodes/2025-12-19-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today/transcript.md) (2025-12-19)
 - [Agents Will Kill Your Ul by 2026--Unless You Build This Instead](../episodes/2025-11-30-agents-will-kill-your-ul-by-2026-unless-you-build-this-instead/transcript.md) (2025-11-30)

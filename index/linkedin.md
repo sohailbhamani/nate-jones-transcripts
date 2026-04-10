@@ -2,11 +2,11 @@
 
 Episodes discussing **Linkedin** (31 episodes):
 
-- [Unknown](../episodes/unknown-bac5fen2e4y/transcript.md) (unknown)
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
 - [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
+- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters/transcript.md) (2026-01-05)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)
 - [The Al Trick That Finally Made Me Better at My Job (Not Just Faster)](../episodes/2025-12-11-the-al-trick-that-finally-made-me-better-at-my-job-not-just-faster/transcript.md) (2025-12-11)
 - [Your AI Can't See 16% of Humanity. Here's the 5-Minute Check That Proves It.](../episodes/2025-12-06-your-ai-cant-see-16-of-humanity-heres-the-5-minute-check-that-proves-it/transcript.md) (2025-12-06)

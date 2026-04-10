@@ -2,7 +2,6 @@
 
 Episodes discussing **Deep Dive** (60 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [Industrial-scale AI is here: what execs must know! #ai #nvidia #openai](../episodes/2026-03-27-industrial-scale-ai-is-here-what-execs-must-know-ai-nvidia-openai/transcript.md) (2026-03-27)
 - [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
@@ -16,6 +15,7 @@ Episodes discussing **Deep Dive** (60 episodes):
 - [Sam Altman admits OpenAI can't keep up with demand #chatgpt #ai #futureofwork](../episodes/2026-02-18-sam-altman-admits-openai-cant-keep-up-with-demand-chatgpt-ai-futureofwork/transcript.md) (2026-02-18)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md) (2026-01-11)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/unknown-5et9wodcsys/transcript.md) (2026-01-11)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)
 - [ChatGPT 5.2 vs. Claude Opus 4.5 vs. Gemini 3: What Benchmarks Won't Tell You](../episodes/2025-12-15-chatgpt-52-vs-claude-opus-45-vs-gemini-3-what-benchmarks-wont-tell-you/transcript.md) (2025-12-15)

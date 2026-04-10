@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "Why 'Pretty Good on First Pass' Is Costing You Thousands--How To Fix It TODAY"
 video_id: "iG_CCjdyeX0"
 youtube_url: "https://www.youtube.com/watch?v=iG_CCjdyeX0"
-publish_date: "unknown"
+publish_date: "2026-01-07"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:

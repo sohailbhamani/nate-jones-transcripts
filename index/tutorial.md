@@ -2,11 +2,6 @@
 
 Episodes discussing **Tutorial** (164 episodes):
 
-- [Unknown](../episodes/unknown-0tpon5t-sw4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-qw7hditptr4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-t74uzgfu6mu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zwq_5jvfzh8/transcript.md) (unknown)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [Your brain isn't storage—let AI handle it! #ai #futureofwork](../episodes/2026-03-30-your-brain-isnt-storagelet-ai-handle-it-ai-futureofwork/transcript.md) (2026-03-30)
@@ -35,9 +30,14 @@ Episodes discussing **Tutorial** (164 episodes):
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/unknown-m9tjizoxnfk/transcript.md) (2026-01-12)
+- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-nee/transcript.md) (2026-01-09)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)
+- [The Manus Acquisition Explained: Why Meta Paid $2B for a 'Wrapper'](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapp/transcript.md) (2026-01-06)
+- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-preve/transcript.md) (2026-01-02)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md) (2026-01-02)
+- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-go/transcript.md) (2025-12-31)
 - [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md) (2025-12-31)
 - [The Skill Gap That Will Separate AI Winners from Everyone Else](../episodes/2025-12-30-the-skill-gap-that-will-separate-ai-winners-from-everyone-else/transcript.md) (2025-12-30)
 - [The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)](../episodes/2025-12-19-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today/transcript.md) (2025-12-19)

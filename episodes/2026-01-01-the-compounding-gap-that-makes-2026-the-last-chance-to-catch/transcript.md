@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "The Compounding Gap That Makes 2026 the Last Chance to Catch Up"
 video_id: "pOb0pjXpn6Q"
 youtube_url: "https://www.youtube.com/watch?v=pOb0pjXpn6Q"
-publish_date: "unknown"
+publish_date: "2026-01-01"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:

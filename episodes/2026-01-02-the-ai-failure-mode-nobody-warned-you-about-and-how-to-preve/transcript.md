@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)"
 video_id: "T74uZgfu6mU"
 youtube_url: "https://www.youtube.com/watch?v=T74uZgfu6mU"
-publish_date: "unknown"
+publish_date: "2026-01-02"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:

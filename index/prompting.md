@@ -2,8 +2,6 @@
 
 Episodes discussing **Prompting** (182 episodes):
 
-- [Unknown](../episodes/unknown-ig_ccjdyex0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-t74uzgfu6mu/transcript.md) (unknown)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
@@ -22,7 +20,9 @@ Episodes discussing **Prompting** (182 episodes):
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
+- [Why 'Pretty Good on First Pass' Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-t/transcript.md) (2026-01-07)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)
+- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-preve/transcript.md) (2026-01-02)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md) (2026-01-02)
 - [Why Flash Models, Not Frontier Models, Will Win in 2026](../episodes/2025-12-24-why-flash-models-not-frontier-models-will-win-in-2026/transcript.md) (2025-12-24)
 - [If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You](../episodes/2025-12-23-if-this-can-happen-to-an-ex-deepmind-leader-it-can-happen-to-you/transcript.md) (2025-12-23)

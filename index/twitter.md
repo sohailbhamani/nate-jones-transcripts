@@ -2,13 +2,13 @@
 
 Episodes discussing **Twitter** (29 episodes):
 
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-qw7hditptr4/transcript.md) (unknown)
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
 - [One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai](../episodes/2026-03-03-one-ai-breakthrough-just-unlocked-a-new-storytelling-medium-nanobananapro-future/transcript.md) (2026-03-03)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/unknown-h7dbkdcb3ha/transcript.md) (2026-01-14)
+- [The Manus Acquisition Explained: Why Meta Paid $2B for a 'Wrapper'](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapp/transcript.md) (2026-01-06)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md) (2026-01-06)
 - [3 Startups Deep in 30 Days: How Nano Banana Pro Just Triggered a Billion-Dollar Chain Reaction](../episodes/2025-12-26-3-startups-deep-in-30-days-how-nano-banana-pro-just-triggered-a-billion-dollar-c/transcript.md) (2025-12-26)
 - [Codex 5.2 Launch Revealed: How OpenAI Got Non-Engineers Shipping Real Code](../episodes/2025-12-18-codex-52-launch-revealed-how-openai-got-non-engineers-shipping-real-code/transcript.md) (2025-12-18)

@@ -2,7 +2,6 @@
 
 Episodes discussing **Opus** (54 episodes):
 
-- [Unknown](../episodes/unknown-fyhnghxguhi/transcript.md) (unknown)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
 - [Why even Andrej Karpathy feels behind with AI! #ai #futureofwork](../episodes/2026-03-24-why-even-andrej-karpathy-feels-behind-with-ai-ai-futureofwork/transcript.md) (2026-03-24)
@@ -18,6 +17,7 @@ Episodes discussing **Opus** (54 episodes):
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
+- [Why Andrej Karpathy Feels 'Behind' (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-/transcript.md) (2026-01-04)
 - [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/2026-01-04-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md) (2026-01-04)
 - [Anthropic's New Benchmark Changes Everything—Most People Will Miss Why](../episodes/2025-12-29-anthropics-new-benchmark-changes-everythingmost-people-will-miss-why/transcript.md) (2025-12-29)
 - [Codex 5.2 Launch Revealed: How OpenAI Got Non-Engineers Shipping Real Code](../episodes/2025-12-18-codex-52-launch-revealed-how-openai-got-non-engineers-shipping-real-code/transcript.md) (2025-12-18)

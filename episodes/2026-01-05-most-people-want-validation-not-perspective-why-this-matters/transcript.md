@@ -1,12 +1,12 @@
 ---
-title: "Unknown"
+title: "Most People Want Validation, Not Perspective (Why This Matters Now)"
 video_id: "BaC5FEN2e4Y"
 youtube_url: "https://www.youtube.com/watch?v=BaC5FEN2e4Y"
-publish_date: "unknown"
+publish_date: "2026-01-05"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "Nate B Jones"
+author: "AI News & Strategy Daily | Nate B Jones"
 description: ""
 
 yt_tags:
