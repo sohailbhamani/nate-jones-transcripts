@@ -13,9 +13,10 @@ yt_tags:
   []
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
-primary_topic: "AI Strategy"
+primary_topic: "Career"
 difficulty: "Intermediate"
 audience:
   - "Engineers"
@@ -25,7 +26,7 @@ entities:
   companies:
     - "X"
   people:
-    []
+    - "Andrej Karpathy"
   products:
     - "Make"
     - "Opus"

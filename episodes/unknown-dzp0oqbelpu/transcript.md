@@ -1,12 +1,12 @@
 ---
-title: "Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It"
+title: "Unknown"
 video_id: "dzp0OQbElpU"
 youtube_url: "https://www.youtube.com/watch?v=dzp0OQbElpU"
-publish_date: "2026-01-13"
+publish_date: "unknown"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "AI News & Strategy Daily | Nate B Jones"
+author: "Nate B Jones"
 description: ""
 
 yt_tags:

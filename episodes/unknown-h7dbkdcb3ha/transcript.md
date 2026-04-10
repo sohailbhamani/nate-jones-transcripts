@@ -1,12 +1,12 @@
 ---
-title: "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)"
+title: "Unknown"
 video_id: "h7dbkDcb3hA"
 youtube_url: "https://www.youtube.com/watch?v=h7dbkDcb3hA"
-publish_date: "2026-01-14"
+publish_date: "unknown"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
-author: "AI News & Strategy Daily | Nate B Jones"
+author: "Nate B Jones"
 description: ""
 
 yt_tags:
