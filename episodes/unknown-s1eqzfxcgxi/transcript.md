@@ -13,7 +13,6 @@ yt_tags:
   []
 
 
-
 # AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "Career"
