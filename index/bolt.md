@@ -1,8 +1,7 @@
 # Bolt
 
-Episodes discussing **Bolt** (24 episodes):
+Episodes discussing **Bolt** (23 episodes):
 
-- [Unknown](../episodes/unknown-t74uzgfu6mu/transcript.md) (unknown)
 - [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-preve/transcript.md) (2026-01-02)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md) (2026-01-02)

@@ -59,13 +59,33 @@ def slugify(text):
     return text[:80].strip("-")
 
 
-def get_video_metadata(video_id):
-    """Get video metadata via YouTube Data API v3."""
-    if not YOUTUBE_API_KEY:
-        print("  Warning: No YOUTUBE_API_KEY, using minimal metadata")
+def _oembed_metadata(video_id):
+    """Quotaless fallback — YouTube oEmbed returns title + author without an API key.
+    Does not return publish_date or stats, so still a downgrade vs the API."""
+    try:
+        url = (
+            "https://www.youtube.com/oembed?url="
+            f"https://www.youtube.com/watch?v={video_id}&format=json"
+        )
+        with urllib.request.urlopen(url, timeout=10) as resp:
+            data = json.loads(resp.read())
+        return {
+            "title": data.get("title", ""),
+            "author": data.get("author_name", ""),
+        }
+    except Exception:
         return None
 
-    try:
+
+def get_video_metadata(video_id, max_retries=3):
+    """Get video metadata via YouTube Data API v3 with retry + oEmbed fallback.
+
+    Unknown episodes were being created whenever the API call failed even once
+    (quota hit, rate limit, transient 5xx, network blip). Now we retry transient
+    failures with exponential backoff, and fall back to oEmbed for at least the
+    title so the directory name is usable instead of `unknown-<id>`.
+    """
+    if YOUTUBE_API_KEY:
         params = urllib.parse.urlencode(
             {
                 "part": "snippet,contentDetails,statistics",
@@ -73,51 +93,99 @@ def get_video_metadata(video_id):
                 "key": YOUTUBE_API_KEY,
             }
         )
-        url = f"https://www.googleapis.com/youtube/v3/videos?{params}"
-        req = urllib.request.Request(url)
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = json.loads(resp.read())
+        api_url = f"https://www.googleapis.com/youtube/v3/videos?{params}"
 
-        items = data.get("items", [])
-        if not items:
-            return None
+        last_err = None
+        for attempt in range(max_retries):
+            try:
+                req = urllib.request.Request(api_url)
+                with urllib.request.urlopen(req, timeout=30) as resp:
+                    data = json.loads(resp.read())
 
-        item = items[0]
-        snippet = item["snippet"]
-        stats = item.get("statistics", {})
-        content = item.get("contentDetails", {})
+                items = data.get("items", [])
+                if not items:
+                    # Video is genuinely unavailable (deleted/private) — oEmbed
+                    # may still succeed for cached metadata, so fall through.
+                    break
 
-        # Parse ISO 8601 duration (PT1H2M3S)
-        duration_str = content.get("duration", "PT0S")
-        duration_match = re.match(r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", duration_str)
-        if duration_match:
-            h = int(duration_match.group(1) or 0)
-            m = int(duration_match.group(2) or 0)
-            s = int(duration_match.group(3) or 0)
-            duration_seconds = h * 3600 + m * 60 + s
-            duration_formatted = f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
-        else:
-            duration_seconds = 0
-            duration_formatted = "0:00"
+                item = items[0]
+                snippet = item["snippet"]
+                stats = item.get("statistics", {})
+                content = item.get("contentDetails", {})
 
-        # Parse publish date
-        pub_date = snippet.get("publishedAt", "")[:10]
+                duration_str = content.get("duration", "PT0S")
+                duration_match = re.match(
+                    r"PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", duration_str
+                )
+                if duration_match:
+                    h = int(duration_match.group(1) or 0)
+                    m = int(duration_match.group(2) or 0)
+                    s = int(duration_match.group(3) or 0)
+                    duration_seconds = h * 3600 + m * 60 + s
+                    duration_formatted = f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
+                else:
+                    duration_seconds = 0
+                    duration_formatted = "0:00"
 
+                pub_date = snippet.get("publishedAt", "")[:10]
+
+                return {
+                    "title": snippet.get("title", ""),
+                    "video_id": video_id,
+                    "url": f"https://www.youtube.com/watch?v={video_id}",
+                    "duration_seconds": duration_seconds,
+                    "duration": duration_formatted,
+                    "view_count": int(stats.get("viewCount", 0)),
+                    "publish_date": pub_date,
+                    "description": snippet.get("description", ""),
+                    "author": snippet.get("channelTitle", "Nate B Jones"),
+                    "keywords": snippet.get("tags", []),
+                }
+            except urllib.error.HTTPError as e:
+                last_err = e
+                # 403 quota / 429 rate / 5xx — back off and retry
+                if e.code in (403, 429) or 500 <= e.code < 600:
+                    wait = (2**attempt) + random.uniform(0, 1)
+                    print(
+                        f"  API {e.code} on {video_id}, retry {attempt + 1}/{max_retries} in {wait:.1f}s"
+                    )
+                    time.sleep(wait)
+                    continue
+                break
+            except Exception as e:
+                last_err = e
+                wait = (2**attempt) + random.uniform(0, 1)
+                print(
+                    f"  API error on {video_id}: {e}, retry {attempt + 1}/{max_retries} in {wait:.1f}s"
+                )
+                time.sleep(wait)
+                continue
+
+        if last_err is not None:
+            print(
+                f"  Warning: YouTube API exhausted retries for {video_id}: {last_err}"
+            )
+    else:
+        print("  Warning: No YOUTUBE_API_KEY, trying oEmbed fallback")
+
+    # oEmbed fallback — lower-fidelity but still gives a real title
+    oe = _oembed_metadata(video_id)
+    if oe and oe.get("title"):
+        print(f"  oEmbed fallback succeeded for {video_id}: '{oe['title']}'")
         return {
-            "title": snippet.get("title", ""),
+            "title": oe["title"],
             "video_id": video_id,
             "url": f"https://www.youtube.com/watch?v={video_id}",
-            "duration_seconds": duration_seconds,
-            "duration": duration_formatted,
-            "view_count": int(stats.get("viewCount", 0)),
-            "publish_date": pub_date,
-            "description": snippet.get("description", ""),
-            "author": snippet.get("channelTitle", "Nate B Jones"),
-            "keywords": snippet.get("tags", []),
+            "duration_seconds": 0,
+            "duration": "unknown",
+            "view_count": 0,
+            "publish_date": "",
+            "description": "",
+            "author": oe.get("author") or "Nate B Jones",
+            "keywords": [],
         }
-    except Exception as e:
-        print(f"  Warning: Could not get metadata: {e}")
-        return None
+
+    return None
 
 
 def get_transcript(video_id):
@@ -170,9 +238,14 @@ def get_transcript(video_id):
 
 def save_transcript(metadata, transcript):
     """Save transcript in rich format with YAML frontmatter."""
-    slug = slugify(metadata.get("title", metadata["video_id"]))
-    date_prefix = metadata.get("publish_date", "unknown")
-    folder_name = f"{date_prefix}-{slug}"
+    title = metadata.get("title") or ""
+    if title:
+        slug = slugify(title)
+        date_prefix = metadata.get("publish_date") or "undated"
+        folder_name = f"{date_prefix}-{slug}"
+    else:
+        # No real title even after retries + oEmbed — visible failure, not a silent one.
+        folder_name = f"unknown-{metadata['video_id']}"
 
     episode_dir = EPISODES_DIR / folder_name
     episode_dir.mkdir(parents=True, exist_ok=True)

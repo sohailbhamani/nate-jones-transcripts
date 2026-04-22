@@ -1,8 +1,7 @@
 # Linkedin
 
-Episodes discussing **Linkedin** (32 episodes):
+Episodes discussing **Linkedin** (31 episodes):
 
-- [Unknown](../episodes/unknown-bac5fen2e4y/transcript.md) (unknown)
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
 - [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)

@@ -1,12 +1,7 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (128 episodes):
+Episodes discussing **Microsoft** (123 episodes):
 
-- [Unknown](../episodes/unknown-0tpon5t-sw4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-5kp-gj5qxl0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
