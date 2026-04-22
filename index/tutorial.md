@@ -1,12 +1,7 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (168 episodes):
+Episodes discussing **Tutorial** (163 episodes):
 
-- [Unknown](../episodes/unknown-0tpon5t-sw4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-qw7hditptr4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-t74uzgfu6mu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zwq_5jvfzh8/transcript.md) (unknown)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [Your brain isn't storage—let AI handle it! #ai #futureofwork](../episodes/2026-03-30-your-brain-isnt-storagelet-ai-handle-it-ai-futureofwork/transcript.md) (2026-03-30)

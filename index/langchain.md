@@ -1,8 +1,7 @@
 # Langchain
 
-Episodes discussing **Langchain** (8 episodes):
+Episodes discussing **Langchain** (7 episodes):
 
-- [Unknown](../episodes/unknown-t74uzgfu6mu/transcript.md) (unknown)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-preve/transcript.md) (2026-01-02)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md) (2026-01-02)
 - [Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo](../episodes/2025-11-24-prompting-is-the-wild-west-heres-the-prompt-lifecycle-guide-19-tools-a-demo/transcript.md) (2025-11-24)
