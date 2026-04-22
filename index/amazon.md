@@ -1,6 +1,6 @@
 # Amazon
 
-Episodes discussing **Amazon** (90 episodes):
+Episodes discussing **Amazon** (92 episodes):
 
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
@@ -92,3 +92,5 @@ Episodes discussing **Amazon** (90 episodes):
 - [Product Strategy: 3 product problems where we usually set the bar too low to be successful](../episodes/2024-07-11-product-strategy-3-product-problems-where-we-usually-set-the-bar-too-low-to-be-s/transcript.md) (2024-07-11)
 - [Wall Street is betting against AI, and here's why: Uber, Amazon and the history of bets against tech](../episodes/2024-07-09-wall-street-is-betting-against-ai-and-heres-why-uber-amazon-and-the-history-of-b/transcript.md) (2024-07-09)
 - [Tech loops: what actually happens in a tech loop debrief and how you can win as a candidate](../episodes/2024-07-08-tech-loops-what-actually-happens-in-a-tech-loop-debrief-and-/transcript.md) (2024-07-08)
+- [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/undated-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

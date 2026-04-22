@@ -1,6 +1,6 @@
 # Notion
 
-Episodes discussing **Notion** (25 episodes):
+Episodes discussing **Notion** (26 episodes):
 
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
@@ -27,3 +27,4 @@ Episodes discussing **Notion** (25 episodes):
 - [AI: Where does Human Innovation still matter?](../episodes/2025-05-27-ai-where-does-human-innovation-still-matter/transcript.md) (2025-05-27)
 - [AI News Today: Google AI coding, AI in US Nuclear Policy, OpenAI Agent Workflows  in Notion](../episodes/2024-10-30-ai-news-today-google-ai-coding-ai-in-us-nuclear-policy-opena/transcript.md) (2024-10-30)
 - [10 ways you can become more technical as a PM](../episodes/2024-07-10-10-ways-you-can-become-more-technical-as-a-pm/transcript.md) (2024-07-10)
+- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

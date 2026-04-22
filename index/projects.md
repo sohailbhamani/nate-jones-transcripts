@@ -1,6 +1,6 @@
 # Projects
 
-Episodes discussing **Projects** (76 episodes):
+Episodes discussing **Projects** (79 episodes):
 
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
@@ -78,3 +78,6 @@ Episodes discussing **Projects** (76 episodes):
 - [o1 tries to escape plus 6 other AI news stories from the weekend plus 6 AI predictions for this week](../episodes/2024-12-09-o1-tries-to-escape-plus-6-other-ai-news-stories-from-the-weekend-plus-6-ai-predi/transcript.md) (2024-12-09)
 - [Product Strategy in the Age of AI: What We Can Learn from Lovable.dev](../episodes/2024-11-21-product-strategy-in-the-age-of-ai-what-we-can-learn-from-lovabledev/transcript.md) (2024-11-21)
 - [AI News Today: AI Loses Job to Humans, Agentic AI Discovers SQLite Vulnerability, o1 Model Leak](../episodes/2024-11-04-ai-news-today-ai-loses-job-to-humans-agentic-ai-discovers-sqlite-vulnerability-o/transcript.md) (2024-11-04)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
+- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

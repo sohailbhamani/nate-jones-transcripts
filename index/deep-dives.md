@@ -1,6 +1,6 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (70 episodes):
+Episodes discussing **Deep Dives** (73 episodes):
 
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
@@ -72,3 +72,6 @@ Episodes discussing **Deep Dives** (70 episodes):
 - [CrowdStrike Root Cause Doc: Breakdown of Lessons Learned](../episodes/2024-07-25-crowdstrike-root-cause-doc-breakdown-of-lessons-learned/transcript.md) (2024-07-25)
 - [Product Building Strategy Part 1: How to build product for Dishwasher Problems](../episodes/2024-07-17-product-building-strategy-part-1-how-to-build-product-for-dishwasher-problems/transcript.md) (2024-07-17)
 - [The secret to getting better at job interviews: your job is to de-risk your candidacy for the role](../episodes/2024-07-05-the-secret-to-getting-better-at-job-interviews-your-job-is-t/transcript.md) (2024-07-05)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
+- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)

@@ -1,6 +1,6 @@
 # Github
 
-Episodes discussing **Github** (64 episodes):
+Episodes discussing **Github** (65 episodes):
 
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
@@ -66,3 +66,4 @@ Episodes discussing **Github** (64 episodes):
 - [Riverside Nate Sep 5 2024 from Nate Jones Studio](../episodes/2024-09-05-riverside-nate-sep-5-2024-from-nate-jones-studio/transcript.md) (2024-09-05)
 - [AI News This Week: Large Language Models for Developers and Kids!](../episodes/2024-08-12-ai-news-this-week-large-language-models-for-developers-and-kids/transcript.md) (2024-08-12)
 - [Microsoft AI study: Does AI help at work?](../episodes/2024-08-01-microsoft-ai-study-does-ai-help-at-work/transcript.md) (2024-08-01)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

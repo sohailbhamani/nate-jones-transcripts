@@ -13,6 +13,7 @@ yt_tags:
   []
 
 
+
 # AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Strategy"
@@ -35,6 +36,7 @@ entities:
     - "Duolingo"
     - "Fiverr"
   people:
+    - "Toby Lutke"
     - "Josh Miller"
     - "Toby Look"
     - "Aaron Levy"

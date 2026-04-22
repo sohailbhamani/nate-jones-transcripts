@@ -1,6 +1,6 @@
 # Shopify
 
-Episodes discussing **Shopify** (13 episodes):
+Episodes discussing **Shopify** (14 episodes):
 
 - [Tobi Lütke Made a 20-Year-Old Codebase 53% Faster Overnight. Here's How.](../episodes/2026-03-25-tobi-lütke-made-a-20-year-old-codebase-53-faster-overnight-heres-how/transcript.md) (2026-03-25)
 - [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
@@ -15,3 +15,4 @@ Episodes discussing **Shopify** (13 episodes):
 - [AI and Jobs Debate is Spiraling: Here are 5+ Skills that Pay](../episodes/2025-05-30-ai-and-jobs-debate-is-spiraling-here-are-5-skills-that-pay/transcript.md) (2025-05-30)
 - [Here's the next billion dollar LLM startup idea](../episodes/2024-09-25-heres-the-next-billion-dollar-llm-startup-idea/transcript.md) (2024-09-25)
 - [5 AI News Stories This Week: Trends to Watch in August 2024](../episodes/2024-08-07-5-ai-news-stories-this-week-trends-to-watch-in-august-2024/transcript.md) (2024-08-07)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

@@ -1,6 +1,6 @@
 # Bolt
 
-Episodes discussing **Bolt** (23 episodes):
+Episodes discussing **Bolt** (24 episodes):
 
 - [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-preve/transcript.md) (2026-01-02)
@@ -25,3 +25,4 @@ Episodes discussing **Bolt** (23 episodes):
 - [10 AI Jump Scares + 1 Real AI Scare for Halloween](../episodes/2024-10-31-10-ai-jump-scares-1-real-ai-scare-for-halloween/transcript.md) (2024-10-31)
 - [AI Coding Tool Comparison: The TLDR on Replit, Cursor, Pythagora, and Bolt](../episodes/2024-10-10-ai-coding-tool-comparison-the-tldr-on-replit-cursor-pythagora-and-bolt/transcript.md) (2024-10-10)
 - [AI Tool Comparison: ChatGPT, Canvas, Artifacts, Bolt, Replit](../episodes/2024-10-04-ai-tool-comparison-chatgpt-canvas-artifacts-bolt-replit/transcript.md) (2024-10-04)
+- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/undated-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md)

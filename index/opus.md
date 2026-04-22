@@ -1,6 +1,6 @@
 # Opus
 
-Episodes discussing **Opus** (54 episodes):
+Episodes discussing **Opus** (55 episodes):
 
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
@@ -56,3 +56,4 @@ Episodes discussing **Opus** (54 episodes):
 - [Claude 4 is out—comparison vs. o3 and Gemini 2.5 pro](../episodes/2025-05-23-claude-4-is-outcomparison-vs-o3-and-gemini-25-pro/transcript.md) (2025-05-23)
 - [First Evidence of AI Faking Alignment—HUGE Deal—Study on Claude Opus 3 by Anthropic](../episodes/2024-12-18-first-evidence-of-ai-faking-alignmenthuge-dealstudy-on-claude-opus-3-by-anthropi/transcript.md) (2024-12-18)
 - [New Claude Sonnet 3.5: AI can drive our screens now plus Anthropic developer strategy breakdown](../episodes/2024-10-22-new-claude-sonnet-35-ai-can-drive-our-screens-now-plus-anthropic-developer-strat/transcript.md) (2024-10-22)
+- [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md)

@@ -1,6 +1,6 @@
 # Figma
 
-Episodes discussing **Figma** (14 episodes):
+Episodes discussing **Figma** (15 episodes):
 
 - [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
 - [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
@@ -16,3 +16,4 @@ Episodes discussing **Figma** (14 episodes):
 - [The rise of vibe coding: copycats and winners](../episodes/2025-04-24-the-rise-of-vibe-coding-copycats-and-winners/transcript.md) (2025-04-24)
 - [SaaS Breakdown: The Future of SaaS in the Age of AI](../episodes/2024-12-05-saas-breakdown-the-future-of-saas-in-the-age-of-ai/transcript.md) (2024-12-05)
 - [Capturing Megatrends: Building a Long-Term Product Strategy with Figma](../episodes/2024-07-03-capturing-megatrends-building-a-long-term-product-strategy-w/transcript.md) (2024-07-03)
+- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)

@@ -1,6 +1,6 @@
 # Opinion
 
-Episodes discussing **Opinion** (30 episodes):
+Episodes discussing **Opinion** (32 episodes):
 
 - [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
 - [Why AI-powered dashboards are lying to leadership #futureofwork #ai](../episodes/2026-03-15-why-ai-powered-dashboards-are-lying-to-leadership-futureofwork-ai/transcript.md) (2026-03-15)
@@ -32,3 +32,5 @@ Episodes discussing **Opinion** (30 episodes):
 - [AI is not a chatbot:  the AI chatbot UX is cheating our brains](../episodes/2024-07-16-ai-is-not-a-chatbot-the-ai-chatbot-ux-is-cheating-our-brains/transcript.md) (2024-07-16)
 - [Product Strategy: 3 product problems where we usually set the bar too low to be successful](../episodes/2024-07-11-product-strategy-3-product-problems-where-we-usually-set-the-bar-too-low-to-be-s/transcript.md) (2024-07-11)
 - [Tech loops: what actually happens in a tech loop debrief and how you can win as a candidate](../episodes/2024-07-08-tech-loops-what-actually-happens-in-a-tech-loop-debrief-and-/transcript.md) (2024-07-08)
+- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
+- [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/undated-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md)

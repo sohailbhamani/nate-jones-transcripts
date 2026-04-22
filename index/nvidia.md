@@ -1,6 +1,6 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (64 episodes):
+Episodes discussing **Nvidia** (67 episodes):
 
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
@@ -66,3 +66,6 @@ Episodes discussing **Nvidia** (64 episodes):
 - [AI News: NVidia Earnings, SB1047 Analysis and Playing the Expectations Game in AI](../episodes/2024-08-29-ai-news-nvidia-earnings-sb1047-analysis-and-playing-the-expectations-game-in-ai/transcript.md) (2024-08-29)
 - [July 2024 AI Tech News: the strategy behind the Q3 earnings headlines for chips and cloud](../episodes/2024-07-31-july-2024-ai-tech-news-the-strategy-behind-the-q3-earnings-headlines-for-chips-a/transcript.md) (2024-07-31)
 - [Wall Street is betting against AI, and here's why: Uber, Amazon and the history of bets against tech](../episodes/2024-07-09-wall-street-is-betting-against-ai-and-heres-why-uber-amazon-and-the-history-of-b/transcript.md) (2024-07-09)
+- [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/undated-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

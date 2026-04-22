@@ -1,6 +1,6 @@
 # Salesforce
 
-Episodes discussing **Salesforce** (34 episodes):
+Episodes discussing **Salesforce** (35 episodes):
 
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
 - [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
@@ -36,3 +36,4 @@ Episodes discussing **Salesforce** (34 episodes):
 - [AI isn't going to kill SAAS software business models](../episodes/2024-09-27-ai-isnt-going-to-kill-saas-software-business-models/transcript.md) (2024-09-27)
 - [Tech News Roundup: AI Disrupts SAAS, Inflation Update, and Waymo's Safety Edge](../episodes/2024-09-11-tech-news-roundup-ai-disrupts-saas-inflation-update-and-waymos-safety-edge/transcript.md) (2024-09-11)
 - [AI News: Llama 3.1 Day! Here's Meta's strategy with the Llama 3.1 release and Llama ecosystem](../episodes/2024-07-24-ai-news-llama-31-day-heres-metas-strategy-with-the-llama-31-release-and-llama-ec/transcript.md) (2024-07-24)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

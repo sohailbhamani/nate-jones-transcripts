@@ -1,6 +1,6 @@
 # Langchain
 
-Episodes discussing **Langchain** (7 episodes):
+Episodes discussing **Langchain** (8 episodes):
 
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-preve/transcript.md) (2026-01-02)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md) (2026-01-02)
@@ -9,3 +9,4 @@ Episodes discussing **Langchain** (7 episodes):
 - [n8n: How to build AI agents that don't break](../episodes/2025-09-01-n8n-how-to-build-ai-agents-that-dont-break/transcript.md) (2025-09-01)
 - [The rise of vibe coding: copycats and winners](../episodes/2025-04-24-the-rise-of-vibe-coding-copycats-and-winners/transcript.md) (2025-04-24)
 - [OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain](../episodes/2025-03-12-openai-drops-new-agents-apiecosystem-comparison-with-claude-mcp-and-langchain/transcript.md) (2025-03-12)
+- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/undated-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md)

@@ -1,6 +1,6 @@
 # Atlas
 
-Episodes discussing **Atlas** (11 episodes):
+Episodes discussing **Atlas** (13 episodes):
 
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
@@ -13,3 +13,5 @@ Episodes discussing **Atlas** (11 episodes):
 - [Nov 2025: My Personal AI Stack—Pros, Cons, and Pitfalls](../episodes/2025-11-07-nov-2025-my-personal-ai-stackpros-cons-and-pitfalls/transcript.md) (2025-11-07)
 - [I Tested Claude & ChatGPT's New Knowledge Connectors—Here's Your TLDR + Pros & Cons](../episodes/2025-10-25-i-tested-claude-chatgpts-new-knowledge-connectorsheres-your-tldr-pros-cons/transcript.md) (2025-10-25)
 - [I Tested OpenAI's Atlas Browser on 12+ Tasks—Here's My Full Breakdwon + Grade](../episodes/2025-10-22-i-tested-openais-atlas-browser-on-12-tasksheres-my-full-breakdwon-grade/transcript.md) (2025-10-22)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)

@@ -1,6 +1,6 @@
 # Zapier
 
-Episodes discussing **Zapier** (12 episodes):
+Episodes discussing **Zapier** (13 episodes):
 
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
@@ -14,3 +14,4 @@ Episodes discussing **Zapier** (12 episodes):
 - [I Was Wrong About AI Agents — This $200 Browser Actually Works](../episodes/2025-07-11-i-was-wrong-about-ai-agents-this-200-browser-actually-works/transcript.md) (2025-07-11)
 - [Deep Dive on OpenAI Data Connectors](../episodes/2025-06-05-deep-dive-on-openai-data-connectors/transcript.md) (2025-06-05)
 - [AI News Today: Cancer, scaring Google, AI plagiarism, McKinsey](../episodes/2024-10-21-ai-news-today-cancer-scaring-google-ai-plagiarism-mckinsey/transcript.md) (2024-10-21)
+- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)
