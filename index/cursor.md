@@ -1,12 +1,7 @@
 # Cursor
 
-Episodes discussing **Cursor** (91 episodes):
+Episodes discussing **Cursor** (87 episodes):
 
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-pob0pjxpn6q/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-zwq_5jvfzh8/transcript.md) (unknown)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [Tobi Lütke Made a 20-Year-Old Codebase 53% Faster Overnight. Here's How.](../episodes/2026-03-25-tobi-lütke-made-a-20-year-old-codebase-53-faster-overnight-heres-how/transcript.md) (2026-03-25)
@@ -27,6 +22,7 @@ Episodes discussing **Cursor** (91 episodes):
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/2026-01-13-toby-lutke-s-red-queen-trap-who-survives-2026/transcript.md) (2026-01-13)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
 - [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/2026-01-01-the-compounding-gap-that-makes-2026-the-last-chance-to-catch/transcript.md) (2026-01-01)

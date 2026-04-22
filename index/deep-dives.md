@@ -1,10 +1,7 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (73 episodes):
+Episodes discussing **Deep Dives** (70 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-qw7hditptr4/transcript.md) (unknown)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [Stop accepting AI output that "looks right." The other 17% is everything and nobody is ready for it.](../episodes/2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody/transcript.md) (2026-03-10)

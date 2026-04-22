@@ -1,16 +1,7 @@
 # Leadership
 
-Episodes discussing **Leadership** (249 episodes):
+Episodes discussing **Leadership** (241 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-5kp-gj5qxl0/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-bac5fen2e4y/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-dzp0oqbelpu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-fyhnghxguhi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-h7dbkdcb3ha/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-m9tjizoxnfk/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-s1eqzfxcgxi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ttmosr-nkjg/transcript.md) (unknown)
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)
@@ -50,6 +41,7 @@ Episodes discussing **Leadership** (249 episodes):
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/2026-01-13-toby-lutke-s-red-queen-trap-who-survives-2026/transcript.md) (2026-01-13)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md) (2026-01-12)
 - [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/2026-01-11-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-w/transcript.md) (2026-01-11)
