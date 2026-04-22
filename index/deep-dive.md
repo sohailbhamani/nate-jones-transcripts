@@ -1,8 +1,7 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (62 episodes):
+Episodes discussing **Deep Dive** (61 episodes):
 
-- [Unknown](../episodes/unknown-5et9wodcsys/transcript.md) (unknown)
 - [Industrial-scale AI is here: what execs must know! #ai #nvidia #openai](../episodes/2026-03-27-industrial-scale-ai-is-here-what-execs-must-know-ai-nvidia-openai/transcript.md) (2026-03-27)
 - [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
