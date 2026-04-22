@@ -1,6 +1,6 @@
 # Sora
 
-Episodes discussing **Sora** (18 episodes):
+Episodes discussing **Sora** (19 episodes):
 
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
@@ -20,3 +20,4 @@ Episodes discussing **Sora** (18 episodes):
 - [Sora is out but you can't have it and Google has a quantum chip](../episodes/2024-12-10-sora-is-out-but-you-cant-have-it-and-google-has-a-quantum-chip/transcript.md) (2024-12-10)
 - [o1 tries to escape plus 6 other AI news stories from the weekend plus 6 AI predictions for this week](../episodes/2024-12-09-o1-tries-to-escape-plus-6-other-ai-news-stories-from-the-weekend-plus-6-ai-predi/transcript.md) (2024-12-09)
 - [OpenAI and "Strawberry": The Strategy of Rumors in the AI Arms Race](../episodes/2024-08-13-openai-and-strawberry-the-strategy-of-rumors-in-the-ai-arms-race/transcript.md) (2024-08-13)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)

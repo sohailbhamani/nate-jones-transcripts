@@ -1,6 +1,6 @@
 # X
 
-Episodes discussing **X** (96 episodes):
+Episodes discussing **X** (100 episodes):
 
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
@@ -98,3 +98,7 @@ Episodes discussing **X** (96 episodes):
 - [Cursor AI: 6 Apps Built with Cursor + Strategy Question for Builders](../episodes/2024-08-27-cursor-ai-6-apps-built-with-cursor-strategy-question-for-builders/transcript.md) (2024-08-27)
 - [Prediction: Disney is coming for Elon and X ASAP](../episodes/2024-08-16-prediction-disney-is-coming-for-elon-and-x-asap/transcript.md) (2024-08-16)
 - [July 2024 AI Tech News: the strategy behind the Q3 earnings headlines for chips and cloud](../episodes/2024-07-31-july-2024-ai-tech-news-the-strategy-behind-the-q3-earnings-headlines-for-chips-a/transcript.md) (2024-07-31)
+- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
+- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
+- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
+- [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md)

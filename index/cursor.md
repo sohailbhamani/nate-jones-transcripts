@@ -1,6 +1,6 @@
 # Cursor
 
-Episodes discussing **Cursor** (87 episodes):
+Episodes discussing **Cursor** (92 episodes):
 
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
@@ -89,3 +89,8 @@ Episodes discussing **Cursor** (87 episodes):
 - [Want to build with AI Tools like Cursor? This is THE KEY to building a High Quality App](../episodes/2024-09-03-want-to-build-with-ai-tools-like-cursor-this-is-the-key-to-building-a-high-quali/transcript.md) (2024-09-03)
 - [Cursor AI: 6 Apps Built with Cursor + Strategy Question for Builders](../episodes/2024-08-27-cursor-ai-6-apps-built-with-cursor-strategy-question-for-builders/transcript.md) (2024-08-27)
 - [Cursor AI: Summary and Use-Cases to Code in English](../episodes/2024-08-26-cursor-ai-summary-and-use-cases-to-code-in-english/transcript.md) (2024-08-26)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
+- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
+- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

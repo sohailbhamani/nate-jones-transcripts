@@ -1,6 +1,6 @@
 # Slack
 
-Episodes discussing **Slack** (61 episodes):
+Episodes discussing **Slack** (64 episodes):
 
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
@@ -63,3 +63,6 @@ Episodes discussing **Slack** (61 episodes):
 - [Founder of OpenAI says AI Agents are Coming to Work in 2025—and ASI is next](../episodes/2025-01-06-founder-of-openai-says-ai-agents-are-coming-to-work-in-2025and-asi-is-next/transcript.md) (2025-01-06)
 - [Tech News Roundup: AI Disrupts SAAS, Inflation Update, and Waymo's Safety Edge](../episodes/2024-09-11-tech-news-roundup-ai-disrupts-saas-inflation-update-and-waymos-safety-edge/transcript.md) (2024-09-11)
 - [Tech jobs: you're WAY better at these 3 skills than AI](../episodes/2024-07-29-tech-jobs-youre-way-better-at-these-3-skills-than-ai/transcript.md) (2024-07-29)
+- [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/undated-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
+- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

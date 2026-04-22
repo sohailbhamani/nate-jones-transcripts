@@ -1,6 +1,6 @@
 # Gemini
 
-Episodes discussing **Gemini** (128 episodes):
+Episodes discussing **Gemini** (131 episodes):
 
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
@@ -130,3 +130,6 @@ Episodes discussing **Gemini** (128 episodes):
 - [AI News Today: OpenAI Strawberry Capabilities Leak + 3 More AI Stories from Apple, Anthropic, Google](../episodes/2024-08-28-ai-news-today-openai-strawberry-capabilities-leak-3-more-ai-stories-from-apple-a/transcript.md) (2024-08-28)
 - [Prediction: Disney is coming for Elon and X ASAP](../episodes/2024-08-16-prediction-disney-is-coming-for-elon-and-x-asap/transcript.md) (2024-08-16)
 - [12 hacks for AI in Tech Job Searches: 5 things to avoid and 7 tips that make LLM's work for you](../episodes/2024-07-18-12-hacks-for-ai-in-tech-job-searches-5-things-to-avoid-and-7-tips-that-make-llms/transcript.md) (2024-07-18)
+- [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/undated-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md)
+- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)

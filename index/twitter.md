@@ -1,6 +1,6 @@
 # Twitter
 
-Episodes discussing **Twitter** (28 episodes):
+Episodes discussing **Twitter** (30 episodes):
 
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
 - [One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai](../episodes/2026-03-03-one-ai-breakthrough-just-unlocked-a-new-storytelling-medium-nanobananapro-future/transcript.md) (2026-03-03)
@@ -30,3 +30,5 @@ Episodes discussing **Twitter** (28 episodes):
 - [AI and Politics: Trump, Elon, and Taylor Swift - Huge Opportunity for AI Builders](../episodes/2024-08-19-ai-and-politics-trump-elon-and-taylor-swift-huge-opportunity-for-ai-builders/transcript.md) (2024-08-19)
 - [Prediction: Disney is coming for Elon and X ASAP](../episodes/2024-08-16-prediction-disney-is-coming-for-elon-and-x-asap/transcript.md) (2024-08-16)
 - [AI is not a chatbot:  the AI chatbot UX is cheating our brains](../episodes/2024-07-16-ai-is-not-a-chatbot-the-ai-chatbot-ux-is-cheating-our-brains/transcript.md) (2024-07-16)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
+- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)

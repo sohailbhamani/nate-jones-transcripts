@@ -1,6 +1,6 @@
 # Meta
 
-Episodes discussing **Meta** (112 episodes):
+Episodes discussing **Meta** (115 episodes):
 
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
@@ -114,3 +114,6 @@ Episodes discussing **Meta** (112 episodes):
 - [OpenAI and "Strawberry": The Strategy of Rumors in the AI Arms Race](../episodes/2024-08-13-openai-and-strawberry-the-strategy-of-rumors-in-the-ai-arms-race/transcript.md) (2024-08-13)
 - [July 2024 AI Tech News: the strategy behind the Q3 earnings headlines for chips and cloud](../episodes/2024-07-31-july-2024-ai-tech-news-the-strategy-behind-the-q3-earnings-headlines-for-chips-a/transcript.md) (2024-07-31)
 - [AI News: Llama 3.1 Day! Here's Meta's strategy with the Llama 3.1 release and Llama ecosystem](../episodes/2024-07-24-ai-news-llama-31-day-heres-metas-strategy-with-the-llama-31-release-and-llama-ec/transcript.md) (2024-07-24)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
+- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
+- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)

@@ -1,6 +1,6 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (71 episodes):
+Episodes discussing **Claude Code** (77 episodes):
 
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)
@@ -73,3 +73,9 @@ Episodes discussing **Claude Code** (71 episodes):
 - [We Got Claude Code Backwards: It Isn't Just Code–It's Anthropic's Hidden Super-Agent in Plain Sight](../episodes/2025-06-25-we-got-claude-code-backwards-it-isnt-just-codeits-anthropics-hidden-super-agent/transcript.md) (2025-06-25)
 - [Cheating at Cheating? Cluely's $120M Bet on Proactive AI](../episodes/2025-06-24-cheating-at-cheating-cluelys-120m-bet-on-proactive-ai/transcript.md) (2025-06-24)
 - [OpenAI Launches Codex](../episodes/2025-05-16-openai-launches-codex/transcript.md) (2025-05-16)
+- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
+- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
+- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
+- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)
+- [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/undated-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md)

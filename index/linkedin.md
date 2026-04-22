@@ -1,6 +1,6 @@
 # Linkedin
 
-Episodes discussing **Linkedin** (31 episodes):
+Episodes discussing **Linkedin** (32 episodes):
 
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
 - [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
@@ -33,3 +33,4 @@ Episodes discussing **Linkedin** (31 episodes):
 - [Real World AI Use-Case: How JobRight.AI Borrowed from Dating to Re-Invent Job Search](../episodes/2024-08-21-real-world-ai-use-case-how-jobrightai-borrowed-from-dating-to-re-invent-job-sear/transcript.md) (2024-08-21)
 - [Intro to Nate](../episodes/2024-07-31-intro-to-nate/transcript.md) (2024-07-31)
 - [12 hacks for AI in Tech Job Searches: 5 things to avoid and 7 tips that make LLM's work for you](../episodes/2024-07-18-12-hacks-for-ai-in-tech-job-searches-5-things-to-avoid-and-7-tips-that-make-llms/transcript.md) (2024-07-18)
+- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/undated-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md)

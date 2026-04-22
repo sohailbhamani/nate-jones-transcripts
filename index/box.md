@@ -1,6 +1,6 @@
 # Box
 
-Episodes discussing **Box** (72 episodes):
+Episodes discussing **Box** (75 episodes):
 
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
@@ -74,3 +74,6 @@ Episodes discussing **Box** (72 episodes):
 - [Long Take: Foundational Concepts in Artificial Intelligence](../episodes/2024-08-30-long-take-foundational-concepts-in-artificial-intelligence/transcript.md) (2024-08-30)
 - [12 hacks for AI in Tech Job Searches: 5 things to avoid and 7 tips that make LLM's work for you](../episodes/2024-07-18-12-hacks-for-ai-in-tech-job-searches-5-things-to-avoid-and-7-tips-that-make-llms/transcript.md) (2024-07-18)
 - [AI is not a chatbot:  the AI chatbot UX is cheating our brains](../episodes/2024-07-16-ai-is-not-a-chatbot-the-ai-chatbot-ux-is-cheating-our-brains/transcript.md) (2024-07-16)
+- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
+- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

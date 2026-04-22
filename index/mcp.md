@@ -1,6 +1,6 @@
 # Mcp
 
-Episodes discussing **Mcp** (57 episodes):
+Episodes discussing **Mcp** (60 episodes):
 
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
@@ -59,3 +59,6 @@ Episodes discussing **Mcp** (57 episodes):
 - [OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain](../episodes/2025-03-12-openai-drops-new-agents-apiecosystem-comparison-with-claude-mcp-and-langchain/transcript.md) (2025-03-12)
 - [AI News: Pony AI IPO, Claude MCP, Claude Writing Styles](../episodes/2024-11-27-ai-news-pony-ai-ipo-claude-mcp-claude-writing-styles/transcript.md) (2024-11-27)
 - [Claude Model Context Protocol (MCP): AI Has Tools Now and The Future Looks WILD](../episodes/2024-11-27-claude-model-context-protocol-mcp-ai-has-tools-now-and-the-future-looks-wild/transcript.md) (2024-11-27)
+- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
+- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

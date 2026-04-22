@@ -1,6 +1,6 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (13 episodes):
+Episodes discussing **Computer Use** (14 episodes):
 
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
 - [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-go/transcript.md) (2025-12-31)
@@ -15,3 +15,4 @@ Episodes discussing **Computer Use** (13 episodes):
 - [AI News Today: TSMC, Claude, Apple Intelligence, AI Religions](../episodes/2024-10-25-ai-news-today-tsmc-claude-apple-intelligence-ai-religions/transcript.md) (2024-10-25)
 - [2026 came early: AI can inspire a goat cult meme-coin and be worth 10M+ but AI can't buy me lunch](../episodes/2024-10-24-2026-came-early-ai-can-inspire-a-goat-cult-meme-coin-and-be-worth-10m-but-ai-can/transcript.md) (2024-10-24)
 - [AI News Today: 3 moves toward a 10 trillion dollar future from Stripe, Anthropic, and Perplexity](../episodes/2024-10-23-ai-news-today-3-moves-toward-a-10-trillion-dollar-future-from-stripe-anthropic-a/transcript.md) (2024-10-23)
+- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)

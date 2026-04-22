@@ -1,6 +1,6 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (122 episodes):
+Episodes discussing **News Roundup** (123 episodes):
 
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
@@ -124,3 +124,4 @@ Episodes discussing **News Roundup** (122 episodes):
 - [3 things LLM's are bad at plus 7 great use-cases for AI](../episodes/2024-07-22-3-things-llms-are-bad-at-plus-7-great-use-cases-for-ai/transcript.md) (2024-07-22)
 - [Crowdstrike broke the world: why system architecture matters](../episodes/2024-07-19-crowdstrike-broke-the-world-why-system-architecture-matters/transcript.md) (2024-07-19)
 - [Wall Street is betting against AI, and here's why: Uber, Amazon and the history of bets against tech](../episodes/2024-07-09-wall-street-is-betting-against-ai-and-heres-why-uber-amazon-and-the-history-of-b/transcript.md) (2024-07-09)
+- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
