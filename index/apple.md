@@ -1,6 +1,6 @@
 # Apple
 
-Episodes discussing **Apple** (64 episodes):
+Episodes discussing **Apple** (62 episodes):
 
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
@@ -64,5 +64,3 @@ Episodes discussing **Apple** (64 episodes):
 - [AI is not a chatbot:  the AI chatbot UX is cheating our brains](../episodes/2024-07-16-ai-is-not-a-chatbot-the-ai-chatbot-ux-is-cheating-our-brains/transcript.md) (2024-07-16)
 - [Myths of software development: 3 myths that hold back PM & engineering teams plus what matters most](../episodes/2024-07-15-myths-of-software-development-3-myths-that-hold-back-pm-engineering-teams-plus-w/transcript.md) (2024-07-15)
 - [Wall Street is betting against AI, and here's why: Uber, Amazon and the history of bets against tech](../episodes/2024-07-09-wall-street-is-betting-against-ai-and-heres-why-uber-amazon-and-the-history-of-b/transcript.md) (2024-07-09)
-- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)
-- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (106 episodes):
+Episodes discussing **Startups** (107 episodes):
 
+- [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)
 - [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
@@ -11,6 +12,11 @@ Episodes discussing **Startups** (106 episodes):
 - [2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork](../episodes/2026-03-09-2026-will-require-more-retraining-than-the-last-25-years-combined-ai-futureofwor/transcript.md) (2026-03-09)
 - [Big tech stopped buying startups — here's what changed #nvidia #groq #ai](../episodes/2026-03-04-big-tech-stopped-buying-startups-heres-what-changed-nvidia-groq-ai/transcript.md) (2026-03-04)
 - [Nano Banana Pro closed a gap — and unlocked billions #nanobananapro #ai #futureofwork](../episodes/2026-03-01-nano-banana-pro-closed-a-gap-and-unlocked-billions-nanobananapro-ai-futureofwork/transcript.md) (2026-03-01)
+- [ChatGPT convinced him he solved a million-dollar math problem #chatgpt #ai #deepmind](../episodes/2026-02-28-chatgpt-convinced-him-he-solved-a-million-dollar-math-problem-chatgpt-ai-deepmin/transcript.md) (2026-02-28)
+- [My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.](../episodes/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy/transcript.md) (2026-02-28)
+- [Why businesses will test leaders for LLM psychosis #ai #futureofwork #llm](../episodes/2026-02-28-why-businesses-will-test-leaders-for-llm-psychosis-ai-futureofwork-llm/transcript.md) (2026-02-28)
+- [LLM psychosis is real and it's coming to your workplace #deepmind #ai #llm](../episodes/2026-02-27-llm-psychosis-is-real-and-its-coming-to-your-workplace-deepmind-ai-llm/transcript.md) (2026-02-27)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
@@ -103,8 +109,3 @@ Episodes discussing **Startups** (106 episodes):
 - [CrowdStrike: Founders benefit from a double standard in tech](../episodes/2024-07-23-crowdstrike-founders-benefit-from-a-double-standard-in-tech/transcript.md) (2024-07-23)
 - [Tech loops: what actually happens in a tech loop debrief and how you can win as a candidate](../episodes/2024-07-08-tech-loops-what-actually-happens-in-a-tech-loop-debrief-and-/transcript.md) (2024-07-08)
 - [Capturing Megatrends: Building a Long-Term Product Strategy with Figma](../episodes/2024-07-03-capturing-megatrends-building-a-long-term-product-strategy-w/transcript.md) (2024-07-03)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
-- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
-- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)
-- [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md)

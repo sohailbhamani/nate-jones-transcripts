@@ -1,12 +1,13 @@
 # Perplexity
 
-Episodes discussing **Perplexity** (44 episodes):
+Episodes discussing **Perplexity** (45 episodes):
 
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
 - [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
 - [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
 - [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Agents Will Kill Your Ul by 2026--Unless You Build This Instead](../episodes/2025-11-30-agents-will-kill-your-ul-by-2026-unless-you-build-this-instead/transcript.md) (2025-11-30)

@@ -1,7 +1,8 @@
 # Cursor
 
-Episodes discussing **Cursor** (92 episodes):
+Episodes discussing **Cursor** (90 episodes):
 
+- [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [Tobi Lütke Made a 20-Year-Old Codebase 53% Faster Overnight. Here's How.](../episodes/2026-03-25-tobi-lütke-made-a-20-year-old-codebase-53-faster-overnight-heres-how/transcript.md) (2026-03-25)
@@ -14,6 +15,8 @@ Episodes discussing **Cursor** (92 episodes):
 - [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [Claude Code now inspects your browser — here's why it matters #claudecode #ai #agents](../episodes/2026-02-26-claude-code-now-inspects-your-browser-heres-why-it-matters-claudecode-ai-agents/transcript.md) (2026-02-26)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
@@ -89,8 +92,3 @@ Episodes discussing **Cursor** (92 episodes):
 - [Want to build with AI Tools like Cursor? This is THE KEY to building a High Quality App](../episodes/2024-09-03-want-to-build-with-ai-tools-like-cursor-this-is-the-key-to-building-a-high-quali/transcript.md) (2024-09-03)
 - [Cursor AI: 6 Apps Built with Cursor + Strategy Question for Builders](../episodes/2024-08-27-cursor-ai-6-apps-built-with-cursor-strategy-question-for-builders/transcript.md) (2024-08-27)
 - [Cursor AI: Summary and Use-Cases to Code in English](../episodes/2024-08-26-cursor-ai-summary-and-use-cases-to-code-in-english/transcript.md) (2024-08-26)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
-- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

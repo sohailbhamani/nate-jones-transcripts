@@ -1,10 +1,12 @@
 # Youtube
 
-Episodes discussing **Youtube** (52 episodes):
+Episodes discussing **Youtube** (53 episodes):
 
 - [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-nee/transcript.md) (2026-01-09)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [NEW ChatGPT 5.2 Complete Breakdown: Tested on Excel, PowerPoint, Massive Data Sets, and More](../episodes/2025-12-12-new-chatgpt-52-complete-breakdown-tested-on-excel-powerpoint-massive-data-sets-a/transcript.md) (2025-12-12)
@@ -53,4 +55,3 @@ Episodes discussing **Youtube** (52 episodes):
 - [The secret to getting better at job interviews: your job is to de-risk your candidacy for the role](../episodes/2024-07-05-the-secret-to-getting-better-at-job-interviews-your-job-is-t/transcript.md) (2024-07-05)
 - [10 career enders no one will tell you about and how to fix it (soft skills edition)](../episodes/2024-07-04-10-career-enders-no-one-will-tell-you-about-and-how-to-fix-i/transcript.md) (2024-07-04)
 - [Capturing Megatrends: Building a Long-Term Product Strategy with Figma](../episodes/2024-07-03-capturing-megatrends-building-a-long-term-product-strategy-w/transcript.md) (2024-07-03)
-- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

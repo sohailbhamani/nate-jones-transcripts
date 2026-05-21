@@ -1,6 +1,6 @@
 # Azure
 
-Episodes discussing **Azure** (22 episodes):
+Episodes discussing **Azure** (21 episodes):
 
 - [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
@@ -23,4 +23,3 @@ Episodes discussing **Azure** (22 episodes):
 - [Long Take: Foundational Concepts in Artificial Intelligence](../episodes/2024-08-30-long-take-foundational-concepts-in-artificial-intelligence/transcript.md) (2024-08-30)
 - [July 2024 AI Tech News: the strategy behind the Q3 earnings headlines for chips and cloud](../episodes/2024-07-31-july-2024-ai-tech-news-the-strategy-behind-the-q3-earnings-headlines-for-chips-a/transcript.md) (2024-07-31)
 - [AI News: Llama 3.1 Day! Here's Meta's strategy with the Llama 3.1 release and Llama ecosystem](../episodes/2024-07-24-ai-news-llama-31-day-heres-metas-strategy-with-the-llama-31-release-and-llama-ec/transcript.md) (2024-07-24)
-- [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/undated-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md)

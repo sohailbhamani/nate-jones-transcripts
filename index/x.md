@@ -2,6 +2,7 @@
 
 Episodes discussing **X** (100 episodes):
 
+- [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
@@ -15,6 +16,9 @@ Episodes discussing **X** (100 episodes):
 - [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.](../episodes/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy/transcript.md) (2026-02-28)
+- [Claude Code now inspects your browser — here's why it matters #claudecode #ai #agents](../episodes/2026-02-26-claude-code-now-inspects-your-browser-heres-why-it-matters-claudecode-ai-agents/transcript.md) (2026-02-26)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
@@ -98,7 +102,3 @@ Episodes discussing **X** (100 episodes):
 - [Cursor AI: 6 Apps Built with Cursor + Strategy Question for Builders](../episodes/2024-08-27-cursor-ai-6-apps-built-with-cursor-strategy-question-for-builders/transcript.md) (2024-08-27)
 - [Prediction: Disney is coming for Elon and X ASAP](../episodes/2024-08-16-prediction-disney-is-coming-for-elon-and-x-asap/transcript.md) (2024-08-16)
 - [July 2024 AI Tech News: the strategy behind the Q3 earnings headlines for chips and cloud](../episodes/2024-07-31-july-2024-ai-tech-news-the-strategy-behind-the-q3-earnings-headlines-for-chips-a/transcript.md) (2024-07-31)
-- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
-- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
-- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
-- [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md)

@@ -3,6 +3,7 @@
 Episodes discussing **Computer Use** (14 episodes):
 
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
+- [Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)](../episodes/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care/transcript.md) (2026-02-25)
 - [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-go/transcript.md) (2025-12-31)
 - [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/2025-12-31-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md) (2025-12-31)
 - [The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)](../episodes/2025-12-19-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today/transcript.md) (2025-12-19)
@@ -15,4 +16,3 @@ Episodes discussing **Computer Use** (14 episodes):
 - [AI News Today: TSMC, Claude, Apple Intelligence, AI Religions](../episodes/2024-10-25-ai-news-today-tsmc-claude-apple-intelligence-ai-religions/transcript.md) (2024-10-25)
 - [2026 came early: AI can inspire a goat cult meme-coin and be worth 10M+ but AI can't buy me lunch](../episodes/2024-10-24-2026-came-early-ai-can-inspire-a-goat-cult-meme-coin-and-be-worth-10m-but-ai-can/transcript.md) (2024-10-24)
 - [AI News Today: 3 moves toward a 10 trillion dollar future from Stripe, Anthropic, and Perplexity](../episodes/2024-10-23-ai-news-today-3-moves-toward-a-10-trillion-dollar-future-from-stripe-anthropic-a/transcript.md) (2024-10-23)
-- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)

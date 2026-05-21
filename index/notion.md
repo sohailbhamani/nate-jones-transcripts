@@ -6,6 +6,7 @@ Episodes discussing **Notion** (26 episodes):
 - [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
 - [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-nee/transcript.md) (2026-01-09)
 - [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/2026-01-09-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md) (2026-01-09)
 - [The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)](../episodes/2025-12-19-the-4-ai-agents-non-technical-people-actually-need-and-how-to-use-them-today/transcript.md) (2025-12-19)
@@ -27,4 +28,3 @@ Episodes discussing **Notion** (26 episodes):
 - [AI: Where does Human Innovation still matter?](../episodes/2025-05-27-ai-where-does-human-innovation-still-matter/transcript.md) (2025-05-27)
 - [AI News Today: Google AI coding, AI in US Nuclear Policy, OpenAI Agent Workflows  in Notion](../episodes/2024-10-30-ai-news-today-google-ai-coding-ai-in-us-nuclear-policy-opena/transcript.md) (2024-10-30)
 - [10 ways you can become more technical as a PM](../episodes/2024-07-10-10-ways-you-can-become-more-technical-as-a-pm/transcript.md) (2024-07-10)
-- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

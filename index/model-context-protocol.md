@@ -3,6 +3,7 @@
 Episodes discussing **Model Context Protocol** (29 episodes):
 
 - [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-/transcript.md) (2026-01-10)
 - [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/2026-01-10-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md) (2026-01-10)
@@ -30,4 +31,3 @@ Episodes discussing **Model Context Protocol** (29 episodes):
 - [OpenAI Operator: ChatGPT is Free to Roam the Internet and (Mostly) Does What You Say](../episodes/2025-01-24-openai-operator-chatgpt-is-free-to-roam-the-internet-and-mostly-does-what-you-sa/transcript.md) (2025-01-24)
 - [AI News: Pony AI IPO, Claude MCP, Claude Writing Styles](../episodes/2024-11-27-ai-news-pony-ai-ipo-claude-mcp-claude-writing-styles/transcript.md) (2024-11-27)
 - [Claude Model Context Protocol (MCP): AI Has Tools Now and The Future Looks WILD](../episodes/2024-11-27-claude-model-context-protocol-mcp-ai-has-tools-now-and-the-future-looks-wild/transcript.md) (2024-11-27)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)

@@ -2,6 +2,7 @@
 
 Episodes discussing **Mcp** (60 episodes):
 
+- [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
@@ -14,6 +15,8 @@ Episodes discussing **Mcp** (60 episodes):
 - [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
 - [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
@@ -59,6 +62,3 @@ Episodes discussing **Mcp** (60 episodes):
 - [OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain](../episodes/2025-03-12-openai-drops-new-agents-apiecosystem-comparison-with-claude-mcp-and-langchain/transcript.md) (2025-03-12)
 - [AI News: Pony AI IPO, Claude MCP, Claude Writing Styles](../episodes/2024-11-27-ai-news-pony-ai-ipo-claude-mcp-claude-writing-styles/transcript.md) (2024-11-27)
 - [Claude Model Context Protocol (MCP): AI Has Tools Now and The Future Looks WILD](../episodes/2024-11-27-claude-model-context-protocol-mcp-ai-has-tools-now-and-the-future-looks-wild/transcript.md) (2024-11-27)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
-- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

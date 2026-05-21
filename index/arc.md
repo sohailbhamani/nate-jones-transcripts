@@ -1,8 +1,11 @@
 # Arc
 
-Episodes discussing **Arc** (22 episodes):
+Episodes discussing **Arc** (23 episodes):
 
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
+- [Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)](../episodes/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care/transcript.md) (2026-02-25)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
@@ -22,5 +25,3 @@ Episodes discussing **Arc** (22 episodes):
 - [Stop Burning Tokens: The Contract-First Prompting Blueprint No One Talks About](../episodes/2025-08-04-stop-burning-tokens-the-contract-first-prompting-blueprint-no-one-talks-about/transcript.md) (2025-08-04)
 - [OpenAI o3: ARC-AGI, Steam Engines, Coding Challenges, o3 Mini](../episodes/2024-12-21-openai-o3-arc-agi-steam-engines-coding-challenges-o3-mini/transcript.md) (2024-12-21)
 - [OpenAI Announces o3: Nearing Artificial General Intelligence](../episodes/2024-12-20-openai-announces-o3-nearing-artificial-general-intelligence/transcript.md) (2024-12-20)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
-- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)

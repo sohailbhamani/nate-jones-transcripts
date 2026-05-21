@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (169 episodes):
+Episodes discussing **Tutorial** (168 episodes):
 
+- [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [Your brain isn't storage—let AI handle it! #ai #futureofwork](../episodes/2026-03-30-your-brain-isnt-storagelet-ai-handle-it-ai-futureofwork/transcript.md) (2026-03-30)
@@ -26,6 +27,10 @@ Episodes discussing **Tutorial** (169 episodes):
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Nano Banana Pro closed a gap — and unlocked billions #nanobananapro #ai #futureofwork](../episodes/2026-03-01-nano-banana-pro-closed-a-gap-and-unlocked-billions-nanobananapro-ai-futureofwork/transcript.md) (2026-03-01)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.](../episodes/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy/transcript.md) (2026-02-28)
+- [Anthropic's AI strategy isn't features — it's surfaces #anthropic #ai #claude](../episodes/2026-02-27-anthropics-ai-strategy-isnt-features-its-surfaces-anthropic-ai-claude/transcript.md) (2026-02-27)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/2026-01-12-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-m/transcript.md) (2026-01-12)
@@ -165,9 +170,3 @@ Episodes discussing **Tutorial** (169 episodes):
 - [10 career enders no one will tell you about and how to fix it (soft skills edition)](../episodes/2024-07-04-10-career-enders-no-one-will-tell-you-about-and-how-to-fix-i/transcript.md) (2024-07-04)
 - [Capturing Megatrends: Building a Long-Term Product Strategy with Figma](../episodes/2024-07-03-capturing-megatrends-building-a-long-term-product-strategy-w/transcript.md) (2024-07-03)
 - [The True Cost of Wrong Product Decisions: Debunking Common Myths](../episodes/2024-05-21-the-true-cost-of-wrong-product-decisions-debunking-common-my/transcript.md) (2024-05-21)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
-- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/undated-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md)
-- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)
-- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)
-- [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/undated-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md)

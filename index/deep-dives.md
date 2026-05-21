@@ -1,11 +1,13 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (73 episodes):
+Episodes discussing **Deep Dives** (72 episodes):
 
+- [The 3 layers AI can and cannot replace in business! #ai #futureofwork](../episodes/2026-04-05-the-3-layers-ai-can-and-cannot-replace-in-business-ai-futureofwork/transcript.md) (2026-04-05)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [Stop accepting AI output that "looks right." The other 17% is everything and nobody is ready for it.](../episodes/2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody/transcript.md) (2026-03-10)
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
+- [Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)](../episodes/2026-02-26-dont-fall-for-the-stock-market-hype-the-7000-raise-ai-is-giving-you-that-nobody/transcript.md) (2026-02-26)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
@@ -72,6 +74,3 @@ Episodes discussing **Deep Dives** (73 episodes):
 - [CrowdStrike Root Cause Doc: Breakdown of Lessons Learned](../episodes/2024-07-25-crowdstrike-root-cause-doc-breakdown-of-lessons-learned/transcript.md) (2024-07-25)
 - [Product Building Strategy Part 1: How to build product for Dishwasher Problems](../episodes/2024-07-17-product-building-strategy-part-1-how-to-build-product-for-dishwasher-problems/transcript.md) (2024-07-17)
 - [The secret to getting better at job interviews: your job is to de-risk your candidacy for the role](../episodes/2024-07-05-the-secret-to-getting-better-at-job-interviews-your-job-is-t/transcript.md) (2024-07-05)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
-- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)

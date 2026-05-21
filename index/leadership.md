@@ -1,6 +1,6 @@
 # Leadership
 
-Episodes discussing **Leadership** (250 episodes):
+Episodes discussing **Leadership** (249 episodes):
 
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
@@ -33,6 +33,14 @@ Episodes discussing **Leadership** (250 episodes):
 - [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
 - [Why NVIDIA bought Groq — it's not what you think #nvidia #groq #futureofwork #ai](../episodes/2026-03-05-why-nvidia-bought-groq-its-not-what-you-think-nvidia-groq-futureofwork-ai/transcript.md) (2026-03-05)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
+- [ChatGPT convinced him he solved a million-dollar math problem #chatgpt #ai #deepmind](../episodes/2026-02-28-chatgpt-convinced-him-he-solved-a-million-dollar-math-problem-chatgpt-ai-deepmin/transcript.md) (2026-02-28)
+- [My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.](../episodes/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy/transcript.md) (2026-02-28)
+- [Why businesses will test leaders for LLM psychosis #ai #futureofwork #llm](../episodes/2026-02-28-why-businesses-will-test-leaders-for-llm-psychosis-ai-futureofwork-llm/transcript.md) (2026-02-28)
+- [LLM psychosis is real and it's coming to your workplace #deepmind #ai #llm](../episodes/2026-02-27-llm-psychosis-is-real-and-its-coming-to-your-workplace-deepmind-ai-llm/transcript.md) (2026-02-27)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
+- [Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)](../episodes/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care/transcript.md) (2026-02-25)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
@@ -243,12 +251,3 @@ Episodes discussing **Leadership** (250 episodes):
 - [10 career enders no one will tell you about and how to fix it (soft skills edition)](../episodes/2024-07-04-10-career-enders-no-one-will-tell-you-about-and-how-to-fix-i/transcript.md) (2024-07-04)
 - [Capturing Megatrends: Building a Long-Term Product Strategy with Figma](../episodes/2024-07-03-capturing-megatrends-building-a-long-term-product-strategy-w/transcript.md) (2024-07-03)
 - [The True Cost of Wrong Product Decisions: Debunking Common Myths](../episodes/2024-05-21-the-true-cost-of-wrong-product-decisions-debunking-common-my/transcript.md) (2024-05-21)
-- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/undated-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md)
-- [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/undated-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
-- [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/undated-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
-- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)
-- [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md)

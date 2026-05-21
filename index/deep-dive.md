@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (64 episodes):
+Episodes discussing **Deep Dive** (66 episodes):
 
+- [The 3 layers AI can and cannot replace in business! #ai #futureofwork](../episodes/2026-04-05-the-3-layers-ai-can-and-cannot-replace-in-business-ai-futureofwork/transcript.md) (2026-04-05)
 - [Industrial-scale AI is here: what execs must know! #ai #nvidia #openai](../episodes/2026-03-27-industrial-scale-ai-is-here-what-execs-must-know-ai-nvidia-openai/transcript.md) (2026-03-27)
 - [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
@@ -9,6 +10,10 @@ Episodes discussing **Deep Dive** (64 episodes):
 - [Don't mistake AI visibility for actual control #ai #futureofwork](../episodes/2026-03-14-dont-mistake-ai-visibility-for-actual-control-ai-futureofwork/transcript.md) (2026-03-14)
 - [Stop accepting AI output that "looks right." The other 17% is everything and nobody is ready for it.](../episodes/2026-03-10-stop-accepting-ai-output-that-looks-right-the-other-17-is-everything-and-nobody/transcript.md) (2026-03-10)
 - [45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.](../episodes/2026-03-08-45-people-200m-revenue-the-question-nobodys-asking-about-ai-and-your-team-size/transcript.md) (2026-03-08)
+- [Claude Code now inspects your browser — here's why it matters #claudecode #ai #agents](../episodes/2026-02-26-claude-code-now-inspects-your-browser-heres-why-it-matters-claudecode-ai-agents/transcript.md) (2026-02-26)
+- [Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)](../episodes/2026-02-26-dont-fall-for-the-stock-market-hype-the-7000-raise-ai-is-giving-you-that-nobody/transcript.md) (2026-02-26)
+- [Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)](../episodes/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care/transcript.md) (2026-02-25)
+- [How to avoid LLM psychosis — 2 tips you need NOW #llm #ai #futureofwork](../episodes/2026-02-22-how-to-avoid-llm-psychosis-2-tips-you-need-now-llm-ai-futureofwork/transcript.md) (2026-02-22)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
@@ -63,6 +68,3 @@ Episodes discussing **Deep Dive** (64 episodes):
 - [CrowdStrike Root Cause Doc: Breakdown of Lessons Learned](../episodes/2024-07-25-crowdstrike-root-cause-doc-breakdown-of-lessons-learned/transcript.md) (2024-07-25)
 - [10 ways you can become more technical as a PM](../episodes/2024-07-10-10-ways-you-can-become-more-technical-as-a-pm/transcript.md) (2024-07-10)
 - [The secret to getting better at job interviews: your job is to de-risk your candidacy for the role](../episodes/2024-07-05-the-secret-to-getting-better-at-job-interviews-your-job-is-t/transcript.md) (2024-07-05)
-- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/undated-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md)
-- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
-- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)

@@ -1,10 +1,59 @@
 {
   "total_videos": 544,
   "date_range": {
-    "newest": "2026-04-04",
-    "oldest": ""
+    "newest": "2026-04-05",
+    "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The 3 layers AI can and cannot replace in business! #ai #futureofwork",
+      "video_id": "suNE_u6fBVQ",
+      "youtube_url": "https://www.youtube.com/watch?v=suNE_u6fBVQ",
+      "publish_date": "2026-04-05",
+      "duration": "1:01",
+      "duration_seconds": 61,
+      "view_count": 7916,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally \u2014 but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside scoop on how AI is bifurcating the economy and what that means for where you invest:\n\n \u2022 Why mid-tier digital firms face an existential squeeze right now\n \u2022 How physical, local markets are actually protected from AI disruption\n \u2022 What the three-layer value chain reveals about your real vulnerability\n \u2022 Where AI native startups must run to build anything defensible\n\nOperators and leaders who accurately diagnose where they sit in this reshaped economy will make smarter AI investments \u2014 those who don't will spend money accelerating a losing position.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "automation at work",
+        "future of work",
+        "AI labor market",
+        "upskilling with AI",
+        "competitive strategy AI",
+        "mid-tier firm AI risk",
+        "AI native startups",
+        "physical vs digital markets",
+        "AI investment strategy",
+        "barbell economy",
+        "contestable markets",
+        "AI for operators",
+        "AI strategy for teams",
+        "professional services AI",
+        "AI career advice"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The 3 layers AI can and cannot replace in business"
+      ],
+      "transcript_chars": 1115,
+      "folder": "2026-04-05-the-3-layers-ai-can-and-cannot-replace-in-business-ai-futureofwork"
+    },
     {
       "title": "The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia",
       "video_id": "rEHVyGi0owo",
@@ -57,6 +106,82 @@
       ],
       "transcript_chars": 1099,
       "folder": "2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia"
+    },
+    {
+      "title": "Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.",
+      "video_id": "D-Ww1wLIp60",
+      "youtube_url": "https://www.youtube.com/watch?v=D-Ww1wLIp60",
+      "publish_date": "2026-04-04",
+      "duration": "22:30",
+      "duration_seconds": 1350,
+      "view_count": 50744,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/every-ai-agent-you-use-has-the-same?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with AI agents that claim to do the work for you?\n\nThe common story is that outcome-focused AI agents have finally arrived \u2014 but the reality is that most of them still can't answer three basic questions.\n\nIn this video, I share the inside scoop on which AI agents actually deliver outcomes and which are still living on demo energy:\n\n \u2022 Why verifiability is the hidden foundation of every real agent\n \u2022 How three questions separate genuine agents from expensive hype\n \u2022 What Lindy, Google Opal, Sauna, and Obvious actually get right\n \u2022 Where the three-layer architecture points for builders who want control\n\nOperators and builders who apply these three questions before committing will avoid the hype cycle and invest in tools that compound value over time.\n\nChapters\n00:00 Why Outcome Agents Exist Now\n01:45 The $285 Billion SaaS Sell-Off Explained\n03:30 Co-Work's Real Limitations\n05:15 Why Code Made Agents Work First\n07:00 Three Questions That Separate Real from Fake\n09:00 Scoring Claude Co-Work Against the Framework\n11:00 Lindy: Executive Automation or Overhyped?\n13:30 Sauna: Memory as Architecture, Not Feature\n16:00 Google Opal: Free but Fragile\n18:30 Obvious: Most Ambitious, Least Known\n20:30 Three Principles Every Real Agent Needs\n22:30 The Three-Layer Architecture for Builders\n24:30 Build vs. Buy and What Comes Next\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "future of work",
+        "automation at work",
+        "large language models",
+        "Claude",
+        "Gemini",
+        "AI labor market",
+        "outcome agents",
+        "agentic workflows",
+        "agent architecture",
+        "Google Opal review",
+        "Lindy AI",
+        "Sauna AI",
+        "SaaS disruption",
+        "AI tools for executives",
+        "build vs buy AI",
+        "AI strategy for teams"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Salesforce",
+          "Cursor",
+          "Zapier",
+          "X",
+          "Bolt"
+        ],
+        "people": [
+          "Toby Look"
+        ],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Zapier",
+          "Make",
+          "MCP",
+          "Artifacts",
+          "Canvas"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "The hottest trend in agents is claiming they do the work for you and you just can sit back and have the coffee, right"
+      ],
+      "transcript_chars": 27453,
+      "folder": "2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works"
     },
     {
       "title": "I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.",
@@ -3893,6 +4018,829 @@
       ],
       "transcript_chars": 29845,
       "folder": "2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci"
+    },
+    {
+      "title": "ChatGPT convinced him he solved a million-dollar math problem #chatgpt #ai #deepmind",
+      "video_id": "m7r4iP2NqNc",
+      "youtube_url": "https://www.youtube.com/watch?v=m7r4iP2NqNc",
+      "publish_date": "2026-02-28",
+      "duration": "1:16",
+      "duration_seconds": 76,
+      "view_count": 25198,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Self-Audit Framework: https://natesnewsletter.substack.com/p/if-a-former-deepmind-engineering?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________\nWhat's really happening with LLM-induced psychosis in leadership? The common story is that AI just makes us smarter \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on a psychiatric risk emerging in 2026 workplaces:\n- Why David Budden's Navier-Stokes claim reveals LLM psychosis symptoms\n- How leaders fall victim to confirmation bias with ChatGPT\n- What happens when domain expertise gets replaced by AI confidence\n- Where businesses will start testing executives for undue AI influence\n\nThe gap between using AI as a tool and letting it hijack your judgment will define stable leadership in 2026, and executives who can't distinguish their expertise from the LLM's will become liabilities to their organizations.\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "LLM psychosis",
+        "AI leadership",
+        "ChatGPT risks",
+        "large language models",
+        "AI strategy",
+        "future of work",
+        "domain expertise",
+        "prompt engineering",
+        "OpenAI",
+        "AI jobs",
+        "executive leadership",
+        "workplace AI",
+        "David Budden",
+        "Navier Stokes",
+        "AI mental health",
+        "confirmation bias AI",
+        "LLM safety",
+        "AI workplace risks"
+      ],
+      "content_type": "Case Study",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "DeepMind"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# ChatGPT convinced him he solved a million-dollar math problem #chatgpt #ai #deepmind\nThe most prominent example recently has been David Buden, a former director of engineering at Google Deep Mind, "
+      ],
+      "transcript_chars": 1133,
+      "folder": "2026-02-28-chatgpt-convinced-him-he-solved-a-million-dollar-math-problem-chatgpt-ai-deepmin"
+    },
+    {
+      "title": "My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.",
+      "video_id": "2ghhiPLg-jg",
+      "youtube_url": "https://www.youtube.com/watch?v=2ghhiPLg-jg",
+      "publish_date": "2026-02-28",
+      "duration": "29:41",
+      "duration_seconds": 1781,
+      "view_count": 56272,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/my-kids-do-long-division-by-hand?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________________________\nWhat's really happening when AI tutors double learning outcomes in controlled studies but college professors report students can no longer read a full chapter? The common story is that AI will either save education or destroy it\u2014but the reality is more interesting when the calculator moment of the 1970s reveals the principle we've forgotten.\n\nIn this video, I share the inside scoop on why foundation before leverage is the only position that makes sense:\n\n \u2022 Why my 10-year-old does long division by hand and vibe codes with Claude in the same week\n \u2022 How specification quality determines the gap between agentic success and catastrophe\n \u2022 What the metacognition skill of thinking about your own thinking actually looks like in practice\n \u2022 Where cognitive offloading quietly erodes capability before anyone notices the muscle weakening\n\nFor parents watching the world change faster than any curriculum can track, the gift we give our kids is the cognitive architecture that lets them direct intelligence rather than depend on it.\n\nChapters\n00:00 Nature Says AGI Has Arrived\u2014And We Haven't Figured Out Education\n02:30 The Calculator Moment, Except It's Everything\n05:00 Why My Kids Do Math by Hand Before Using AI\n07:30 The Add Enemies Conversation: Debugging Intent\n10:00 Karpathy's Insight: You Cannot Detect AI in Homework\n13:00 Metacognition: The Defining Competence of the AI Age\n15:00 Learned Helplessness and the Quiet Erosion of Capability\n17:19 Three-Quarters of Teenagers Using AI for Emotional Support\n19:30 What I'm Actually Doing With My Kids\n22:00 Seven Principles for Raising Humans Who Can Direct AI\n26:00 The Gift We Give: Cognitive Architecture for an Unknown World\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "edtech",
+        "parenting",
+        "parenting tips",
+        "ai learning",
+        "ai for kids",
+        "teaching",
+        "artificial intelligence",
+        "future of learning",
+        "ai ethics",
+        "ai in schools"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Tesla",
+          "DeepMind",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Shortcuts",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "Different from 1975, but i think the principle is not"
+      ],
+      "summary": [
+        "According to one of the most popular scientific magazines in the world, artificial general intelligence is here now today"
+      ],
+      "transcript_chars": 31391,
+      "folder": "2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy"
+    },
+    {
+      "title": "Why businesses will test leaders for LLM psychosis #ai #futureofwork #llm",
+      "video_id": "lKM8vZRG7eE",
+      "youtube_url": "https://www.youtube.com/watch?v=lKM8vZRG7eE",
+      "publish_date": "2026-02-28",
+      "duration": "2:46",
+      "duration_seconds": 166,
+      "view_count": 5848,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Self-Audit Framework: https://natesnewsletter.substack.com/p/if-a-former-deepmind-engineering?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________\nWhat's really happening with LLM-induced psychosis in leadership? The common story is that AI just makes us smarter \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on a psychiatric risk emerging in 2026 workplaces:\n- Why David Budden's Navier-Stokes claim reveals LLM psychosis symptoms\n- How leaders fall victim to confirmation bias with ChatGPT\n- What happens when domain expertise gets replaced by AI confidence\n- Where businesses will start testing executives for undue AI influence\n\nThe gap between using AI as a tool and letting it hijack your judgment will define stable leadership in 2026, and executives who can't distinguish their expertise from the LLM's will become liabilities to their organizations.\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "LLM psychosis",
+        "AI leadership",
+        "ChatGPT risks",
+        "large language models",
+        "AI strategy",
+        "future of work",
+        "domain expertise",
+        "prompt engineering",
+        "OpenAI",
+        "AI jobs",
+        "executive leadership",
+        "workplace AI",
+        "David Budden",
+        "Navier Stokes",
+        "AI mental health",
+        "confirmation bias AI",
+        "LLM safety",
+        "AI workplace risks"
+      ],
+      "content_type": "Opinion",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Stable leaders are going to be able to do that, and people who are unstable are going to need AI with them all the time in order to make any kind of decision like that"
+      ],
+      "transcript_chars": 3251,
+      "folder": "2026-02-28-why-businesses-will-test-leaders-for-llm-psychosis-ai-futureofwork-llm"
+    },
+    {
+      "title": "Anthropic's AI strategy isn't features \u2014 it's surfaces #anthropic #ai #claude",
+      "video_id": "C_R8_Dd1x00",
+      "youtube_url": "https://www.youtube.com/watch?v=C_R8_Dd1x00",
+      "publish_date": "2026-02-27",
+      "duration": "1:24",
+      "duration_seconds": 84,
+      "view_count": 18379,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Guide + Prompts: https://natesnewsletter.substack.com/p/the-complete-wait-i-can-use-claude?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________\nWhat's really happening with Anthropic's December releases that nobody is connecting? The common story is that these are scattered feature updates \u2014 but the reality is a coherent strategy shift from assistant to agent operating system.\n\nIn this video, I share the inside scoop on what Christmas Claude reveals about Anthropic's 2026 vision:\n- Why browser, Slack, terminal, and mobile all got touched at once\n- How Claude Code is positioning differently than Cursor and Codex\n- What safety-forward sandboxing means for enterprise agent adoption\n- Where the unified work queue signals Claude is heading next\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI agents",
+        "Anthropic",
+        "Claude",
+        "Claude Code",
+        "LLMs",
+        "AI strategy",
+        "coding agents",
+        "Cursor",
+        "Codex",
+        "GitHub Copilot",
+        "agent SDK",
+        "AI safety",
+        "enterprise AI",
+        "Slack integration",
+        "browser agents",
+        "future of work",
+        "AI workflow"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Anthropic's AI strategy isn't features \u2014 it's surfaces #anthropic #ai #claude\nThey doubled down on the terminal because it's where developers are already loving the execution experience, the abilit"
+      ],
+      "transcript_chars": 1565,
+      "folder": "2026-02-27-anthropics-ai-strategy-isnt-features-its-surfaces-anthropic-ai-claude"
+    },
+    {
+      "title": "LLM psychosis is real and it's coming to your workplace #deepmind #ai #llm",
+      "video_id": "U5N9NvI_p8o",
+      "youtube_url": "https://www.youtube.com/watch?v=U5N9NvI_p8o",
+      "publish_date": "2026-02-27",
+      "duration": "2:16",
+      "duration_seconds": 136,
+      "view_count": 15943,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Self-Audit Framework: https://natesnewsletter.substack.com/p/if-a-former-deepmind-engineering?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________\nWhat's really happening with LLM-induced psychosis in leadership? The common story is that AI just makes us smarter \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on a psychiatric risk emerging in 2026 workplaces:\n- Why David Budden's Navier-Stokes claim reveals LLM psychosis symptoms\n- How leaders fall victim to confirmation bias with ChatGPT\n- What happens when domain expertise gets replaced by AI confidence\n- Where businesses will start testing executives for undue AI influence\n\nThe gap between using AI as a tool and letting it hijack your judgment will define stable leadership in 2026, and executives who can't distinguish their expertise from the LLM's will become liabilities to their organizations.\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "LLM psychosis",
+        "AI leadership",
+        "ChatGPT risks",
+        "large language models",
+        "AI strategy",
+        "future of work",
+        "domain expertise",
+        "prompt engineering",
+        "OpenAI",
+        "AI jobs",
+        "executive leadership",
+        "workplace AI",
+        "David Budden",
+        "Navier Stokes",
+        "AI mental health",
+        "confirmation bias AI",
+        "LLM safety",
+        "AI workplace risks"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "DeepMind"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# LLM psychosis is real and it's coming to your workplace #deepmind #ai #llm\nLM psychosis is going to be a really hot topic in 2026"
+      ],
+      "transcript_chars": 2174,
+      "folder": "2026-02-27-llm-psychosis-is-real-and-its-coming-to-your-workplace-deepmind-ai-llm"
+    },
+    {
+      "title": "'Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.",
+      "video_id": "BpibZSMGtdY",
+      "youtube_url": "https://www.youtube.com/watch?v=BpibZSMGtdY",
+      "publish_date": "2026-02-27",
+      "duration": "41:12",
+      "duration_seconds": 2472,
+      "view_count": 123459,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/prompting-just-split-into-4-different?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening when two people sit down with the same model on the same Tuesday and one of them produces a week's worth of work before lunch? The common story is that better prompting means better instructions\u2014but the reality is more interesting when autonomous agents running for hours and days break every assumption of synchronous interaction.\n\nIn this video, I share the inside scoop on why prompting has diverged into four distinct disciplines most people aren't practicing:\n\n\u2022 Why prompt craft has become table stakes while specification engineering determines the quality ceiling\n\u2022 How Toby Lutke's context engineering discipline makes his emails tighter and his memos better\n\u2022 What the five primitives of specification engineering look like in practice\n\u2022 Where the 10x gap lives between people who see all four layers and people practicing only one\n\nFor knowledge workers watching agents run for days without checking in, everything you relied on in conversation must be encoded before the agent starts.\n\nChapters\n00:00 Why Last Month's Prompting Is Already Obsolete\n01:30 How Agents Changed What Good Prompting Means\n03:00 The 10x Gap: Same Model, Two Different Outcomes\n05:00 Toby Lutke and the Case for Context Engineering\n06:30 Why Better Prompting Makes You a Better Communicator\n07:30 Introducing the Four-Discipline Framework\n08:45 Discipline One: Prompt Craft\n10:30 Discipline Two: Context Engineering\n13:00 Discipline Three: Intent Engineering\n15:00 The Klarna Warning: Perfect Context, Wrong Intent\n16:15 Discipline Four: Specification Engineering\n19:00 How Specs Saved Anthropic's Own Agent Builds\n21:00 The Five Primitives of Specification Engineering\n21:30 Primitive One: Self-Contained Problem Statements\n23:00 Primitive Two: Acceptance Criteria\n24:30 Primitive Three: Constraint Architecture\n26:00 Primitive Four: Task Decomposition\n27:45 Primitive Five: Evaluation Design\n29:00 Where to Start \u2014 In Order\n30:30 Why This Cleans Up Human Communication Too\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "prompt engineering",
+        "LLMs",
+        "AI agents",
+        "context engineering",
+        "specification engineering",
+        "intent engineering",
+        "AI productivity",
+        "upskilling with AI",
+        "future of work",
+        "AI strategy for teams",
+        "autonomous agents",
+        "Claude",
+        "OpenAI",
+        "AI career advice",
+        "agentic workflows",
+        "AI tools for builders",
+        "AI future of work"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Shopify",
+          "Notion",
+          "GitHub",
+          "LinkedIn"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Make",
+          "MCP",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus",
+          "Opus 4.5",
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [
+        "Prompting is the broad skill of providing input to ai systems so that they can do useful work"
+      ],
+      "summary": [
+        "If you're prompting like it's last month, you're already too late"
+      ],
+      "transcript_chars": 42153,
+      "folder": "2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe"
+    },
+    {
+      "title": "Claude Code now inspects your browser \u2014 here's why it matters #claudecode #ai #agents",
+      "video_id": "TZ_5GHNqOnw",
+      "youtube_url": "https://www.youtube.com/watch?v=TZ_5GHNqOnw",
+      "publish_date": "2026-02-26",
+      "duration": "1:49",
+      "duration_seconds": 109,
+      "view_count": 50889,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Guide + Prompts: https://natesnewsletter.substack.com/p/the-complete-wait-i-can-use-claude?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________\nWhat's really happening with Anthropic's December releases that nobody is connecting? The common story is that these are scattered feature updates \u2014 but the reality is a coherent strategy shift from assistant to agent operating system.\n\nIn this video, I share the inside scoop on what Christmas Claude reveals about Anthropic's 2026 vision:\n- Why browser, Slack, terminal, and mobile all got touched at once\n- How Claude Code is positioning differently than Cursor and Codex\n- What safety-forward sandboxing means for enterprise agent adoption\n- Where the unified work queue signals Claude is heading next\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI agents",
+        "Anthropic",
+        "Claude",
+        "Claude Code",
+        "LLMs",
+        "AI strategy",
+        "coding agents",
+        "Cursor",
+        "Codex",
+        "GitHub Copilot",
+        "agent SDK",
+        "AI safety",
+        "enterprise AI",
+        "Slack integration",
+        "browser agents",
+        "future of work",
+        "AI workflow"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Claude Code now inspects your browser \u2014 here's why it matters #claudecode #ai #agents\nYou can basically tell cloud code, have a look in the browser, inspect the DOM, look at the console logs, look "
+      ],
+      "transcript_chars": 1693,
+      "folder": "2026-02-26-claude-code-now-inspects-your-browser-heres-why-it-matters-claudecode-ai-agents"
+    },
+    {
+      "title": "Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)",
+      "video_id": "q6pbQ5li5Cg",
+      "youtube_url": "https://www.youtube.com/watch?v=q6pbQ5li5Cg",
+      "publish_date": "2026-02-26",
+      "duration": "32:32",
+      "duration_seconds": 1952,
+      "view_count": 61472,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption\u2014but the reality is more interesting when both the doomer and boomer narratives are wrong about the same thing: speed.\n\nIn this video, I share the inside scoop on why the gap between AI capability and societal adoption is the real story:\n\n\u2022 Why Cittrini's 2028 memo went viral while the counter-evidence barely registers\n\u2022 How four inertia forces\u2014regulatory, organizational, cultural, and trust\u2014slow everything down\n\u2022 What Toby Lutke's mandate at Shopify reveals about collapsing the integration timeline\n\u2022 Where asymmetric economic returns concentrate while the gap stays wide\n\nFor anyone watching the stock market panic while building real AI fluency, the capability-dissipation gap is the greatest generational opportunity in the workforce.\n\nChapters\n00:00 The Substack Post That Crashed the Market\n01:30 Steel-Manning the Doom Case: The 2028 Scenario\n03:15 Why the Doom Narrative Goes Viral Every Time\n04:30 The Bull Case: What the Bears Get Wrong on Consumption\n06:30 AI Agents and the Services Cost Compression Argument\n08:15 Business Formation and the One-Person Business Boom\n09:30 The Part Nobody Is Talking About: Social Inertia\n11:00 Regulatory Inertia: Why COBOL Isn't Going Anywhere\n12:30 Organizational Inertia: The Gap Between Strategy and Headcount\n14:00 Cultural Inertia: Even Toby Had to Issue a Mandate\n16:00 Trust Inertia: Verification Is a Capital Investment\n17:15 The Two Curves: Capability vs. Societal Dissipation\n19:30 Why the Gap Between Those Curves Is Your Opportunity\n21:00 Large Firms vs. Small Firms: Who Wins and Why\n23:00 The Shopify Case Study: How Toby Shortens the Track\n25:30 Chess, Magnus Carlsen, and What AI Gets Wrong About Craft\n26:30 Three Things to Walk Away With\n29:00 Your Actual Plan: Map the Gap in Your Domain\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI labor market",
+        "future of work",
+        "AI jobs",
+        "LLMs",
+        "AI career advice",
+        "AI agents",
+        "automation at work",
+        "AI economic impact",
+        "upskilling with AI",
+        "AI adoption",
+        "AI productivity",
+        "AI strategy for teams",
+        "capability dissipation gap",
+        "AI future of work",
+        "OpenAI",
+        "Anthropic",
+        "AI workforce skills"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Shopify",
+          "IBM"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Make"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "A function of complexity",
+        "Both doomer and boomer narratives assume that ai capabilities translate incredibly rapidly into economic impact"
+      ],
+      "summary": [
+        "The $7,000 Raise AI Is Giving You (That Nobody Mentions)\nA fictional recession just crashed the stock market"
+      ],
+      "transcript_chars": 32028,
+      "folder": "2026-02-26-dont-fall-for-the-stock-market-hype-the-7000-raise-ai-is-giving-you-that-nobody"
+    },
+    {
+      "title": "Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)",
+      "video_id": "0v9ixCWNhPo",
+      "youtube_url": "https://www.youtube.com/watch?v=0v9ixCWNhPo",
+      "publish_date": "2026-02-25",
+      "duration": "35:40",
+      "duration_seconds": 2140,
+      "view_count": 90294,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage\u2014but the reality is more interesting when you recognize this is a Napster problem, and the thousand-to-one economics of extraction apply to everyone on earth.\n\nIn this video, I share the inside scoop on why distillation changes how you should evaluate every AI tool you're using:\n\n\u2022 Why $2 million in API costs can extract capabilities that cost $2 billion to develop\n\u2022 How distilled models occupy narrower capability manifolds that break on agentic work\n\u2022 What the \"off-manifold probe\" reveals that no benchmark captures\n\u2022 Where the performance shadow between frontier and distilled models is widest\n\nFor anyone building real systems on AI, the provenance of a model is not just an ethical question\u2014it's a capability question, and where the weights come from determines how the model breaks.\n\nChapters\n00:00 Three Chinese Labs Just Got Caught Stealing Claude\n01:30 Why This Is a Napster Problem, Not a Cold War Problem\n03:00 The Pressure Gradient: Why Copying Is Inevitable\n04:15 What Distillation Actually Does to a Model\n06:00 The Narrow Manifold Problem Explained\n07:30 Why Benchmarks Miss the Real Performance Gap\n09:00 DeepSeek's Chain-of-Thought Extraction Operation\n10:15 Moonshot, Minimax, and the Hydra Account Networks\n12:00 The Economics: $2 Million to Steal $2 Billion in Capability\n13:30 Why Time Is the Only Thing Safeguards Actually Buy\n15:00 The Incentive Applies to Everyone, Not Just China\n16:30 Meta, Talent Acquisition, and the Same Economic Logic\n18:00 The Two-Axis Framework: Task Scope vs. Model Provenance\n20:00 How to Run an Off-Manifold Probe on Any Model\n22:00 What This Means If You Work at a Frontier Lab\n23:15 What This Means for Teams Choosing AI Tools\n25:00 What Executives Need to Understand About the Capability Ceiling\n26:30 Model Routing as Competitive Advantage\n28:00 Three Things to Walk Away With\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "frontier AI models",
+        "AI model distillation",
+        "agentic workflows",
+        "AI productivity",
+        "AI strategy for teams",
+        "AI tools for builders",
+        "AI future of work",
+        "model routing",
+        "AI procurement",
+        "AI career advice",
+        "upskilling with AI",
+        "AI labor market"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Arc",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": [
+          "Claude Opus",
+          "Opus 4.5",
+          "Sonnet 4",
+          "Gemini",
+          "Gemini 3",
+          "Llama",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Here's What It Broke (And Why You Should Care)\nAnthropic just caught three Chinese labs stealing Claude's brain"
+      ],
+      "transcript_chars": 37177,
+      "folder": "2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care"
+    },
+    {
+      "title": "Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.",
+      "video_id": "QWzLPn164w0",
+      "youtube_url": "https://www.youtube.com/watch?v=QWzLPn164w0",
+      "publish_date": "2026-02-24",
+      "duration": "29:41",
+      "duration_seconds": 1781,
+      "view_count": 145857,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance\u2014but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong objective.\n\nIn this video, I share the inside scoop on why the gap between AI capability and organizational value is the most important unsolved problem in enterprise AI:\n\n\u2022 Why 74% of companies report no tangible value from AI despite massive investment\n\u2022 How Microsoft Copilot stalled at 5% deployment despite 85% Fortune 500 adoption\n\u2022 What separates context engineering from intent engineering\u2014and why intent is the missing layer\n\u2022 Where the race has shifted from who has the smartest model to who has the clearest organizational intent\n\nChapters\n00:00 The Klarna Story Everyone Got Wrong\n01:30 What the AI Actually Optimized For \u2014 and Why That Was the Problem\n03:00 Prompt Engineering, Context Engineering, Intent Engineering\n05:00 Why Context Without Intent Is a Loaded Weapon With No Target\n06:30 The Investment Numbers vs. the Results Numbers\n08:00 Why Microsoft Copilot Stalled at 3% Adoption\n09:30 Three Layers of Organizational AI Infrastructure\n10:30 Layer One: Unified Context Infrastructure\n12:30 The Shadow Agents Problem\n13:45 MCP Adoption vs. Organizational Implementation\n15:00 Layer Two: The Coherent AI Worker Toolkit\n17:00 Layer Three: Intent Engineering Proper\n19:00 Why OKRs Don't Work for Agents\n20:30 What Machine-Readable Organizational Intent Actually Looks Like\n22:30 Delegation Frameworks and Encoded Judgment\n24:00 Why This Hasn't Been Built Yet\n25:30 The Two-Cultures Problem: Executives vs. Engineers\n27:00 What a Solution Actually Looks Like\n28:30 The New Role: AI Workflow Architect\n29:30 The Race Is an Intent Race Now\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nFor leaders watching agents run for weeks and soon for months, the question is no longer can AI do this task\u2014it's can AI do this task in a way that serves what we actually need?\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "intent engineering",
+        "LLMs",
+        "context engineering",
+        "AI future of work",
+        "enterprise AI",
+        "AI productivity",
+        "AI strategy for teams",
+        "autonomous agents",
+        "upskilling with AI",
+        "AI labor market",
+        "prompt engineering",
+        "agentic workflows",
+        "Anthropic",
+        "AI career advice",
+        "AI tools for builders",
+        "AI workforce skills"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Salesforce",
+          "Slack",
+          "DeepMind",
+          "Perplexity",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Copilot",
+          "Cursor",
+          "Perplexity",
+          "LangChain",
+          "Make",
+          "MCP",
+          "Model Context Protocol",
+          "Opus"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [
+        "Organizations need to develop something that mostly doesn't exist",
+        "That the most important ai investment in 2026 isn't really a model subscription"
+      ],
+      "summary": [
+        "In January, CLA reported its AI agent now does the work of 853 full-time employees and has saved the company $60 million"
+      ],
+      "transcript_chars": 28919,
+      "folder": "2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes"
+    },
+    {
+      "title": "Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.",
+      "video_id": "8jKAT8GNDE0",
+      "youtube_url": "https://www.youtube.com/watch?v=8jKAT8GNDE0",
+      "publish_date": "2026-02-23",
+      "duration": "36:37",
+      "duration_seconds": 2197,
+      "view_count": 252081,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/gemini-31-pro-broke-every-benchmark?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Google ships the smartest AI model on the planet, prices it at a seventh of the competition, and doesn't care if you keep using Claude or ChatGPT? The common story is that this is another benchmark race\u2014but the reality is more interesting when the company generating $100 billion in annual free cash flow is playing a fundamentally different game.\n\nIn this video, I share the inside scoop on why Gemini 3.1 Pro reveals more about problem types than model rankings:\n\n\u2022 Why Google's vertical stack from TPU silicon to Nobel Prize research is an impregnable fortress\n\u2022 How Deep Think solved 18 previously unsolved problems across math, physics, and economics\n\u2022 What separates reasoning problems from effort, coordination, ambiguity, and emotional intelligence problems\n\u2022 Where the question \"which AI should I use\" becomes the wrong question entirely\n\nChapters\n00:00 Google Shipped the Smartest Model \u2014 and Doesn't Care If You Use It\n01:30 The Arc AGI 2 Score That Actually Matters\n03:00 Why Demis Hassabis Has Said the Same Sentence for 15 Years\n04:30 Google's Vertical Stack: From Silicon to Nobel Prizes\n06:00 Why Google Can Afford to Lose the Product Race\n07:15 Gemini 3.1 Pro vs. Opus 4.6 vs. Codex 5.3: The Real Comparison\n09:00 Better Engine vs. Better Car vs. Better Transmission\n10:15 What Gemini Deep Think Actually Solved\n12:00 Hard Is Not One Thing: Six Problem Types AI Solves Differently\n13:00 Reasoning Problems: Where Gemini 3.1 Pro Wins\n14:15 Effort Problems: Where Agentic Models Win\n15:30 Coordination Problems: Where Tool-Augmented Models Win\n16:45 Emotional Intelligence Problems: Where AI Doesn't Go\n17:45 Judgment and Courage Problems: Still Entirely Human\n18:45 Ambiguity Problems: The Hardest Category of All\n20:00 What Percentage of Your Work Is Actually a Reasoning Problem?\n21:30 Real Business Reasoning Problems \u2014 and How Rare They Are\n23:30 Three Practical Takeaways for Your Work\n24:00 Stop Reading Benchmarks, Start Mapping Your Domain\n25:30 Disentangle the Dimensions of Difficulty in Your Work\n27:00 Build the Taste to Evaluate AI Output in Your Field\n28:30 Google's Quiet Game and What It Means for Everyone Else\n\nFor knowledge workers watching the model landscape differentiate, the margin between routing models well and using one model for everything is widening every single month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Gemini 3.1 Pro",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "Google DeepMind",
+        "AI productivity",
+        "AI future of work",
+        "AI career advice",
+        "model routing",
+        "AI tools for builders",
+        "upskilling with AI",
+        "AI strategy for teams",
+        "frontier AI models",
+        "agentic workflows",
+        "AI workforce skills"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "DeepMind",
+          "LinkedIn",
+          "YouTube",
+          "AWS"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Copilot",
+          "Codex",
+          "Arc",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "Different game from anybody else"
+      ],
+      "summary": [
+        "# Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much"
+      ],
+      "transcript_chars": 38353,
+      "folder": "2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the"
+    },
+    {
+      "title": "Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)",
+      "video_id": "OMb5oTlC_q0",
+      "youtube_url": "https://www.youtube.com/watch?v=OMb5oTlC_q0",
+      "publish_date": "2026-02-22",
+      "duration": "36:00",
+      "duration_seconds": 2160,
+      "view_count": 83462,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-trust-architecture?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when an AI agent autonomously researches a stranger's identity, constructs a psychological profile, and publishes a personalized attack\u2014all because a maintainer did his job and closed a pull request? The common story is that something went wrong\u2014but the reality is more unsettling when nothing went wrong at all.\n\nIn this video, I share the inside scoop on why trust built on intent will fail at every level of human-AI interaction:\n\n\u2022 Why Anthropic's research showed 37% of agents still blackmailed executives despite explicit safety instructions\n\u2022 How voice cloning scams surged 442% using just three seconds of scraped audio\n\u2022 What a screenwriter's 87 past lives reveal about chatbot psychosis and engagement optimization\n\u2022 Where the same structural failure repeats from enterprise agent fleets to family phone calls\n\nChapters\n00:00 The Day an AI Agent Destroyed a Stranger's Reputation\n01:30 Why Nothing Went Wrong \u2014 and That's the Problem\n03:00 The Pattern Repeating at Every Scale\n04:15 Introducing Trust Architecture\n05:30 The Anthropic Research That Should Have Changed Everything\n07:15 What Happened When They Added Explicit Safety Instructions\n08:30 Level One: Organizational Trust Architecture\n10:00 82 Agents for Every Human Employee\n11:15 Why Agents Are Personnel Risk, Not Infrastructure\n12:30 The Hallucinated Board Decks No One Questioned\n14:00 What Structural Agent Governance Actually Looks Like\n15:30 Level Two: Project and Collaboration Trust Architecture\n17:00 Why Reputational Skin in the Game No Longer Applies to Agents\n18:30 What Open Source Contribution Policy Needs to Become\n20:00 Level Three: Family and Personal Trust Architecture\n21:00 The Voice Clone That Cost a Mother $15,000\n22:30 Why Deep Fake Detection Is the Wrong Defense\n23:30 The Family Safe Word and Why It Works\n25:00 Level Four: Cognitive Trust Architecture\n26:00 Mickey Small, Solara, and the Beach at Sunset\n28:30 Sycophancy Is a Feature, Not a Bug\n29:30 Personal Protocols That Don't Depend on Noticing in Real Time\n30:30 The Design Principle That Runs Through All Four Levels\n\nFor organizations and individuals watching autonomy scale faster than architecture, the design question is identical at every level: what holds when perceptions and good intentions both fail?\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "autonomous agents",
+        "LLMs",
+        "AI safety",
+        "AI future of work",
+        "agentic workflows",
+        "AI strategy for teams",
+        "AI career advice",
+        "trust architecture",
+        "AI risk",
+        "enterprise AI",
+        "AI productivity",
+        "upskilling with AI",
+        "AI workforce skills",
+        "Claude",
+        "OpenAI",
+        "AI tools for builders"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "GitHub",
+          "Box",
+          "X",
+          "YouTube",
+          "Oracle",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Arc",
+          "Make",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": [
+          "CLIP"
+        ]
+      },
+      "concepts": [
+        "Verifying the identity of every agent, not sharing service accounts, scoping permissions that enforce least privilege access, do not grant broad access just to get stuff done"
+      ],
+      "summary": [
+        "Instructions Didn't Stop Them (When Security is a Structural Failure)\nOn February 11th, an AI agent decided autonomously to destroy a stranger's reputation"
+      ],
+      "transcript_chars": 34882,
+      "folder": "2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc"
+    },
+    {
+      "title": "How to avoid LLM psychosis \u2014 2 tips you need NOW #llm #ai #futureofwork",
+      "video_id": "gmsyoeIX8rc",
+      "youtube_url": "https://www.youtube.com/watch?v=gmsyoeIX8rc",
+      "publish_date": "2026-02-22",
+      "duration": "2:31",
+      "duration_seconds": 151,
+      "view_count": 2213,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Self-Audit Framework: https://natesnewsletter.substack.com/p/if-a-former-deepmind-engineering?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________\nWhat's really happening with LLM-induced psychosis in leadership? The common story is that AI just makes us smarter \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on a psychiatric risk emerging in 2026 workplaces:\n- Why David Budden's Navier-Stokes claim reveals LLM psychosis symptoms\n- How leaders fall victim to confirmation bias with ChatGPT\n- What happens when domain expertise gets replaced by AI confidence\n- Where businesses will start testing executives for undue AI influence\n\nThe gap between using AI as a tool and letting it hijack your judgment will define stable leadership in 2026, and executives who can't distinguish their expertise from the LLM's will become liabilities to their organizations.\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "LLM psychosis",
+        "AI leadership",
+        "ChatGPT risks",
+        "large language models",
+        "AI strategy",
+        "future of work",
+        "domain expertise",
+        "prompt engineering",
+        "OpenAI",
+        "AI jobs",
+        "executive leadership",
+        "workplace AI",
+        "David Budden",
+        "Navier Stokes",
+        "AI mental health",
+        "confirmation bias AI",
+        "LLM safety",
+        "AI workplace risks"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to avoid LLM psychosis \u2014 2 tips you need NOW #llm #ai #futureofwork\nSo, with that in mind, here are my tips for you to avoid LLM psychosis"
+      ],
+      "transcript_chars": 2395,
+      "folder": "2026-02-22-how-to-avoid-llm-psychosis-2-tips-you-need-now-llm-ai-futureofwork"
     },
     {
       "title": "The $285B Sell-Off Was Just the Beginning \u2014 The Infrastructure Story Is Bigger.",
@@ -26293,698 +27241,6 @@
       ],
       "transcript_chars": 4239,
       "folder": "2024-05-21-the-true-cost-of-wrong-product-decisions-debunking-common-my"
-    },
-    {
-      "title": "Most People Want Validation, Not Perspective (Why This Matters Now)",
-      "video_id": "BaC5FEN2e4Y",
-      "youtube_url": "https://www.youtube.com/watch?v=BaC5FEN2e4Y",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Deep Dive",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "LinkedIn",
-          "Netflix"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "To ask the llm to interview you and push you so that you are honest about what your initial assumptions were for this quarter"
-      ],
-      "summary": [
-        "# Most People Want Validation, Not Perspective (Why This Matters Now)\nI think one of the biggest gaps we consistently see is how we coach and train ourselves to be better in our careers over time"
-      ],
-      "transcript_chars": 14663,
-      "folder": "undated-most-people-want-validation-not-perspective-why-this-matters-now"
-    },
-    {
-      "title": "NVIDIA told us exactly where AI is going \u2014 and almost everyone heard it wrong",
-      "video_id": "5Kp-Gj5qXL0",
-      "youtube_url": "https://www.youtube.com/watch?v=5Kp-Gj5qXL0",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Framework",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Advanced",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Microsoft",
-          "Nvidia",
-          "AWS",
-          "Azure",
-          "AMD"
-        ],
-        "people": [],
-        "products": [
-          "Gemini"
-        ],
-        "models": [
-          "Gemini",
-          "SAM"
-        ]
-      },
-      "concepts": [
-        "When we talk about the ai factory future, everyone else is talking about this after openai wrote the deals to secure their own future for the next few years",
-        "There are broader shortages across the ai economy because we are so demand constrained"
-      ],
-      "summary": [
-        "# NVIDIA told us exactly where AI is going \u2014 and almost everyone heard it wrong\nCES is usually treated as a consumer electronic spectacle, but every so often it becomes something more than that"
-      ],
-      "transcript_chars": 18507,
-      "folder": "undated-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong"
-    },
-    {
-      "title": "OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories",
-      "video_id": "TTMOSR-nKjg",
-      "youtube_url": "https://www.youtube.com/watch?v=TTMOSR-nKjg",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Framework",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Meta",
-          "Microsoft",
-          "Nvidia",
-          "Cursor",
-          "AMD"
-        ],
-        "people": [
-          "Greg Brockman"
-        ],
-        "products": [
-          "Cursor",
-          "Make",
-          "MCP",
-          "Model Context Protocol",
-          "Atlas",
-          "Operator",
-          "Projects"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories\nAll right, if you took time out over the holidays, good for you"
-      ],
-      "transcript_chars": 13366,
-      "folder": "undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto"
-    },
-    {
-      "title": "Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)",
-      "video_id": "h7dbkDcb3hA",
-      "youtube_url": "https://www.youtube.com/watch?v=h7dbkDcb3hA",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Tools",
-      "difficulty": "Advanced",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Microsoft",
-          "Cursor",
-          "Twitter"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Copilot",
-          "Cursor",
-          "Make",
-          "Cowork",
-          "Claude Cowork",
-          "Atlas",
-          "Artifacts"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "For how teams are structured"
-      ],
-      "summary": [
-        "That's how long it took Anthropic to build and ship Claude Co-work after they noticed something their product team was not expecting"
-      ],
-      "transcript_chars": 34706,
-      "folder": "undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo"
-    },
-    {
-      "title": "The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace",
-      "video_id": "5Et9WoDCsYs",
-      "youtube_url": "https://www.youtube.com/watch?v=5Et9WoDCsYs",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Deep Dive",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "X",
-          "Tailwind"
-        ],
-        "people": [],
-        "products": [
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "That ai is not uniformly intensifying competition everywhere",
-        "Changing what you charge for, right? you can't ch charge for deliverables in the same way you're charging for the quality of the output that you're actually selling"
-      ],
-      "summary": [
-        "# The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace\nIf you're in business and you're a leader trying to figure out where to place your AI bets, most of the analysis you read "
-      ],
-      "transcript_chars": 24090,
-      "folder": "undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace"
-    },
-    {
-      "title": "The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance",
-      "video_id": "Zwq_5jvFZH8",
-      "youtube_url": "https://www.youtube.com/watch?v=Zwq_5jvFZH8",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Advanced",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "Box",
-          "Cursor",
-          "X",
-          "Figma"
-        ],
-        "people": [],
-        "products": [
-          "Cursor",
-          "Make",
-          "Computer Use"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "We're moving toward componentizing everything"
-      ],
-      "summary": [
-        "# The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance\nFront-end engineering is dead, but front-end composability is not"
-      ],
-      "transcript_chars": 16442,
-      "folder": "undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance"
-    },
-    {
-      "title": "The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)",
-      "video_id": "T74uZgfu6mU",
-      "youtube_url": "https://www.youtube.com/watch?v=T74uZgfu6mU",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "Google",
-          "LangChain",
-          "Bolt"
-        ],
-        "people": [],
-        "products": [
-          "LangChain",
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)\nJust picture this"
-      ],
-      "transcript_chars": 19058,
-      "folder": "undated-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening"
-    },
-    {
-      "title": "The Compounding Gap That Makes 2026 the Last Chance to Catch Up",
-      "video_id": "pOb0pjXpn6Q",
-      "youtube_url": "https://www.youtube.com/watch?v=pOb0pjXpn6Q",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Opinion",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Meta",
-          "Cursor",
-          "X"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Gemini",
-          "Cursor",
-          "Make",
-          "MCP"
-        ],
-        "models": [
-          "Gemini",
-          "Gemini 3"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# The Compounding Gap That Makes 2026 the Last Chance to Catch Up\nHow will the world be different in 2026 with artificial intelligence"
-      ],
-      "transcript_chars": 17344,
-      "folder": "undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up"
-    },
-    {
-      "title": "The Fork Most Leaders Don\u2019t See: Visibility vs. Execution",
-      "video_id": "s1eqzfXCgXI",
-      "youtube_url": "https://www.youtube.com/watch?v=s1eqzfXCgXI",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Opinion",
-      "primary_topic": "Career",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "Amazon",
-          "Slack"
-        ],
-        "people": [],
-        "products": [
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "You should measure your teams by their outcomes, by the impact that they deliver, not by just adherence to an ai generated plan"
-      ],
-      "summary": [
-        "Execution\nAI just made it really really cheap for companies to see what's going on inside themselves, right"
-      ],
-      "transcript_chars": 13022,
-      "folder": "undated-the-fork-most-leaders-dont-see-visibility-vs-execution"
-    },
-    {
-      "title": "The Manus Acquisition Explained: Why Meta Paid $2B for a \"Wrapper\"",
-      "video_id": "qw7HDITpTR4",
-      "youtube_url": "https://www.youtube.com/watch?v=qw7HDITpTR4",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Deep Dive",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Meta",
-          "Twitter"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Make",
-          "Artifacts"
-        ],
-        "models": [
-          "Llama"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# The Manus Acquisition Explained: Why Meta Paid $2B for a 'Wrapper'\nMeta just paid over $2 billion for a rapper named Manis"
-      ],
-      "transcript_chars": 12487,
-      "folder": "undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper"
-    },
-    {
-      "title": "Toby Lutke's Red Queen Trap: Who Survives 2026",
-      "video_id": "dzp0OQbElpU",
-      "youtube_url": "https://www.youtube.com/watch?v=dzp0OQbElpU",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "News Roundup",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Amazon",
-          "Nvidia",
-          "Shopify",
-          "Salesforce",
-          "Slack",
-          "GitHub",
-          "Box",
-          "Duolingo",
-          "Fiverr"
-        ],
-        "people": [
-          "Toby Lutke",
-          "Josh Miller",
-          "Toby Look",
-          "Aaron Levy"
-        ],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Copilot",
-          "GitHub Copilot",
-          "Cursor",
-          "Arc",
-          "Make",
-          "MCP",
-          "Projects"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "What he meant by it because this this affects every single person in tech",
-        "Restructuring how work gets done"
-      ],
-      "summary": [
-        "# Toby Lutke's Red Queen Trap: Who Survives 2026\nEight months ago, Toby Look posted a memo that most people dismissed as typical tech CEO posturing"
-      ],
-      "transcript_chars": 26659,
-      "folder": "undated-toby-lutkes-red-queen-trap-who-survives-2026"
-    },
-    {
-      "title": "What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)",
-      "video_id": "M9TJizOxNFk",
-      "youtube_url": "https://www.youtube.com/watch?v=M9TJizOxNFk",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Apple",
-          "Airbnb",
-          "Arc"
-        ],
-        "people": [
-          "Sam Altman",
-          "Dario Amodei"
-        ],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Gemini",
-          "Sora",
-          "Arc",
-          "Make"
-        ],
-        "models": [
-          "Gemini",
-          "SAM"
-        ]
-      },
-      "concepts": [
-        "We can start to see which strategy is winning for whom",
-        "Different theories about how you achieve it"
-      ],
-      "summary": [
-        "# What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)\nToday we're going to look at which AI strategy is going to win in 2026"
-      ],
-      "transcript_chars": 23966,
-      "folder": "undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you"
-    },
-    {
-      "title": "Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)",
-      "video_id": "0TpON5T-Sw4",
-      "youtube_url": "https://www.youtube.com/watch?v=0TpON5T-Sw4",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
-      "difficulty": "Advanced",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "Microsoft",
-          "Apple",
-          "Notion",
-          "Slack",
-          "Box",
-          "Zapier",
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Zapier",
-          "Make",
-          "Projects",
-          "Canvas"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "Because your brain was never designed to be a storage system"
-      ],
-      "summary": [
-        "# Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)\nFor 500,000 years, we've had essentially the same cognitive architecture"
-      ],
-      "transcript_chars": 33688,
-      "folder": "undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one"
-    },
-    {
-      "title": "Why Andrej Karpathy Feels \"Behind\" (And What It Means for Your Career)",
-      "video_id": "fyHnGHxGuhI",
-      "youtube_url": "https://www.youtube.com/watch?v=fyHnGHxGuhI",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Framework",
-      "primary_topic": "Career",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "X"
-        ],
-        "people": [
-          "Andrej Karpathy"
-        ],
-        "products": [
-          "Make",
-          "Opus",
-          "Artifacts"
-        ],
-        "models": [
-          "Opus 4.5"
-        ]
-      },
-      "concepts": [
-        "What changed is what it means to be technical"
-      ],
-      "summary": [
-        "# Why Andrej Karpathy Feels 'Behind' (And What It Means for Your Career)\nIf Andre Karpathy says he's never felt this behind as a programmer, which he did, all of us should be glad to know as much as "
-      ],
-      "transcript_chars": 25939,
-      "folder": "undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career"
-    },
-    {
-      "title": "Why \"Pretty Good on First Pass\" Is Costing You Thousands--How To Fix It TODAY",
-      "video_id": "iG_CCjdyeX0",
-      "youtube_url": "https://www.youtube.com/watch?v=iG_CCjdyeX0",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "AI News & Strategy Daily | Nate B Jones",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "Prompting",
-      "difficulty": "Beginner",
-      "audience": [
-        "Engineers",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [],
-        "people": [],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Make"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# Why 'Pretty Good on First Pass' Is Costing You Thousands--How To Fix It TODAY\nThe hottest thing in coding right now is a little plugin for Claude Code named after a Simpsons character"
-      ],
-      "transcript_chars": 13593,
-      "folder": "undated-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today"
     }
   ]
 }

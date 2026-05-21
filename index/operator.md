@@ -1,6 +1,6 @@
 # Operator
 
-Episodes discussing **Operator** (22 episodes):
+Episodes discussing **Operator** (21 episodes):
 
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
@@ -23,4 +23,3 @@ Episodes discussing **Operator** (22 episodes):
 - [ChatGPT 5 and Project Orion: Official Updates from OpenAI](../episodes/2025-02-12-chatgpt-5-and-project-orion-official-updates-from-openai/transcript.md) (2025-02-12)
 - [What's next for DeepSeek, NVIDIA, OpenAI, Meta, and Microsoft](../episodes/2025-01-29-whats-next-for-deepseek-nvidia-openai-meta-and-microsoft/transcript.md) (2025-01-29)
 - [OpenAI Operator: ChatGPT is Free to Roam the Internet and (Mostly) Does What You Say](../episodes/2025-01-24-openai-operator-chatgpt-is-free-to-roam-the-internet-and-mostly-does-what-you-sa/transcript.md) (2025-01-24)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)

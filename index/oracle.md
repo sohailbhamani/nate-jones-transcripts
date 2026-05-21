@@ -1,8 +1,9 @@
 # Oracle
 
-Episodes discussing **Oracle** (10 episodes):
+Episodes discussing **Oracle** (11 episodes):
 
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [Agents Will Kill Your Ul by 2026--Unless You Build This Instead](../episodes/2025-11-30-agents-will-kill-your-ul-by-2026-unless-you-build-this-instead/transcript.md) (2025-11-30)
 - [Mark Zuckerburg Laid Off 600 AI Researchers—Here's the AI Talent Takeaway Everyone MISSED](../episodes/2025-11-01-mark-zuckerburg-laid-off-600-ai-researchersheres-the-ai-talent-takeaway-everyone/transcript.md) (2025-11-01)
 - [AI News & Notes: Week of Sep 8](../episodes/2025-09-13-ai-news-notes-week-of-sep-8/transcript.md) (2025-09-13)

@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (234 episodes):
+Episodes discussing **Ai Agents** (236 episodes):
 
+- [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
@@ -38,6 +39,14 @@ Episodes discussing **Ai Agents** (234 episodes):
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.](../episodes/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy/transcript.md) (2026-02-28)
+- [Anthropic's AI strategy isn't features — it's surfaces #anthropic #ai #claude](../episodes/2026-02-27-anthropics-ai-strategy-isnt-features-its-surfaces-anthropic-ai-claude/transcript.md) (2026-02-27)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
+- [Claude Code now inspects your browser — here's why it matters #claudecode #ai #agents](../episodes/2026-02-26-claude-code-now-inspects-your-browser-heres-why-it-matters-claudecode-ai-agents/transcript.md) (2026-02-26)
+- [Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)](../episodes/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care/transcript.md) (2026-02-25)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
@@ -229,10 +238,3 @@ Episodes discussing **Ai Agents** (234 episodes):
 - [AI Now vs AI Next: Learn to look ahead](../episodes/2024-07-30-ai-now-vs-ai-next-learn-to-look-ahead/transcript.md) (2024-07-30)
 - [AI is not a chatbot:  the AI chatbot UX is cheating our brains](../episodes/2024-07-16-ai-is-not-a-chatbot-the-ai-chatbot-ux-is-cheating-our-brains/transcript.md) (2024-07-16)
 - [10 career enders no one will tell you about and how to fix it (soft skills edition)](../episodes/2024-07-04-10-career-enders-no-one-will-tell-you-about-and-how-to-fix-i/transcript.md) (2024-07-04)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
-- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/undated-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md)
-- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
-- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)
-- [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/undated-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md)

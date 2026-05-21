@@ -3,6 +3,8 @@
 Episodes discussing **Copilot** (32 episodes):
 
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
@@ -32,5 +34,3 @@ Episodes discussing **Copilot** (32 episodes):
 - [Microsoft CoPilot Decoded: 12 Flavors, 20x ROI Playbook](../episodes/2025-07-03-microsoft-copilot-decoded-12-flavors-20x-roi-playbook/transcript.md) (2025-07-03)
 - [This is AI Super Week: Here's Why](../episodes/2025-05-20-this-is-ai-super-week-heres-why/transcript.md) (2025-05-20)
 - [Salesforce is Going for AI Irony Like a Millennial at Christmas](../episodes/2025-01-09-salesforce-is-going-for-ai-irony-like-a-millennial-at-christmas/transcript.md) (2025-01-09)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

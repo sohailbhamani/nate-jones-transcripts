@@ -1,6 +1,6 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (460 episodes):
+Episodes discussing **Frameworks** (455 episodes):
 
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
@@ -57,6 +57,15 @@ Episodes discussing **Frameworks** (460 episodes):
 - [One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai](../episodes/2026-03-03-one-ai-breakthrough-just-unlocked-a-new-storytelling-medium-nanobananapro-future/transcript.md) (2026-03-03)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.](../episodes/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy/transcript.md) (2026-02-28)
+- [LLM psychosis is real and it's coming to your workplace #deepmind #ai #llm](../episodes/2026-02-27-llm-psychosis-is-real-and-its-coming-to-your-workplace-deepmind-ai-llm/transcript.md) (2026-02-27)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
+- [Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)](../episodes/2026-02-26-dont-fall-for-the-stock-market-hype-the-7000-raise-ai-is-giving-you-that-nobody/transcript.md) (2026-02-26)
+- [Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)](../episodes/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care/transcript.md) (2026-02-25)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
+- [How to avoid LLM psychosis — 2 tips you need NOW #llm #ai #futureofwork](../episodes/2026-02-22-how-to-avoid-llm-psychosis-2-tips-you-need-now-llm-ai-futureofwork/transcript.md) (2026-02-22)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [Why Codex beats every AI meeting notes tool #ai #codex #futureofwork](../episodes/2026-02-19-why-codex-beats-every-ai-meeting-notes-tool-ai-codex-futureofwork/transcript.md) (2026-02-19)
@@ -448,17 +457,3 @@ Episodes discussing **Frameworks** (460 episodes):
 - [10 ways you can become more technical as a PM](../episodes/2024-07-10-10-ways-you-can-become-more-technical-as-a-pm/transcript.md) (2024-07-10)
 - [Wall Street is betting against AI, and here's why: Uber, Amazon and the history of bets against tech](../episodes/2024-07-09-wall-street-is-betting-against-ai-and-heres-why-uber-amazon-and-the-history-of-b/transcript.md) (2024-07-09)
 - [The secret to getting better at job interviews: your job is to de-risk your candidacy for the role](../episodes/2024-07-05-the-secret-to-getting-better-at-job-interviews-your-job-is-t/transcript.md) (2024-07-05)
-- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/undated-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md)
-- [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/undated-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
-- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
-- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/undated-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md)
-- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
-- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
-- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)
-- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)
-- [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md)
-- [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/undated-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md)

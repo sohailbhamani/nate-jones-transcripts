@@ -1,6 +1,6 @@
 # Netflix
 
-Episodes discussing **Netflix** (18 episodes):
+Episodes discussing **Netflix** (17 episodes):
 
 - [The AI career coach execs pay millions for! #ai #futureofwork](../episodes/2026-03-21-the-ai-career-coach-execs-pay-millions-for-ai-futureofwork/transcript.md) (2026-03-21)
 - [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)
@@ -19,4 +19,3 @@ Episodes discussing **Netflix** (18 episodes):
 - [August 2024: Stocks in Red, Implications for Tech](../episodes/2024-08-05-august-2024-stocks-in-red-implications-for-tech/transcript.md) (2024-08-05)
 - [Product Building Strategy Part 1: How to build product for Dishwasher Problems](../episodes/2024-07-17-product-building-strategy-part-1-how-to-build-product-for-dishwasher-problems/transcript.md) (2024-07-17)
 - [10 ways you can become more technical as a PM](../episodes/2024-07-10-10-ways-you-can-become-more-technical-as-a-pm/transcript.md) (2024-07-10)
-- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/undated-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md)

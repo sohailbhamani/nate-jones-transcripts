@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (369 episodes):
+Episodes discussing **Ai Strategy** (367 episodes):
 
+- [The 3 layers AI can and cannot replace in business! #ai #futureofwork](../episodes/2026-04-05-the-3-layers-ai-can-and-cannot-replace-in-business-ai-futureofwork/transcript.md) (2026-04-05)
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
@@ -48,6 +49,15 @@ Episodes discussing **Ai Strategy** (369 episodes):
 - [One AI breakthrough just unlocked a new storytelling medium #nanobananapro #futureofwork #ai](../episodes/2026-03-03-one-ai-breakthrough-just-unlocked-a-new-storytelling-medium-nanobananapro-future/transcript.md) (2026-03-03)
 - [Nano Banana Pro closed a gap — and unlocked billions #nanobananapro #ai #futureofwork](../episodes/2026-03-01-nano-banana-pro-closed-a-gap-and-unlocked-billions-nanobananapro-ai-futureofwork/transcript.md) (2026-03-01)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.](../episodes/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy/transcript.md) (2026-02-28)
+- [Why businesses will test leaders for LLM psychosis #ai #futureofwork #llm](../episodes/2026-02-28-why-businesses-will-test-leaders-for-llm-psychosis-ai-futureofwork-llm/transcript.md) (2026-02-28)
+- [Anthropic's AI strategy isn't features — it's surfaces #anthropic #ai #claude](../episodes/2026-02-27-anthropics-ai-strategy-isnt-features-its-surfaces-anthropic-ai-claude/transcript.md) (2026-02-27)
+- [LLM psychosis is real and it's coming to your workplace #deepmind #ai #llm](../episodes/2026-02-27-llm-psychosis-is-real-and-its-coming-to-your-workplace-deepmind-ai-llm/transcript.md) (2026-02-27)
+- [Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)](../episodes/2026-02-26-dont-fall-for-the-stock-market-hype-the-7000-raise-ai-is-giving-you-that-nobody/transcript.md) (2026-02-26)
+- [Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)](../episodes/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care/transcript.md) (2026-02-25)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](../episodes/2026-02-20-1000-a-day-in-ai-costs-three-engineers-no-writing-code-no-code-review-but-more-o/transcript.md) (2026-02-20)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
@@ -359,15 +369,3 @@ Episodes discussing **Ai Strategy** (369 episodes):
 - [Wall Street is betting against AI, and here's why: Uber, Amazon and the history of bets against tech](../episodes/2024-07-09-wall-street-is-betting-against-ai-and-heres-why-uber-amazon-and-the-history-of-b/transcript.md) (2024-07-09)
 - [Capturing Megatrends: Building a Long-Term Product Strategy with Figma](../episodes/2024-07-03-capturing-megatrends-building-a-long-term-product-strategy-w/transcript.md) (2024-07-03)
 - [The True Cost of Wrong Product Decisions: Debunking Common Myths](../episodes/2024-05-21-the-true-cost-of-wrong-product-decisions-debunking-common-my/transcript.md) (2024-05-21)
-- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/undated-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md)
-- [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/undated-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace](../episodes/undated-the-3-layer-framework-that-predicts-which-jobs-ai-will-and-wont-replace/transcript.md)
-- [The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance](../episodes/undated-the-500k-mistake-8-engineers-doing-implementation-0-doing-governance/transcript.md)
-- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/undated-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md)
-- [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/undated-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md)
-- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
-- [What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)](../episodes/undated-what-sam-altman-and-dario-amodei-disagree-about-and-why-it-matters-for-you/transcript.md)
-- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

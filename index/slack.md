@@ -1,6 +1,6 @@
 # Slack
 
-Episodes discussing **Slack** (64 episodes):
+Episodes discussing **Slack** (63 episodes):
 
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
@@ -17,6 +17,8 @@ Episodes discussing **Slack** (64 episodes):
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
+- [Anthropic's AI strategy isn't features — it's surfaces #anthropic #ai #claude](../episodes/2026-02-27-anthropics-ai-strategy-isnt-features-its-surfaces-anthropic-ai-claude/transcript.md) (2026-02-27)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.](../episodes/2026-02-17-the-openclaw-saga-zuckerberg-begged-this-developer-to-join-meta-he-said-no-heres/transcript.md) (2026-02-17)
 - [Codex 5.3 vs Opus 4.6: The Benchmark Nobody Expected. (How to STOP Picking the Wrong Agent)](../episodes/2026-02-16-codex-53-vs-opus-46-the-benchmark-nobody-expected-how-to-stop-picking-the-wrong/transcript.md) (2026-02-16)
@@ -63,6 +65,3 @@ Episodes discussing **Slack** (64 episodes):
 - [Founder of OpenAI says AI Agents are Coming to Work in 2025—and ASI is next](../episodes/2025-01-06-founder-of-openai-says-ai-agents-are-coming-to-work-in-2025and-asi-is-next/transcript.md) (2025-01-06)
 - [Tech News Roundup: AI Disrupts SAAS, Inflation Update, and Waymo's Safety Edge](../episodes/2024-09-11-tech-news-roundup-ai-disrupts-saas-inflation-update-and-waymos-safety-edge/transcript.md) (2024-09-11)
 - [Tech jobs: you're WAY better at these 3 skills than AI](../episodes/2024-07-29-tech-jobs-youre-way-better-at-these-3-skills-than-ai/transcript.md) (2024-07-29)
-- [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/undated-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)
-- [Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)](../episodes/undated-why-2026-is-the-year-to-build-a-second-brain-and-why-you-need-one/transcript.md)

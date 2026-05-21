@@ -1,6 +1,6 @@
 # Framework
 
-Episodes discussing **Framework** (151 episodes):
+Episodes discussing **Framework** (150 episodes):
 
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
@@ -29,6 +29,8 @@ Episodes discussing **Framework** (151 episodes):
 - [Why NVIDIA bought Groq — it's not what you think #nvidia #groq #futureofwork #ai](../episodes/2026-03-05-why-nvidia-bought-groq-its-not-what-you-think-nvidia-groq-futureofwork-ai/transcript.md) (2026-03-05)
 - [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
+- [LLM psychosis is real and it's coming to your workplace #deepmind #ai #llm](../episodes/2026-02-27-llm-psychosis-is-real-and-its-coming-to-your-workplace-deepmind-ai-llm/transcript.md) (2026-02-27)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)
 - [Why Codex lets you hand off AI coding and walk away #ai #codex #futureofwork](../episodes/2026-02-20-why-codex-lets-you-hand-off-ai-coding-and-walk-away-ai-codex-futureofwork/transcript.md) (2026-02-20)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
@@ -150,6 +152,3 @@ Episodes discussing **Framework** (151 episodes):
 - [OpenAI and "Strawberry": The Strategy of Rumors in the AI Arms Race](../episodes/2024-08-13-openai-and-strawberry-the-strategy-of-rumors-in-the-ai-arms-race/transcript.md) (2024-08-13)
 - [AI News: Llama 3.1 Day! Here's Meta's strategy with the Llama 3.1 release and Llama ecosystem](../episodes/2024-07-24-ai-news-llama-31-day-heres-metas-strategy-with-the-llama-31-release-and-llama-ec/transcript.md) (2024-07-24)
 - [12 hacks for AI in Tech Job Searches: 5 things to avoid and 7 tips that make LLM's work for you](../episodes/2024-07-18-12-hacks-for-ai-in-tech-job-searches-5-things-to-avoid-and-7-tips-that-make-llms/transcript.md) (2024-07-18)
-- [NVIDIA told us exactly where AI is going — and almost everyone heard it wrong](../episodes/undated-nvidia-told-us-exactly-where-ai-is-going-and-almost-everyone-heard-it-wrong/transcript.md)
-- [OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories](../episodes/undated-openai-google-and-anthropic-agree-on-one-thing-finally-this-weeks-biggest-ai-sto/transcript.md)
-- [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md)

@@ -1,10 +1,11 @@
 # Opinion
 
-Episodes discussing **Opinion** (32 episodes):
+Episodes discussing **Opinion** (31 episodes):
 
 - [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
 - [Why AI-powered dashboards are lying to leadership #futureofwork #ai](../episodes/2026-03-15-why-ai-powered-dashboards-are-lying-to-leadership-futureofwork-ai/transcript.md) (2026-03-15)
 - [2026 Will Require More Retraining Than the Last 25 Years Combined #ai #futureofwork](../episodes/2026-03-09-2026-will-require-more-retraining-than-the-last-25-years-combined-ai-futureofwor/transcript.md) (2026-03-09)
+- [Why businesses will test leaders for LLM psychosis #ai #futureofwork #llm](../episodes/2026-02-28-why-businesses-will-test-leaders-for-llm-psychosis-ai-futureofwork-llm/transcript.md) (2026-02-28)
 - [Why OpenAI is selling seats, not software #chatgpt #ai #futureofwork](../episodes/2026-02-17-why-openai-is-selling-seats-not-software-chatgpt-ai-futureofwork/transcript.md) (2026-02-17)
 - [Unlocking AI Talent: OpenAI's Unexpected Blueprint! #ai #openai #codex #futureofwork #aiimpact](../episodes/2026-02-15-unlocking-ai-talent-openais-unexpected-blueprint-ai-openai-codex-futureofwork-ai/transcript.md) (2026-02-15)
 - [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/2026-01-03-the-fork-most-leaders-don-t-see-visibility-vs-execution/transcript.md) (2026-01-03)
@@ -32,5 +33,3 @@ Episodes discussing **Opinion** (32 episodes):
 - [AI is not a chatbot:  the AI chatbot UX is cheating our brains](../episodes/2024-07-16-ai-is-not-a-chatbot-the-ai-chatbot-ux-is-cheating-our-brains/transcript.md) (2024-07-16)
 - [Product Strategy: 3 product problems where we usually set the bar too low to be successful](../episodes/2024-07-11-product-strategy-3-product-problems-where-we-usually-set-the-bar-too-low-to-be-s/transcript.md) (2024-07-11)
 - [Tech loops: what actually happens in a tech loop debrief and how you can win as a candidate](../episodes/2024-07-08-tech-loops-what-actually-happens-in-a-tech-loop-debrief-and-/transcript.md) (2024-07-08)
-- [The Compounding Gap That Makes 2026 the Last Chance to Catch Up](../episodes/undated-the-compounding-gap-that-makes-2026-the-last-chance-to-catch-up/transcript.md)
-- [The Fork Most Leaders Don’t See: Visibility vs. Execution](../episodes/undated-the-fork-most-leaders-dont-see-visibility-vs-execution/transcript.md)

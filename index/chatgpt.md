@@ -1,6 +1,6 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (66 episodes):
+Episodes discussing **Chatgpt** (67 episodes):
 
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [The AI demand shock execs aren't talking about enough! #ai #chatgpt #futureofwork](../episodes/2026-03-27-the-ai-demand-shock-execs-arent-talking-about-enough-ai-chatgpt-futureofwork/transcript.md) (2026-03-27)
@@ -9,6 +9,7 @@ Episodes discussing **Chatgpt** (66 episodes):
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
 - [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)
+- [ChatGPT convinced him he solved a million-dollar math problem #chatgpt #ai #deepmind](../episodes/2026-02-28-chatgpt-convinced-him-he-solved-a-million-dollar-math-problem-chatgpt-ai-deepmin/transcript.md) (2026-02-28)
 - [Sam Altman admits OpenAI can't keep up with demand #chatgpt #ai #futureofwork](../episodes/2026-02-18-sam-altman-admits-openai-cant-keep-up-with-demand-chatgpt-ai-futureofwork/transcript.md) (2026-02-18)
 - [Why OpenAI is selling seats, not software #chatgpt #ai #futureofwork](../episodes/2026-02-17-why-openai-is-selling-seats-not-software-chatgpt-ai-futureofwork/transcript.md) (2026-02-17)
 - [AI Image Showdown: Chat GPT vs. Nano Banana Pro! #ai #aiimagegeneration  #chatgpt  #nanobananapro](../episodes/2026-02-14-ai-image-showdown-chat-gpt-vs-nano-banana-pro-ai-aiimagegeneration-chatgpt-nanob/transcript.md) (2026-02-14)

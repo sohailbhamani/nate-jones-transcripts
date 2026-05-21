@@ -1,7 +1,8 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (53 episodes):
+Episodes discussing **Artifacts** (52 episodes):
 
+- [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)
 - [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
 - [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
@@ -12,6 +13,7 @@ Episodes discussing **Artifacts** (53 episodes):
 - [4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)](../episodes/2026-03-11-4-ai-labs-built-the-same-system-without-talking-to-each-other-and-nobodys-discus/transcript.md) (2026-03-11)
 - [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-here-s-why-plus-a-/transcript.md) (2026-01-14)
 - [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/2026-01-14-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md) (2026-01-14)
 - [The Manus Acquisition Explained: Why Meta Paid $2B for a 'Wrapper'](../episodes/2026-01-06-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapp/transcript.md) (2026-01-06)
@@ -52,6 +54,3 @@ Episodes discussing **Artifacts** (53 episodes):
 - [You need an AI strategy to survive the headlines—here's how to build a strategy that sticks](../episodes/2025-04-15-you-need-an-ai-strategy-to-survive-the-headlinesheres-how-to-build-a-strategy-th/transcript.md) (2025-04-15)
 - [AI Tool Comparison: ChatGPT, Canvas, Artifacts, Bolt, Replit](../episodes/2024-10-04-ai-tool-comparison-chatgpt-canvas-artifacts-bolt-replit/transcript.md) (2024-10-04)
 - [AI News Today: OpenAI Strawberry Capabilities Leak + 3 More AI Stories from Apple, Anthropic, Google](../episodes/2024-08-28-ai-news-today-openai-strawberry-capabilities-leak-3-more-ai-stories-from-apple-a/transcript.md) (2024-08-28)
-- [Task Queues Are Replacing Chat Interfaces. Here's Why (plus a Claude Cowork Demo)](../episodes/undated-task-queues-are-replacing-chat-interfaces-heres-why-plus-a-claude-cowork-demo/transcript.md)
-- [The Manus Acquisition Explained: Why Meta Paid $2B for a "Wrapper"](../episodes/undated-the-manus-acquisition-explained-why-meta-paid-2b-for-a-wrapper/transcript.md)
-- [Why Andrej Karpathy Feels "Behind" (And What It Means for Your Career)](../episodes/undated-why-andrej-karpathy-feels-behind-and-what-it-means-for-your-career/transcript.md)

@@ -1,6 +1,6 @@
 # Shopify
 
-Episodes discussing **Shopify** (14 episodes):
+Episodes discussing **Shopify** (15 episodes):
 
 - [Tobi Lütke Made a 20-Year-Old Codebase 53% Faster Overnight. Here's How.](../episodes/2026-03-25-tobi-lütke-made-a-20-year-old-codebase-53-faster-overnight-heres-how/transcript.md) (2026-03-25)
 - [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)
@@ -8,6 +8,8 @@ Episodes discussing **Shopify** (14 episodes):
 - [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)
 - [She quit, picked up AI, and shipped in 30 days what her team planned for Q3.](../episodes/2026-03-15-she-quit-picked-up-ai-and-shipped-in-30-days-what-her-team-planned-for-q3/transcript.md) (2026-03-15)
 - [45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.](../episodes/2026-03-08-45-people-200m-revenue-the-question-nobodys-asking-about-ai-and-your-team-size/transcript.md) (2026-03-08)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
+- [Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)](../episodes/2026-02-26-dont-fall-for-the-stock-market-hype-the-7000-raise-ai-is-giving-you-that-nobody/transcript.md) (2026-02-26)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopify-s-ai-memo-changed-hiring-forever-and-why-google-meta/transcript.md) (2026-01-13)
 - [Shopify's AI Memo Changed Hiring Forever—And Why Google, Meta & Nvidia Are Copying It](../episodes/2026-01-13-shopifys-ai-memo-changed-hiring-foreverand-why-google-meta-nvidia-are-copying-it/transcript.md) (2026-01-13)
 - [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/2026-01-13-toby-lutke-s-red-queen-trap-who-survives-2026/transcript.md) (2026-01-13)
@@ -15,4 +17,3 @@ Episodes discussing **Shopify** (14 episodes):
 - [AI and Jobs Debate is Spiraling: Here are 5+ Skills that Pay](../episodes/2025-05-30-ai-and-jobs-debate-is-spiraling-here-are-5-skills-that-pay/transcript.md) (2025-05-30)
 - [Here's the next billion dollar LLM startup idea](../episodes/2024-09-25-heres-the-next-billion-dollar-llm-startup-idea/transcript.md) (2024-09-25)
 - [5 AI News Stories This Week: Trends to Watch in August 2024](../episodes/2024-08-07-5-ai-news-stories-this-week-trends-to-watch-in-august-2024/transcript.md) (2024-08-07)
-- [Toby Lutke's Red Queen Trap: Who Survives 2026](../episodes/undated-toby-lutkes-red-queen-trap-who-survives-2026/transcript.md)

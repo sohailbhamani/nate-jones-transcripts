@@ -1,10 +1,12 @@
 # Linkedin
 
-Episodes discussing **Linkedin** (32 episodes):
+Episodes discussing **Linkedin** (33 episodes):
 
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)
 - [Anthropic Didn't Build a New Browser. They Did Something Smarter.](../episodes/2026-03-17-anthropic-didnt-build-a-new-browser-they-did-something-smarter/transcript.md) (2026-03-17)
 - [One Simple System Gave All My AI Tools a Memory. Here's How.](../episodes/2026-03-13-one-simple-system-gave-all-my-ai-tools-a-memory-heres-how/transcript.md) (2026-03-13)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
+- [Google's New AI Is Smarter Than Everyone's But It Costs HALF as Much. Here's Why They Don't Care.](../episodes/2026-02-23-googles-new-ai-is-smarter-than-everyones-but-it-costs-half-as-much-heres-why-the/transcript.md) (2026-02-23)
 - [Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](../episodes/2026-02-19-why-the-biggest-ai-career-opportunity-just-appearedand-almost-nobody-sees-it/transcript.md) (2026-02-19)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters/transcript.md) (2026-01-05)
 - [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/2026-01-05-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md) (2026-01-05)
@@ -33,4 +35,3 @@ Episodes discussing **Linkedin** (32 episodes):
 - [Real World AI Use-Case: How JobRight.AI Borrowed from Dating to Re-Invent Job Search](../episodes/2024-08-21-real-world-ai-use-case-how-jobrightai-borrowed-from-dating-to-re-invent-job-sear/transcript.md) (2024-08-21)
 - [Intro to Nate](../episodes/2024-07-31-intro-to-nate/transcript.md) (2024-07-31)
 - [12 hacks for AI in Tech Job Searches: 5 things to avoid and 7 tips that make LLM's work for you](../episodes/2024-07-18-12-hacks-for-ai-in-tech-job-searches-5-things-to-avoid-and-7-tips-that-make-llms/transcript.md) (2024-07-18)
-- [Most People Want Validation, Not Perspective (Why This Matters Now)](../episodes/undated-most-people-want-validation-not-perspective-why-this-matters-now/transcript.md)

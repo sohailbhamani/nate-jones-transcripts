@@ -1,6 +1,6 @@
 # Prompting
 
-Episodes discussing **Prompting** (184 episodes):
+Episodes discussing **Prompting** (189 episodes):
 
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
@@ -19,6 +19,13 @@ Episodes discussing **Prompting** (184 episodes):
 - [Everyone You Know Is About to Try Claude (I Showed 3 People for 5 Minutes — All 3 Switched)](../episodes/2026-03-04-everyone-you-know-is-about-to-try-claude-i-showed-3-people-for-5-minutes-all-3-s/transcript.md) (2026-03-04)
 - [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build)](../episodes/2026-03-02-you-dont-need-saas-the-010-system-that-replaced-my-ai-workflow-45-min-no-code-bu/transcript.md) (2026-03-02)
 - [Why Every AI Skill You Learned 6 Months Ago Is Already Wrong (And What Is Replacing Them)](../episodes/2026-03-01-why-every-ai-skill-you-learned-6-months-ago-is-already-wrong-and-what-is-replaci/transcript.md) (2026-03-01)
+- [Anthropic's AI strategy isn't features — it's surfaces #anthropic #ai #claude](../episodes/2026-02-27-anthropics-ai-strategy-isnt-features-its-surfaces-anthropic-ai-claude/transcript.md) (2026-02-27)
+- ['Prompting' Just Split Into 4 Skills. You Only Know One. Here's Why You Need the Other 3 in 2026.](../episodes/2026-02-27-prompting-just-split-into-4-skills-you-only-know-one-heres-why-you-need-the-othe/transcript.md) (2026-02-27)
+- [Claude Code now inspects your browser — here's why it matters #claudecode #ai #agents](../episodes/2026-02-26-claude-code-now-inspects-your-browser-heres-why-it-matters-claudecode-ai-agents/transcript.md) (2026-02-26)
+- [Three Labs Just Stole Claude's Brain. Here's What It Broke (And Why You Should Care)](../episodes/2026-02-25-three-labs-just-stole-claudes-brain-heres-what-it-broke-and-why-you-should-care/transcript.md) (2026-02-25)
+- [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
+- [Anthropic Tested 16 Models. Instructions Didn't Stop Them (When Security is a Structural Failure)](../episodes/2026-02-22-anthropic-tested-16-models-instructions-didnt-stop-them-when-security-is-a-struc/transcript.md) (2026-02-22)
+- [How to avoid LLM psychosis — 2 tips you need NOW #llm #ai #futureofwork](../episodes/2026-02-22-how-to-avoid-llm-psychosis-2-tips-you-need-now-llm-ai-futureofwork/transcript.md) (2026-02-22)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)
 - [Why 'Pretty Good on First Pass' Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-t/transcript.md) (2026-01-07)
 - [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/2026-01-07-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md) (2026-01-07)
@@ -184,5 +191,3 @@ Episodes discussing **Prompting** (184 episodes):
 - [OpenAI and "Strawberry": The Strategy of Rumors in the AI Arms Race](../episodes/2024-08-13-openai-and-strawberry-the-strategy-of-rumors-in-the-ai-arms-race/transcript.md) (2024-08-13)
 - [AI News: Llama 3.1 Day! Here's Meta's strategy with the Llama 3.1 release and Llama ecosystem](../episodes/2024-07-24-ai-news-llama-31-day-heres-metas-strategy-with-the-llama-31-release-and-llama-ec/transcript.md) (2024-07-24)
 - [12 hacks for AI in Tech Job Searches: 5 things to avoid and 7 tips that make LLM's work for you](../episodes/2024-07-18-12-hacks-for-ai-in-tech-job-searches-5-things-to-avoid-and-7-tips-that-make-llms/transcript.md) (2024-07-18)
-- [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/undated-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md)
-- [Why "Pretty Good on First Pass" Is Costing You Thousands--How To Fix It TODAY](../episodes/undated-why-pretty-good-on-first-pass-is-costing-you-thousands-how-to-fix-it-today/transcript.md)
