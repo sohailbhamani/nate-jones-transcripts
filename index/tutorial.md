@@ -1,8 +1,14 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (177 episodes):
+Episodes discussing **Tutorial** (183 episodes):
 
+- [Experienced developers took 19% longer with AI #aicoding #study #reality](../episodes/2026-04-25-experienced-developers-took-19-longer-with-ai-aicoding-study-reality/transcript.md) (2026-04-25)
+- [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
+- [Why Manual Testing Is Dead (This Architecture Proves It) #AI #Testing](../episodes/2026-04-22-why-manual-testing-is-dead-this-architecture-proves-it-ai-testing/transcript.md) (2026-04-22)
+- [Nobody Knows What You're Worth Anymore | The AI Job Market Reality](../episodes/2026-04-20-nobody-knows-what-youre-worth-anymore-the-ai-job-market-reality/transcript.md) (2026-04-20)
+- [The web is about to look completely different #AI #WebDevelopment #FutureOfTech](../episodes/2026-04-19-the-web-is-about-to-look-completely-different-ai-webdevelopment-futureoftech/transcript.md) (2026-04-19)
 - [Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure](../episodes/2026-04-18-every-tech-giant-is-building-the-same-thing-right-now-ai-agents-infrastructure/transcript.md) (2026-04-18)
+- [Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.](../episodes/2026-04-18-karpathys-agent-ran-700-experiments-while-he-slept-its-coming-for-you/transcript.md) (2026-04-18)
 - [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
 - [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
 - [How top performers dodge AI replacement #AI #CareerStrategy](../episodes/2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy/transcript.md) (2026-04-15)

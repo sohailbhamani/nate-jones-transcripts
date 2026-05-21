@@ -1,7 +1,13 @@
 # Framework
 
-Episodes discussing **Framework** (153 episodes):
+Episodes discussing **Framework** (159 episodes):
 
+- [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
+- [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
+- [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](../episodes/2026-04-22-karpathys-wiki-vs-open-brain-one-fails-when-you-need-it-most/transcript.md) (2026-04-22)
+- [AI Tools Got Faster But Developers Didn't #ai #productivity #shorts](../episodes/2026-04-21-ai-tools-got-faster-but-developers-didnt-ai-productivity-shorts/transcript.md) (2026-04-21)
+- [Why Nothing Going Wrong Is Actually the Scariest Part #AIWakeUp #Implications](../episodes/2026-04-20-why-nothing-going-wrong-is-actually-the-scariest-part-aiwakeup-implications/transcript.md) (2026-04-20)
+- [Block Laid Off Half Its Company for AI. AI Can't Do the Job.](../episodes/2026-04-19-block-laid-off-half-its-company-for-ai-ai-cant-do-the-job/transcript.md) (2026-04-19)
 - [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
 - [AI data centers must bring their own power now! #ai #futureofwork](../episodes/2026-04-08-ai-data-centers-must-bring-their-own-power-now-ai-futureofwork/transcript.md) (2026-04-08)
 - [A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](../episodes/2026-04-07-a-polymarket-bot-made-438000-in-30-days-your-industry-is-next-heres-what-to-do-a/transcript.md) (2026-04-07)

@@ -1,7 +1,9 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (78 episodes):
+Episodes discussing **Deep Dive** (80 episodes):
 
+- [Dark factories vs everyone else: the real AI divide #ai #engineering](../episodes/2026-04-23-dark-factories-vs-everyone-else-the-real-ai-divide-ai-engineering/transcript.md) (2026-04-23)
+- [OpenAI Just Gave Agents the Ability to Do Everything—The Consequences Are Massive #AI #OpenAI](../episodes/2026-04-18-openai-just-gave-agents-the-ability-to-do-everythingthe-consequences-are-massive/transcript.md) (2026-04-18)
 - [How the Red Queen memo exposed who will actually survive #tech #AI](../episodes/2026-04-16-how-the-red-queen-memo-exposed-who-will-actually-survive-tech-ai/transcript.md) (2026-04-16)
 - [Why AI skills are now table stakes #ai #work #future](../episodes/2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future/transcript.md) (2026-04-14)
 - [66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence](../episodes/2026-04-13-66-of-companies-are-cutting-entry-level-jobs-for-ai-nextgenai-artificialintellig/transcript.md) (2026-04-13)

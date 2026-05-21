@@ -1,7 +1,8 @@
 # Bolt
 
-Episodes discussing **Bolt** (24 episodes):
+Episodes discussing **Bolt** (25 episodes):
 
+- [AI Tools Got Faster But Developers Didn't #ai #productivity #shorts](../episodes/2026-04-21-ai-tools-got-faster-but-developers-didnt-ai-productivity-shorts/transcript.md) (2026-04-21)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [AI Made Every Company 10x More Productive. The Ones Cutting Headcount Are Telling on Themselves.](../episodes/2026-03-14-ai-made-every-company-10x-more-productive-the-ones-cutting-headcount-are-telling/transcript.md) (2026-03-14)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-preve/transcript.md) (2026-01-02)
