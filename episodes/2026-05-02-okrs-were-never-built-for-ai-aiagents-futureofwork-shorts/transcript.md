@@ -49,6 +49,7 @@ yt_tags:
   - "what is okr"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Strategy"

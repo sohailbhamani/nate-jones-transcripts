@@ -1,7 +1,10 @@
 # Framework
 
-Episodes discussing **Framework** (160 episodes):
+Episodes discussing **Framework** (163 episodes):
 
+- [Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career](../episodes/2026-05-09-frontier-vs-comfortable-where-do-you-actually-sit-ai-strategy-career/transcript.md) (2026-05-09)
+- [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
+- [This Is Why Distilled Models Collapse #AIShorts #LLM](../episodes/2026-05-05-this-is-why-distilled-models-collapse-aishorts-llm/transcript.md) (2026-05-05)
 - [Why Gemini 3.1 Pro Broke Every Benchmark #shorts #ai](../episodes/2026-04-30-why-gemini-31-pro-broke-every-benchmark-shorts-ai/transcript.md) (2026-04-30)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)

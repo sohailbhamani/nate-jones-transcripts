@@ -70,6 +70,7 @@ yt_tags:
   - "future tools"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "Career"

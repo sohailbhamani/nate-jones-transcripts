@@ -1,7 +1,14 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (254 episodes):
+Episodes discussing **Tutorials** (261 episodes):
 
+- [While Markets Panic, This Happens #ai #opportunity](../episodes/2026-05-08-while-markets-panic-this-happens-ai-opportunity/transcript.md) (2026-05-08)
+- [16 Million Fake Accounts Stealing AI Capabilities #ai #news](../episodes/2026-05-07-16-million-fake-accounts-stealing-ai-capabilities-ai-news/transcript.md) (2026-05-07)
+- [Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](../episodes/2026-05-07-your-ai-agent-is-locked-to-one-model-openclaw-just-killed-that/transcript.md) (2026-05-07)
+- [Nuclear Weapons vs AI: Which Is Actually Harder to Stop? #ai #nuclear](../episodes/2026-05-06-nuclear-weapons-vs-ai-which-is-actually-harder-to-stop-ai-nuclear/transcript.md) (2026-05-06)
+- [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
+- [Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](../episodes/2026-05-03-stripe-visa-mastercard-microsoft-meta-all-building-the-same-thing/transcript.md) (2026-05-03)
+- [The $60M AI Win That Wasn't #ai #shorts](../episodes/2026-05-03-the-60m-ai-win-that-wasnt-ai-shorts/transcript.md) (2026-05-03)
 - [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
 - [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)
 - [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)

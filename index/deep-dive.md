@@ -1,7 +1,9 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (86 episodes):
+Episodes discussing **Deep Dive** (88 episodes):
 
+- [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
+- [AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth](../episodes/2026-05-03-ai-works-too-well-at-the-wrong-thing-intentengineering-aitruth/transcript.md) (2026-05-03)
 - [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
 - [OKRs Were Never Built for AI #aiagents #futureofwork #shorts](../episodes/2026-05-02-okrs-were-never-built-for-ai-aiagents-futureofwork-shorts/transcript.md) (2026-05-02)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)

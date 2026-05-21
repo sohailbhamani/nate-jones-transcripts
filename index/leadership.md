@@ -1,7 +1,14 @@
 # Leadership
 
-Episodes discussing **Leadership** (276 episodes):
+Episodes discussing **Leadership** (283 episodes):
 
+- [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
+- [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
+- [16 Million Fake Accounts Stealing AI Capabilities #ai #news](../episodes/2026-05-07-16-million-fake-accounts-stealing-ai-capabilities-ai-news/transcript.md) (2026-05-07)
+- [Nuclear Weapons vs AI: Which Is Actually Harder to Stop? #ai #nuclear](../episodes/2026-05-06-nuclear-weapons-vs-ai-which-is-actually-harder-to-stop-ai-nuclear/transcript.md) (2026-05-06)
+- [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
+- [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)
+- [AI's 'Thin Ice' Moment: Is Your Job Already Gone?"](../episodes/2026-05-04-ais-thin-ice-moment-is-your-job-already-gone/transcript.md) (2026-05-04)
 - [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
 - [OKRs Were Never Built for AI #aiagents #futureofwork #shorts](../episodes/2026-05-02-okrs-were-never-built-for-ai-aiagents-futureofwork-shorts/transcript.md) (2026-05-02)
 - [What Actually Stops Leaders From Deciding #psychology #truth](../episodes/2026-05-01-what-actually-stops-leaders-from-deciding-psychology-truth/transcript.md) (2026-05-01)

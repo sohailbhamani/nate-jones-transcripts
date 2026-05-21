@@ -1,7 +1,15 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (190 episodes):
+Episodes discussing **Tutorial** (198 episodes):
 
+- [While Markets Panic, This Happens #ai #opportunity](../episodes/2026-05-08-while-markets-panic-this-happens-ai-opportunity/transcript.md) (2026-05-08)
+- [16 Million Fake Accounts Stealing AI Capabilities #ai #news](../episodes/2026-05-07-16-million-fake-accounts-stealing-ai-capabilities-ai-news/transcript.md) (2026-05-07)
+- [Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](../episodes/2026-05-07-your-ai-agent-is-locked-to-one-model-openclaw-just-killed-that/transcript.md) (2026-05-07)
+- [Nuclear Weapons vs AI: Which Is Actually Harder to Stop? #ai #nuclear](../episodes/2026-05-06-nuclear-weapons-vs-ai-which-is-actually-harder-to-stop-ai-nuclear/transcript.md) (2026-05-06)
+- [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
+- [AI Is Cheaper to Copy Than Create #Shorts #AI](../episodes/2026-05-04-ai-is-cheaper-to-copy-than-create-shorts-ai/transcript.md) (2026-05-04)
+- [Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](../episodes/2026-05-03-stripe-visa-mastercard-microsoft-meta-all-building-the-same-thing/transcript.md) (2026-05-03)
+- [The $60M AI Win That Wasn't #ai #shorts](../episodes/2026-05-03-the-60m-ai-win-that-wasnt-ai-shorts/transcript.md) (2026-05-03)
 - [When AI Optimizes for the Wrong Objective #aifails](../episodes/2026-05-02-when-ai-optimizes-for-the-wrong-objective-aifails/transcript.md) (2026-05-02)
 - [Tests vs Scenarios: Which One Actually Works #softwaredevelopment #QA #testing](../episodes/2026-05-01-tests-vs-scenarios-which-one-actually-works-softwaredevelopment-qa-testing/transcript.md) (2026-05-01)
 - [What Actually Stops Leaders From Deciding #psychology #truth](../episodes/2026-05-01-what-actually-stops-leaders-from-deciding-psychology-truth/transcript.md) (2026-05-01)

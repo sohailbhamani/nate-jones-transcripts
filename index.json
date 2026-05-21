@@ -1,10 +1,878 @@
 {
-  "total_videos": 603,
+  "total_videos": 618,
   "date_range": {
-    "newest": "2026-05-02",
+    "newest": "2026-05-09",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career",
+      "video_id": "cUo-QtAectY",
+      "youtube_url": "https://www.youtube.com/watch?v=cUo-QtAectY",
+      "publish_date": "2026-05-09",
+      "duration": "1:10",
+      "duration_seconds": 70,
+      "view_count": 6170,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption\u2014but the reality is more interesting when both the doomer and boomer narratives are wrong about the same thing: speed.\n\nIn this video, I share the inside scoop on why the gap between AI capability and societal adoption is the real story:\n\n\u2022 Why Cittrini's 2028 memo went viral while the counter-evidence barely registers\n\u2022 How four inertia forces\u2014regulatory, organizational, cultural, and trust\u2014slow everything down\n\u2022 What Toby Lutke's mandate at Shopify reveals about collapsing the integration timeline\n\u2022 Where asymmetric economic returns concentrate while the gap stays wide\n\nFor anyone watching the stock market panic while building real AI fluency, the capability-dissipation gap is the greatest generational opportunity in the workforce.\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "future of work",
+        "AI jobs",
+        "LLMs",
+        "AI career advice",
+        "AI agents",
+        "AI economic impact",
+        "AI adoption",
+        "AI productivity",
+        "AI future of work",
+        "OpenAI",
+        "Anthropic",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [
+        "You're working the same way you did 2 years ago"
+      ],
+      "summary": [
+        "# Frontier vs Comfortable: Where Do You Actually Sit"
+      ],
+      "transcript_chars": 1235,
+      "folder": "2026-05-09-frontier-vs-comfortable-where-do-you-actually-sit-ai-strategy-career"
+    },
+    {
+      "title": "You're Wasting 40% Of Your AI Time On Something Fixable",
+      "video_id": "647pSnX5H_Y",
+      "youtube_url": "https://www.youtube.com/watch?v=647pSnX5H_Y",
+      "publish_date": "2026-05-09",
+      "duration": "27:13",
+      "duration_seconds": 1633,
+      "view_count": 66944,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full article w/ the Ultimate Codex Plugin Guide: https://natesnewsletter.substack.com/p/codex-plugins-bottleneck-moved?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with codex plugins, skills, prompts, and MCPs as agents start doing real work? The common story is that plugins are just app store add-ons \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on the agentic scaffolding that actually makes AI useful:\n \u2022 Why prompts work for one-offs but break under repeated workflows\n \u2022 How skills encode your house style across any LLM you use\n \u2022 What plugins package up and why they're bigger than MCPs\n \u2022 Where hooks, scripts, and connectors fit inside the larger system\n\nFor operators and builders, the leverage in 2026 lives in knowing which part of your workflow belongs in a prompt, a skill, a plugin, or an MCP \u2014 and packaging the right ones so your team can actually reuse them.\n\nChapters\n0:00 Why most people get stuck on the agent scaffolding layer\n2:34 The mech suit metaphor \u2014 what actually surrounds an LLM\n5:39 The map: prompts, skills, plugins, MCPs, hooks, scripts\n9:42 Why now \u2014 GPT 5.5 and messy multi-part work\n11:38 Prompts: when one-offs are the right call\n13:30 Skills: teaching a tool your house style\n17:22 Plugins: packaging a whole workflow your team can install\n21:12 MCPs and app connectors: live access to where work lives\n23:06 Hooks and scripts: the deterministic parts you don't trust the model with\n25:27 Why the app store analogy undersells what plugins really are\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n \u2022 Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n \u2022 Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "codex plugins",
+        "AI agents",
+        "MCP servers",
+        "agentic workflows",
+        "prompt engineering",
+        "AI for non-engineers",
+        "AI workflow automation",
+        "codex",
+        "plugins"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Salesforce",
+          "Slack",
+          "GitHub",
+          "Box",
+          "Figma"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# You're Wasting 40% Of Your AI Time On Something Fixable\nWhat do you do when you get underneath an agent's skin and understand how it works"
+      ],
+      "transcript_chars": 30973,
+      "folder": "2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable"
+    },
+    {
+      "title": "271 Vulnerabilities: What Mozilla's AI Found Changes Everything",
+      "video_id": "W79FW7iUkro",
+      "youtube_url": "https://www.youtube.com/watch?v=W79FW7iUkro",
+      "publish_date": "2026-05-08",
+      "duration": "30:41",
+      "duration_seconds": 1841,
+      "view_count": 34732,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/ai-code-trust-verification-shift?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside software security when Mozilla points Anthropic's Mythos at Firefox and ships fixes for 271 vulnerabilities in a single release cycle?\n\nThe common story is that AI found bugs \u2014 but the reality is that the sentence \"a good human engineer wrote this\" is becoming a much weaker security claim than it used to be, and that changes everything about how we build.\n\nIn this video, I share the inside scoop on why trusted human code is ending as an era:\n\n\u2022 Why human authorship was never about perfection but about being the only thing capable of understanding software at the right level of abstraction \n\u2022 How security failures live in the gap between what code means to the author and what code actually permits \n\u2022 What the golden refactor window looks like and why comprehensibility is becoming a security property \n\u2022 Where engineers move when implementation becomes abundant and confidence becomes scarce\n\nLeaders treating AI code review as optional are missing that we may have a four-to-five month window to make code interpretable before this becomes table stakes.\n\nChapters \n00:00 Human code is losing its trust anchor \n02:30 Mozilla's Mythos found 271 vulnerabilities in Firefox \n05:00 This does not mean replace your senior engineers \n07:30 Meaning versus implementation in code \n10:00 Adversarial interpretation is reading code the wrong way \n12:30 Mythos participates in the research loop \n15:00 We've stopped trusting developers before \n17:30 Implementation becomes abundant, confidence becomes scarce \n20:00 The golden refactor window \n22:30 Comprehensibility is now a security property \n25:00 What a valuable engineer starts to look like \n27:30 Write better specs now \n30:00 AI code will be the gold standard\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n-   Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n-   Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI code review",
+        "Claude Mythos",
+        "Mozilla Firefox",
+        "AI security",
+        "agentic coding",
+        "Anthropic",
+        "Claude",
+        "AI engineering",
+        "Nate B Jones",
+        "AI strategy",
+        "CTO",
+        "AI 2026",
+        "ai",
+        "artificial intelligence",
+        "nate b jones",
+        "nate b jones ai",
+        "anthropic mythos",
+        "ai coding"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Box",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "If the organization does not understand what promises the system is making then the meaning layer collapses"
+      ],
+      "summary": [
+        "# 271 Vulnerabilities: What Mozilla's AI Found Changes Everything\nSo the heart of this story is about mythos and how it changes how we view human code"
+      ],
+      "transcript_chars": 34420,
+      "folder": "2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything"
+    },
+    {
+      "title": "While Markets Panic, This Happens #ai #opportunity",
+      "video_id": "5FLfz7KzV50",
+      "youtube_url": "https://www.youtube.com/watch?v=5FLfz7KzV50",
+      "publish_date": "2026-05-08",
+      "duration": "2:07",
+      "duration_seconds": 127,
+      "view_count": 4603,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption\u2014but the reality is more interesting when both the doomer and boomer narratives are wrong about the same thing: speed.\n\nIn this video, I share the inside scoop on why the gap between AI capability and societal adoption is the real story:\n\n\u2022 Why Cittrini's 2028 memo went viral while the counter-evidence barely registers\n\u2022 How four inertia forces\u2014regulatory, organizational, cultural, and trust\u2014slow everything down\n\u2022 What Toby Lutke's mandate at Shopify reveals about collapsing the integration timeline\n\u2022 Where asymmetric economic returns concentrate while the gap stays wide\n\nFor anyone watching the stock market panic while building real AI fluency, the capability-dissipation gap is the greatest generational opportunity in the workforce.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI labor market",
+        "future of work",
+        "AI jobs",
+        "LLMs",
+        "AI career advice",
+        "AI agents",
+        "AI economic impact",
+        "AI adoption",
+        "AI productivity",
+        "AI future of work",
+        "OpenAI",
+        "Anthropic",
+        "ai tools",
+        "artificial intelligence",
+        "ai automation agency",
+        "ai agents",
+        "ai"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# While Markets Panic, This Happens #ai #opportunity\nSo, a solo consultant who can integrate AI into their workflow today is operating at the capability frontier while their competitors are still doi"
+      ],
+      "transcript_chars": 2140,
+      "folder": "2026-05-08-while-markets-panic-this-happens-ai-opportunity"
+    },
+    {
+      "title": "16 Million Fake Accounts Stealing AI Capabilities #ai #news",
+      "video_id": "MfO_Edrgy0w",
+      "youtube_url": "https://www.youtube.com/watch?v=MfO_Edrgy0w",
+      "publish_date": "2026-05-07",
+      "duration": "1:11",
+      "duration_seconds": 71,
+      "view_count": 4620,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage\u2014but the reality is more interesting when you recognize this is a Napster problem, and the thousand-to-one economics of extraction apply to everyone on earth.\n\nIn this video, I share the inside scoop on why distillation changes how you should evaluate every AI tool you're using:\n\n\u2022 Why $2 million in API costs can extract capabilities that cost $2 billion to develop\n\u2022 How distilled models occupy narrower capability manifolds that break on agentic work\n\u2022 What the \"off-manifold probe\" reveals that no benchmark captures\n\u2022 Where the performance shadow between frontier and distilled models is widest\n\nFor anyone building real systems on AI, the provenance of a model is not just an ethical question\u2014it's a capability question, and where the weights come from determines how the model breaks.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "AI model distillation",
+        "agentic workflows",
+        "AI productivity",
+        "AI future of work",
+        "AI procurement",
+        "AI career advice",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 16 Million Fake Accounts Stealing AI Capabilities #ai #news\nAnthropic disclosure leans really heavily into that national security language, probably on purpose"
+      ],
+      "transcript_chars": 1284,
+      "folder": "2026-05-07-16-million-fake-accounts-stealing-ai-capabilities-ai-news"
+    },
+    {
+      "title": "Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.",
+      "video_id": "85Q9htV2CBE",
+      "youtube_url": "https://www.youtube.com/watch?v=85Q9htV2CBE",
+      "publish_date": "2026-05-07",
+      "duration": "26:02",
+      "duration_seconds": 1562,
+      "view_count": 59795,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Open Brain Agent Memory: https://natesnewsletter.substack.com/p/openclaw-agent-runtime-model-swapping?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside OpenClaw when everyone is arguing about the model layer but missing that the runtime itself changed shape in April?\n\nThe common story is about Anthropic versus OpenAI and subscription policies \u2014 but the reality is that OpenClaw crossed into serious work mode, and once you can swap brains through a durable work layer, memory becomes the strategic layer that matters most.\n\nIn this video, I share the inside scoop on what April's releases actually mean for builders:\n\n \u2022 Why OpenClaw is becoming a runtime abstraction for serious agentic work, not just a chatbot wrapper\n \u2022 How Anthropic's subscription changes and OpenAI's Codex access create opposite architecture assumptions\n \u2022 What makes a durable workflow survive model churn, pricing changes, and better local models\n \u2022 Where OpenBrain for OpenClaw fits and why memory can't live inside any one brain\n\nLeaders treating model choice as a permanent architectural decision are missing that the practical unlock is designing workflows that outlive a provider policy.\n\nChapters\n00:00 OpenClaw grew up in April\n02:30 From viral demo to serious runtime\n05:00 The boring stuff that makes work possible\n07:30 Task flow, memory, and channel maturity\n10:00 Anthropic's April move was deeply unpopular\n12:30 OpenAI's opposite posture with Codex\n15:00 Gemma 4 and the local model branch\n17:30 Which model should handle this step\n20:00 Durable workflows that survive the session\n22:30 Memory can't live inside one brain\n24:30 OpenBrain recipes for OpenClaw\n25:30 Build the runtime so the model can change\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "OpenClaw",
+        "OpenBrain",
+        "AI agents",
+        "Anthropic",
+        "OpenAI",
+        "Codex",
+        "agent runtime",
+        "AI memory",
+        "Gemma 4",
+        "agentic architecture",
+        "google",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Slack",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Codex",
+          "LM Studio",
+          "Make",
+          "Operator",
+          "Artifacts"
+        ],
+        "models": [
+          "Gemini",
+          "DeepSeek",
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "The teenager not only got their hands on the keys to the car, they actually grew a prefrontal cortex and can make responsible decisions"
+      ],
+      "transcript_chars": 28925,
+      "folder": "2026-05-07-your-ai-agent-is-locked-to-one-model-openclaw-just-killed-that"
+    },
+    {
+      "title": "Nuclear Weapons vs AI: Which Is Actually Harder to Stop? #ai #nuclear",
+      "video_id": "caULlNzJGj0",
+      "youtube_url": "https://www.youtube.com/watch?v=caULlNzJGj0",
+      "publish_date": "2026-05-06",
+      "duration": "1:00",
+      "duration_seconds": 60,
+      "view_count": 8905,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage\u2014but the reality is more interesting when you recognize this is a Napster problem, and the thousand-to-one economics of extraction apply to everyone on earth.\n\nIn this video, I share the inside scoop on why distillation changes how you should evaluate every AI tool you're using:\n\n\u2022 Why $2 million in API costs can extract capabilities that cost $2 billion to develop\n\u2022 How distilled models occupy narrower capability manifolds that break on agentic work\n\u2022 What the \"off-manifold probe\" reveals that no benchmark captures\n\u2022 Where the performance shadow between frontier and distilled models is widest\n\nFor anyone building real systems on AI, the provenance of a model is not just an ethical question\u2014it's a capability question, and where the weights come from determines how the model breaks.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "AI model distillation",
+        "agentic workflows",
+        "AI productivity",
+        "AI future of work",
+        "AI procurement",
+        "AI career advice",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Nuclear Weapons vs AI: Which Is Actually Harder to Stop"
+      ],
+      "transcript_chars": 1035,
+      "folder": "2026-05-06-nuclear-weapons-vs-ai-which-is-actually-harder-to-stop-ai-nuclear"
+    },
+    {
+      "title": "The Work Primitive: What Every AI Product Leader Gets Wrong",
+      "video_id": "b1fxYGPbHeo",
+      "youtube_url": "https://www.youtube.com/watch?v=b1fxYGPbHeo",
+      "publish_date": "2026-05-06",
+      "duration": "23:17",
+      "duration_seconds": 1397,
+      "view_count": 31148,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/ai-work-primitives-access-vs-meaning?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside the platform fight for agents when everyone is building demos where an AI clicks buttons but missing the strategic layer underneath?\n\nThe common story is that computer use levels the playing field \u2014 but the reality is that the visible work the model does is distracting us from who defines what the button means, and that's where the real moat lives.\n\nIn this video, I share the inside scoop on why semantic work primitives matter more than access:\n\n \u2022 Why there are three layers to keep in your head: access, meaning, and authority\n \u2022 How coding agents worked first because software development has unusually rich work semantics\n \u2022 What Perplexity's move from search to browser to personal computer reveals about the strategy\n \u2022 Where Salesforce going headless and SAP blocking agents tells you which approach survives\n\nLeaders asking whether the agent can act are asking the wrong question \u2014 ask whether the product knows what that action means.\n\nChapters\n00:00 Computer use is distracting us from the platform shift\n02:30 Access, meaning, and authority: three layers\n05:00 Moving a calendar invite is not click save\n07:30 Computer use is the universal adapter for the messy middle\n10:00 The hierarchy of meaning: use the richest interface\n12:30 Why coding agents arrived first\n15:00 Perplexity's strategy: browser to computer to semantic meaning\n17:30 Salesforce 360 vs SAP: who gets this right\n20:00 The button is no longer the primitive\n22:30 Does the product know what the action means\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "work primitives",
+        "computer use",
+        "Codex",
+        "MCP",
+        "semantic meaning",
+        "agent platform",
+        "Perplexity",
+        "Salesforce",
+        "agentic software",
+        "AI architecture",
+        "SaaS strategy",
+        "coding agents",
+        "enterprise AI",
+        "AI strategy for teams",
+        "ai",
+        "artificial intelligence",
+        "agentic ai",
+        "ai automation",
+        "ai agent"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Shopify",
+          "Salesforce",
+          "GitHub",
+          "Stripe",
+          "Perplexity",
+          "Twitter",
+          "SAP"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Codex",
+          "Perplexity",
+          "Make",
+          "MCP",
+          "Operator",
+          "Computer Use",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The Work Primitive: What Every AI Product Leader Gets Wrong\nThis is a piece about the strategy that we have to build as product leaders when we think about where agents play best"
+      ],
+      "transcript_chars": 26203,
+      "folder": "2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong"
+    },
+    {
+      "title": "Consumer AI Has a Problem Nobody's Naming.",
+      "video_id": "Z0HizICooiw",
+      "youtube_url": "https://www.youtube.com/watch?v=Z0HizICooiw",
+      "publish_date": "2026-05-05",
+      "duration": "32:55",
+      "duration_seconds": 1975,
+      "view_count": 72763,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/consumer-ai-anticipation-gap?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside consumer AI when software is finally capable enough to help but has somehow become one more thing to manage?\n\nThe common pitch is that agents can do anything \u2014 but the reality is that most consumer agent products are still reactive, putting the hardest job on your shoulders: figuring out what to ask, remembering the agent exists, translating tasks into prompts, and supervising results.\n\nIn this video, I share the inside scoop on why we don't have the proactive assistant yet:\n\n \u2022 Why the anticipation gap is the real frontier, not model capability or agent architecture\n \u2022 How coding agents crossed the threshold with clean verification while consumer life has no compiler for taste\n \u2022 What makes the permission ladder from read to suggest to draft to act with confirmation to autonomous actually work\n \u2022 Where Poke, Clicky, Clueless, and Cowork are betting and what each reveals about the problem\n\nLeaders waiting for proactive agents to arrive from the labs may be waiting a while \u2014 the burden right now is on you to make your workflows predictable enough for agents to anticipate.\n\nChapters\n00:00 AI is the annoying assistant in the corner\n02:30 Why this is a PSA for the labs\n05:00 The attention bottleneck even enterprise hit\n07:30 What I actually want from an agent\n10:00 Why chatbots got adoption and agents struggle\n13:00 Consumer has no test suite for life admin\n15:30 The anticipation gap defined\n18:00 Push notifications crossed a smaller version of this\n20:30 Poke, Clicky, and Clueless: three different bets\n23:30 Chronicle as a clue toward the future\n26:00 The permission ladder from read to autonomous\n29:00 Key hires and early warning signs\n31:30 Try agents and watch for load lifting\n32:30 My mom is not installing OpenClaw\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "proactive agents",
+        "consumer AI",
+        "AI assistants",
+        "OpenClaw",
+        "Codex",
+        "Chronicle",
+        "AI UX",
+        "personal AI",
+        "AI products",
+        "life admin",
+        "ai agents",
+        "ai",
+        "ai automation",
+        "artificial intelligence",
+        "agentic ai"
+      ],
+      "content_type": "Opinion",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Apple",
+          "Notion",
+          "Slack",
+          "GitHub",
+          "Stripe",
+          "Box",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Make",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "The main problem in 2026 in AI is that software is finally capable enough to help"
+      ],
+      "transcript_chars": 40437,
+      "folder": "2026-05-05-consumer-ai-has-a-problem-nobodys-naming"
+    },
+    {
+      "title": "This Is Why Distilled Models Collapse #AIShorts #LLM",
+      "video_id": "X1h75jqeD0Q",
+      "youtube_url": "https://www.youtube.com/watch?v=X1h75jqeD0Q",
+      "publish_date": "2026-05-05",
+      "duration": "1:00",
+      "duration_seconds": 60,
+      "view_count": 10640,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage\u2014but the reality is more interesting when you recognize this is a Napster problem, and the thousand-to-one economics of extraction apply to everyone on earth.\n\nIn this video, I share the inside scoop on why distillation changes how you should evaluate every AI tool you're using:\n\n\u2022 Why $2 million in API costs can extract capabilities that cost $2 billion to develop\n\u2022 How distilled models occupy narrower capability manifolds that break on agentic work\n\u2022 What the \"off-manifold probe\" reveals that no benchmark captures\n\u2022 Where the performance shadow between frontier and distilled models is widest\n\nFor anyone building real systems on AI, the provenance of a model is not just an ethical question\u2014it's a capability question, and where the weights come from determines how the model breaks.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "AI model distillation",
+        "agentic workflows",
+        "AI productivity",
+        "AI future of work",
+        "AI procurement",
+        "AI career advice",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# This Is Why Distilled Models Collapse #AIShorts #LLM\nThink about it geometrically"
+      ],
+      "transcript_chars": 963,
+      "folder": "2026-05-05-this-is-why-distilled-models-collapse-aishorts-llm"
+    },
+    {
+      "title": "AI Is Cheaper to Copy Than Create #Shorts #AI",
+      "video_id": "zqJKDFQvSzA",
+      "youtube_url": "https://www.youtube.com/watch?v=zqJKDFQvSzA",
+      "publish_date": "2026-05-04",
+      "duration": "0:51",
+      "duration_seconds": 51,
+      "view_count": 7256,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/three-labs-just-stole-claudes-brain?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when three Chinese labs run 16 million automated conversations across 24,000 fake accounts to steal Claude's capabilities? The common story is Cold War espionage\u2014but the reality is more interesting when you recognize this is a Napster problem, and the thousand-to-one economics of extraction apply to everyone on earth.\n\nIn this video, I share the inside scoop on why distillation changes how you should evaluate every AI tool you're using:\n\n\u2022 Why $2 million in API costs can extract capabilities that cost $2 billion to develop\n\u2022 How distilled models occupy narrower capability manifolds that break on agentic work\n\u2022 What the \"off-manifold probe\" reveals that no benchmark captures\n\u2022 Where the performance shadow between frontier and distilled models is widest\n\nFor anyone building real systems on AI, the provenance of a model is not just an ethical question\u2014it's a capability question, and where the weights come from determines how the model breaks.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "AI model distillation",
+        "agentic workflows",
+        "AI productivity",
+        "AI future of work",
+        "AI procurement",
+        "AI career advice",
+        "model distillation",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# AI Is Cheaper to Copy Than Create #Shorts #AI\nThe incentive to distill frontier models would exist even if China and the United States were close allies"
+      ],
+      "transcript_chars": 865,
+      "folder": "2026-05-04-ai-is-cheaper-to-copy-than-create-shorts-ai"
+    },
+    {
+      "title": "AI's 'Thin Ice' Moment: Is Your Job Already Gone?\"",
+      "video_id": "rYqt6mMlv7o",
+      "youtube_url": "https://www.youtube.com/watch?v=rYqt6mMlv7o",
+      "publish_date": "2026-05-04",
+      "duration": "34:16",
+      "duration_seconds": 2056,
+      "view_count": 39409,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit and link Nate's TalentBoard: https://natesnewsletter.substack.com/p/job-at-risk-ai-audit?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside knowledge work when your calendar is full, your manager is happy, and the first sign your job is on thin ice is that nothing looks wrong?\n\nThe common framing is will AI replace my job \u2014 but the reality is that AI doesn't have to replace your whole job to put you on thin ice, it only has to pick away at enough pieces that when the next shock comes, the rest of the story stops holding together.\n\nIn this video, I share the inside scoop on a quick audit that separates your week into four buckets:\n\n \u2022 Why theater and commodity work are the fraction of your week that's on thin ice right now\n \u2022 How to tag every item from the last two weeks with T, C, L, or D and what the count reveals\n \u2022 What makes durable work question-holding instead of question-answering\n \u2022 Why identity is the true obstacle and how to update your self-image before the organization forces it\n\nLeaders who pour recovered AI time into more commodity work are becoming twice as productive at the part of their job whose value is collapsing \u2014 and it feels like progress because old systems still reward visible throughput.\n\nChapters\n00:00 The first sign your job is on thin ice\n02:30 Jobs getting hollowed out, not replaced\n05:00 Travel agents: the historical parallel\n07:30 Why performance systems can't see this\n10:00 The four-letter audit: T, C, L, D\n13:00 Theater: work that exists because the org performs it\n15:30 Commodity: real work that doesn't need you specifically\n18:00 On the line: the uncomfortable middle\n20:30 Durable: work where you changed the question\n23:00 What the count reveals about your week\n26:00 Question-holding vs question-answering\n28:30 The legibility paradox\n31:00 Six moves after the audit\n33:30 What part of your week will you stop defending\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI jobs",
+        "career advice",
+        "knowledge work",
+        "job security",
+        "AI audit",
+        "future of work",
+        "professional identity",
+        "durable skills",
+        "AI disruption",
+        "performance review",
+        "commodity work",
+        "judgment",
+        "AI careers",
+        "AI strategy for teams",
+        "ai taking jobs",
+        "ai",
+        "artificial intelligence",
+        "jobs",
+        "career growth"
+      ],
+      "content_type": "Opinion",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "Microsoft",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "'\nJobs are the scariest topic out there and we're going to talk about them in a different way today"
+      ],
+      "transcript_chars": 41751,
+      "folder": "2026-05-04-ais-thin-ice-moment-is-your-job-already-gone"
+    },
+    {
+      "title": "AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth",
+      "video_id": "YRiPVdPqTlk",
+      "youtube_url": "https://www.youtube.com/watch?v=YRiPVdPqTlk",
+      "publish_date": "2026-05-03",
+      "duration": "0:27",
+      "duration_seconds": 27,
+      "view_count": 8739,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance\u2014but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong objective.\n\nIn this video, I share the inside scoop on why the gap between AI capability and organizational value is the most important unsolved problem in enterprise AI:\n\n\u2022 Why 74% of companies report no tangible value from AI despite massive investment\n\u2022 How Microsoft Copilot stalled at 5% deployment despite 85% Fortune 500 adoption\n\u2022 What separates context engineering from intent engineering\u2014and why intent is the missing layer\n\u2022 Where the race has shifted from who has the smartest model to who has the clearest organizational intent\n\nFor leaders watching agents run for weeks and soon for months, the question is no longer can AI do this task\u2014it's can AI do this task in a way that serves what we actually need?\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "intent engineering",
+        "LLMs",
+        "context engineering",
+        "AI future of work",
+        "enterprise AI",
+        "AI productivity",
+        "AI strategy for teams",
+        "autonomous agents",
+        "upskilling with AI",
+        "AI labor market",
+        "prompt engineering",
+        "agentic workflows",
+        "Anthropic",
+        "AI career advice",
+        "AI tools for builders",
+        "AI workforce skills",
+        "artificial intelligence",
+        "ai agents",
+        "ai news",
+        "ai"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "That second question, that's an intent engineering question"
+      ],
+      "transcript_chars": 399,
+      "folder": "2026-05-03-ai-works-too-well-at-the-wrong-thing-intentengineering-aitruth"
+    },
+    {
+      "title": "Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.",
+      "video_id": "XGvDbeoSN3E",
+      "youtube_url": "https://www.youtube.com/watch?v=XGvDbeoSN3E",
+      "publish_date": "2026-05-03",
+      "duration": "31:19",
+      "duration_seconds": 1879,
+      "view_count": 43382,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/agentic-commerce-buyers-power?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside Stripe's agent commerce announcement when everyone is talking about agents buying coffee but missing the actual shift underneath?\n\nThe common headline is that agents can spend money now \u2014 but the reality is that for the first time in decades, power in the internet economy is moving from the seller to the buyer, and the entire infrastructure of the selling funnel is starting to crumble.\n\nIn this video, I share the inside scoop on the biggest shift in commerce patterns in two decades:\n\n \u2022 Why the old funnel was a machine for making human intent observable inside seller-controlled environments\n \u2022 How payment authority now travels with the task instead of waiting inside checkout\n \u2022 What makes \"authentic coffee\" a disaster for search engines but a purchasing brief for agents\n \u2022 Why brand becomes an entry in the buyer's operating context instead of a billboard at point of persuasion\n\nLeaders who think agentic commerce is just SEO for agents are missing that the commercial surface is migrating from the seller's environment to the buyer's agent \u2014 and the seller may be receiving an authorized purchasing attempt, not a browsing customer.\n\nChapters\n00:00 Agents can spend money \u2014 that's not the point\n02:30 The transaction is leaving the store\n05:00 The funnel was a machine for making intent visible\n07:30 Stripe made money movement feel native to software\n10:00 Where intent becomes explicit is changing\n12:30 Authentic coffee: keyword problem vs purchasing brief\n15:00 Agentic visibility is not SEO for agents\n17:30 Link wallet and the relocation of payment authority\n20:00 One-time cards as adapters, tokens as native rail\n22:30 Streaming payments and usage-based billing\n25:00 Why fraud protection matters more now\n27:30 Brand becomes part of the buyer's memory\n30:00 The seller's persuasion surface is disappearing\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "Stripe",
+        "agent commerce",
+        "agentic economy",
+        "payments",
+        "Link wallet",
+        "stablecoins",
+        "ecommerce",
+        "AI agents",
+        "Radar",
+        "AI strategy for teams",
+        "stripe payment gateway",
+        "ai",
+        "artificial intelligence",
+        "ecommerce business",
+        "economy",
+        "walmart",
+        "ai agents",
+        "stripe payments",
+        "ai tools"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "Stripe"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Copilot",
+          "Make"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "About making sure that in this world that we're envisioning, fraudsters don't just ruin the pie for everyone"
+      ],
+      "summary": [
+        "Stripe announced a pile of new agent commerce products"
+      ],
+      "transcript_chars": 36607,
+      "folder": "2026-05-03-stripe-visa-mastercard-microsoft-meta-all-building-the-same-thing"
+    },
+    {
+      "title": "The $60M AI Win That Wasn't #ai #shorts",
+      "video_id": "J-lOw3au-0E",
+      "youtube_url": "https://www.youtube.com/watch?v=J-lOw3au-0E",
+      "publish_date": "2026-05-03",
+      "duration": "1:26",
+      "duration_seconds": 86,
+      "view_count": 8482,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance\u2014but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong objective.\n\nIn this video, I share the inside scoop on why the gap between AI capability and organizational value is the most important unsolved problem in enterprise AI:\n\n\u2022 Why 74% of companies report no tangible value from AI despite massive investment\n\u2022 How Microsoft Copilot stalled at 5% deployment despite 85% Fortune 500 adoption\n\u2022 What separates context engineering from intent engineering\u2014and why intent is the missing layer\n\u2022 Where the race has shifted from who has the smartest model to who has the clearest organizational intent\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nFor leaders watching agents run for weeks and soon for months, the question is no longer can AI do this task\u2014it's can AI do this task in a way that serves what we actually need?\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "intent engineering",
+        "LLMs",
+        "context engineering",
+        "AI future of work",
+        "enterprise AI",
+        "AI productivity",
+        "AI strategy for teams",
+        "autonomous agents",
+        "upskilling with AI",
+        "AI labor market",
+        "prompt engineering",
+        "agentic workflows",
+        "Anthropic",
+        "AI career advice",
+        "AI tools for builders",
+        "AI workforce skills",
+        "artificial intelligence",
+        "ai"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Microsoft"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Copilot",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The $60M AI Win That Wasn't #ai #shorts\nLook at what happened with Microsoft Copilot"
+      ],
+      "transcript_chars": 1367,
+      "folder": "2026-05-03-the-60m-ai-win-that-wasnt-ai-shorts"
+    },
     {
       "title": "Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.",
       "video_id": "FDkvRl1RlT0",
