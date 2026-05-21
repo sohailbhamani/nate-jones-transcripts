@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (275 episodes):
+Episodes discussing **Workflows** (276 episodes):
 
+- [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
 - [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)
 - [Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation](../episodes/2026-05-17-agents-vs-chatbots-codex-changes-everything-aiagents-codex-automation/transcript.md) (2026-05-17)
 - [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)

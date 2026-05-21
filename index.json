@@ -1,5 +1,5 @@
 {
-  "total_videos": 647,
+  "total_videos": 648,
   "date_range": {
     "newest": "2026-05-21",
     "oldest": "2024-05-21"
@@ -45,6 +45,72 @@
       ],
       "transcript_chars": 922,
       "folder": "2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting"
+    },
+    {
+      "title": "Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.",
+      "video_id": "ogTLWGBc3cE",
+      "youtube_url": "https://www.youtube.com/watch?v=ogTLWGBc3cE",
+      "publish_date": "2026-05-21",
+      "duration": "25:04",
+      "duration_seconds": 1504,
+      "view_count": 14567,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompt Pack: https://natesnewsletter.substack.com/p/ai-agents-better-communicator?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening with prompt engineering now that AI agents are 100x more powerful than they were six months ago?\n\nThe common story is that prompt engineering is dead and you can just ask AI for what you want \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on the shift from prompting to questioning AI agents:\n\n \u2022 Why prompt engineering is now table stakes, not a skill\n \u2022 How to treat frontier LLMs like a senior partner\n \u2022 What the AI Question Method looks like in practice\n \u2022 Where most knowledge workers are still stuck in 2025 habits\n\nThe risk is that anyone running heavy knowledge work with weak questions gets shallow output from powerful agents, but the operators who learn to ask sharp, layered questions unlock real leverage.\n\nChapters:\n00:00 Prompt engineering is now table stakes\n01:24 Why agents are 100x more powerful in 2026\n02:48 Introducing the AI Question Method\n04:05 AI as senior partner, not junior teammate\n06:20 Why most people are still prompting like it's 2025\n08:10 Defining agents vs. agentic pipelines\n10:05 Principle 1: The flashlight intent\n12:30 Conveying perspective and edges in your questions\n14:45 Principle 2: Asking what good looks like\n16:20 The PRFAQ example with Prime Video\n19:10 Principle 3: Wrestling with data and opinions\n21:30 The MRR product-led growth example\n23:45 Why memory and quick-start guides matter\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "agentic workflows",
+        "prompt engineering",
+        "Codex",
+        "Cowork",
+        "AI question method",
+        "AI for knowledge work",
+        "prompting AI agents",
+        "LLMs for managers"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Amazon",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Prompt engineering is not what we need to be talking about now"
+      ],
+      "transcript_chars": 24758,
+      "folder": "2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete"
     },
     {
       "title": "How ChatGPT Became Teenagers' Best Friend #AI #Psychology",

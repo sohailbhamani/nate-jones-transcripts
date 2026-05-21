@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (70 episodes):
+Episodes discussing **Opus** (71 episodes):
 
+- [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
 - [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [Parents Using AI Tutors Are Making This Critical Mistake #Parenting #AI #ChildDevelopment](../episodes/2026-05-14-parents-using-ai-tutors-are-making-this-critical-mistake-parenting-ai-childdevel/transcript.md) (2026-05-14)
 - [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
