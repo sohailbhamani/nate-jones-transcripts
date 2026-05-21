@@ -21,8 +21,53 @@ EPISODES_DIR = BASE_DIR / "episodes"
 VIDEO_IDS_FILE = BASE_DIR / "video_ids.txt"
 PROGRESS_FILE = BASE_DIR / "progress.json"
 
-# YouTube Data API
+# YouTube Data API — OAuth (preferred, no IP restriction) with API-key fallback.
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
+YOUTUBE_REFRESH_TOKEN = os.environ.get("YOUTUBE_REFRESH_TOKEN", "")
+YOUTUBE_CLIENT_ID = os.environ.get("YOUTUBE_CLIENT_ID", "")
+YOUTUBE_CLIENT_SECRET = os.environ.get("YOUTUBE_CLIENT_SECRET", "")
+
+_access_token_cache = {"token": None, "expires_at": 0}
+
+
+def _get_oauth_access_token():
+    """Exchange the refresh token for a short-lived access token. Cached until ~5s before expiry.
+
+    Returns None if OAuth credentials aren't configured so callers can fall
+    back to the API key path.
+    """
+    if not (YOUTUBE_REFRESH_TOKEN and YOUTUBE_CLIENT_ID and YOUTUBE_CLIENT_SECRET):
+        return None
+
+    now = time.time()
+    cached = _access_token_cache["token"]
+    if cached and _access_token_cache["expires_at"] - 5 > now:
+        return cached
+
+    body = urllib.parse.urlencode(
+        {
+            "client_id": YOUTUBE_CLIENT_ID,
+            "client_secret": YOUTUBE_CLIENT_SECRET,
+            "refresh_token": YOUTUBE_REFRESH_TOKEN,
+            "grant_type": "refresh_token",
+        }
+    ).encode()
+    req = urllib.request.Request(
+        "https://oauth2.googleapis.com/token",
+        data=body,
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+    except Exception as e:
+        print(f"  Warning: OAuth token exchange failed: {e}")
+        return None
+
+    _access_token_cache["token"] = data["access_token"]
+    _access_token_cache["expires_at"] = now + int(data.get("expires_in", 3600))
+    return _access_token_cache["token"]
+
 
 # Supadata API
 SUPADATA_API_KEY = os.environ.get("SUPADATA_API_KEY", "")
@@ -85,20 +130,31 @@ def get_video_metadata(video_id, max_retries=3):
     failures with exponential backoff, and fall back to oEmbed for at least the
     title so the directory name is usable instead of `unknown-<id>`.
     """
-    if YOUTUBE_API_KEY:
-        params = urllib.parse.urlencode(
-            {
-                "part": "snippet,contentDetails,statistics",
-                "id": video_id,
-                "key": YOUTUBE_API_KEY,
-            }
-        )
+    oauth_token = _get_oauth_access_token()
+    if oauth_token or YOUTUBE_API_KEY:
+        if oauth_token:
+            params = urllib.parse.urlencode(
+                {
+                    "part": "snippet,contentDetails,statistics",
+                    "id": video_id,
+                }
+            )
+            req_headers = {"Authorization": f"Bearer {oauth_token}"}
+        else:
+            params = urllib.parse.urlencode(
+                {
+                    "part": "snippet,contentDetails,statistics",
+                    "id": video_id,
+                    "key": YOUTUBE_API_KEY,
+                }
+            )
+            req_headers = {}
         api_url = f"https://www.googleapis.com/youtube/v3/videos?{params}"
 
         last_err = None
         for attempt in range(max_retries):
             try:
-                req = urllib.request.Request(api_url)
+                req = urllib.request.Request(api_url, headers=req_headers)
                 with urllib.request.urlopen(req, timeout=30) as resp:
                     data = json.loads(resp.read())
 
@@ -166,7 +222,9 @@ def get_video_metadata(video_id, max_retries=3):
                 f"  Warning: YouTube API exhausted retries for {video_id}: {last_err}"
             )
     else:
-        print("  Warning: No YOUTUBE_API_KEY, trying oEmbed fallback")
+        print(
+            "  Warning: No YouTube OAuth credentials or API key, trying oEmbed fallback"
+        )
 
     # oEmbed fallback — lower-fidelity but still gives a real title
     oe = _oembed_metadata(video_id)
