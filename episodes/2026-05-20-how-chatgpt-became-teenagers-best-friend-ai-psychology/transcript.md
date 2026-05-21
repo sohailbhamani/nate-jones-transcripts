@@ -52,6 +52,7 @@ yt_tags:
   - "mental health awareness"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"

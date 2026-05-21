@@ -74,6 +74,7 @@ yt_tags:
   - "digital transformation"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
