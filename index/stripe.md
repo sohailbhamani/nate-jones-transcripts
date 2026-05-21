@@ -1,7 +1,10 @@
 # Stripe
 
-Episodes discussing **Stripe** (18 episodes):
+Episodes discussing **Stripe** (21 episodes):
 
+- [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
+- [The $3 Trillion IPO Trap Nobody's Talking About](../episodes/2026-04-09-the-3-trillion-ipo-trap-nobodys-talking-about/transcript.md) (2026-04-09)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
 - [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)
 - [The $285B Sell-Off Was Just the Beginning — The Infrastructure Story Is Bigger.](../episodes/2026-02-21-the-285b-sell-off-was-just-the-beginning-the-infrastructure-story-is-bigger/transcript.md) (2026-02-21)

@@ -1,10 +1,663 @@
 {
-  "total_videos": 544,
+  "total_videos": 558,
   "date_range": {
-    "newest": "2026-04-05",
+    "newest": "2026-04-12",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Big firms are safe  Startups are weak  The middle is doomed",
+      "video_id": "f_OmLWjWgNA",
+      "youtube_url": "https://www.youtube.com/watch?v=f_OmLWjWgNA",
+      "publish_date": "2026-04-12",
+      "duration": "1:10",
+      "duration_seconds": 70,
+      "view_count": 11082,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally \u2014 but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside scoop on how AI is bifurcating the economy and what that means for where you invest:\n\n \u2022 Why mid-tier digital firms face an existential squeeze right now\n \u2022 How physical, local markets are actually protected from AI disruption\n \u2022 What the three-layer value chain reveals about your real vulnerability\n \u2022 Where AI native startups must run to build anything defensible\n\nOperators and leaders who accurately diagnose where they sit in this reshaped economy will make smarter AI investments \u2014 those who don't will spend money accelerating a losing position.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "automation at work",
+        "future of work",
+        "AI labor market",
+        "upskilling with AI",
+        "competitive strategy AI",
+        "mid-tier firm AI risk",
+        "AI native startups",
+        "physical vs digital markets",
+        "AI investment strategy",
+        "barbell economy",
+        "contestable markets",
+        "AI for operators",
+        "AI strategy for teams",
+        "professional services AI",
+        "AI career advice"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Big firms are safe  Startups are weak  The middle is doomed\nThe giants are not nearly as vulnerable as the story might suggest"
+      ],
+      "transcript_chars": 1200,
+      "folder": "2026-04-12-big-firms-are-safe-startups-are-weak-the-middle-is-doomed"
+    },
+    {
+      "title": "This New Method Just Killed RAM Limitations",
+      "video_id": "erV_8yrGMA8",
+      "youtube_url": "https://www.youtube.com/watch?v=erV_8yrGMA8",
+      "publish_date": "2026-04-11",
+      "duration": "22:22",
+      "duration_seconds": 1342,
+      "view_count": 94888,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-gpus-just-got-6x-more-valuable?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI memory \u2014 and why it's the bottleneck threatening every LLM deployment at scale?\n\nThe common story is that we just need more chips \u2014 but the reality is more interesting: a new Google paper may have just changed the math without touching the hardware.\n\nIn this video, I share the inside scoop on TurboQuant, Google's lossless KV cache compression breakthrough:\n\n\u2022 Why the AI memory crisis is structural, not temporary \n\u2022 How TurboQuant achieves 6x compression with zero data loss\n\u2022 What lossless KV cache optimization means for LLM architecture \n\u2022 Where Google, NVIDIA, and enterprises each stand to win or lose\n\nThe operators and builders who start treating memory as a years-long constraint \u2014 and take control of their own context layers now \u2014 will hold a real structural advantage as this rolls toward production.\n\nChapters \n00:00 Introduction: TurboQuant and the Memory Problem \n01:15 The AI Memory Crisis, Explained \n03:00 Why Memory Supply Is Structurally Constrained \n05:00 Demand Explosion: Agents and Token Consumption \n06:30 How Traditional Compression Fails \n08:00 TurboQuant Part One: PolarQuant Rotation \n09:30 TurboQuant Part Two: QJL Error Correction \n11:00 Test Results Across Real LLM Tasks \n12:30 Why TurboQuant Isn't in Production Yet 14:00 What Is the KV Cache? \n15:30 Percepta: Embedding Compute Inside an LLM \n17:00 Strategic Implications: Google, NVIDIA, Enterprises \n18:30 Five Angles Attacking the Memory Problem \n20:00 Sovereign Memory: Your Takeaway\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n-   Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n-   Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "quantization",
+        "llm quantization",
+        "memory optimization",
+        "llm optimization",
+        "ai tools",
+        "model quantization",
+        "google",
+        "LLMs",
+        "large language models",
+        "AI strategy",
+        "AI agents",
+        "Gemini",
+        "TurboQuant",
+        "KV cache",
+        "memory compression",
+        "Google AI",
+        "NVIDIA chips",
+        "HBM memory",
+        "enterprise AI"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Nvidia",
+          "IBM",
+          "Oracle"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": [
+          "Gemini",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# This New Method Just Killed RAM Limitations\nGoogle just published one of the most important breakthroughs of the year"
+      ],
+      "transcript_chars": 25859,
+      "folder": "2026-04-11-this-new-method-just-killed-ram-limitations"
+    },
+    {
+      "title": "If your value is judgment and taste, AI actually helps you!",
+      "video_id": "_H6lbAgBjUo",
+      "youtube_url": "https://www.youtube.com/watch?v=_H6lbAgBjUo",
+      "publish_date": "2026-04-10",
+      "duration": "0:49",
+      "duration_seconds": 49,
+      "view_count": 3770,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally \u2014 but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside scoop on how AI is bifurcating the economy and what that means for where you invest:\n\n \u2022 Why mid-tier digital firms face an existential squeeze right now\n \u2022 How physical, local markets are actually protected from AI disruption\n \u2022 What the three-layer value chain reveals about your real vulnerability\n \u2022 Where AI native startups must run to build anything defensible\n\nOperators and leaders who accurately diagnose where they sit in this reshaped economy will make smarter AI investments \u2014 those who don't will spend money accelerating a losing position.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "automation at work",
+        "future of work",
+        "AI labor market",
+        "upskilling with AI",
+        "competitive strategy AI",
+        "mid-tier firm AI risk",
+        "AI native startups",
+        "physical vs digital markets",
+        "AI investment strategy",
+        "barbell economy",
+        "contestable markets",
+        "AI for operators",
+        "AI strategy for teams",
+        "professional services AI",
+        "AI career advice"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# If your value is judgment and taste, AI actually helps you"
+      ],
+      "transcript_chars": 879,
+      "folder": "2026-04-10-if-your-value-is-judgment-and-taste-ai-actually-helps-you"
+    },
+    {
+      "title": "There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?",
+      "video_id": "ib2m9HVX7as",
+      "youtube_url": "https://www.youtube.com/watch?v=ib2m9HVX7as",
+      "publish_date": "2026-04-10",
+      "duration": "26:11",
+      "duration_seconds": 1571,
+      "view_count": 142517,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/most-of-what-youre-building-will?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside the app builder landscape when Lovable raises $6.6 billion and ships 100,000 new projects every day but most of these companies are functionally thin wrappers?\n\nThe common story is that AI makes building free \u2014 but the reality is that the middleware trap is playing out in real time, and only companies that own something structural will survive.\n\nIn this video, I share the inside scoop on the five durable verticals that AI cannot replace:\n\n \u2022 Why trust becomes the routing layer for responsible agentic traffic\n \u2022 How context owners like Notion and Salesforce become the choke point\n \u2022 What distribution scarcity looks like when supply is infinite\n \u2022 Where taste and liability create human accountability that models cannot provide\n\nBuilders who keep wrapping APIs with slightly better UI will get commoditized in weeks \u2014 the future of the web belongs to whoever owns the layers that production cannot replace.\n\nChapters\n00:00 The collapse of the build layer\n02:30 Everyone racing down the same lane\n05:00 The middleware trap playing out in real time\n07:30 Why training your own model isn't the escape\n09:30 Vertical 1: Trust as the verification layer\n12:00 Vertical 2: Context as the choke point\n14:30 Vertical 3: Distribution when supply is infinite\n17:00 Agent discovery as the new distribution problem\n19:00 Vertical 4: Taste and orchestration quality\n21:30 Vertical 5: Liability and accountability\n23:30 What the future web looks like\n25:30 What do you own that matters if AI gets 10x better\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "future of web",
+        "app builders",
+        "Lovable",
+        "Replit",
+        "Vercel",
+        "middleware trap",
+        "agentic economy",
+        "AI trust",
+        "context layer",
+        "distribution",
+        "AI liability",
+        "Notion",
+        "Stripe",
+        "Shopify",
+        "AI strategy for teams"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Apple",
+          "Shopify",
+          "Salesforce",
+          "Notion",
+          "Stripe",
+          "Hugging Face"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Hugging Face",
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "Something very specific",
+        "The way you think about your product decisions, your design sensibility, your editorial judgment about what is worth building and what is not"
+      ],
+      "summary": [
+        "# There Are Only 5 Safe Places to Build in AI Right Now"
+      ],
+      "transcript_chars": 29584,
+      "folder": "2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one"
+    },
+    {
+      "title": "The $3 Trillion IPO Trap Nobody's Talking About",
+      "video_id": "9N7qXkmntlU",
+      "youtube_url": "https://www.youtube.com/watch?v=9N7qXkmntlU",
+      "publish_date": "2026-04-09",
+      "duration": "22:50",
+      "duration_seconds": 1370,
+      "view_count": 48391,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/nasdaq-rewrote-its-index-rules-so?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with the AI IPO wave hitting your retirement account?\n\nThe common story is that SpaceX, OpenAI, and Anthropic going public is a historic opportunity for everyday investors \u2014 but the structure of these offerings is designed to move risk onto your 401k, not reward it.\n\nIn this video, I share the inside scoop on how three $3 trillion AI companies are engineering a public offering that draws on your retirement savings:\n\n \u2022 Why a 3% float turns scarcity into artificially spiked prices\n \u2022 How new NASDAQ rules fast-track AI stocks into your index funds\n \u2022 What lock-up expiration means for who wins and who holds the bag\n \u2022 Where OpenAI's $14 billion annual burn makes the IPO timeline make sense\n\nOperators, employees, and everyday investors all have skin in this game whether they choose to or not.\n\nChapters\n00:00 The $3 Trillion IPO You Didn't Opt Into\n01:30 The Small Fund That Spiked 1800%\n03:30 SpaceX, OpenAI, Anthropic: The IPO Timeline\n05:30 Why the Math Doesn't Math\n07:30 The 3% Float Explained\n09:30 The Restaurant With Ten Seats\n11:00 How NASDAQ's New Rules Changed Everything\n13:30 Your 401k Is a Mandatory Buyer\n15:30 The Lock-Up Expiration Problem\n17:30 OpenAI's Burn Rate and the Lender of Last Resort\n20:00 Are These Bad Companies?\n22:00 Three Scenarios for What Happens Next\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "Anthropic",
+        "OpenAI",
+        "large language models",
+        "future of work",
+        "AI IPO",
+        "SpaceX IPO",
+        "index fund risk",
+        "retirement account AI",
+        "401k investing",
+        "AI valuation",
+        "AI funding",
+        "AI bubble risk",
+        "AI companies IPO",
+        "AI investment risk",
+        "AI market structure",
+        "AI career advice",
+        "AI jobs"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Stripe",
+          "X",
+          "Runway"
+        ],
+        "people": [],
+        "products": [
+          "Runway",
+          "Make"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "Your wallet, your retirement account, your index fund is bearing the risk here"
+      ],
+      "summary": [
+        "# The $3 Trillion IPO Trap Nobody's Talking About\nThere are three companies all in the AI space worth more than $3 trillion that want to IPO in the last half of 2026"
+      ],
+      "transcript_chars": 25273,
+      "folder": "2026-04-09-the-3-trillion-ipo-trap-nobodys-talking-about"
+    },
+    {
+      "title": "AI data centers must bring their own power now! #ai #futureofwork",
+      "video_id": "nJnx4Da9Xt4",
+      "youtube_url": "https://www.youtube.com/watch?v=nJnx4Da9Xt4",
+      "publish_date": "2026-04-08",
+      "duration": "1:37",
+      "duration_seconds": 97,
+      "view_count": 6138,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide: https://natesnewsletter.substack.com/p/ai-news-that-matters-for-builders?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI infrastructure heading into 2026?\n\nThe common story is that AI took a holiday break \u2014 but the reality is that a new competitive layer formed beneath the models while most people weren't watching.\n\nIn this video, I share the inside scoop on the 10 stories shaping how we build with AI in 2026:\n\n \u2022 Why power is now the binding AI compute constraint\n \u2022 How hardware competition is shifting from chips to systems\n \u2022 What agent security means for real enterprise AI adoption\n \u2022 Where the next platform wars are actually being fought\n\nBuilders and operators who treat infrastructure, power, and security as first-class concerns in 2026 will have durable advantages over those still focused only on model performance.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "AI infrastructure",
+        "LLMs",
+        "prompt engineering",
+        "automation at work",
+        "future of work",
+        "OpenAI",
+        "Anthropic",
+        "NVIDIA Vera Rubin",
+        "AMD MI455",
+        "MCP protocol",
+        "AI security",
+        "agent security",
+        "data center power",
+        "AI platform wars",
+        "AI strategy for builders",
+        "AI agents for enterprise"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#ai #futureofwork\nPJM and other regional operators in the United States are proposing stopgaps, basically requiring data centers to bring their own power or disconnect during peak demand because grid"
+      ],
+      "transcript_chars": 1605,
+      "folder": "2026-04-08-ai-data-centers-must-bring-their-own-power-now-ai-futureofwork"
+    },
+    {
+      "title": "I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.",
+      "video_id": "ro5jpbi5uYc",
+      "youtube_url": "https://www.youtube.com/watch?v=ro5jpbi5uYc",
+      "publish_date": "2026-04-08",
+      "duration": "24:34",
+      "duration_seconds": 1474,
+      "view_count": 80144,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-platform-play-hidden-in-512000?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside Anthropic's platform strategy?\n\nThe common story is that the Claude Code leak was about source code and security flaws \u2014 but the bigger story is a five-surface platform play most people missed entirely.\n\nIn this video, I share the inside scoop on Conway, Anthropic's leaked always-on AI agent, and what it reveals about the coming AI platform wars:\n\n \u2022 Why Conway is Anthropic's \"Active Directory\" move\n \u2022 How a proprietary extension format quietly traps developers\n \u2022 What behavioral lock-in means that data portability laws cannot fix\n \u2022 Where AI agents and persistent memory take competition in 2026\n\nOperators and enterprises picking an agentic platform now are making a decision far harder to reverse than any software migration they have faced before.\n\nChapters\n00:00 The Conway Leak Nobody Noticed\n02:00 What Conway Actually Looks Like\n04:30 A Tuesday Morning With Conway Running\n07:00 The Demo Gap vs. Reality\n09:00 Anthropic's 90-Day Platform Play\n11:30 The Microsoft Parallel\n13:30 MCP Open Standard vs. Proprietary Layer\n16:00 The App Store Choice for Developers\n18:00 OpenClaw and the Playbook Revealed\n20:00 Why Behavioral Lock-In Is Different\n22:00 Intelligence Portability Has No Framework Yet\n24:00 Pick Your Fighter Carefully\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "Anthropic",
+        "Claude",
+        "large language models",
+        "future of work",
+        "automation at work",
+        "persistent AI agents",
+        "behavioral lock-in",
+        "enterprise AI",
+        "platform strategy",
+        "AI platform wars",
+        "always-on agent",
+        "intelligence portability",
+        "AI career advice",
+        "OpenAI",
+        "AI jobs",
+        "enterprise AI strategy"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Apple",
+          "Salesforce",
+          "Slack",
+          "Cursor",
+          "Snowflake"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Arc",
+          "Make",
+          "MCP",
+          "Model Context Protocol"
+        ],
+        "models": [
+          "Gemini",
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "The most important thing in the Claude code leak isn't the code"
+      ],
+      "transcript_chars": 26824,
+      "folder": "2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools"
+    },
+    {
+      "title": "Where AI Falls Short in Business #AI #Business #Limitations",
+      "video_id": "I7X2XoYR3jQ",
+      "youtube_url": "https://www.youtube.com/watch?v=I7X2XoYR3jQ",
+      "publish_date": "2026-04-08",
+      "duration": "1:02",
+      "duration_seconds": 62,
+      "view_count": 9524,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally \u2014 but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside scoop on how AI is bifurcating the economy and what that means for where you invest:\n\n \u2022 Why mid-tier digital firms face an existential squeeze right now\n \u2022 How physical, local markets are actually protected from AI disruption\n \u2022 What the three-layer value chain reveals about your real vulnerability\n \u2022 Where AI native startups must run to build anything defensible\n\nOperators and leaders who accurately diagnose where they sit in this reshaped economy will make smarter AI investments \u2014 those who don't will spend money accelerating a losing position.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "automation at work",
+        "future of work",
+        "AI labor market",
+        "upskilling with AI",
+        "competitive strategy AI",
+        "mid-tier firm AI risk",
+        "AI native startups",
+        "physical vs digital markets",
+        "AI investment strategy",
+        "barbell economy",
+        "contestable markets",
+        "AI for operators",
+        "AI strategy for teams",
+        "professional services AI",
+        "AI career advice"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Where AI Falls Short in Business #AI #Business #Limitations\nI'd like you to think about what happens in a business as having three layers"
+      ],
+      "transcript_chars": 1131,
+      "folder": "2026-04-08-where-ai-falls-short-in-business-ai-business-limitations"
+    },
+    {
+      "title": "The economy is splitting in half\u2014which side are you on? #ai #business",
+      "video_id": "Bx-fhbBXL5E",
+      "youtube_url": "https://www.youtube.com/watch?v=Bx-fhbBXL5E",
+      "publish_date": "2026-04-07",
+      "duration": "0:49",
+      "duration_seconds": 49,
+      "view_count": 6609,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally \u2014 but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside scoop on how AI is bifurcating the economy and what that means for where you invest:\n\n \u2022 Why mid-tier digital firms face an existential squeeze right now\n \u2022 How physical, local markets are actually protected from AI disruption\n \u2022 What the three-layer value chain reveals about your real vulnerability\n \u2022 Where AI native startups must run to build anything defensible\n\nOperators and leaders who accurately diagnose where they sit in this reshaped economy will make smarter AI investments \u2014 those who don't will spend money accelerating a losing position.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "automation at work",
+        "future of work",
+        "AI labor market",
+        "upskilling with AI",
+        "competitive strategy AI",
+        "mid-tier firm AI risk",
+        "AI native startups",
+        "physical vs digital markets",
+        "AI investment strategy",
+        "barbell economy",
+        "contestable markets",
+        "AI for operators",
+        "AI strategy for teams",
+        "professional services AI",
+        "AI career advice"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The economy is splitting in half\u2014which side are you on"
+      ],
+      "transcript_chars": 879,
+      "folder": "2026-04-07-the-economy-is-splitting-in-halfwhich-side-are-you-on-ai-business"
+    },
+    {
+      "title": "The Missing Orchestration Layer Destroying Teams Right Now",
+      "video_id": "7HP1jFJ9W1c",
+      "youtube_url": "https://www.youtube.com/watch?v=7HP1jFJ9W1c",
+      "publish_date": "2026-04-06",
+      "duration": "22:53",
+      "duration_seconds": 1373,
+      "view_count": 58680,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/your-ai-agent-depends-on-six-layers?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside the new infrastructure stack being built for AI agents?\n\nThe common story is that agent tools are Lego bricks you can snap together \u2014 but the reality is you're working with mismatched parts and almost no one can tell which is which.\n\nIn this video, I share the inside scoop on the six-layer agent infrastructure stack and what builders actually need to understand right now:\n\n \u2022 Why the shift to agent-first primitives is as big as the move to cloud\n \u2022 How each layer \u2014 from compute to orchestration \u2014 is maturing at different speeds\n \u2022 What the missing orchestration layer means for enterprise agent deployments\n \u2022 Where transitional lock-in and agent sprawl will create the most pain in 2026\n\nBuilders and operators who develop stack literacy now will avoid the compounding reliability failures that are already trapping teams who moved fast without foundations.\n\nChapters\n00:00 The New Infrastructure Layer Nobody's Watching\n01:30 We've Seen This Movie Twice Before\n03:00 Why This Shift Is as Big as Cloud\n04:30 Layer 1: Compute and Sandboxing\n07:00 Ephemeral vs. Persistent Agents: The Architectural Bet\n09:00 Layer 2: Identity and Communication\n11:30 Email as Agent Identity \u2014 Shim or Standard?\n13:30 Layer 3: Memory and Statefulness\n16:00 Mem0 vs. the Hyperscalers\n18:00 Layer 4: Tools and Integration\n20:30 The N-Times-M Integration Problem\n22:00 Layer 5: Provisioning and Billing\n24:30 Layer 6: Orchestration and Coordination\n27:00 Three Builder Truisms for 2026\n29:30 Stack Literacy Is Now Non-Negotiable\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "AI infrastructure",
+        "future of work",
+        "large language models",
+        "agentic workflows",
+        "agent stack",
+        "AI agent deployment",
+        "orchestration layer",
+        "agent memory",
+        "compute sandboxing",
+        "MCP integration",
+        "enterprise AI",
+        "AI strategy for teams",
+        "stack literacy AI",
+        "AI agent tools 2026",
+        "agent sprawl",
+        "automation at work"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "Salesforce",
+          "Slack",
+          "GitHub",
+          "Stripe"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": [
+          "Flux"
+        ]
+      },
+      "concepts": [
+        "It's going to be focused not on human readability first, but on agent legibility and agent buildability and then human observability over the top"
+      ],
+      "summary": [
+        "# The Missing Orchestration Layer Destroying Teams Right Now\nRight now, a new infrastructure stack is being assembled in public for AI, and most of us aren't paying attention to it"
+      ],
+      "transcript_chars": 25779,
+      "folder": "2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now"
+    },
+    {
+      "title": "Why AI crushes some businesses but protects others! #ai #futureofwork",
+      "video_id": "TKG1V7pNWbs",
+      "youtube_url": "https://www.youtube.com/watch?v=TKG1V7pNWbs",
+      "publish_date": "2026-04-06",
+      "duration": "1:23",
+      "duration_seconds": 83,
+      "view_count": 5745,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally \u2014 but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside scoop on how AI is bifurcating the economy and what that means for where you invest:\n\n \u2022 Why mid-tier digital firms face an existential squeeze right now\n \u2022 How physical, local markets are actually protected from AI disruption\n \u2022 What the three-layer value chain reveals about your real vulnerability\n \u2022 Where AI native startups must run to build anything defensible\n\nOperators and leaders who accurately diagnose where they sit in this reshaped economy will make smarter AI investments \u2014 those who don't will spend money accelerating a losing position.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "automation at work",
+        "future of work",
+        "AI labor market",
+        "upskilling with AI",
+        "competitive strategy AI",
+        "mid-tier firm AI risk",
+        "AI native startups",
+        "physical vs digital markets",
+        "AI investment strategy",
+        "barbell economy",
+        "contestable markets",
+        "AI for operators",
+        "AI strategy for teams",
+        "professional services AI",
+        "AI career advice"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [
+        "That ai is not uniformly intensifying competition everywhere"
+      ],
+      "summary": [
+        "# Why AI crushes some businesses but protects others"
+      ],
+      "transcript_chars": 1342,
+      "folder": "2026-04-06-why-ai-crushes-some-businesses-but-protects-others-ai-futureofwork"
+    },
     {
       "title": "The 3 layers AI can and cannot replace in business! #ai #futureofwork",
       "video_id": "suNE_u6fBVQ",
@@ -53,6 +706,117 @@
       ],
       "transcript_chars": 1115,
       "folder": "2026-04-05-the-3-layers-ai-can-and-cannot-replace-in-business-ai-futureofwork"
+    },
+    {
+      "title": "The AI squeeze killing mid tier firms no one's watching! #ai #futureofwork",
+      "video_id": "7xuCYbsp-xI",
+      "youtube_url": "https://www.youtube.com/watch?v=7xuCYbsp-xI",
+      "publish_date": "2026-04-05",
+      "duration": "1:10",
+      "duration_seconds": 70,
+      "view_count": 8987,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally \u2014 but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside scoop on how AI is bifurcating the economy and what that means for where you invest:\n\n \u2022 Why mid-tier digital firms face an existential squeeze right now\n \u2022 How physical, local markets are actually protected from AI disruption\n \u2022 What the three-layer value chain reveals about your real vulnerability\n \u2022 Where AI native startups must run to build anything defensible\n\nOperators and leaders who accurately diagnose where they sit in this reshaped economy will make smarter AI investments \u2014 those who don't will spend money accelerating a losing position.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "automation at work",
+        "future of work",
+        "AI labor market",
+        "upskilling with AI",
+        "competitive strategy AI",
+        "mid-tier firm AI risk",
+        "AI native startups",
+        "physical vs digital markets",
+        "AI investment strategy",
+        "barbell economy",
+        "contestable markets",
+        "AI for operators",
+        "AI strategy for teams",
+        "professional services AI",
+        "AI career advice"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The AI squeeze killing mid tier firms no one's watching"
+      ],
+      "transcript_chars": 1200,
+      "folder": "2026-04-05-the-ai-squeeze-killing-mid-tier-firms-no-ones-watching-ai-futureofwork"
+    },
+    {
+      "title": "Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.",
+      "video_id": "kVPVmz0qJvY",
+      "youtube_url": "https://www.youtube.com/watch?v=kVPVmz0qJvY",
+      "publish_date": "2026-04-05",
+      "duration": "21:14",
+      "duration_seconds": 1274,
+      "view_count": 52988,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-your-agent-produces?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI agent deployments that look great on day one?\n\nThe common story is that tools like OpenClaw can replace your SaaS stack overnight \u2014 but the reality is that skipping foundational work turns your agent into a liability.\n\nIn this video, I share the inside scoop on what actually breaks in real OpenClaw and AI agent deployments:\n\n \u2022 Why clarity of intent determines whether your agent builds trash or gold\n \u2022 How dirty data turns a working agent into a hidden disaster\n \u2022 What separates a skill call from a hardwired production workflow\n \u2022 Where org redesign fails when AI scales output but humans don't\n\nOperators who treat agents as a shortcut instead of a system will hit a wall by month two \u2014 those who build the foundations right will compound speed for months.\n\nChapters\n00:00 The OpenClaw Hype Is Real \u2014 And Dangerous\n01:30 What OpenClaw Actually Is\n03:00 The CRM Build Story and What It Misses\n05:30 Clarity of Intent: The Non-Negotiable Foundation\n07:30 Why Dirty Data Kills Agent Deployments\n09:30 The $14,000 Voice Agent That Went Wrong\n11:00 Skills vs. Workflows: A Critical Distinction\n13:30 Don't Let Your Agent Run Off the Rails\n15:30 Month Two: When Deployments Fall Apart\n17:00 Org Redesign for Agentic Throughput\n19:30 Humans as Agent Managers, Not Doers\n21:00 Security Is a People Problem, Not Just Technical\n22:30 Five Commandments for OpenClaw Deployments\n25:00 Building for Sustained Speed, Not Day-One Wins\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "automation at work",
+        "future of work",
+        "large language models",
+        "agentic workflows",
+        "OpenClaw",
+        "AI agent deployment",
+        "SaaS replacement",
+        "data architecture",
+        "enterprise AI",
+        "agent security",
+        "AI tools for operators",
+        "org design AI",
+        "AI strategy for teams",
+        "build vs buy AI",
+        "AI agent mistakes",
+        "sustained AI speed"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Salesforce",
+          "Slack",
+          "GitHub",
+          "Box",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Not pieces of software"
+      ],
+      "summary": [
+        "The scary thing about the OpenClaw stories is that so many of them are real"
+      ],
+      "transcript_chars": 23881,
+      "folder": "2026-04-05-your-agent-produces-at-100x-your-org-reviews-at-3x-thats-the-problem"
     },
     {
       "title": "The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia",
@@ -182,6 +946,38 @@
       ],
       "transcript_chars": 27453,
       "folder": "2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works"
+    },
+    {
+      "title": "Why AI agents will always be a security target! #ai #futureofwork",
+      "video_id": "azCR7oG3Rgw",
+      "youtube_url": "https://www.youtube.com/watch?v=azCR7oG3Rgw",
+      "publish_date": "2026-04-04",
+      "duration": "1:25",
+      "duration_seconds": 85,
+      "view_count": 9899,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide: https://natesnewsletter.substack.com/p/ai-news-that-matters-for-builders?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI infrastructure heading into 2026?\n\nThe common story is that AI took a holiday break \u2014 but the reality is that a new competitive layer formed beneath the models while most people weren't watching.\n\nIn this video, I share the inside scoop on the 10 stories shaping how we build with AI in 2026:\n\n \u2022 Why power is now the binding AI compute constraint\n \u2022 How hardware competition is shifting from chips to systems\n \u2022 What agent security means for real enterprise AI adoption\n \u2022 Where the next platform wars are actually being fought\n\nBuilders and operators who treat infrastructure, power, and security as first-class concerns in 2026 will have durable advantages over those still focused only on model performance.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#ai #futureofwork\nOpen AI says prompt injection is not solvable"
+      ],
+      "transcript_chars": 1502,
+      "folder": "2026-04-04-why-ai-agents-will-always-be-a-security-target-ai-futureofwork"
     },
     {
       "title": "I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.",

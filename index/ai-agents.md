@@ -1,8 +1,13 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (236 episodes):
+Episodes discussing **Ai Agents** (241 episodes):
 
+- [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
+- [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
+- [Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.](../episodes/2026-04-05-your-agent-produces-at-100x-your-org-reviews-at-3x-thats-the-problem/transcript.md) (2026-04-05)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
+- [Why AI agents will always be a security target! #ai #futureofwork](../episodes/2026-04-04-why-ai-agents-will-always-be-a-security-target-ai-futureofwork/transcript.md) (2026-04-04)
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)

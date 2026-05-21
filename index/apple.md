@@ -1,7 +1,9 @@
 # Apple
 
-Episodes discussing **Apple** (62 episodes):
+Episodes discussing **Apple** (64 episodes):
 
+- [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
+- [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)

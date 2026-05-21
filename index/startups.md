@@ -1,7 +1,12 @@
 # Startups
 
-Episodes discussing **Startups** (107 episodes):
+Episodes discussing **Startups** (112 episodes):
 
+- [Big firms are safe  Startups are weak  The middle is doomed](../episodes/2026-04-12-big-firms-are-safe-startups-are-weak-the-middle-is-doomed/transcript.md) (2026-04-12)
+- [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
+- [The $3 Trillion IPO Trap Nobody's Talking About](../episodes/2026-04-09-the-3-trillion-ipo-trap-nobodys-talking-about/transcript.md) (2026-04-09)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
+- [The AI squeeze killing mid tier firms no one's watching! #ai #futureofwork](../episodes/2026-04-05-the-ai-squeeze-killing-mid-tier-firms-no-ones-watching-ai-futureofwork/transcript.md) (2026-04-05)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [48 Days. That's How Long Before the Helium Runs Out for AI Chips.](../episodes/2026-03-29-48-days-thats-how-long-before-the-helium-runs-out-for-ai-chips/transcript.md) (2026-03-29)
 - [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)

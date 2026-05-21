@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (64 episodes):
+Episodes discussing **Nvidia** (65 episodes):
 
+- [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)

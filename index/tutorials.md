@@ -1,7 +1,10 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (236 episodes):
+Episodes discussing **Tutorials** (239 episodes):
 
+- [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
+- [Why AI crushes some businesses but protects others! #ai #futureofwork](../episodes/2026-04-06-why-ai-crushes-some-businesses-but-protects-others-ai-futureofwork/transcript.md) (2026-04-06)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)

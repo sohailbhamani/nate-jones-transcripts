@@ -1,8 +1,15 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (66 episodes):
+Episodes discussing **Deep Dive** (73 episodes):
 
+- [Big firms are safe  Startups are weak  The middle is doomed](../episodes/2026-04-12-big-firms-are-safe-startups-are-weak-the-middle-is-doomed/transcript.md) (2026-04-12)
+- [If your value is judgment and taste, AI actually helps you!](../episodes/2026-04-10-if-your-value-is-judgment-and-taste-ai-actually-helps-you/transcript.md) (2026-04-10)
+- [The $3 Trillion IPO Trap Nobody's Talking About](../episodes/2026-04-09-the-3-trillion-ipo-trap-nobodys-talking-about/transcript.md) (2026-04-09)
+- [Where AI Falls Short in Business #AI #Business #Limitations](../episodes/2026-04-08-where-ai-falls-short-in-business-ai-business-limitations/transcript.md) (2026-04-08)
+- [The economy is splitting in half—which side are you on? #ai #business](../episodes/2026-04-07-the-economy-is-splitting-in-halfwhich-side-are-you-on-ai-business/transcript.md) (2026-04-07)
+- [Why AI crushes some businesses but protects others! #ai #futureofwork](../episodes/2026-04-06-why-ai-crushes-some-businesses-but-protects-others-ai-futureofwork/transcript.md) (2026-04-06)
 - [The 3 layers AI can and cannot replace in business! #ai #futureofwork](../episodes/2026-04-05-the-3-layers-ai-can-and-cannot-replace-in-business-ai-futureofwork/transcript.md) (2026-04-05)
+- [The AI squeeze killing mid tier firms no one's watching! #ai #futureofwork](../episodes/2026-04-05-the-ai-squeeze-killing-mid-tier-firms-no-ones-watching-ai-futureofwork/transcript.md) (2026-04-05)
 - [Industrial-scale AI is here: what execs must know! #ai #nvidia #openai](../episodes/2026-03-27-industrial-scale-ai-is-here-what-execs-must-know-ai-nvidia-openai/transcript.md) (2026-03-27)
 - [I Mapped Where Every AI Agent Actually Sits. Most People Pick Wrong.](../episodes/2026-03-23-i-mapped-where-every-ai-agent-actually-sits-most-people-pick-wrong/transcript.md) (2026-03-23)
 - [Your AI Agent Fails 97.5% of Real Work. The Fix Isn't Coding.](../episodes/2026-03-21-your-ai-agent-fails-975-of-real-work-the-fix-isnt-coding/transcript.md) (2026-03-21)

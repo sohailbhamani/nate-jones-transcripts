@@ -1,7 +1,10 @@
 # Slack
 
-Episodes discussing **Slack** (63 episodes):
+Episodes discussing **Slack** (66 episodes):
 
+- [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
+- [Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.](../episodes/2026-04-05-your-agent-produces-at-100x-your-org-reviews-at-3x-thats-the-problem/transcript.md) (2026-04-05)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
 - [A Markdown File Just Replaced Your Most Expensive Design Meeting. (Google Stitch)](../episodes/2026-03-27-a-markdown-file-just-replaced-your-most-expensive-design-meeting-google-stitch/transcript.md) (2026-03-27)

@@ -1,7 +1,11 @@
 # Amazon
 
-Episodes discussing **Amazon** (92 episodes):
+Episodes discussing **Amazon** (96 episodes):
 
+- [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
+- [The $3 Trillion IPO Trap Nobody's Talking About](../episodes/2026-04-09-the-3-trillion-ipo-trap-nobodys-talking-about/transcript.md) (2026-04-09)
+- [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
 - [I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.](../episodes/2026-04-03-i-broke-down-anthropics-25-billion-leak-your-agent-is-missing-12-critical-pieces/transcript.md) (2026-04-03)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)

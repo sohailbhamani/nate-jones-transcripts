@@ -1,7 +1,11 @@
 # Salesforce
 
-Episodes discussing **Salesforce** (36 episodes):
+Episodes discussing **Salesforce** (40 episodes):
 
+- [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
+- [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
+- [Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.](../episodes/2026-04-05-your-agent-produces-at-100x-your-org-reviews-at-3x-thats-the-problem/transcript.md) (2026-04-05)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [Anthropic Just Gave You 3 Tools That Work While You're Gone.](../episodes/2026-03-28-anthropic-just-gave-you-3-tools-that-work-while-youre-gone/transcript.md) (2026-03-28)
 - [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)

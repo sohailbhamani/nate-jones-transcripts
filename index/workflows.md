@@ -1,7 +1,10 @@
 # Workflows
 
-Episodes discussing **Workflows** (233 episodes):
+Episodes discussing **Workflows** (236 episodes):
 
+- [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
+- [Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.](../episodes/2026-04-05-your-agent-produces-at-100x-your-org-reviews-at-3x-thats-the-problem/transcript.md) (2026-04-05)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)

@@ -44,6 +44,7 @@ yt_tags:
   - "AI workplace risks"
 
 
+
 # AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Strategy"

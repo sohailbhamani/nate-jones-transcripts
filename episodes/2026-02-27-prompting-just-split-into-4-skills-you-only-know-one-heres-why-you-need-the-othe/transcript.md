@@ -69,6 +69,7 @@ yt_tags:
   - "AI future of work"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Prompting"

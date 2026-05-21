@@ -1,9 +1,22 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (367 episodes):
+Episodes discussing **Ai Strategy** (380 episodes):
 
+- [Big firms are safe  Startups are weak  The middle is doomed](../episodes/2026-04-12-big-firms-are-safe-startups-are-weak-the-middle-is-doomed/transcript.md) (2026-04-12)
+- [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
+- [If your value is judgment and taste, AI actually helps you!](../episodes/2026-04-10-if-your-value-is-judgment-and-taste-ai-actually-helps-you/transcript.md) (2026-04-10)
+- [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
+- [The $3 Trillion IPO Trap Nobody's Talking About](../episodes/2026-04-09-the-3-trillion-ipo-trap-nobodys-talking-about/transcript.md) (2026-04-09)
+- [AI data centers must bring their own power now! #ai #futureofwork](../episodes/2026-04-08-ai-data-centers-must-bring-their-own-power-now-ai-futureofwork/transcript.md) (2026-04-08)
+- [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
+- [Where AI Falls Short in Business #AI #Business #Limitations](../episodes/2026-04-08-where-ai-falls-short-in-business-ai-business-limitations/transcript.md) (2026-04-08)
+- [The economy is splitting in half—which side are you on? #ai #business](../episodes/2026-04-07-the-economy-is-splitting-in-halfwhich-side-are-you-on-ai-business/transcript.md) (2026-04-07)
+- [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
+- [Why AI crushes some businesses but protects others! #ai #futureofwork](../episodes/2026-04-06-why-ai-crushes-some-businesses-but-protects-others-ai-futureofwork/transcript.md) (2026-04-06)
 - [The 3 layers AI can and cannot replace in business! #ai #futureofwork](../episodes/2026-04-05-the-3-layers-ai-can-and-cannot-replace-in-business-ai-futureofwork/transcript.md) (2026-04-05)
+- [The AI squeeze killing mid tier firms no one's watching! #ai #futureofwork](../episodes/2026-04-05-the-ai-squeeze-killing-mid-tier-firms-no-ones-watching-ai-futureofwork/transcript.md) (2026-04-05)
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
+- [Why AI agents will always be a security target! #ai #futureofwork](../episodes/2026-04-04-why-ai-agents-will-always-be-a-security-target-ai-futureofwork/transcript.md) (2026-04-04)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)

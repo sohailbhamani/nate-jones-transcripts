@@ -1,7 +1,8 @@
 # Ibm
 
-Episodes discussing **Ibm** (9 episodes):
+Episodes discussing **Ibm** (10 episodes):
 
+- [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [Don't Fall For the Stock Market Hype. The $7,000 Raise AI Is Giving You (That Nobody Mentions)](../episodes/2026-02-26-dont-fall-for-the-stock-market-hype-the-7000-raise-ai-is-giving-you-that-nobody/transcript.md) (2026-02-26)
 - [Wharton & MIT Can't Agree on AI: Here's What Both are Missing on Building Real AI Projects](../episodes/2025-11-02-wharton-mit-cant-agree-on-ai-heres-what-both-are-missing-on-building-real-ai-pro/transcript.md) (2025-11-02)
 - [Apple and the Priesthood of Irrelevance](../episodes/2025-08-15-apple-and-the-priesthood-of-irrelevance/transcript.md) (2025-08-15)

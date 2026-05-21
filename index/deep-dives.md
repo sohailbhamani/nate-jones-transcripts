@@ -1,7 +1,11 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (72 episodes):
+Episodes discussing **Deep Dives** (76 episodes):
 
+- [If your value is judgment and taste, AI actually helps you!](../episodes/2026-04-10-if-your-value-is-judgment-and-taste-ai-actually-helps-you/transcript.md) (2026-04-10)
+- [Where AI Falls Short in Business #AI #Business #Limitations](../episodes/2026-04-08-where-ai-falls-short-in-business-ai-business-limitations/transcript.md) (2026-04-08)
+- [The economy is splitting in half—which side are you on? #ai #business](../episodes/2026-04-07-the-economy-is-splitting-in-halfwhich-side-are-you-on-ai-business/transcript.md) (2026-04-07)
+- [Why AI crushes some businesses but protects others! #ai #futureofwork](../episodes/2026-04-06-why-ai-crushes-some-businesses-but-protects-others-ai-futureofwork/transcript.md) (2026-04-06)
 - [The 3 layers AI can and cannot replace in business! #ai #futureofwork](../episodes/2026-04-05-the-3-layers-ai-can-and-cannot-replace-in-business-ai-futureofwork/transcript.md) (2026-04-05)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Code Wiped 2.5 Years of Data. The Engineer Who Built It Couldn't Stop It.](../episodes/2026-03-16-claude-code-wiped-25-years-of-data-the-engineer-who-built-it-couldnt-stop-it/transcript.md) (2026-03-16)

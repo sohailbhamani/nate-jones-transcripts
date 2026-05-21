@@ -41,6 +41,7 @@ yt_tags:
   - "AI workflow"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"

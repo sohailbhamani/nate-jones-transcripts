@@ -71,6 +71,7 @@ yt_tags:
   - "AI workforce skills"
 
 
+
 # AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "Prompting"
