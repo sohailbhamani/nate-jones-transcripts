@@ -1,5 +1,5 @@
 {
-  "total_videos": 646,
+  "total_videos": 647,
   "date_range": {
     "newest": "2026-05-21",
     "oldest": "2024-05-21"
@@ -951,6 +951,51 @@
       ],
       "transcript_chars": 1799,
       "folder": "2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex"
+    },
+    {
+      "title": "Parents Using AI Tutors Are Making This Critical Mistake #Parenting #AI #ChildDevelopment",
+      "video_id": "F4p1kc2wKOQ",
+      "youtube_url": "https://www.youtube.com/watch?v=F4p1kc2wKOQ",
+      "publish_date": "2026-05-14",
+      "duration": "1:10",
+      "duration_seconds": 70,
+      "view_count": 3,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/my-kids-do-long-division-by-hand?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________________________\nWhat's really happening when AI tutors double learning outcomes in controlled studies but college professors report students can no longer read a full chapter? The common story is that AI will either save education or destroy it\u2014but the reality is more interesting when the calculator moment of the 1970s reveals the principle we've forgotten.\n\nIn this video, I share the inside scoop on why foundation before leverage is the only position that makes sense:\n\n \u2022 Why my 10-year-old does long division by hand and vibe codes with Claude in the same week\n \u2022 How specification quality determines the gap between agentic success and catastrophe\n \u2022 What the metacognition skill of thinking about your own thinking actually looks like in practice\n \u2022 Where cognitive offloading quietly erodes capability before anyone notices the muscle weakening\n\nFor parents watching the world change faster than any curriculum can track, the gift we give our kids is the cognitive architecture that lets them direct intelligence rather than depend on it.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "artificial intelligence",
+        "gen ai and education",
+        "philosophy",
+        "skills for future",
+        "lifelong learning",
+        "ai in schools",
+        "future of education",
+        "decision making",
+        "personal development",
+        "thinking"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Parents Using AI Tutors Are Making This Critical Mistake #Parenting #AI #ChildDevelopment\nWhy am I insisting on my kid doing long division by hand in a world of AI"
+      ],
+      "transcript_chars": 1251,
+      "folder": "2026-05-14-parents-using-ai-tutors-are-making-this-critical-mistake-parenting-ai-childdevel"
     },
     {
       "title": "Professors Notice Something's Drastically Wrong #college #teacher",

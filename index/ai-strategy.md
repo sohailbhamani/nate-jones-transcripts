@@ -1,6 +1,6 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (443 episodes):
+Episodes discussing **Ai Strategy** (444 episodes):
 
 - [Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting](../episodes/2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting/transcript.md) (2026-05-21)
 - [The calculator moment nobody's talking about in education #AIinEducation #Learning #Parenting](../episodes/2026-05-20-the-calculator-moment-nobodys-talking-about-in-education-aiineducation-learning/transcript.md) (2026-05-20)
@@ -12,6 +12,7 @@ Episodes discussing **Ai Strategy** (443 episodes):
 - [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
 - [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
+- [Parents Using AI Tutors Are Making This Critical Mistake #Parenting #AI #ChildDevelopment](../episodes/2026-05-14-parents-using-ai-tutors-are-making-this-critical-mistake-parenting-ai-childdevel/transcript.md) (2026-05-14)
 - [Professors Notice Something's Drastically Wrong #college #teacher](../episodes/2026-05-14-professors-notice-somethings-drastically-wrong-college-teacher/transcript.md) (2026-05-14)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering](../episodes/2026-05-13-i-built-2-ai-agents-one-had-this-total-game-changer-aiagents-ai-engineering/transcript.md) (2026-05-13)

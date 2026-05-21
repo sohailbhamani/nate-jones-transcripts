@@ -1,6 +1,6 @@
 # Coding
 
-Episodes discussing **Coding** (403 episodes):
+Episodes discussing **Coding** (404 episodes):
 
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [40% growth nobody saw coming #expansion #tech](../episodes/2026-05-19-40-growth-nobody-saw-coming-expansion-tech/transcript.md) (2026-05-19)
@@ -12,6 +12,7 @@ Episodes discussing **Coding** (403 episodes):
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
 - [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
+- [Parents Using AI Tutors Are Making This Critical Mistake #Parenting #AI #ChildDevelopment](../episodes/2026-05-14-parents-using-ai-tutors-are-making-this-critical-mistake-parenting-ai-childdevel/transcript.md) (2026-05-14)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering](../episodes/2026-05-13-i-built-2-ai-agents-one-had-this-total-game-changer-aiagents-ai-engineering/transcript.md) (2026-05-13)
 - [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)

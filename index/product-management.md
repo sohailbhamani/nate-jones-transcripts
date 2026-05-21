@@ -1,6 +1,6 @@
 # Product Management
 
-Episodes discussing **Product Management** (405 episodes):
+Episodes discussing **Product Management** (406 episodes):
 
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
@@ -9,6 +9,7 @@ Episodes discussing **Product Management** (405 episodes):
 - [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
+- [Parents Using AI Tutors Are Making This Critical Mistake #Parenting #AI #ChildDevelopment](../episodes/2026-05-14-parents-using-ai-tutors-are-making-this-critical-mistake-parenting-ai-childdevel/transcript.md) (2026-05-14)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)
 - [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)

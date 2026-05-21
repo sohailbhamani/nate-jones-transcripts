@@ -1,6 +1,6 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (464 episodes):
+Episodes discussing **Ai Tools** (465 episodes):
 
 - [Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting](../episodes/2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting/transcript.md) (2026-05-21)
 - [How ChatGPT Became Teenagers' Best Friend #AI #Psychology](../episodes/2026-05-20-how-chatgpt-became-teenagers-best-friend-ai-psychology/transcript.md) (2026-05-20)
@@ -14,6 +14,7 @@ Episodes discussing **Ai Tools** (464 episodes):
 - [Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding](../episodes/2026-05-16-sarah-friar-on-the-tool-that-scaled-her-fundraise-openai-funding/transcript.md) (2026-05-16)
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
+- [Parents Using AI Tutors Are Making This Critical Mistake #Parenting #AI #ChildDevelopment](../episodes/2026-05-14-parents-using-ai-tutors-are-making-this-critical-mistake-parenting-ai-childdevel/transcript.md) (2026-05-14)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)
 - [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
