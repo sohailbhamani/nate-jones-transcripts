@@ -8,4 +8,7 @@ CLAUDE.md
 *.key
 *.pem
 secrets.*
-progress.json
+
+# Local-only caches
+graphify-out/
+scripts/graphify-out/
