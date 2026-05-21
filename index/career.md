@@ -1,8 +1,19 @@
 # Career
 
-Episodes discussing **Career** (259 episodes):
+Episodes discussing **Career** (270 episodes):
 
+- [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
+- [Tech talent is about to get ugly thanks to this memo #ai #tech #competition](../episodes/2026-04-17-tech-talent-is-about-to-get-ugly-thanks-to-this-memo-ai-tech-competition/transcript.md) (2026-04-17)
+- [How the Red Queen memo exposed who will actually survive #tech #AI](../episodes/2026-04-16-how-the-red-queen-memo-exposed-who-will-actually-survive-tech-ai/transcript.md) (2026-04-16)
+- [How top performers dodge AI replacement #AI #CareerStrategy](../episodes/2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy/transcript.md) (2026-04-15)
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
+- [Why AI skills are now table stakes #ai #work #future](../episodes/2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future/transcript.md) (2026-04-14)
+- [66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence](../episodes/2026-04-13-66-of-companies-are-cutting-entry-level-jobs-for-ai-nextgenai-artificialintellig/transcript.md) (2026-04-13)
+- [I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](../episodes/2026-04-13-i-looked-at-amazon-after-they-fired-16000-engineers-their-ai-broke-everything/transcript.md) (2026-04-13)
+- [NVIDIA grew 7K employees—and is still 10K short! #artificialintelligence #nextgenai](../episodes/2026-04-13-nvidia-grew-7k-employeesand-is-still-10k-short-artificialintelligence-nextgenai/transcript.md) (2026-04-13)
+- [I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](../episodes/2026-04-12-i-watched-3-companies-lay-off-their-managers-all-3-hit-the-same-wall/transcript.md) (2026-04-12)
 - [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
+- [A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](../episodes/2026-04-07-a-polymarket-bot-made-438000-in-30-days-your-industry-is-next-heres-what-to-do-a/transcript.md) (2026-04-07)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [Claude Mythos Changes Everything. Your AI Stack Isn't Ready.](../episodes/2026-04-01-claude-mythos-changes-everything-your-ai-stack-isnt-ready/transcript.md) (2026-04-01)

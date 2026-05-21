@@ -1,7 +1,12 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (65 episodes):
+Episodes discussing **Nvidia** (70 episodes):
 
+- [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
+- [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
+- [NVIDIA grew 7K employees—and is still 10K short! #artificialintelligence #nextgenai](../episodes/2026-04-13-nvidia-grew-7k-employeesand-is-still-10k-short-artificialintelligence-nextgenai/transcript.md) (2026-04-13)
+- [I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](../episodes/2026-04-12-i-watched-3-companies-lay-off-their-managers-all-3-hit-the-same-wall/transcript.md) (2026-04-12)
 - [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [The secret to 10M token AI at speed and scale! #ai #futureofwork #nvidia](../episodes/2026-04-04-the-secret-to-10m-token-ai-at-speed-and-scale-ai-futureofwork-nvidia/transcript.md) (2026-04-04)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)

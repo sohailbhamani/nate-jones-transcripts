@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (112 episodes):
+Episodes discussing **Startups** (113 episodes):
 
+- [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
 - [Big firms are safe  Startups are weak  The middle is doomed](../episodes/2026-04-12-big-firms-are-safe-startups-are-weak-the-middle-is-doomed/transcript.md) (2026-04-12)
 - [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [The $3 Trillion IPO Trap Nobody's Talking About](../episodes/2026-04-09-the-3-trillion-ipo-trap-nobodys-talking-about/transcript.md) (2026-04-09)

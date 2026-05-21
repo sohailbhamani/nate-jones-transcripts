@@ -69,6 +69,7 @@ yt_tags:
   - "automation at work"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Agents"

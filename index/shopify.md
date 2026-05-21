@@ -1,7 +1,11 @@
 # Shopify
 
-Episodes discussing **Shopify** (16 episodes):
+Episodes discussing **Shopify** (20 episodes):
 
+- [Tech talent is about to get ugly thanks to this memo #ai #tech #competition](../episodes/2026-04-17-tech-talent-is-about-to-get-ugly-thanks-to-this-memo-ai-tech-competition/transcript.md) (2026-04-17)
+- [How top performers dodge AI replacement #AI #CareerStrategy](../episodes/2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy/transcript.md) (2026-04-15)
+- [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
+- [Why AI skills are now table stakes #ai #work #future](../episodes/2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future/transcript.md) (2026-04-14)
 - [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
 - [Tobi Lütke Made a 20-Year-Old Codebase 53% Faster Overnight. Here's How.](../episodes/2026-03-25-tobi-lütke-made-a-20-year-old-codebase-53-faster-overnight-heres-how/transcript.md) (2026-03-25)
 - [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)

@@ -1,7 +1,11 @@
 # Projects
 
-Episodes discussing **Projects** (82 episodes):
+Episodes discussing **Projects** (86 episodes):
 
+- [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
+- [Why AI skills are now table stakes #ai #work #future](../episodes/2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future/transcript.md) (2026-04-14)
+- [66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence](../episodes/2026-04-13-66-of-companies-are-cutting-entry-level-jobs-for-ai-nextgenai-artificialintellig/transcript.md) (2026-04-13)
+- [I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](../episodes/2026-04-12-i-watched-3-companies-lay-off-their-managers-all-3-hit-the-same-wall/transcript.md) (2026-04-12)
 - [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
 - [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)

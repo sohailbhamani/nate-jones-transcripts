@@ -1,7 +1,13 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (241 episodes):
+Episodes discussing **Ai Agents** (247 episodes):
 
+- [Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure](../episodes/2026-04-18-every-tech-giant-is-building-the-same-thing-right-now-ai-agents-infrastructure/transcript.md) (2026-04-18)
+- [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
+- [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
+- [66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence](../episodes/2026-04-13-66-of-companies-are-cutting-entry-level-jobs-for-ai-nextgenai-artificialintellig/transcript.md) (2026-04-13)
+- [I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](../episodes/2026-04-13-i-looked-at-amazon-after-they-fired-16000-engineers-their-ai-broke-everything/transcript.md) (2026-04-13)
 - [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
 - [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)

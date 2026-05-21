@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (67 episodes):
+Episodes discussing **Chatgpt** (68 episodes):
 
+- [AI is splitting the economy—which side are you on?](../episodes/2026-04-11-ai-is-splitting-the-economywhich-side-are-you-on/transcript.md) (2026-04-11)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)
 - [The AI demand shock execs aren't talking about enough! #ai #chatgpt #futureofwork](../episodes/2026-03-27-the-ai-demand-shock-execs-arent-talking-about-enough-ai-chatgpt-futureofwork/transcript.md) (2026-03-27)
 - [ChatGPT Health Identified Respiratory Failure. Then It Said Wait.](../episodes/2026-03-18-chatgpt-health-identified-respiratory-failure-then-it-said-wait/transcript.md) (2026-03-18)

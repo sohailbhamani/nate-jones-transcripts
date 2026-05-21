@@ -1,8 +1,10 @@
 # Prompting
 
-Episodes discussing **Prompting** (191 episodes):
+Episodes discussing **Prompting** (193 episodes):
 
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
 - [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
+- [A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](../episodes/2026-04-07-a-polymarket-bot-made-438000-in-30-days-your-industry-is-next-heres-what-to-do-a/transcript.md) (2026-04-07)
 - [Why AI agents will always be a security target! #ai #futureofwork](../episodes/2026-04-04-why-ai-agents-will-always-be-a-security-target-ai-futureofwork/transcript.md) (2026-04-04)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)
 - [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](../episodes/2026-03-30-anthropic-openai-and-microsoft-just-agreed-on-one-file-format-it-changes-everyth/transcript.md) (2026-03-30)

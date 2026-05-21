@@ -1,7 +1,9 @@
 # Operator
 
-Episodes discussing **Operator** (21 episodes):
+Episodes discussing **Operator** (23 episodes):
 
+- [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
+- [A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](../episodes/2026-04-07-a-polymarket-bot-made-438000-in-30-days-your-industry-is-next-heres-what-to-do-a/transcript.md) (2026-04-07)
 - [Microsoft's grid play is redefining AI advantage! #ai #futureofwork #microsoft](../episodes/2026-04-03-microsofts-grid-play-is-redefining-ai-advantage-ai-futureofwork-microsoft/transcript.md) (2026-04-03)
 - [Perplexity Computer Is Incredible. It Won't Matter. Here's Why.](../episodes/2026-03-19-perplexity-computer-is-incredible-it-wont-matter-heres-why/transcript.md) (2026-03-19)
 - [THE MIDDLEWARE TRAP](../episodes/2026-03-06-the-middleware-trap/transcript.md) (2026-03-06)

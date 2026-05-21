@@ -1,7 +1,9 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (76 episodes):
+Episodes discussing **Deep Dives** (78 episodes):
 
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
+- [AI is splitting the economy—which side are you on?](../episodes/2026-04-11-ai-is-splitting-the-economywhich-side-are-you-on/transcript.md) (2026-04-11)
 - [If your value is judgment and taste, AI actually helps you!](../episodes/2026-04-10-if-your-value-is-judgment-and-taste-ai-actually-helps-you/transcript.md) (2026-04-10)
 - [Where AI Falls Short in Business #AI #Business #Limitations](../episodes/2026-04-08-where-ai-falls-short-in-business-ai-business-limitations/transcript.md) (2026-04-08)
 - [The economy is splitting in half—which side are you on? #ai #business](../episodes/2026-04-07-the-economy-is-splitting-in-halfwhich-side-are-you-on-ai-business/transcript.md) (2026-04-07)

@@ -1,8 +1,17 @@
 # Workflows
 
-Episodes discussing **Workflows** (236 episodes):
+Episodes discussing **Workflows** (245 episodes):
 
+- [Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure](../episodes/2026-04-18-every-tech-giant-is-building-the-same-thing-right-now-ai-agents-infrastructure/transcript.md) (2026-04-18)
+- [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
+- [How top performers dodge AI replacement #AI #CareerStrategy](../episodes/2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy/transcript.md) (2026-04-15)
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
+- [Why AI skills are now table stakes #ai #work #future](../episodes/2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future/transcript.md) (2026-04-14)
+- [66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence](../episodes/2026-04-13-66-of-companies-are-cutting-entry-level-jobs-for-ai-nextgenai-artificialintellig/transcript.md) (2026-04-13)
+- [I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](../episodes/2026-04-13-i-looked-at-amazon-after-they-fired-16000-engineers-their-ai-broke-everything/transcript.md) (2026-04-13)
+- [NVIDIA grew 7K employees—and is still 10K short! #artificialintelligence #nextgenai](../episodes/2026-04-13-nvidia-grew-7k-employeesand-is-still-10k-short-artificialintelligence-nextgenai/transcript.md) (2026-04-13)
 - [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
+- [A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](../episodes/2026-04-07-a-polymarket-bot-made-438000-in-30-days-your-industry-is-next-heres-what-to-do-a/transcript.md) (2026-04-07)
 - [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
 - [Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.](../episodes/2026-04-05-your-agent-produces-at-100x-your-org-reviews-at-3x-thats-the-problem/transcript.md) (2026-04-05)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)

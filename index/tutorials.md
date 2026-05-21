@@ -1,7 +1,12 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (239 episodes):
+Episodes discussing **Tutorials** (244 episodes):
 
+- [How top performers dodge AI replacement #AI #CareerStrategy](../episodes/2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy/transcript.md) (2026-04-15)
+- [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
+- [I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](../episodes/2026-04-12-i-watched-3-companies-lay-off-their-managers-all-3-hit-the-same-wall/transcript.md) (2026-04-12)
+- [AI is splitting the economy—which side are you on?](../episodes/2026-04-11-ai-is-splitting-the-economywhich-side-are-you-on/transcript.md) (2026-04-11)
 - [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
 - [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
 - [Why AI crushes some businesses but protects others! #ai #futureofwork](../episodes/2026-04-06-why-ai-crushes-some-businesses-but-protects-others-ai-futureofwork/transcript.md) (2026-04-06)

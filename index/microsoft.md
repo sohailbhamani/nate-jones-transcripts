@@ -1,7 +1,9 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (129 episodes):
+Episodes discussing **Microsoft** (131 episodes):
 
+- [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
+- [How the Red Queen memo exposed who will actually survive #tech #AI](../episodes/2026-04-16-how-the-red-queen-memo-exposed-who-will-actually-survive-tech-ai/transcript.md) (2026-04-16)
 - [The $3 Trillion IPO Trap Nobody's Talking About](../episodes/2026-04-09-the-3-trillion-ipo-trap-nobodys-talking-about/transcript.md) (2026-04-09)
 - [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
 - [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)

@@ -1,7 +1,14 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (170 episodes):
+Episodes discussing **Tutorial** (177 episodes):
 
+- [Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure](../episodes/2026-04-18-every-tech-giant-is-building-the-same-thing-right-now-ai-agents-infrastructure/transcript.md) (2026-04-18)
+- [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
+- [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
+- [How top performers dodge AI replacement #AI #CareerStrategy](../episodes/2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy/transcript.md) (2026-04-15)
+- [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
+- [I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](../episodes/2026-04-13-i-looked-at-amazon-after-they-fired-16000-engineers-their-ai-broke-everything/transcript.md) (2026-04-13)
+- [I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](../episodes/2026-04-12-i-watched-3-companies-lay-off-their-managers-all-3-hit-the-same-wall/transcript.md) (2026-04-12)
 - [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
 - [Your Agent Produces at 100x. Your Org Reviews at 3x. That's the Problem.](../episodes/2026-04-05-your-agent-produces-at-100x-your-org-reviews-at-3x-thats-the-problem/transcript.md) (2026-04-05)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)

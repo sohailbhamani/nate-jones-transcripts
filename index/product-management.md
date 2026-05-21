@@ -1,11 +1,21 @@
 # Product Management
 
-Episodes discussing **Product Management** (356 episodes):
+Episodes discussing **Product Management** (366 episodes):
 
+- [Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure](../episodes/2026-04-18-every-tech-giant-is-building-the-same-thing-right-now-ai-agents-infrastructure/transcript.md) (2026-04-18)
+- [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
+- [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
+- [How top performers dodge AI replacement #AI #CareerStrategy](../episodes/2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy/transcript.md) (2026-04-15)
+- [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
+- [Why AI skills are now table stakes #ai #work #future](../episodes/2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future/transcript.md) (2026-04-14)
+- [I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](../episodes/2026-04-13-i-looked-at-amazon-after-they-fired-16000-engineers-their-ai-broke-everything/transcript.md) (2026-04-13)
+- [NVIDIA grew 7K employees—and is still 10K short! #artificialintelligence #nextgenai](../episodes/2026-04-13-nvidia-grew-7k-employeesand-is-still-10k-short-artificialintelligence-nextgenai/transcript.md) (2026-04-13)
 - [Big firms are safe  Startups are weak  The middle is doomed](../episodes/2026-04-12-big-firms-are-safe-startups-are-weak-the-middle-is-doomed/transcript.md) (2026-04-12)
 - [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
 - [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
+- [A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](../episodes/2026-04-07-a-polymarket-bot-made-438000-in-30-days-your-industry-is-next-heres-what-to-do-a/transcript.md) (2026-04-07)
 - [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
 - [The AI squeeze killing mid tier firms no one's watching! #ai #futureofwork](../episodes/2026-04-05-the-ai-squeeze-killing-mid-tier-firms-no-ones-watching-ai-futureofwork/transcript.md) (2026-04-05)
 - [Why AI agents will always be a security target! #ai #futureofwork](../episodes/2026-04-04-why-ai-agents-will-always-be-a-security-target-ai-futureofwork/transcript.md) (2026-04-04)

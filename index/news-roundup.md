@@ -1,7 +1,9 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (126 episodes):
+Episodes discussing **News Roundup** (128 episodes):
 
+- [Tech talent is about to get ugly thanks to this memo #ai #tech #competition](../episodes/2026-04-17-tech-talent-is-about-to-get-ugly-thanks-to-this-memo-ai-tech-competition/transcript.md) (2026-04-17)
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
 - [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
 - [Why AI agents will always be a security target! #ai #futureofwork](../episodes/2026-04-04-why-ai-agents-will-always-be-a-security-target-ai-futureofwork/transcript.md) (2026-04-04)

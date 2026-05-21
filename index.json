@@ -1,10 +1,748 @@
 {
-  "total_videos": 558,
+  "total_videos": 573,
   "date_range": {
-    "newest": "2026-04-12",
+    "newest": "2026-04-18",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure",
+      "video_id": "7wmoB-J1fFE",
+      "youtube_url": "https://www.youtube.com/watch?v=7wmoB-J1fFE",
+      "publish_date": "2026-04-18",
+      "duration": "2:14",
+      "duration_seconds": 134,
+      "view_count": 12043,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Coinbase launches wallets for agents, Cloudflare ships Markdown for agents, and OpenAI publishes tools that let agents install software and write files\u2014all in the same week? The common story is that these are separate product launches\u2014but the reality is more interesting when you recognize the web itself is forking.\n\nIn this video, I share the inside scoop on why every major infrastructure company is simultaneously building toward the same agent-native future:\n\n\u2022 Why 13,000 AI agents registered Ethereum wallets within 24 hours of Coinbase's launch\n\u2022 How Stripe had to retrain its entire fraud detection system because agent traffic doesn't move a mouse\n\u2022 What Cloudflare's Markdown conversion and X402 monetization support means for content access\n\u2022 Where the mobile web analogy breaks down\u2014the new client isn't a smaller screen, it's no screen at all\n\nFor builders watching the primitives snap together, the gap between infrastructure being built and trust people are willing to extend is the central tension of the next few years.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI agents",
+        "agentic web",
+        "AI strategy",
+        "future of work",
+        "automation at work",
+        "large language models",
+        "OpenAI",
+        "Coinbase agentic wallets",
+        "Cloudflare markdown",
+        "Stripe agent commerce",
+        "agent payments",
+        "agent security",
+        "agent infrastructure",
+        "AI agent economy",
+        "agentic AI builders",
+        "AI strategy for teams",
+        "autonomous agents 2026",
+        "agent native search"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Stripe"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure\nStart with the money"
+      ],
+      "transcript_chars": 2308,
+      "folder": "2026-04-18-every-tech-giant-is-building-the-same-thing-right-now-ai-agents-infrastructure"
+    },
+    {
+      "title": "Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.",
+      "video_id": "4KAF72BTyCE",
+      "youtube_url": "https://www.youtube.com/watch?v=4KAF72BTyCE",
+      "publish_date": "2026-04-17",
+      "duration": "29:45",
+      "duration_seconds": 1785,
+      "view_count": 47370,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/the-ai-capital-youve-been-building?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside your AI usage when you're building the most important professional asset of your career and you don't own any of it?\n\nThe common story is that AI memory is a nice feature \u2014 but the reality is that your accumulated context across platforms has become a fifth category of professional capital, and it lives on servers controlled by third parties with a direct financial interest in keeping it there.\n\nIn this video, I share the inside scoop on why bring-your-own-context is the missing layer for 2026:\n\n \u2022 Why 60% of workers use personal AI at work and the honing effect makes it sticky\n \u2022 How four layers of context \u2014 domain encoding, workflow calibration, behavioral relationship, artifact history \u2014 make switching feel like losing a leg\n \u2022 What market failure keeps platforms hostile and memory startups struggling\n \u2022 Where the solution lives: extraction prompts, personal databases, and MCP exposure\n\nProfessionals who keep pouring context into walled gardens are starting over every time they cross a boundary \u2014 the compounding advantage goes to those who build portable working identity now.\n\nChapters\n00:00 You're building your most important asset and don't own it\n02:30 The honing effect and why switching AIs hurts\n05:00 Layer 1: Domain encoding you didn't realize you gave\n07:30 Layer 2: Workflow calibration saves you 5-8 turns\n09:30 Layer 3: Behavioral relationship and unstated preferences\n12:00 Layer 4: Artifact history and demonstrated capability\n14:30 Why this affects 90% of us in the next two years\n17:00 Why platforms won't solve it and startups struggle\n20:00 The solution: extraction, database, MCP\n23:00 Shout out to MCP as the USB-C connector for AI\n25:30 Professional capital in the AI age\n28:30 Memory replaced models as the moat of 2026\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI memory",
+        "BYOC",
+        "bring your own context",
+        "professional context",
+        "Open Brain",
+        "MCP",
+        "AI productivity",
+        "knowledge work",
+        "AI careers",
+        "portable AI",
+        "context layer",
+        "ChatGPT",
+        "Claude",
+        "AI strategy for teams",
+        "openai",
+        "anthropic",
+        "ai for business"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Slack",
+          "Box",
+          "Perplexity",
+          "LinkedIn"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Perplexity",
+          "Make",
+          "MCP",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "Your working identity does need to live somewhere that you can control",
+        "Better position to be in than having them locked in a platform's memory system"
+      ],
+      "summary": [
+        "# Anthropic And OpenAI Are Fighting Over Your Memory"
+      ],
+      "transcript_chars": 33305,
+      "folder": "2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose"
+    },
+    {
+      "title": "Tech talent is about to get ugly thanks to this memo #ai #tech #competition",
+      "video_id": "PcmFGurjfFo",
+      "youtube_url": "https://www.youtube.com/watch?v=PcmFGurjfFo",
+      "publish_date": "2026-04-17",
+      "duration": "1:52",
+      "duration_seconds": 112,
+      "view_count": 15175,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity \u2014 but the reality is that it was about selection pressure, and eight months later the restructuring it triggered is accelerating faster than anyone anticipated.\n\nIn this video, I share the inside scoop on how the Red Queen memo is reshaping who gets hired and who thrives:\n\n \u2022 Why Shopify built MCP servers and LLM proxies for years before the memo landed\n \u2022 How the CTO tops token usage while support teams get Cursor licenses\n \u2022 What the U-shaped talent market means for seniors and AI-native juniors\n \u2022 Where the copycat wave failed and why Duolingo had to walk it back\n\nWorkers who treat AI fluency as optional are competing against a theoretical version of themselves that kept pace \u2014 and the gap is widening every month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "human resource management",
+        "human resources",
+        "employee engagement",
+        "performance management system",
+        "Shopify",
+        "You're right",
+        "Toby Lutke",
+        "Red Queen memo",
+        "AI hiring",
+        "AI jobs",
+        "talent market",
+        "AI fluency",
+        "performance reviews",
+        "Claude Code",
+        "Cursor",
+        "AI careers",
+        "future of work",
+        "Jensen Huang",
+        "Nvidia",
+        "AI strategy for teams"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Shopify",
+          "Browser Company"
+        ],
+        "people": [
+          "Josh Miller"
+        ],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Tech talent is about to get ugly thanks to this memo #ai #tech #competition\nthey were wrong"
+      ],
+      "transcript_chars": 1966,
+      "folder": "2026-04-17-tech-talent-is-about-to-get-ugly-thanks-to-this-memo-ai-tech-competition"
+    },
+    {
+      "title": "How the Red Queen memo exposed who will actually survive #tech #AI",
+      "video_id": "WcH97reWDMQ",
+      "youtube_url": "https://www.youtube.com/watch?v=WcH97reWDMQ",
+      "publish_date": "2026-04-16",
+      "duration": "1:01",
+      "duration_seconds": 61,
+      "view_count": 5451,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity \u2014 but the reality is that it was about selection pressure, and eight months later the restructuring it triggered is accelerating faster than anyone anticipated.\n\nIn this video, I share the inside scoop on how the Red Queen memo is reshaping who gets hired and who thrives:\n\n \u2022 Why Shopify built MCP servers and LLM proxies for years before the memo landed\n \u2022 How the CTO tops token usage while support teams get Cursor licenses\n \u2022 What the U-shaped talent market means for seniors and AI-native juniors\n \u2022 Where the copycat wave failed and why Duolingo had to walk it back\n\nWorkers who treat AI fluency as optional are competing against a theoretical version of themselves that kept pace \u2014 and the gap is widening every month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "human resource management",
+        "human resources",
+        "employee engagement",
+        "performance management system",
+        "Shopify",
+        "You're right",
+        "Toby Lutke",
+        "Red Queen memo",
+        "AI hiring",
+        "AI jobs",
+        "talent market",
+        "AI fluency",
+        "performance reviews",
+        "Claude Code",
+        "Cursor",
+        "AI careers",
+        "future of work",
+        "Jensen Huang",
+        "Nvidia",
+        "AI strategy for teams"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Arc"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How the Red Queen memo exposed who will actually survive #tech #AI\nAs Luki wrote eight months ago, stagnation is almost certain"
+      ],
+      "transcript_chars": 1053,
+      "folder": "2026-04-16-how-the-red-queen-memo-exposed-who-will-actually-survive-tech-ai"
+    },
+    {
+      "title": "Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.",
+      "video_id": "XlfumXPPrLY",
+      "youtube_url": "https://www.youtube.com/watch?v=XlfumXPPrLY",
+      "publish_date": "2026-04-16",
+      "duration": "19:58",
+      "duration_seconds": 1198,
+      "view_count": 49338,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-ai-is-50x-faster-your-tools?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside computing when every piece of software ever built assumed a human was on the other side \u2014 and now that assumption is wrong?\n\nThe common story is that AI isn't fast enough yet. But the reality is that agents operating 50x faster than humans are bottlenecked by the exact human affordances we spent decades engineering into every tool we touch.\n\nIn this video, I share the inside scoop on the rebuilt web and what it means for your career:\n\n \u2022 Why Jeff Dean says an infinitely fast model would only yield 2-3x improvement due to tool overhead\n \u2022 How three layers of infrastructure are being replaced from faster compilers to agent-native primitives\n \u2022 What human above the loop means when touching the loop only slows it down\n \u2022 Where the four durable roles live for humans in an agentic economy\n\nLeaders who keep optimizing for human-in-the-loop workflows are losing ground by standing still \u2014 every model improvement shifts the ratio against your human scaffolding.\n\nChapters\n00:00 You and I were the most important thing in computing\n02:30 Every timeout and pagination was calibrated to your pace\n04:30 Jeff Dean on inference speed and the 2-3x ceiling\n06:30 Layer 1: Making existing tools faster\n08:30 Layer 2: Agent-native primitives replace human interfaces\n11:00 Layer 3: The bitter lesson applied to the software stack\n13:00 What happens to the human?\n15:00 Four roles above the loop\n18:00 This is a promotion, not a demotion\n19:30 Start preparing now\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "agentic web",
+        "AI infrastructure",
+        "Jeff Dean",
+        "future of work",
+        "human in the loop",
+        "AI careers",
+        "AI roles",
+        "agentic economy",
+        "NVIDIA",
+        "AI strategy for teams",
+        "agentic ai",
+        "ai agent",
+        "career guidance",
+        "ai tools"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Salesforce",
+          "Cursor",
+          "SAP"
+        ],
+        "people": [
+          "Aaron Levy"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Make",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "For 50 years, you and I were the most important thing in computing, and we're just not anymore"
+      ],
+      "transcript_chars": 22895,
+      "folder": "2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing"
+    },
+    {
+      "title": "How top performers dodge AI replacement #AI #CareerStrategy",
+      "video_id": "ku94gbN7lNo",
+      "youtube_url": "https://www.youtube.com/watch?v=ku94gbN7lNo",
+      "publish_date": "2026-04-15",
+      "duration": "2:21",
+      "duration_seconds": 141,
+      "view_count": 11703,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity \u2014 but the reality is that it was about selection pressure, and eight months later the restructuring it triggered is accelerating faster than anyone anticipated.\n\nIn this video, I share the inside scoop on how the Red Queen memo is reshaping who gets hired and who thrives:\n\n \u2022 Why Shopify built MCP servers and LLM proxies for years before the memo landed\n \u2022 How the CTO tops token usage while support teams get Cursor licenses\n \u2022 What the U-shaped talent market means for seniors and AI-native juniors\n \u2022 Where the copycat wave failed and why Duolingo had to walk it back\n\nWorkers who treat AI fluency as optional are competing against a theoretical version of themselves that kept pace \u2014 and the gap is widening every month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "human resource management",
+        "human resources",
+        "employee engagement",
+        "performance management system",
+        "Shopify",
+        "You're right",
+        "Toby Lutke",
+        "Red Queen memo",
+        "AI hiring",
+        "AI jobs",
+        "talent market",
+        "AI fluency",
+        "performance reviews",
+        "Claude Code",
+        "Cursor",
+        "AI careers",
+        "future of work",
+        "Jensen Huang",
+        "Nvidia",
+        "AI strategy for teams"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Shopify",
+          "Browser Company"
+        ],
+        "people": [],
+        "products": [
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How top performers dodge AI replacement #AI #CareerStrategy\nBy the end of 2026, expect AI fluency requirements to appear on the majority of knowledge work postings, not as a specialized skill, but "
+      ],
+      "transcript_chars": 2658,
+      "folder": "2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy"
+    },
+    {
+      "title": "The Real Problem With AI Agents Nobody's Talking About",
+      "video_id": "2PWJu6uAaoU",
+      "youtube_url": "https://www.youtube.com/watch?v=2PWJu6uAaoU",
+      "publish_date": "2026-04-15",
+      "duration": "37:39",
+      "duration_seconds": 2259,
+      "view_count": 70044,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Elicitation Prompt (SOUL.md): https://natesnewsletter.substack.com/p/your-agent-needs-a-soulmd-you-cant?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside the OpenClaw phenomenon when 250,000 GitHub stars later the most common message in every community forum is still \"now what?\"\n\nThe common story is that agents are magic boxes \u2014 type anything and they'll figure it out. But the reality is that installation is now a 10-minute problem while specification remains a 40-hour problem nobody is solving.\n\nIn this video, I share the inside scoop on why agent products keep breaking against the same wall:\n\n \u2022 Why Brad Mills spent 40 hours writing standards and still ended up micromanaging harder than a human\n \u2022 How every successful deployment shares the same markdown file architecture that isn't AI at all\n \u2022 What tacit knowledge compression means for the people with the most to gain from delegation\n \u2022 Where the real solution lives and why your first agent should be an interviewer, not an assistant\n\nBuilders who keep competing on installation, UI, and model selection are optimizing the wrong layer \u2014 the person on the other end has to produce a usable spec, and that's the hard problem.\n\nChapters\n00:00 Agents don't make you productive by themselves\n02:30 The most common message: now what?\n05:00 Brad Mills and the 40-hour delegation framework\n07:30 The pattern across deployments that actually work\n10:00 Markdown files as the agent's operating system\n12:30 Memory systems and the context problem\n15:00 Why clarity of intent is the real requirement\n17:30 Surveying the me-too landscape: Manus, Perplexity, NemoClaw\n22:00 Claude Dispatch and the mobile-first bet\n24:30 Why every product breaks against the same wall\n27:00 Tacit knowledge and the structural trap of expertise\n30:00 The uncomfortable workforce divide agents create\n33:00 The solution: an interviewer agent, not an assistant\n36:30 Your first agent should prepare you for agents\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "OpenClaw",
+        "AI agents",
+        "agent productivity",
+        "tacit knowledge",
+        "Manus",
+        "Perplexity",
+        "NemoClaw",
+        "Claude Dispatch",
+        "Open Brain",
+        "knowledge work",
+        "delegation",
+        "specification problem",
+        "agent architecture",
+        "workflow automation",
+        "AI strategy for teams",
+        "ai tools for business",
+        "ai productivity",
+        "ai workflow automation",
+        "ai agent"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Meta",
+          "Apple",
+          "Nvidia",
+          "Shopify",
+          "Slack",
+          "GitHub",
+          "Box",
+          "Perplexity",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Perplexity",
+          "Make",
+          "MCP",
+          "Operator"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The Real Problem With AI Agents Nobody's Talking About\nAgents by themselves don't make you productive"
+      ],
+      "transcript_chars": 43094,
+      "folder": "2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about"
+    },
+    {
+      "title": "3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.",
+      "video_id": "0vdlwOK_Qdk",
+      "youtube_url": "https://www.youtube.com/watch?v=0vdlwOK_Qdk",
+      "publish_date": "2026-04-14",
+      "duration": "20:50",
+      "duration_seconds": 1250,
+      "view_count": 61120,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Weekly News Analysis Skill: https://natesnewsletter.substack.com/p/sora-died-atlassian-cut-1600-engineers?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening underneath the March 2026 headlines when everyone was watching model drops but missing the structural shifts that will shape the next 12 months?\n\nThe common story is that March was about ChatGPT 5.4 and Gemini 3.1 Ultra \u2014 but the reality is that five quieter moves revealed AI is entering an economics phase where sustainability matters more than capability.\n\nIn this video, I share the inside scoop on reading under the fog of war:\n\n \u2022 Why Sora died burning $15 million a day against $2.1 million lifetime revenue\n \u2022 How the first ad dollar in AI converted at 1.5x and threatens Google's core model\n \u2022 What 12 state moratorium bills mean for $700 billion in hyperscaler capex\n \u2022 Where safety posture became a market position with direct revenue consequences\n\nLeaders who keep chasing capability announcements will miss that the binding constraint has shifted from training flops to inference cost per delivered unit of revenue.\n\nChapters\n00:00 Reading under the fog of war\n02:00 Sora shutdown: inference is the new wall\n04:30 The most important number in AI changed\n06:00 First ad dollar enters the AI interface\n08:30 The purchase funnel collapses into one conversation\n10:00 White House framework vs physical infrastructure resistance\n12:30 12 states, 54 local governments blocking data centers\n14:00 Atlassian and the SaaS apocalypse continues\n16:30 Per-seat pricing is over faster than SaaS knows\n18:00 Safety posture becomes a market position\n20:00 The through-line: capability phase to economics phase\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "March 2026",
+        "Sora",
+        "inference costs",
+        "AI advertising",
+        "Criteo",
+        "ChatGPT",
+        "data centers",
+        "SaaS apocalypse",
+        "Atlassian",
+        "AI safety",
+        "Anthropic",
+        "Pentagon",
+        "OpenAI",
+        "AI economics",
+        "AI strategy for teams"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Nvidia",
+          "Salesforce",
+          "Slack",
+          "YouTube",
+          "AWS",
+          "Oracle",
+          "Atlassian"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Sora",
+          "Make",
+          "MCP"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [
+        "The chips we use to train should not be the chips we use to infer because inference is a different problem",
+        "The market has seen that per seat pricing is over faster than most sas companies"
+      ],
+      "summary": [
+        "March 2026 was one of the biggest months in AI history"
+      ],
+      "transcript_chars": 22873,
+      "folder": "2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them"
+    },
+    {
+      "title": "Why AI skills are now table stakes #ai #work #future",
+      "video_id": "e3inUUQsKsc",
+      "youtube_url": "https://www.youtube.com/watch?v=e3inUUQsKsc",
+      "publish_date": "2026-04-14",
+      "duration": "2:17",
+      "duration_seconds": 137,
+      "view_count": 9466,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity \u2014 but the reality is that it was about selection pressure, and eight months later the restructuring it triggered is accelerating faster than anyone anticipated.\n\nIn this video, I share the inside scoop on how the Red Queen memo is reshaping who gets hired and who thrives:\n\n \u2022 Why Shopify built MCP servers and LLM proxies for years before the memo landed\n \u2022 How the CTO tops token usage while support teams get Cursor licenses\n \u2022 What the U-shaped talent market means for seniors and AI-native juniors\n \u2022 Where the copycat wave failed and why Duolingo had to walk it back\n\nWorkers who treat AI fluency as optional are competing against a theoretical version of themselves that kept pace \u2014 and the gap is widening every month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "human resource management",
+        "human resources",
+        "employee engagement",
+        "performance management system",
+        "Shopify",
+        "You're right",
+        "Toby Lutke",
+        "Red Queen memo",
+        "AI hiring",
+        "AI jobs",
+        "talent market",
+        "AI fluency",
+        "performance reviews",
+        "Claude Code",
+        "Cursor",
+        "AI careers",
+        "future of work",
+        "Jensen Huang",
+        "Nvidia",
+        "AI strategy for teams"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Shopify",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Why AI skills are now table stakes #ai #work #future\nstagnation, it's not just failure, it's slow-motion termination"
+      ],
+      "transcript_chars": 2231,
+      "folder": "2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future"
+    },
+    {
+      "title": "66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence",
+      "video_id": "F368zITpbeI",
+      "youtube_url": "https://www.youtube.com/watch?v=F368zITpbeI",
+      "publish_date": "2026-04-13",
+      "duration": "1:08",
+      "duration_seconds": 68,
+      "view_count": 8322,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "What's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity \u2014 but the reality is that it was about selection pressure, and eight months later the restructuring it triggered is accelerating faster than anyone anticipated.\n\nIn this video, I share the inside scoop on how the Red Queen memo is reshaping who gets hired and who thrives:\n\n \u2022 Why Shopify built MCP servers and LLM proxies for years before the memo landed\n \u2022 How the CTO tops token usage while support teams get Cursor licenses\n \u2022 What the U-shaped talent market means for seniors and AI-native juniors\n \u2022 Where the copycat wave failed and why Duolingo had to walk it back\n\nWorkers who treat AI fluency as optional are competing against a theoretical version of themselves that kept pace \u2014 and the gap is widening every month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "human resource management",
+        "human resources",
+        "employee engagement",
+        "performance management system",
+        "Shopify",
+        "You're right",
+        "Toby Lutke",
+        "Red Queen memo",
+        "AI hiring",
+        "AI jobs",
+        "talent market",
+        "AI fluency",
+        "performance reviews",
+        "Claude Code",
+        "Cursor",
+        "AI careers",
+        "future of work",
+        "Jensen Huang",
+        "Nvidia",
+        "AI strategy for teams"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 66% of companies are cutting entry level jobs for AI"
+      ],
+      "transcript_chars": 1149,
+      "folder": "2026-04-13-66-of-companies-are-cutting-entry-level-jobs-for-ai-nextgenai-artificialintellig"
+    },
+    {
+      "title": "I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.",
+      "video_id": "E1idsrv79tI",
+      "youtube_url": "https://www.youtube.com/watch?v=E1idsrv79tI",
+      "publish_date": "2026-04-13",
+      "duration": "18:41",
+      "duration_seconds": 1121,
+      "view_count": 113804,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-codebase-is-full-of-code-nobody?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside your codebase when AI writes code nobody fully understands?\n\nThe common story is that dark code is a security or engineering quality problem \u2014 but the reality is more complicated: it's an organizational capability crisis that is only going to get worse.\n\nIn this video, I share the inside scoop on dark code and what actually fixes it:\n\n\u2022 Why observability and agent pipelines don't solve the core problem \n\u2022 How spec-driven development forces comprehension before code exists \n\u2022 What self-describing systems look like and why they matter at AI speed \n\u2022 Where a comprehension gate catches what the first two layers miss\n\nEvery builder, founder, and engineering leader shipping AI-generated code right now faces a choice: treat dark code as an organizational discipline problem \u2014 or keep driving with the headlights off.\n\nChapters \n00:00 Introduction: Code Nobody Understands \n01:30 What Dark Code Actually Is \n03:00 Two Reasons Dark Code Is Multiplying \n05:00 Why Observability Doesn't Fix It \n06:30 Why Agentic Pipelines Don't Fix It Either \n08:00 The YOLO Approach and Its Real Costs \n10:00 How AI's Strengths Mask the Problem \n11:30 Layoffs Are Making Dark Code Worse \n13:00 Layer One: Spec-Driven Development \n16:00 What Amazon's Kiro Taught the Industry \n17:30 Layer Two: Self-Describing Systems \n20:30 Layer Three: The Comprehension Gate \n23:00 What This Means for Founders and Senior Engineers \n25:00 The Organizational Choice Ahead\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n-   Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n-   Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI agents",
+        "future of work",
+        "dark code",
+        "vibe coding",
+        "spec driven development",
+        "AI coding tools",
+        "engineering leadership",
+        "Claude Code",
+        "context engineering",
+        "AI code review",
+        "AI jobs",
+        "ai",
+        "automation",
+        "amazon layoffs",
+        "amazon",
+        "coding",
+        "ai coding"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Amazon",
+          "X",
+          "Lovable"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "The obvious responses to dark code are rooted in the idea that this is a tooling problem and it's not a tooling problem"
+      ],
+      "summary": [
+        "# I Looked At Amazon After They Fired 16,000 Engineers"
+      ],
+      "transcript_chars": 21203,
+      "folder": "2026-04-13-i-looked-at-amazon-after-they-fired-16000-engineers-their-ai-broke-everything"
+    },
+    {
+      "title": "NVIDIA grew 7K employees\u2014and is still 10K short! #artificialintelligence #nextgenai",
+      "video_id": "1tLQC-i3c7Y",
+      "youtube_url": "https://www.youtube.com/watch?v=1tLQC-i3c7Y",
+      "publish_date": "2026-04-13",
+      "duration": "1:06",
+      "duration_seconds": 66,
+      "view_count": 11984,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts:https://natesnewsletter.substack.com/p/my-honest-field-notes-on-how-the?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the talent market when Toby Lutke's memo said prove AI can't do it before you hire and everyone dismissed it as CEO posturing?\n\nThe common story is that the memo was about productivity \u2014 but the reality is that it was about selection pressure, and eight months later the restructuring it triggered is accelerating faster than anyone anticipated.\n\nIn this video, I share the inside scoop on how the Red Queen memo is reshaping who gets hired and who thrives:\n\n \u2022 Why Shopify built MCP servers and LLM proxies for years before the memo landed\n \u2022 How the CTO tops token usage while support teams get Cursor licenses\n \u2022 What the U-shaped talent market means for seniors and AI-native juniors\n \u2022 Where the copycat wave failed and why Duolingo had to walk it back\n\nWorkers who treat AI fluency as optional are competing against a theoretical version of themselves that kept pace \u2014 and the gap is widening every month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "human resource management",
+        "human resources",
+        "employee engagement",
+        "performance management system",
+        "Shopify",
+        "You're right",
+        "Toby Lutke",
+        "Red Queen memo",
+        "AI hiring",
+        "AI jobs",
+        "talent market",
+        "AI fluency",
+        "performance reviews",
+        "Claude Code",
+        "Cursor",
+        "AI careers",
+        "future of work",
+        "Jensen Huang",
+        "Nvidia",
+        "AI strategy for teams"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#artificialintelligence #nextgenai\nThe impact of the lucky memo went all the way up to Big Tech"
+      ],
+      "transcript_chars": 1123,
+      "folder": "2026-04-13-nvidia-grew-7k-employeesand-is-still-10k-short-artificialintelligence-nextgenai"
+    },
     {
       "title": "Big firms are safe  Startups are weak  The middle is doomed",
       "video_id": "f_OmLWjWgNA",
@@ -54,6 +792,127 @@
       ],
       "transcript_chars": 1200,
       "folder": "2026-04-12-big-firms-are-safe-startups-are-weak-the-middle-is-doomed"
+    },
+    {
+      "title": "I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.",
+      "video_id": "zhXgkQ3nYeE",
+      "youtube_url": "https://www.youtube.com/watch?v=zhXgkQ3nYeE",
+      "publish_date": "2026-04-12",
+      "duration": "32:52",
+      "duration_seconds": 1972,
+      "view_count": 51525,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-44-of-companies?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside the management layer your company just removed \u2014 and why it matters more than anyone is admitting?\n\nThe common story is that flatter is faster \u2014 but the reality is more complicated: companies are cutting load-bearing structure without understanding what they're actually removing.\n\nIn this video, I share the inside scoop on how to unbundle management in the age of AI:\n\n\u2022 Why management breaks into three jobs AI handles very differently \n\u2022 How Kimi, Block, and Meta are running three distinct real-world experiments \n\u2022 What gets lost when you compress instead of decompose the management role \n\u2022 Where human judgment stays irreplaceable even as LLMs scale\n\nOperators and leaders who take the time to decompose what managers actually do \u2014 before automating or eliminating \u2014 will build more durable, higher-performing teams than those who simply cut and compress.\n\nChapters \n00:00 Introduction: The Management Removal Wave \n01:30 What Do Managers Actually Do? \n03:00 Bundle One: Information Routing \n05:00 The Roman Legions to Railroads Through-Line \n06:30 Where AI Takes Over Routing \n08:00 Bundle Two: Sense Making \n10:30 Why Sense Making Resists Automation \n12:30 Bundle Three: Accountability and Feedback \n14:30 What Happens If AI Gets 10x Better? \n16:00 Case Study One: Kimi's Radical Flat Structure \n19:00 Case Study Two: Jack Dorsey and Block's DRI Model \n22:00 Case Study Three: Meta's Compression Play \n25:30 What This Means for Managers and ICs \n27:00 The Decomposition Playbook\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n-   Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n-   Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "automation at work",
+        "future of work",
+        "large language models",
+        "AI labor market",
+        "management in AI",
+        "AI adoption",
+        "Kimi AI",
+        "Block company",
+        "Meta efficiency",
+        "management theory",
+        "AI org design",
+        "flat organizations",
+        "AI strategy for teams",
+        "manager layoffs 2026",
+        "human AI collaboration",
+        "AI jobs",
+        "automation"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "Nvidia",
+          "Netflix",
+          "Runway"
+        ],
+        "people": [
+          "Jensen Huang",
+          "Mark Zuckerberg"
+        ],
+        "products": [
+          "Runway",
+          "Make",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Information logistics"
+      ],
+      "summary": [
+        "Sometime in the past few months, I'm willing to bet you your company removed a layer of management"
+      ],
+      "transcript_chars": 36915,
+      "folder": "2026-04-12-i-watched-3-companies-lay-off-their-managers-all-3-hit-the-same-wall"
+    },
+    {
+      "title": "AI is splitting the economy\u2014which side are you on?",
+      "video_id": "jGd5NY5KVN4",
+      "youtube_url": "https://www.youtube.com/watch?v=jGd5NY5KVN4",
+      "publish_date": "2026-04-11",
+      "duration": "1:23",
+      "duration_seconds": 83,
+      "view_count": 8855,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts & Guide:https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside AI's impact on competitive business strategy?\n\nThe common story is that AI threatens every company equally \u2014 but the reality is more complicated, and far more useful for leaders who need to act now.\n\nIn this video, I share the inside scoop on how AI is bifurcating the economy and what that means for where you invest:\n\n \u2022 Why mid-tier digital firms face an existential squeeze right now\n \u2022 How physical, local markets are actually protected from AI disruption\n \u2022 What the three-layer value chain reveals about your real vulnerability\n \u2022 Where AI native startups must run to build anything defensible\n\nOperators and leaders who accurately diagnose where they sit in this reshaped economy will make smarter AI investments \u2014 those who don't will spend money accelerating a losing position.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n - Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n - Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "automation at work",
+        "future of work",
+        "AI labor market",
+        "upskilling with AI",
+        "competitive strategy AI",
+        "mid-tier firm AI risk",
+        "AI native startups",
+        "physical vs digital markets",
+        "AI investment strategy",
+        "barbell economy",
+        "contestable markets",
+        "AI for operators",
+        "AI strategy for teams",
+        "professional services AI",
+        "AI career advice"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "That ai is not uniformly intensifying competition everywhere"
+      ],
+      "summary": [
+        "# AI is splitting the economy\u2014which side are you on"
+      ],
+      "transcript_chars": 1349,
+      "folder": "2026-04-11-ai-is-splitting-the-economywhich-side-are-you-on"
     },
     {
       "title": "This New Method Just Killed RAM Limitations",
@@ -484,6 +1343,70 @@
       ],
       "transcript_chars": 1131,
       "folder": "2026-04-08-where-ai-falls-short-in-business-ai-business-limitations"
+    },
+    {
+      "title": "A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.",
+      "video_id": "BiqG3it0gY0",
+      "youtube_url": "https://www.youtube.com/watch?v=BiqG3it0gY0",
+      "publish_date": "2026-04-07",
+      "duration": "29:30",
+      "duration_seconds": 1770,
+      "view_count": 114734,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/313-became-438000-in-30-days-youre?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening underneath the economy when a Polymarket bot turns $313 into $414,000 in a single month with a 98% win rate?\n\nThe common story is that AI creates efficiency \u2014 but the reality is that AI is collapsing arbitrage windows that took decades to close and opening new ones with every model release.\n\nIn this video, I share the inside scoop on why arbitrage is the hidden driver of everything AI is changing:\n\n \u2022 Why speed gaps, reasoning gaps, and discipline gaps are closing in weeks not decades\n \u2022 How intelligence arbitrage is replacing labor arbitrage as the new currency\n \u2022 What the CNC lathe parallel teaches us about billing the old rate at the new cost\n \u2022 Where value migrates when every gap closes upstream toward judgment and taste\n\nBuilders who keep sitting on informational or cognitive arbitrage will get eaten \u2014 the only durable positions are structural gaps that AI cannot close on a quarterly cadence.\n\nChapters\n00:00 The world has been built on arbitrage for thousands of years\n02:30 The Polymarket bot that made $414,000 in a month\n05:30 Speed gaps: when one system updates slower than reality\n07:30 Reasoning gaps: interpreting public information faster\n09:30 Fragmentation gaps: the consultant who synthesizes silos\n11:30 Discipline gaps: why bots capture twice the profit\n13:30 Intelligence arbitrage replaces labor arbitrage\n15:30 The CNC lathe parallel from the 1980s\n17:30 95% of Polymarket wallets lose money\n19:30 Mythos and the continuous rotation of gaps\n22:00 Three questions to see what changes next\n25:00 The junior analyst migration upstream\n27:30 Find durable gaps or get arbitraged out\n29:00 The only losing move is assuming steady state\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "arbitrage",
+        "AI economics",
+        "Polymarket",
+        "intelligence arbitrage",
+        "future of work",
+        "AI disruption",
+        "Claude Mythos",
+        "labor markets",
+        "AI career advice",
+        "knowledge work",
+        "consulting",
+        "AI transformation",
+        "market efficiency",
+        "competitive strategy",
+        "AI strategy for teams"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "X",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Arc",
+          "Make",
+          "Operator"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "There are a few gaps that are structural that ai is not closing and they're not jumping onto those islands"
+      ],
+      "summary": [
+        "Since the days of Ian Nasir and his famous complaints about copper, the world has been built on arbitrage"
+      ],
+      "transcript_chars": 32028,
+      "folder": "2026-04-07-a-polymarket-bot-made-438000-in-30-days-your-industry-is-next-heres-what-to-do-a"
     },
     {
       "title": "The economy is splitting in half\u2014which side are you on? #ai #business",

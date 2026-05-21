@@ -1,8 +1,20 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (380 episodes):
+Episodes discussing **Ai Strategy** (393 episodes):
 
+- [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
+- [Tech talent is about to get ugly thanks to this memo #ai #tech #competition](../episodes/2026-04-17-tech-talent-is-about-to-get-ugly-thanks-to-this-memo-ai-tech-competition/transcript.md) (2026-04-17)
+- [How the Red Queen memo exposed who will actually survive #tech #AI](../episodes/2026-04-16-how-the-red-queen-memo-exposed-who-will-actually-survive-tech-ai/transcript.md) (2026-04-16)
+- [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
+- [How top performers dodge AI replacement #AI #CareerStrategy](../episodes/2026-04-15-how-top-performers-dodge-ai-replacement-ai-careerstrategy/transcript.md) (2026-04-15)
+- [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
+- [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)
+- [66% of companies are cutting entry level jobs for AI! #nextgenai #artificialintelligence](../episodes/2026-04-13-66-of-companies-are-cutting-entry-level-jobs-for-ai-nextgenai-artificialintellig/transcript.md) (2026-04-13)
+- [I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](../episodes/2026-04-13-i-looked-at-amazon-after-they-fired-16000-engineers-their-ai-broke-everything/transcript.md) (2026-04-13)
+- [NVIDIA grew 7K employees—and is still 10K short! #artificialintelligence #nextgenai](../episodes/2026-04-13-nvidia-grew-7k-employeesand-is-still-10k-short-artificialintelligence-nextgenai/transcript.md) (2026-04-13)
 - [Big firms are safe  Startups are weak  The middle is doomed](../episodes/2026-04-12-big-firms-are-safe-startups-are-weak-the-middle-is-doomed/transcript.md) (2026-04-12)
+- [I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](../episodes/2026-04-12-i-watched-3-companies-lay-off-their-managers-all-3-hit-the-same-wall/transcript.md) (2026-04-12)
+- [AI is splitting the economy—which side are you on?](../episodes/2026-04-11-ai-is-splitting-the-economywhich-side-are-you-on/transcript.md) (2026-04-11)
 - [This New Method Just Killed RAM Limitations](../episodes/2026-04-11-this-new-method-just-killed-ram-limitations/transcript.md) (2026-04-11)
 - [If your value is judgment and taste, AI actually helps you!](../episodes/2026-04-10-if-your-value-is-judgment-and-taste-ai-actually-helps-you/transcript.md) (2026-04-10)
 - [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
@@ -10,6 +22,7 @@ Episodes discussing **Ai Strategy** (380 episodes):
 - [AI data centers must bring their own power now! #ai #futureofwork](../episodes/2026-04-08-ai-data-centers-must-bring-their-own-power-now-ai-futureofwork/transcript.md) (2026-04-08)
 - [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)
 - [Where AI Falls Short in Business #AI #Business #Limitations](../episodes/2026-04-08-where-ai-falls-short-in-business-ai-business-limitations/transcript.md) (2026-04-08)
+- [A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](../episodes/2026-04-07-a-polymarket-bot-made-438000-in-30-days-your-industry-is-next-heres-what-to-do-a/transcript.md) (2026-04-07)
 - [The economy is splitting in half—which side are you on? #ai #business](../episodes/2026-04-07-the-economy-is-splitting-in-halfwhich-side-are-you-on-ai-business/transcript.md) (2026-04-07)
 - [The Missing Orchestration Layer Destroying Teams Right Now](../episodes/2026-04-06-the-missing-orchestration-layer-destroying-teams-right-now/transcript.md) (2026-04-06)
 - [Why AI crushes some businesses but protects others! #ai #futureofwork](../episodes/2026-04-06-why-ai-crushes-some-businesses-but-protects-others-ai-futureofwork/transcript.md) (2026-04-06)
