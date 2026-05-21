@@ -1,7 +1,8 @@
 # Aws
 
-Episodes discussing **Aws** (39 episodes):
+Episodes discussing **Aws** (40 episodes):
 
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)

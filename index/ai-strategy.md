@@ -1,7 +1,16 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (434 episodes):
+Episodes discussing **Ai Strategy** (443 episodes):
 
+- [Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting](../episodes/2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting/transcript.md) (2026-05-21)
+- [The calculator moment nobody's talking about in education #AIinEducation #Learning #Parenting](../episodes/2026-05-20-the-calculator-moment-nobodys-talking-about-in-education-aiineducation-learning/transcript.md) (2026-05-20)
+- [40% growth nobody saw coming #expansion #tech](../episodes/2026-05-19-40-growth-nobody-saw-coming-expansion-tech/transcript.md) (2026-05-19)
+- [The biggest lie you've heard about AI jobs #ai #futureofwork #shorts](../episodes/2026-05-19-the-biggest-lie-youve-heard-about-ai-jobs-ai-futureofwork-shorts/transcript.md) (2026-05-19)
+- [How teams accidentally sabotage AI adoption #ai #aitools](../episodes/2026-05-18-how-teams-accidentally-sabotage-ai-adoption-ai-aitools/transcript.md) (2026-05-18)
+- [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)
+- [GPT-5.5 vs 1000 Piece Lego Set #ai #challenge](../episodes/2026-05-17-gpt-55-vs-1000-piece-lego-set-ai-challenge/transcript.md) (2026-05-17)
+- [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
 - [Professors Notice Something's Drastically Wrong #college #teacher](../episodes/2026-05-14-professors-notice-somethings-drastically-wrong-college-teacher/transcript.md) (2026-05-14)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)

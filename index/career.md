@@ -1,7 +1,10 @@
 # Career
 
-Episodes discussing **Career** (293 episodes):
+Episodes discussing **Career** (296 episodes):
 
+- [The biggest lie you've heard about AI jobs #ai #futureofwork #shorts](../episodes/2026-05-19-the-biggest-lie-youve-heard-about-ai-jobs-ai-futureofwork-shorts/transcript.md) (2026-05-19)
+- [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
 - [2025 Prompting vs 2026 Prompting #ai #comparison #shorts](../episodes/2026-05-13-2025-prompting-vs-2026-prompting-ai-comparison-shorts/transcript.md) (2026-05-13)
 - [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)

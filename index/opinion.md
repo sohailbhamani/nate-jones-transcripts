@@ -1,7 +1,9 @@
 # Opinion
 
-Episodes discussing **Opinion** (33 episodes):
+Episodes discussing **Opinion** (35 episodes):
 
+- [Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting](../episodes/2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting/transcript.md) (2026-05-21)
+- [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)
 - [AI's 'Thin Ice' Moment: Is Your Job Already Gone?"](../episodes/2026-05-04-ais-thin-ice-moment-is-your-job-already-gone/transcript.md) (2026-05-04)
 - [Anthropic Just Gave Your AI Agent the One Thing OpenClaw Has. Without the Risk.](../episodes/2026-03-20-anthropic-just-gave-your-ai-agent-the-one-thing-openclaw-has-without-the-risk/transcript.md) (2026-03-20)

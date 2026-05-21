@@ -1,10 +1,755 @@
 {
-  "total_videos": 633,
+  "total_videos": 646,
   "date_range": {
-    "newest": "2026-05-16",
+    "newest": "2026-05-21",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting",
+      "video_id": "CgsOqhYgl1E",
+      "youtube_url": "https://www.youtube.com/watch?v=CgsOqhYgl1E",
+      "publish_date": "2026-05-21",
+      "duration": "0:56",
+      "duration_seconds": 56,
+      "view_count": 223,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/my-kids-do-long-division-by-hand?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________________________\nWhat's really happening when AI tutors double learning outcomes in controlled studies but college professors report students can no longer read a full chapter? The common story is that AI will either save education or destroy it\u2014but the reality is more interesting when the calculator moment of the 1970s reveals the principle we've forgotten.\n\nIn this video, I share the inside scoop on why foundation before leverage is the only position that makes sense:\n\n \u2022 Why my 10-year-old does long division by hand and vibe codes with Claude in the same week\n \u2022 How specification quality determines the gap between agentic success and catastrophe\n \u2022 What the metacognition skill of thinking about your own thinking actually looks like in practice\n \u2022 Where cognitive offloading quietly erodes capability before anyone notices the muscle weakening\n\nFor parents watching the world change faster than any curriculum can track, the gift we give our kids is the cognitive architecture that lets them direct intelligence rather than depend on it.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "edtech",
+        "parenting",
+        "parenting tips",
+        "ai learning",
+        "ai for kids",
+        "teaching",
+        "artificial intelligence",
+        "future of learning",
+        "ai ethics",
+        "ai in schools"
+      ],
+      "content_type": "Opinion",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting\nKarpathy also said something that I think every parent and teacher needs to hear right now"
+      ],
+      "transcript_chars": 922,
+      "folder": "2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting"
+    },
+    {
+      "title": "How ChatGPT Became Teenagers' Best Friend #AI #Psychology",
+      "video_id": "OQlf4UwugBg",
+      "youtube_url": "https://www.youtube.com/watch?v=OQlf4UwugBg",
+      "publish_date": "2026-05-20",
+      "duration": "1:09",
+      "duration_seconds": 69,
+      "view_count": 721,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/my-kids-do-long-division-by-hand?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________________________\nWhat's really happening when AI tutors double learning outcomes in controlled studies but college professors report students can no longer read a full chapter? The common story is that AI will either save education or destroy it\u2014but the reality is more interesting when the calculator moment of the 1970s reveals the principle we've forgotten.\n\nIn this video, I share the inside scoop on why foundation before leverage is the only position that makes sense:\n\n \u2022 Why my 10-year-old does long division by hand and vibe codes with Claude in the same week\n \u2022 How specification quality determines the gap between agentic success and catastrophe\n \u2022 What the metacognition skill of thinking about your own thinking actually looks like in practice\n \u2022 Where cognitive offloading quietly erodes capability before anyone notices the muscle weakening\n\nFor parents watching the world change faster than any curriculum can track, the gift we give our kids is the cognitive architecture that lets them direct intelligence rather than depend on it.\n\nChapters\n00:00 Nature Says AGI Has Arrived\u2014And We Haven't Figured Out Education\n02:30 The Calculator Moment, Except It's Everything\n05:00 Why My Kids Do Math by Hand Before Using AI\n07:30 The Add Enemies Conversation: Debugging Intent\n10:00 Karpathy's Insight: You Cannot Detect AI in Homework\n13:00 Metacognition: The Defining Competence of the AI Age\n15:00 Learned Helplessness and the Quiet Erosion of Capability\n17:19 Three-Quarters of Teenagers Using AI for Emotional Support\n19:30 What I'm Actually Doing With My Kids\n22:00 Seven Principles for Raising Humans Who Can Direct AI\n26:00 The Gift We Give: Cognitive Architecture for an Unknown World\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "edtech",
+        "parenting",
+        "parenting tips",
+        "ai learning",
+        "ai for kids",
+        "teaching",
+        "artificial intelligence",
+        "future of learning",
+        "ai ethics",
+        "ai in schools",
+        "mental health awareness"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How ChatGPT Became Teenagers' Best Friend #AI #Psychology\nThree quarters of teenagers are now using AI companion chatbots for emotional support"
+      ],
+      "transcript_chars": 1236,
+      "folder": "2026-05-20-how-chatgpt-became-teenagers-best-friend-ai-psychology"
+    },
+    {
+      "title": "The calculator moment nobody's talking about in education #AIinEducation #Learning #Parenting",
+      "video_id": "a6GOGmzJ-OU",
+      "youtube_url": "https://www.youtube.com/watch?v=a6GOGmzJ-OU",
+      "publish_date": "2026-05-20",
+      "duration": "0:59",
+      "duration_seconds": 59,
+      "view_count": 3344,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/my-kids-do-long-division-by-hand?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________________________\nWhat's really happening when AI tutors double learning outcomes in controlled studies but college professors report students can no longer read a full chapter? The common story is that AI will either save education or destroy it\u2014but the reality is more interesting when the calculator moment of the 1970s reveals the principle we've forgotten.\n\nIn this video, I share the inside scoop on why foundation before leverage is the only position that makes sense:\n\n \u2022 Why my 10-year-old does long division by hand and vibe codes with Claude in the same week\n \u2022 How specification quality determines the gap between agentic success and catastrophe\n \u2022 What the metacognition skill of thinking about your own thinking actually looks like in practice\n \u2022 Where cognitive offloading quietly erodes capability before anyone notices the muscle weakening\n\nFor parents watching the world change faster than any curriculum can track, the gift we give our kids is the cognitive architecture that lets them direct intelligence rather than depend on it.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "edtech",
+        "parenting",
+        "parenting tips",
+        "ai learning",
+        "ai for kids",
+        "teaching",
+        "artificial intelligence",
+        "future of learning",
+        "ai ethics",
+        "ai in schools",
+        "ai"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The calculator moment nobody's talking about in education #AIinEducation #Learning #Parenting\n2 billion kids around the world are enrolled in schools that have no idea any of this is possible that "
+      ],
+      "transcript_chars": 1013,
+      "folder": "2026-05-20-the-calculator-moment-nobodys-talking-about-in-education-aiineducation-learning"
+    },
+    {
+      "title": "These 5 Infrastructure Giants Secretly Rule AI",
+      "video_id": "woGB2vr5wTg",
+      "youtube_url": "https://www.youtube.com/watch?v=woGB2vr5wTg",
+      "publish_date": "2026-05-20",
+      "duration": "20:20",
+      "duration_seconds": 1220,
+      "view_count": 13844,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompt Pack: https://natesnewsletter.substack.com/p/agent-infrastructure-control-layer?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening with AI agent infrastructure?\nThe common story is that OpenAI and Anthropic decide whether agents ship. The reality is more complicated.\n\nIn this video, I share the inside scoop on the control layer that actually determines whether your AI agent reaches production:\n\n \u2022 Why runtime, not the model, decides where agents live\n \u2022 How identity providers handle delegated authority for AI agents\n \u2022 What governed data means for LLMs and RAG pipelines\n \u2022 Where payments, observability, and kill switches actually sit\n\nFor operators and builders, the opportunity is real, but the rollout risk is just as real if no one owns these control points.\n\nChapters:\n00:00 The companies that actually decide if your agent ships\n01:20 Compute matters but compute isn't the whole story\n02:40 The agent layer underneath the protocols\n03:30 Runtime as a control point: Cloudflare, AWS, Vercel\n05:40 Why runtime belongs at the top of your control map\n06:30 Identity for agents: Auth0, Okta, WorkOS, Entra\n08:50 Delegated authority and why fuzzy authority is dangerous\n10:30 The data control point: Snowflake, Databricks, BigQuery\n13:00 Payments and institutional trust: Stripe and the card networks\n16:00 Observability: why logging isn't enough for agent runs\n18:00 The kill switch is a multi-layer product feature\n19:20 The seven questions to map any agent workflow\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "agent infrastructure",
+        "Stripe agentic commerce",
+        "Auth0",
+        "Snowflake Cortex",
+        "LLM observability",
+        "AI agents for enterprise",
+        "agent identity layer",
+        "production AI agents",
+        "cloudflare",
+        "stripe",
+        "okta"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Nvidia",
+          "Salesforce",
+          "Slack",
+          "GitHub",
+          "Stripe"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "LangChain",
+          "Make",
+          "MCP",
+          "Operator"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# These 5 Infrastructure Giants Secretly Rule AI\nThere are companies that get to decide whether your agent actually ships or not"
+      ],
+      "transcript_chars": 21923,
+      "folder": "2026-05-20-these-5-infrastructure-giants-secretly-rule-ai"
+    },
+    {
+      "title": "40% growth nobody saw coming #expansion #tech",
+      "video_id": "hYDJnwgJr4Y",
+      "youtube_url": "https://www.youtube.com/watch?v=hYDJnwgJr4Y",
+      "publish_date": "2026-05-19",
+      "duration": "0:45",
+      "duration_seconds": 45,
+      "view_count": 1561,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "What's really happening within a rapidly growing tech company? This podcast episode shares the inside scoop on how a private company can achieve significant startup growth.\n\nWe discuss the factors contributing to this impressive business news, including reaching 4 million users and the accelerating growth of general-purpose work over coding.\n\nFor those interested in social media trends and growth stocks, this offers a compelling look at what success looks like in the current market.\n\nWatch the full conversation with Tibo, who leads Codex at OpenAI, on Substack now. Link in bio.\n",
+      "yt_tags": [
+        "ai agent",
+        "ai agents",
+        "agentic ai",
+        "top down",
+        "business strategy",
+        "chat",
+        "ai automation",
+        "claude",
+        "ai news",
+        "openai",
+        "artificial intelligence",
+        "chatgpt",
+        "codex",
+        "codex tutorial",
+        "tibo",
+        "nate b jones",
+        "nate b jones ai",
+        "maps",
+        "gpt 5.5",
+        "startup growth",
+        "business news",
+        "tech company",
+        "podcast",
+        "social media"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Codex"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 40% growth nobody saw coming #expansion #tech\nYeah, so we we tried growth, growth has been phenomenal recently"
+      ],
+      "transcript_chars": 767,
+      "folder": "2026-05-19-40-growth-nobody-saw-coming-expansion-tech"
+    },
+    {
+      "title": "Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.",
+      "video_id": "zP6TnEiueEc",
+      "youtube_url": "https://www.youtube.com/watch?v=zP6TnEiueEc",
+      "publish_date": "2026-05-19",
+      "duration": "20:42",
+      "duration_seconds": 1242,
+      "view_count": 33128,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompt Pack: https://natesnewsletter.substack.com/p/agent-protocol-stack-mcp-a2a?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening inside the agent protocol race?\n\nThe common story is that Google I/O is about the demos \u2014 but the more interesting story is the protocol stack being built underneath them.\n\nIn this video, I share the inside scoop on the six agent protocols defining the year:\n\n \u2022 Why three of six form the actual agent stack\n \u2022 How MCP, A2A, and AG-UI map to real builder questions\n \u2022 What AP2 and x402 mean for agent payments\n \u2022 Where customer experience meets protocol choice\n\nFor builders shipping agent products in 2026, the substrate you pick shapes the customer experience as much as the model you choose.\n\nChapters:\n00:00 Six protocols, three that matter\n01:18 The three questions agents must answer\n02:35 MCP: the tool and data layer\n04:50 Why MCP is a security boundary\n06:20 A2A: the delegation layer\n08:15 The agent card as operating contract\n09:40 AG-UI: the human control layer\n11:55 Why agents need supervision surfaces\n13:30 A2UI, AP2, and x402: the contested layers\n15:10 AP2 and the mandate mechanic\n16:35 Stripe and customer-obsessed payment design\n18:00 Six questions to ask before you build\n19:45 What to watch at Google I/O\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "MCP",
+        "A2A",
+        "AG-UI",
+        "agent protocols",
+        "Google I/O",
+        "AP2 payments",
+        "agent stack",
+        "AI agents for builders",
+        "agent payment protocols",
+        "ai news",
+        "google"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Amazon",
+          "Salesforce",
+          "Slack",
+          "GitHub",
+          "Stripe",
+          "Box",
+          "Snowflake",
+          "MongoDB",
+          "Atlassian"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Copilot",
+          "Make",
+          "MCP"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Google Spent a Year Stitching MCP, A2A, AG-UI Together"
+      ],
+      "transcript_chars": 21441,
+      "folder": "2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today"
+    },
+    {
+      "title": "The biggest lie you've heard about AI jobs #ai #futureofwork #shorts",
+      "video_id": "_rLgj8VcaVU",
+      "youtube_url": "https://www.youtube.com/watch?v=_rLgj8VcaVU",
+      "publish_date": "2026-05-19",
+      "duration": "1:02",
+      "duration_seconds": 62,
+      "view_count": 3858,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-90-of-companies?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when every other workforce skill in history had a finish line but AI doesn't? The common story is that humans need to learn new tools\u2014but the reality is more interesting when you picture capability as an expanding bubble where the surface area keeps growing, not shrinking.\n\nIn this episode, I share the inside scoop on why frontier operations is the first skill that expires quarterly:\n\n\u2022 Why boundary sensing against November's model leaves you standing inside February's bubble\n\u2022 How seam design structures clean handoffs between human and agent phases\n\u2022 What failure model maintenance looks like when agents fail subtly, not obviously\n\u2022 Where leverage calibration becomes the scarcest resource in an agent-rich environment\n\nFor professionals watching capability accelerate, the person who developed this skill six months sooner doesn't have a head start\u2014they have six months of updated calibration their peers can't replicate.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "future of work",
+        "AI jobs",
+        "LLMs",
+        "AI career advice",
+        "frontier operations",
+        "AI workforce skills",
+        "upskilling with AI",
+        "automation at work",
+        "AI strategy for teams",
+        "human AI collaboration",
+        "AI productivity",
+        "AI hiring",
+        "context engineering",
+        "agentic workflows",
+        "AI labor market",
+        "AI future of work"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The biggest lie you've heard about AI jobs #ai #futureofwork #shorts\nNotice what happens when a bubble expands"
+      ],
+      "transcript_chars": 973,
+      "folder": "2026-05-19-the-biggest-lie-youve-heard-about-ai-jobs-ai-futureofwork-shorts"
+    },
+    {
+      "title": "How teams accidentally sabotage AI adoption #ai #aitools",
+      "video_id": "WwpDswEjTXg",
+      "youtube_url": "https://www.youtube.com/watch?v=WwpDswEjTXg",
+      "publish_date": "2026-05-18",
+      "duration": "0:30",
+      "duration_seconds": 30,
+      "view_count": 5790,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "What's really happening with AI agents inside the enterprise stack? The common story is that AI agents are still just chatbots \u2014 but the reality is they're already recovering lost Bitcoin, driving desktop apps, and rewriting how Notion, Claude, and AWS get used.\n\nThis video offers the inside scoop on how a rigid, \"top down\" approach to implementing coding \"ai agents\" often fails. We explore how different teams within a company need to discover what \"agentic ai\" applications work best for their specific \"business strategy\", fostering a better \"workplace culture\" for innovation. This approach ensures more effective \"knowledge management\" and integration.\n\nWatch the full conversation with Tibo, who leads Codex at OpenAI, on Substack now. Link in bio.\n",
+      "yt_tags": [
+        "ai agent",
+        "ai agents",
+        "agentic ai",
+        "top down",
+        "business strategy",
+        "chat",
+        "ai automation",
+        "claude",
+        "ai news",
+        "openai",
+        "artificial intelligence",
+        "chatgpt",
+        "codex",
+        "codex tutorial",
+        "tibo",
+        "nate b jones",
+        "nate b jones ai",
+        "maps",
+        "gpt 5.5"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "And you know, you kind of want to like allow people to discover what works for your company in different pockets of the company"
+      ],
+      "transcript_chars": 565,
+      "folder": "2026-05-18-how-teams-accidentally-sabotage-ai-adoption-ai-aitools"
+    },
+    {
+      "title": "The Prove-It Economy is Here | And Most Marketers Aren't Ready",
+      "video_id": "725QE_LNXT4",
+      "youtube_url": "https://www.youtube.com/watch?v=725QE_LNXT4",
+      "publish_date": "2026-05-18",
+      "duration": "22:23",
+      "duration_seconds": 1343,
+      "view_count": 48943,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Agent Truth Layer Skill Pack: https://natesnewsletter.substack.com/p/marketing-humans-and-agents-2026?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening inside the AI-driven shift in marketing?\n\nThe common story is that AI makes marketing faster \u2014 but the reality is that the entire internet economy is moving from attention to interpretation, and most marketers are still optimizing for the wrong one.\n\nIn this video, I share the inside scoop on the two-internet economy and what it means for marketers and individuals:\n\n - Why AI agents now sit between buyers and brands in B2B and consumer\n - How a truth layer wins where emotional marketing copy fails with LLMs\n - What AI-washing costs companies and candidates trying to look AI-native\n - Where marketing has to touch \u2014 website, pricing, docs \u2014 to stay relevant\n\nThe marketers and candidates who win in 2026 will be the ones who build memory in humans and clarity for agents, not the ones automating the back office faster.\n\nChapters:\n00:00 The attention economy is ending\n01:15 Why AI is now the first place buyers ask\n02:45 The sound system no marketer earned\n04:30 Back-office automation is table stakes\n06:00 The truth layer marketers have to own\n09:30 The prove-it economy for individuals\n12:00 Two ways to purchase: AI interpretation vs. brand loyalty\n14:00 Why human memory is more precious now\n16:30 AI-washing creates trust debt\n18:30 What to look for in a marketing role in 2026\n20:30 Why opinions matter more in the age of agents\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "interpretation economy",
+        "AI marketing",
+        "truth layer",
+        "AI washing",
+        "AI career advice",
+        "AI strategy for marketers",
+        "marketing in the age of AI",
+        "marketing",
+        "marketing strategies"
+      ],
+      "content_type": "Opinion",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "LinkedIn"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The Prove-It Economy is Here | And Most Marketers Aren't Ready\nThe internet economy is changing with AI and we're not paying enough attention to it"
+      ],
+      "transcript_chars": 24475,
+      "folder": "2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready"
+    },
+    {
+      "title": "Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation",
+      "video_id": "D0Lc4HF5pzE",
+      "youtube_url": "https://www.youtube.com/watch?v=D0Lc4HF5pzE",
+      "publish_date": "2026-05-17",
+      "duration": "0:42",
+      "duration_seconds": 42,
+      "view_count": 2713,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Watch the full conversation with Tibo, who leads Codex at OpenAI, live on Substack now. Link in bio.\n\nWhat's the real difference between a chatbot that answers questions and an AI agent that can perform actions? This video shares the inside scoop on why powerful artificial intelligence, like Codex, meets the bar for an agent. We explore how these ai tools are changing the landscape of automation, moving beyond simple Q&A to executing complex tasks.\n",
+      "yt_tags": [
+        "ai automation",
+        "claude",
+        "ai news",
+        "openai",
+        "artificial intelligence",
+        "chatgpt",
+        "codex",
+        "codex tutorial",
+        "tibo",
+        "nate b jones",
+        "nate b jones ai",
+        "maps",
+        "gpt 5.5"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Codex"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation\nYeah, my my simple definition is, you know, ChatGPT can answer questions and agents can do things for you"
+      ],
+      "transcript_chars": 733,
+      "folder": "2026-05-17-agents-vs-chatbots-codex-changes-everything-aiagents-codex-automation"
+    },
+    {
+      "title": "GPT-5.5 vs 1000 Piece Lego Set #ai #challenge",
+      "video_id": "tpmCddboe74",
+      "youtube_url": "https://www.youtube.com/watch?v=tpmCddboe74",
+      "publish_date": "2026-05-17",
+      "duration": "0:41",
+      "duration_seconds": 41,
+      "view_count": 13538,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Watch the full conversation with Tibo, who leads Codex at OpenAI, exclusively on Substack. Link in bio.\n\nWhat's really happening when AI models like GPT-5.5 attempt complex creative tasks? \n\nThis video explores the current ai limits of artificial intelligence in designing custom set Lego sets. We discuss how these ai models perform, revealing an interesting ai evaluation of their capabilities in handling intricate designs.\n",
+      "yt_tags": [
+        "ai limits",
+        "lego sets",
+        "ai evaluation",
+        "ai models",
+        "custom set",
+        "legos",
+        "codex",
+        "codex tutorial",
+        "openai",
+        "tibo",
+        "nate b jones",
+        "nate b jones ai",
+        "chatgpt",
+        "maps",
+        "gpt 5.5"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "GPT-5"
+        ],
+        "models": [
+          "GPT-5"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "5 vs 1000 Piece Lego Set #ai #challenge\nI'll tell you what my scale is"
+      ],
+      "transcript_chars": 799,
+      "folder": "2026-05-17-gpt-55-vs-1000-piece-lego-set-ai-challenge"
+    },
+    {
+      "title": "When to Automate, Build, Buy, Hire, or Wait on AI",
+      "video_id": "LIkYVsxMpS8",
+      "youtube_url": "https://www.youtube.com/watch?v=LIkYVsxMpS8",
+      "publish_date": "2026-05-17",
+      "duration": "27:46",
+      "duration_seconds": 1666,
+      "view_count": 22481,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Briefing w/ Matrix: https://natesnewsletter.substack.com/p/build-buy-hire-wait-ai-matrix?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\n\nWhat's really happening inside AI investment decisions at most companies? The common story is that you need an AI strategy \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on how to allocate capital across build, buy, hire, and wait for AI agents and workflows:\n\nWhy workflow shape, not AI strategy, drives investment\nHow to pick between automate, build, buy, hire, wait\nWhat separates a real AI hire from a unicorn\nWhere most agentic AI projects quietly fail\n\nFor operators and executives, the agentic era opens unprecedented upside, but only if you stop chasing a singular AI strategy and start making disciplined capital allocation decisions one workflow at a time.\n\nChapters:\n00:00 Why AI investment is a capital allocation problem\n03:33 You need the right people in the room\n04:49 The Gartner 40 percent failure prediction\n06:49 AI investment is really a workflow question\n07:39 The accounts receivable workflow example\n09:52 Defining the workflow operating loop\n11:11 The five levers: automate, build, buy, hire, wait\n12:00 Automation and the IBM AskHR case\n17:13 Build: when company context demands it\n21:36 Buy: primitives versus whole workflow vendors\n24:56 Hiring without chasing the purple unicorn\n29:36 When waiting is the right deliberate choice\n31:52 Do not automate what you cannot describe\n34:01 The investment matrix and four quadrants\n38:12 How the executive role is changing\n39:30 The serious AI versus people conversation\nSubscribe for daily AI strategy and news.\n\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n\nTAGS:\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "agentic workflows",
+        "build buy hire wait",
+        "capital allocation",
+        "AI investment",
+        "Gartner agentic AI",
+        "AI hiring strategy",
+        "AI for executives",
+        "digital transformation"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Stripe",
+          "Box",
+          "IBM"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# When to Automate, Build, Buy, Hire, or Wait on AI\nThe Cretaceous extinction is coming, right"
+      ],
+      "transcript_chars": 29975,
+      "folder": "2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai"
+    },
+    {
+      "title": "Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking",
+      "video_id": "dm3_Z-5PYnQ",
+      "youtube_url": "https://www.youtube.com/watch?v=dm3_Z-5PYnQ",
+      "publish_date": "2026-05-16",
+      "duration": "24:18",
+      "duration_seconds": 1458,
+      "view_count": 41029,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Exclusive Interview w/ Tibo, lead of Codex at OpenAI on Substack Now: https://natesnewsletter.substack.com/p/codex-five-leadership-chairs-tibo-interview?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening with AI agents inside the enterprise stack? The common story is that AI agents are still just chatbots \u2014 but the reality is they're already recovering lost Bitcoin, driving desktop apps, and rewriting how Notion, Claude, and AWS get used.\n\nIn this video, I share the inside scoop on the five AI agent stories that actually changed something this week:\n\n \u2022 Why Notion's new developer platform makes the workspace programmable\n \u2022 How Anthropic's tighter Claude limits are reshaping agent economics\n \u2022 What the Mythos cyber evals mean for security teams right now\n \u2022 Where AWS Workspaces opens up legacy desktop software to agents\n\nBuilders, security teams, and operators all get a different to-do list from this week \u2014 but every one of them has to act before the next model wave lands.\n\nChapters:\n00:00 The Bitcoin recovery story that frames the week\n02:27 Why the quieter agent stories matter most\n03:01 The five stories worth your attention\n04:06 Notion launches a real developer platform\n05:53 Why a programmable Notion workspace matters\n08:15 Customer onboarding as the new Notion workflow\n09:30 Anthropic tightens Claude usage limits\n11:07 What usage caps mean for agent builders\n14:22 The OpenClaw fallout and developer goodwill\n18:33 Anthropic crosses OpenAI on business customers\n20:53 Mythos and the new cyber capability curve\n22:37 Independent evals from XBOW and the UK AISI\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "Notion developer platform",
+        "Anthropic",
+        "OpenAI",
+        "Mythos",
+        "GPT 5.5",
+        "AWS Workspaces",
+        "Claude Code",
+        "AI cybersecurity",
+        "agent pricing models",
+        "AI for operators",
+        "gpt 5.5",
+        "claude mythos"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Amazon",
+          "Salesforce",
+          "Notion",
+          "GitHub",
+          "Stripe",
+          "Cursor",
+          "X",
+          "AWS"
+        ],
+        "people": [],
+        "products": [
+          "GPT-5",
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Notion AI",
+          "Make",
+          "MCP",
+          "Opus",
+          "Computer Use",
+          "Artifacts"
+        ],
+        "models": [
+          "GPT-5",
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "5 At Real Hacking\nA guy on X posted this week that he just recovered five Bitcoin from a wallet he'd locked himself out of 11 years ago"
+      ],
+      "transcript_chars": 26420,
+      "folder": "2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking"
+    },
     {
       "title": "Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding",
       "video_id": "9bA49Yc3dlw",

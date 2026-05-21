@@ -22,6 +22,7 @@ yt_tags:
   - "gpt 5.5"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Tools"

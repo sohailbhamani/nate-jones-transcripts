@@ -1,7 +1,9 @@
 # Claude
 
-Episodes discussing **Claude** (296 episodes):
+Episodes discussing **Claude** (298 episodes):
 
+- [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)

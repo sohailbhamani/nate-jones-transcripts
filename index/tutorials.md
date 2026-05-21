@@ -1,7 +1,9 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (267 episodes):
+Episodes discussing **Tutorials** (269 episodes):
 
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering](../episodes/2026-05-13-i-built-2-ai-agents-one-had-this-total-game-changer-aiagents-ai-engineering/transcript.md) (2026-05-13)
 - [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)

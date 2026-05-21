@@ -1,7 +1,9 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (92 episodes):
+Episodes discussing **Deep Dive** (94 episodes):
 
+- [The calculator moment nobody's talking about in education #AIinEducation #Learning #Parenting](../episodes/2026-05-20-the-calculator-moment-nobodys-talking-about-in-education-aiineducation-learning/transcript.md) (2026-05-20)
+- [Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation](../episodes/2026-05-17-agents-vs-chatbots-codex-changes-everything-aiagents-codex-automation/transcript.md) (2026-05-17)
 - [Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding](../episodes/2026-05-16-sarah-friar-on-the-tool-that-scaled-her-fundraise-openai-funding/transcript.md) (2026-05-16)
 - [Professors Notice Something's Drastically Wrong #college #teacher](../episodes/2026-05-14-professors-notice-somethings-drastically-wrong-college-teacher/transcript.md) (2026-05-14)
 - [How Fast Can We Actually Replace Workers with AI? #AI #jobs #career](../episodes/2026-05-10-how-fast-can-we-actually-replace-workers-with-ai-ai-jobs-career/transcript.md) (2026-05-10)

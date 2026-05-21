@@ -1,7 +1,9 @@
 # Leadership
 
-Episodes discussing **Leadership** (286 episodes):
+Episodes discussing **Leadership** (288 episodes):
 
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
 - [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)
 - [While Execs Panic, This Skill Gets Rare #ai #career](../episodes/2026-05-12-while-execs-panic-this-skill-gets-rare-ai-career/transcript.md) (2026-05-12)
 - [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)

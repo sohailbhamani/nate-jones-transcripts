@@ -1,7 +1,10 @@
 # Salesforce
 
-Episodes discussing **Salesforce** (51 episodes):
+Episodes discussing **Salesforce** (54 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)

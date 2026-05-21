@@ -1,7 +1,9 @@
 # Slack
 
-Episodes discussing **Slack** (84 episodes):
+Episodes discussing **Slack** (86 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)

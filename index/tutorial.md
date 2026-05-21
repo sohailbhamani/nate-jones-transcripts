@@ -1,7 +1,14 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (202 episodes):
+Episodes discussing **Tutorial** (209 episodes):
 
+- [How ChatGPT Became Teenagers' Best Friend #AI #Psychology](../episodes/2026-05-20-how-chatgpt-became-teenagers-best-friend-ai-psychology/transcript.md) (2026-05-20)
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [The biggest lie you've heard about AI jobs #ai #futureofwork #shorts](../episodes/2026-05-19-the-biggest-lie-youve-heard-about-ai-jobs-ai-futureofwork-shorts/transcript.md) (2026-05-19)
+- [How teams accidentally sabotage AI adoption #ai #aitools](../episodes/2026-05-18-how-teams-accidentally-sabotage-ai-adoption-ai-aitools/transcript.md) (2026-05-18)
+- [GPT-5.5 vs 1000 Piece Lego Set #ai #challenge](../episodes/2026-05-17-gpt-55-vs-1000-piece-lego-set-ai-challenge/transcript.md) (2026-05-17)
+- [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering](../episodes/2026-05-13-i-built-2-ai-agents-one-had-this-total-game-changer-aiagents-ai-engineering/transcript.md) (2026-05-13)
 - [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)

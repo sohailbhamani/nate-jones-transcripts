@@ -1,7 +1,8 @@
 # Cursor
 
-Episodes discussing **Cursor** (101 episodes):
+Episodes discussing **Cursor** (102 episodes):
 
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)
 - [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)

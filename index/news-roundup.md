@@ -1,7 +1,9 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (134 episodes):
+Episodes discussing **News Roundup** (136 episodes):
 
+- [40% growth nobody saw coming #expansion #tech](../episodes/2026-05-19-40-growth-nobody-saw-coming-expansion-tech/transcript.md) (2026-05-19)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
 - [2025 Prompting vs 2026 Prompting #ai #comparison #shorts](../episodes/2026-05-13-2025-prompting-vs-2026-prompting-ai-comparison-shorts/transcript.md) (2026-05-13)
 - [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)

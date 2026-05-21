@@ -1,7 +1,9 @@
 # Prompting
 
-Episodes discussing **Prompting** (211 episodes):
+Episodes discussing **Prompting** (213 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
 - [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
 - [2025 Prompting vs 2026 Prompting #ai #comparison #shorts](../episodes/2026-05-13-2025-prompting-vs-2026-prompting-ai-comparison-shorts/transcript.md) (2026-05-13)

@@ -1,7 +1,10 @@
 # Amazon
 
-Episodes discussing **Amazon** (102 episodes):
+Episodes discussing **Amazon** (105 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
 - [Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](../episodes/2026-05-03-stripe-visa-mastercard-microsoft-meta-all-building-the-same-thing/transcript.md) (2026-05-03)

@@ -1,7 +1,8 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (60 episodes):
+Episodes discussing **Artifacts** (61 episodes):
 
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](../episodes/2026-05-07-your-ai-agent-is-locked-to-one-model-openclaw-just-killed-that/transcript.md) (2026-05-07)
 - [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)

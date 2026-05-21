@@ -1,7 +1,12 @@
 # Openai
 
-Episodes discussing **Openai** (266 episodes):
+Episodes discussing **Openai** (271 episodes):
 
+- [How ChatGPT Became Teenagers' Best Friend #AI #Psychology](../episodes/2026-05-20-how-chatgpt-became-teenagers-best-friend-ai-psychology/transcript.md) (2026-05-20)
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation](../episodes/2026-05-17-agents-vs-chatbots-codex-changes-everything-aiagents-codex-automation/transcript.md) (2026-05-17)
+- [GPT-5.5 vs 1000 Piece Lego Set #ai #challenge](../episodes/2026-05-17-gpt-55-vs-1000-piece-lego-set-ai-challenge/transcript.md) (2026-05-17)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding](../episodes/2026-05-16-sarah-friar-on-the-tool-that-scaled-her-fundraise-openai-funding/transcript.md) (2026-05-16)
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)

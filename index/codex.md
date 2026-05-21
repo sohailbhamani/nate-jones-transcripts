@@ -1,7 +1,9 @@
 # Codex
 
-Episodes discussing **Codex** (28 episodes):
+Episodes discussing **Codex** (30 episodes):
 
+- [40% growth nobody saw coming #expansion #tech](../episodes/2026-05-19-40-growth-nobody-saw-coming-expansion-tech/transcript.md) (2026-05-19)
+- [Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation](../episodes/2026-05-17-agents-vs-chatbots-codex-changes-everything-aiagents-codex-automation/transcript.md) (2026-05-17)
 - [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
 - [Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](../episodes/2026-05-07-your-ai-agent-is-locked-to-one-model-openclaw-just-killed-that/transcript.md) (2026-05-07)

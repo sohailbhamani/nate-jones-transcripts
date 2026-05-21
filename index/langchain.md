@@ -1,7 +1,8 @@
 # Langchain
 
-Episodes discussing **Langchain** (8 episodes):
+Episodes discussing **Langchain** (9 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [Prompt Engineering Is Dead. Context Engineering Is Dying. What Comes Next Changes Everything.](../episodes/2026-02-24-prompt-engineering-is-dead-context-engineering-is-dying-what-comes-next-changes/transcript.md) (2026-02-24)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-preve/transcript.md) (2026-01-02)
 - [The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)](../episodes/2026-01-02-the-ai-failure-mode-nobody-warned-you-about-and-how-to-prevent-it-from-happening/transcript.md) (2026-01-02)

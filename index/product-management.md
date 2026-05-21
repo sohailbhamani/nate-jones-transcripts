@@ -1,7 +1,12 @@
 # Product Management
 
-Episodes discussing **Product Management** (400 episodes):
+Episodes discussing **Product Management** (405 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)
+- [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)

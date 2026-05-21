@@ -44,6 +44,7 @@ yt_tags:
   - "ai jobs"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "Career"

@@ -1,7 +1,11 @@
 # Mcp
 
-Episodes discussing **Mcp** (76 episodes):
+Episodes discussing **Mcp** (80 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
 - [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
 - [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)

@@ -1,7 +1,9 @@
 # Gpt 5
 
-Episodes discussing **Gpt 5** (7 episodes):
+Episodes discussing **Gpt 5** (9 episodes):
 
+- [GPT-5.5 vs 1000 Piece Lego Set #ai #challenge](../episodes/2026-05-17-gpt-55-vs-1000-piece-lego-set-ai-challenge/transcript.md) (2026-05-17)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
 - [GPT-5.4 Let Mickey Mouse Into a Production Database. Nobody Noticed. (What This Means For Your Work)](../episodes/2026-03-07-gpt-54-let-mickey-mouse-into-a-production-database-nobody-noticed-what-this-mean/transcript.md) (2026-03-07)
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)

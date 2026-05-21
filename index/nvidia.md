@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (72 episodes):
+Episodes discussing **Nvidia** (73 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
 - [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)

@@ -1,7 +1,9 @@
 # Gemini
 
-Episodes discussing **Gemini** (151 episodes):
+Episodes discussing **Gemini** (153 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
 - [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
 - [Human Oversight Isn't Slowing AI Down, It's Protecting It #AIGovernance #Shorts](../episodes/2026-05-10-human-oversight-isnt-slowing-ai-down-its-protecting-it-aigovernance-shorts/transcript.md) (2026-05-10)
 - [Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](../episodes/2026-05-07-your-ai-agent-is-locked-to-one-model-openclaw-just-killed-that/transcript.md) (2026-05-07)

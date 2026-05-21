@@ -1,7 +1,14 @@
 # Coding
 
-Episodes discussing **Coding** (396 episodes):
+Episodes discussing **Coding** (403 episodes):
 
+- [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
+- [40% growth nobody saw coming #expansion #tech](../episodes/2026-05-19-40-growth-nobody-saw-coming-expansion-tech/transcript.md) (2026-05-19)
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [The biggest lie you've heard about AI jobs #ai #futureofwork #shorts](../episodes/2026-05-19-the-biggest-lie-youve-heard-about-ai-jobs-ai-futureofwork-shorts/transcript.md) (2026-05-19)
+- [How teams accidentally sabotage AI adoption #ai #aitools](../episodes/2026-05-18-how-teams-accidentally-sabotage-ai-adoption-ai-aitools/transcript.md) (2026-05-18)
+- [Agents vs Chatbots: Codex Changes Everything #aiagents #codex #automation](../episodes/2026-05-17-agents-vs-chatbots-codex-changes-everything-aiagents-codex-automation/transcript.md) (2026-05-17)
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
 - [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)

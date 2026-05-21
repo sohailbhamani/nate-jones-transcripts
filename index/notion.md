@@ -1,7 +1,8 @@
 # Notion
 
-Episodes discussing **Notion** (31 episodes):
+Episodes discussing **Notion** (32 episodes):
 
+- [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)
 - [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)

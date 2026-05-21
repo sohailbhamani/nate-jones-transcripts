@@ -1,7 +1,10 @@
 # Box
 
-Episodes discussing **Box** (88 episodes):
+Episodes discussing **Box** (91 episodes):
 
+- [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
+- [GPT-5.5 vs 1000 Piece Lego Set #ai #challenge](../episodes/2026-05-17-gpt-55-vs-1000-piece-lego-set-ai-challenge/transcript.md) (2026-05-17)
+- [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)
 - [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
