@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (93 episodes):
+Episodes discussing **Claude Code** (94 episodes):
 
+- [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)

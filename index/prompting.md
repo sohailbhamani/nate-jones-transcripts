@@ -1,7 +1,13 @@
 # Prompting
 
-Episodes discussing **Prompting** (205 episodes):
+Episodes discussing **Prompting** (211 episodes):
 
+- [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
+- [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
+- [2025 Prompting vs 2026 Prompting #ai #comparison #shorts](../episodes/2026-05-13-2025-prompting-vs-2026-prompting-ai-comparison-shorts/transcript.md) (2026-05-13)
+- [I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering](../episodes/2026-05-13-i-built-2-ai-agents-one-had-this-total-game-changer-aiagents-ai-engineering/transcript.md) (2026-05-13)
+- [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
+- [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
 - [16 Million Fake Accounts Stealing AI Capabilities #ai #news](../episodes/2026-05-07-16-million-fake-accounts-stealing-ai-capabilities-ai-news/transcript.md) (2026-05-07)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)

@@ -1,7 +1,9 @@
 # Stripe
 
-Episodes discussing **Stripe** (26 episodes):
+Episodes discussing **Stripe** (28 episodes):
 
+- [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
+- [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
 - [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)
 - [Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](../episodes/2026-05-03-stripe-visa-mastercard-microsoft-meta-all-building-the-same-thing/transcript.md) (2026-05-03)

@@ -1,7 +1,13 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (261 episodes):
+Episodes discussing **Tutorials** (267 episodes):
 
+- [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
+- [I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering](../episodes/2026-05-13-i-built-2-ai-agents-one-had-this-total-game-changer-aiagents-ai-engineering/transcript.md) (2026-05-13)
+- [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)
+- [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
+- [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
+- [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)
 - [While Markets Panic, This Happens #ai #opportunity](../episodes/2026-05-08-while-markets-panic-this-happens-ai-opportunity/transcript.md) (2026-05-08)
 - [16 Million Fake Accounts Stealing AI Capabilities #ai #news](../episodes/2026-05-07-16-million-fake-accounts-stealing-ai-capabilities-ai-news/transcript.md) (2026-05-07)
 - [Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](../episodes/2026-05-07-your-ai-agent-is-locked-to-one-model-openclaw-just-killed-that/transcript.md) (2026-05-07)

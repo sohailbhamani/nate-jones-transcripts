@@ -1,7 +1,8 @@
 # Copilot
 
-Episodes discussing **Copilot** (37 episodes):
+Episodes discussing **Copilot** (38 episodes):
 
+- [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
 - [Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](../episodes/2026-05-03-stripe-visa-mastercard-microsoft-meta-all-building-the-same-thing/transcript.md) (2026-05-03)
 - [The $60M AI Win That Wasn't #ai #shorts](../episodes/2026-05-03-the-60m-ai-win-that-wasnt-ai-shorts/transcript.md) (2026-05-03)
 - [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)

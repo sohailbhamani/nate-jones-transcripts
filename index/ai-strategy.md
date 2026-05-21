@@ -1,7 +1,16 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (425 episodes):
+Episodes discussing **Ai Strategy** (434 episodes):
 
+- [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
+- [Professors Notice Something's Drastically Wrong #college #teacher](../episodes/2026-05-14-professors-notice-somethings-drastically-wrong-college-teacher/transcript.md) (2026-05-14)
+- [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
+- [I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering](../episodes/2026-05-13-i-built-2-ai-agents-one-had-this-total-game-changer-aiagents-ai-engineering/transcript.md) (2026-05-13)
+- [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
+- [While Execs Panic, This Skill Gets Rare #ai #career](../episodes/2026-05-12-while-execs-panic-this-skill-gets-rare-ai-career/transcript.md) (2026-05-12)
+- [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)
+- [How Fast Can We Actually Replace Workers with AI? #AI #jobs #career](../episodes/2026-05-10-how-fast-can-we-actually-replace-workers-with-ai-ai-jobs-career/transcript.md) (2026-05-10)
+- [Human Oversight Isn't Slowing AI Down, It's Protecting It #AIGovernance #Shorts](../episodes/2026-05-10-human-oversight-isnt-slowing-ai-down-its-protecting-it-aigovernance-shorts/transcript.md) (2026-05-10)
 - [Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career](../episodes/2026-05-09-frontier-vs-comfortable-where-do-you-actually-sit-ai-strategy-career/transcript.md) (2026-05-09)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
 - [While Markets Panic, This Happens #ai #opportunity](../episodes/2026-05-08-while-markets-panic-this-happens-ai-opportunity/transcript.md) (2026-05-08)

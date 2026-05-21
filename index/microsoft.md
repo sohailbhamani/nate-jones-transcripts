@@ -1,7 +1,10 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (141 episodes):
+Episodes discussing **Microsoft** (144 episodes):
 
+- [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
+- [Professors Notice Something's Drastically Wrong #college #teacher](../episodes/2026-05-14-professors-notice-somethings-drastically-wrong-college-teacher/transcript.md) (2026-05-14)
+- [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)
 - [AI's 'Thin Ice' Moment: Is Your Job Already Gone?"](../episodes/2026-05-04-ais-thin-ice-moment-is-your-job-already-gone/transcript.md) (2026-05-04)
 - [AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth](../episodes/2026-05-03-ai-works-too-well-at-the-wrong-thing-intentengineering-aitruth/transcript.md) (2026-05-03)
 - [Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](../episodes/2026-05-03-stripe-visa-mastercard-microsoft-meta-all-building-the-same-thing/transcript.md) (2026-05-03)

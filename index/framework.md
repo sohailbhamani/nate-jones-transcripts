@@ -1,7 +1,10 @@
 # Framework
 
-Episodes discussing **Framework** (163 episodes):
+Episodes discussing **Framework** (166 episodes):
 
+- [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
+- [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
+- [While Execs Panic, This Skill Gets Rare #ai #career](../episodes/2026-05-12-while-execs-panic-this-skill-gets-rare-ai-career/transcript.md) (2026-05-12)
 - [Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career](../episodes/2026-05-09-frontier-vs-comfortable-where-do-you-actually-sit-ai-strategy-career/transcript.md) (2026-05-09)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
 - [This Is Why Distilled Models Collapse #AIShorts #LLM](../episodes/2026-05-05-this-is-why-distilled-models-collapse-aishorts-llm/transcript.md) (2026-05-05)

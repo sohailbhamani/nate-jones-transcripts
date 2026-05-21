@@ -1,7 +1,11 @@
 # Ai News
 
-Episodes discussing **Ai News** (348 episodes):
+Episodes discussing **Ai News** (352 episodes):
 
+- [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
+- [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
+- [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
+- [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
 - [While Markets Panic, This Happens #ai #opportunity](../episodes/2026-05-08-while-markets-panic-this-happens-ai-opportunity/transcript.md) (2026-05-08)
 - [16 Million Fake Accounts Stealing AI Capabilities #ai #news](../episodes/2026-05-07-16-million-fake-accounts-stealing-ai-capabilities-ai-news/transcript.md) (2026-05-07)

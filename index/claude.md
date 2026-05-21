@@ -1,7 +1,9 @@
 # Claude
 
-Episodes discussing **Claude** (294 episodes):
+Episodes discussing **Claude** (296 episodes):
 
+- [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)
+- [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
 - [16 Million Fake Accounts Stealing AI Capabilities #ai #news](../episodes/2026-05-07-16-million-fake-accounts-stealing-ai-capabilities-ai-news/transcript.md) (2026-05-07)

@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (67 episodes):
+Episodes discussing **Opus** (68 episodes):
 
+- [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
 - [This Is Why Distilled Models Collapse #AIShorts #LLM](../episodes/2026-05-05-this-is-why-distilled-models-collapse-aishorts-llm/transcript.md) (2026-05-05)
 - [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)

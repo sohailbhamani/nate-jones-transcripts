@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (92 episodes):
+Episodes discussing **Projects** (93 episodes):
 
+- [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)
 - [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)
 - [AI's 'Thin Ice' Moment: Is Your Job Already Gone?"](../episodes/2026-05-04-ais-thin-ice-moment-is-your-job-already-gone/transcript.md) (2026-05-04)

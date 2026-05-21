@@ -1,10 +1,833 @@
 {
-  "total_videos": 618,
+  "total_videos": 633,
   "date_range": {
-    "newest": "2026-05-09",
+    "newest": "2026-05-16",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding",
+      "video_id": "9bA49Yc3dlw",
+      "youtube_url": "https://www.youtube.com/watch?v=9bA49Yc3dlw",
+      "publish_date": "2026-05-16",
+      "duration": "0:29",
+      "duration_seconds": 29,
+      "view_count": 4200,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full conversation with Tibo, who leads Codex at OpenAI, is exclusive to Substack subscribers tomorrow, May 16th. Link in bio.\n",
+      "yt_tags": [
+        "codex",
+        "codex tutorial",
+        "openai",
+        "tibo",
+        "nate b jones",
+        "nate b jones ai",
+        "chatgpt",
+        "maps",
+        "gpt 5.5"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding\nSorry for I just talked about this quite often how it was tremendously helpful, you know, in the latest fund raise"
+      ],
+      "transcript_chars": 574,
+      "folder": "2026-05-16-sarah-friar-on-the-tool-that-scaled-her-fundraise-openai-funding"
+    },
+    {
+      "title": "The Secret Behind GPT's Simplicity #chatgpt #ai",
+      "video_id": "IQ5zojQHHKE",
+      "youtube_url": "https://www.youtube.com/watch?v=IQ5zojQHHKE",
+      "publish_date": "2026-05-15",
+      "duration": "1:14",
+      "duration_seconds": 74,
+      "view_count": 2103,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full conversation with Tibo, who leads Codex at OpenAI, is exclusive to Substack subscribers this Saturday May 16th. Link in bio.\n",
+      "yt_tags": [
+        "codex",
+        "codex tutorial",
+        "openai",
+        "tibo",
+        "nate b jones",
+        "nate b jones ai",
+        "chatgpt",
+        "maps",
+        "gpt 5.5"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Notion",
+          "Slack",
+          "Stripe"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The Secret Behind GPT's Simplicity #chatgpt #ai\nThe one of the things that we're really trying to instill and and belief is that it should just work"
+      ],
+      "transcript_chars": 1447,
+      "folder": "2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai"
+    },
+    {
+      "title": "Your SaaS Bill Just Got a Second Meter. You're About to Pay It.",
+      "video_id": "adNErrz2aA0",
+      "youtube_url": "https://www.youtube.com/watch?v=adNErrz2aA0",
+      "publish_date": "2026-05-15",
+      "duration": "16:23",
+      "duration_seconds": 983,
+      "view_count": 18784,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/saas-agent-license-renewal?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________________________\nWhat's really happening inside SaaS pricing as AI agents take over the work? The common story is that agents will just replace seats \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on how the agent era is rewriting SaaS economics and what to negotiate before your next renewal:\n\n \u2022 Why seat-based pricing is breaking under AI agents\n \u2022 How Salesforce, Microsoft, and ServiceNow meter agentic work\n \u2022 What separates a fair agent license from rent-seeking pricing\n \u2022 Where SAP-style API policies could lock out your agents\n\nFor operators and builders, the agentic shift is a real opportunity, but only if you negotiate the meter, the caps, and the access path before usage gets embedded and your leverage disappears.\n\nChapters:\n00:00 Agentforce hits $800M run rate\n00:55 Four questions before your next renewal\n01:45 Why the seat model is breaking\n02:50 Salesforce Flex Credits and work units\n03:40 Microsoft Copilot credits and hybrid pricing\n04:45 The 8 billion token developer story\n05:30 ServiceNow Action Fabric and operational metering\n06:30 SAP 2026 API policy and agent lock-out\n07:45 Pricing follows platform control\n08:40 Fair license versus rent-seeking patterns\n10:00 What builders must know about cost structure\n11:30 Negotiating agent access before usage embeds\n13:00 The commercial unit of software is changing\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "Agentforce",
+        "Microsoft Copilot",
+        "ServiceNow",
+        "SAP API policy",
+        "SaaS pricing",
+        "agentic workflows",
+        "agent license negotiation",
+        "AI procurement for operators",
+        "enterprise AI strategy"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Microsoft",
+          "Salesforce",
+          "X",
+          "SAP",
+          "Atlassian"
+        ],
+        "people": [],
+        "products": [
+          "Copilot",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Ask how the commercial model changes if the agent reduces human seats because that question cuts at the sas economics in play here"
+      ],
+      "summary": [
+        "Salesforce just reported that agent force their agent product hit $800 million run rate in AR up 169% year-over-year with 2"
+      ],
+      "transcript_chars": 17716,
+      "folder": "2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it"
+    },
+    {
+      "title": "Codex Just Valued A Random House In India. I Wasn't Ready. #codex",
+      "video_id": "oWIXee9h3nU",
+      "youtube_url": "https://www.youtube.com/watch?v=oWIXee9h3nU",
+      "publish_date": "2026-05-14",
+      "duration": "1:41",
+      "duration_seconds": 101,
+      "view_count": 19789,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full conversation with Tibo, who leads Codex at OpenAI, is exclusive to Substack subscribers this Saturday May 16th. Link in bio.\n",
+      "yt_tags": [
+        "codex",
+        "codex tutorial",
+        "openai",
+        "tibo",
+        "nate b jones",
+        "nate b jones ai",
+        "chatgpt",
+        "maps",
+        "gpt 5.5"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Codex"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#codex\nUm, I wanted to see if I could combine image recognition with search with reasoning in a relatively obscure domain with high specificity"
+      ],
+      "transcript_chars": 1799,
+      "folder": "2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex"
+    },
+    {
+      "title": "Professors Notice Something's Drastically Wrong #college #teacher",
+      "video_id": "8n4OV0jotDs",
+      "youtube_url": "https://www.youtube.com/watch?v=8n4OV0jotDs",
+      "publish_date": "2026-05-14",
+      "duration": "1:07",
+      "duration_seconds": 67,
+      "view_count": 38190,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/my-kids-do-long-division-by-hand?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n_______________________________________\nWhat's really happening when AI tutors double learning outcomes in controlled studies but college professors report students can no longer read a full chapter? The common story is that AI will either save education or destroy it\u2014but the reality is more interesting when the calculator moment of the 1970s reveals the principle we've forgotten.\n\nIn this video, I share the inside scoop on why foundation before leverage is the only position that makes sense:\n\n \u2022 Why my 10-year-old does long division by hand and vibe codes with Claude in the same week\n \u2022 How specification quality determines the gap between agentic success and catastrophe\n \u2022 What the metacognition skill of thinking about your own thinking actually looks like in practice\n \u2022 Where cognitive offloading quietly erodes capability before anyone notices the muscle weakening\n\nFor parents watching the world change faster than any curriculum can track, the gift we give our kids is the cognitive architecture that lets them direct intelligence rather than depend on it.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "educational videos for kids",
+        "edtech",
+        "parenting",
+        "parenting tips",
+        "ai learning",
+        "ai for kids",
+        "teaching",
+        "artificial intelligence",
+        "future of learning",
+        "ai ethics",
+        "ai in schools"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "High school teachers report that writing quality has absolutely collapsed, not just because students submit AI-generated work, although many do, but because even the students who aren't using AI have "
+      ],
+      "transcript_chars": 1175,
+      "folder": "2026-05-14-professors-notice-somethings-drastically-wrong-college-teacher"
+    },
+    {
+      "title": "The Trillion Dollar Agentic Workflow Opportunity Is Here",
+      "video_id": "jwtpMSRAPAQ",
+      "youtube_url": "https://www.youtube.com/watch?v=jwtpMSRAPAQ",
+      "publish_date": "2026-05-14",
+      "duration": "25:53",
+      "duration_seconds": 1553,
+      "view_count": 58632,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/saas-agent-license-renewal?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________________________\n\nWhat's really happening inside the AI agent implementation war?\n\nThe common story is that the AI agent battle is between OpenAI and Anthropic on raw model quality \u2014 but the reality is that private equity, hyperscalers, consultancies, and systems of record are all converging on the implementation layer where trillions of dollars actually live.\n\nIn this video, I share the inside scoop on why generic enterprise AI is getting squeezed from four directions at once:\n\n \u2022 Why frontier labs are moving down the stack into deployment\n \u2022 How private equity became a distribution channel for AI agents\n \u2022 What the implementation layer actually contains for AI agents\n \u2022 Where the real defensibility lives in agentic workflows\n\nBuilders, buyers, and PE all need to get specific about workflow design, data access, authority, evals, and audit trails \u2014 generic AI wrappers will not survive the squeeze that is now hitting enterprise agentic workflows.\n\nCHAPTERS\n0:00 Why finance, hyperscalers, and companies are converging\n2:30 The trillion dollar agentic workflow opportunity\n4:55 Anthropic and OpenAI stand up deployment companies\n7:00 Reframing data, model, workflow, and harness value\n9:30 Axis one: frontier labs moving down the stack\n12:00 Axis two: consultancies moving up the stack\n13:05 Axis three: systems of record exposing agent interfaces\n14:28 Axis four: private equity as a distribution channel\n16:00 What this means if you are a builder\n19:00 Defining the implementation layer component by component\n22:00 Why PE financing is reshaping the SaaS playbook\n24:00 Sit closer to the business object: support and sales examples\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "enterprise AI",
+        "Anthropic",
+        "OpenAI",
+        "private equity AI",
+        "forward deployed engineers",
+        "AI implementation layer",
+        "AI agents for enterprise",
+        "AI strategy for builders"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Salesforce",
+          "Cursor",
+          "SAP",
+          "Figma",
+          "Together AI"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Cursor",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The Trillion Dollar Agentic Workflow Opportunity Is Here\nLet me tell you why I'm excited about this whole implementation challenge for agents"
+      ],
+      "transcript_chars": 26849,
+      "folder": "2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here"
+    },
+    {
+      "title": "2025 Prompting vs 2026 Prompting #ai #comparison #shorts",
+      "video_id": "x8Y404We8O8",
+      "youtube_url": "https://www.youtube.com/watch?v=x8Y404We8O8",
+      "publish_date": "2026-05-13",
+      "duration": "1:33",
+      "duration_seconds": 93,
+      "view_count": 13574,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/prompting-just-split-into-4-different?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening when two people sit down with the same model on the same Tuesday and one of them produces a week's worth of work before lunch? The common story is that better prompting means better instructions\u2014but the reality is more interesting when autonomous agents running for hours and days break every assumption of synchronous interaction.\n\nIn this video, I share the inside scoop on why prompting has diverged into four distinct disciplines most people aren't practicing:\n\n\u2022 Why prompt craft has become table stakes while specification engineering determines the quality ceiling\n\u2022 How Toby Lutke's context engineering discipline makes his emails tighter and his memos better\n\u2022 What the five primitives of specification engineering look like in practice\n\u2022 Where the 10x gap lives between people who see all four layers and people practicing only one\n\nFor knowledge workers watching agents run for days without checking in, everything you relied on in conversation must be encoded before the agent starts.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "prompt engineering",
+        "LLMs",
+        "AI agents",
+        "context engineering",
+        "specification engineering",
+        "intent engineering",
+        "AI productivity",
+        "future of work",
+        "autonomous agents",
+        "Claude",
+        "OpenAI",
+        "AI career advice",
+        "agentic workflows",
+        "AI future of work",
+        "nate b jones",
+        "nate b jones ai",
+        "ai productivity",
+        "ai",
+        "artificial intelligence",
+        "ai productivity tools",
+        "ai agents"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 2025 Prompting vs 2026 Prompting #ai #comparison #shorts\nThis still might not feel concrete enough for you"
+      ],
+      "transcript_chars": 1670,
+      "folder": "2026-05-13-2025-prompting-vs-2026-prompting-ai-comparison-shorts"
+    },
+    {
+      "title": "I Built 2 AI Agents. One Had This. Total Game Changer #aiagents #ai #engineering",
+      "video_id": "fsFxiXzwvp8",
+      "youtube_url": "https://www.youtube.com/watch?v=fsFxiXzwvp8",
+      "publish_date": "2026-05-13",
+      "duration": "1:37",
+      "duration_seconds": 97,
+      "view_count": 12923,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/prompting-just-split-into-4-different?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening when two people sit down with the same model on the same Tuesday and one of them produces a week's worth of work before lunch? The common story is that better prompting means better instructions\u2014but the reality is more interesting when autonomous agents running for hours and days break every assumption of synchronous interaction.\n\nIn this video, I share the inside scoop on why prompting has diverged into four distinct disciplines most people aren't practicing:\n\n\u2022 Why prompt craft has become table stakes while specification engineering determines the quality ceiling\n\u2022 How Toby Lutke's context engineering discipline makes his emails tighter and his memos better\n\u2022 What the five primitives of specification engineering look like in practice\n\u2022 Where the 10x gap lives between people who see all four layers and people practicing only one\n\nFor knowledge workers watching agents run for days without checking in, everything you relied on in conversation must be encoded before the agent starts.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate b jones ai",
+        "AI strategy",
+        "prompt engineering",
+        "LLMs",
+        "AI agents",
+        "context engineering",
+        "specification engineering",
+        "intent engineering",
+        "AI productivity",
+        "future of work",
+        "autonomous agents",
+        "Claude",
+        "OpenAI",
+        "AI career advice",
+        "agentic workflows",
+        "AI future of work",
+        "no code ai agents"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Total Game Changer #aiagents #ai #engineering\nTheir agents start each session with the right project files, the right conventions, the right constraints already loaded"
+      ],
+      "transcript_chars": 1736,
+      "folder": "2026-05-13-i-built-2-ai-agents-one-had-this-total-game-changer-aiagents-ai-engineering"
+    },
+    {
+      "title": "Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.",
+      "video_id": "lqiwQiDglGk",
+      "youtube_url": "https://www.youtube.com/watch?v=lqiwQiDglGk",
+      "publish_date": "2026-05-13",
+      "duration": "20:09",
+      "duration_seconds": 1209,
+      "view_count": 88722,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/rag-agents-knowledge-layer-architecture?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________________________\n\nWhat's really happening inside the AI agent memory infrastructure war?\n\nThe common story is that bigger context windows and better vector search will solve it \u2014 but the reality is every serious infrastructure vendor is racing to fix a deeper problem that classic RAG can't touch.\n\nIn this video, I share the inside scoop on why memory is now the real battleground for production AI agents:\n\n \u2022 Why classic RAG was built for chatbots, not agents\n \u2022 How Pinecone, PageIndex, SAP, and GraphRAG attack different shapes\n \u2022 What a retrieval contract actually looks like for AI agents\n \u2022 Where most agent builds quietly waste their token budget\n\nBuilders who write down what their agent needs before picking a database will ship reliable systems \u2014 the ones who shop vendor-first will keep paying for rediscovery on every run.\n\nCHAPTERS\n0:00 Why every infrastructure vendor is fixing memory\n1:15 The rediscovery problem eating agent compute\n2:30 RAG and vector search definitions\n4:00 Why classic RAG was built for chatbots\n5:30 What agents actually need instead\n7:00 Pinecone Nexus and the NoQL retrieval contract\n9:15 PageIndex and why some docs should never be chunked\n12:00 SAP, Dremio, and Prior Labs on tabular memory\n14:30 Microsoft GraphRAG and relational knowledge\n15:45 Why bigger context windows don't fix this\n17:00 Three steps if you're building an agent today\n19:00 Failure modes and where to look in your own logs\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "RAG",
+        "vector search",
+        "Pinecone",
+        "PageIndex",
+        "GraphRAG",
+        "AI agent memory",
+        "agentic rag",
+        "ai",
+        "vector",
+        "vector database"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Microsoft",
+          "LinkedIn",
+          "X",
+          "SAP",
+          "Pinecone",
+          "Chroma"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Last month, they shipped a product that basically says vector search is not enough on its own, which is a very strange thing for a vector database company to ship"
+      ],
+      "transcript_chars": 22589,
+      "folder": "2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer"
+    },
+    {
+      "title": "ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.",
+      "video_id": "j5_wcDifNko",
+      "youtube_url": "https://www.youtube.com/watch?v=j5_wcDifNko",
+      "publish_date": "2026-05-12",
+      "duration": "18:42",
+      "duration_seconds": 1122,
+      "view_count": 29404,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full article w/ Prompts: https://natesnewsletter.substack.com/p/agentic-commerce-protocol-war?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________________________\n\nWhat's really happening inside the agentic commerce protocol war?\n\nThe common story is that AI agents will just plug into existing checkout \u2014 but the reality is that six camps are fighting over who carries the responsibility when an agent spends your money.\n\nIn this video, I share the inside scoop on the six layers where AI agents, merchants, and payment networks are battling for control:\n\n \u2022 Why ACP and UCP answer completely different merchant questions\n \u2022 How AP2 and Stripe authorization create the agent permission layer\n \u2022 What stablecoins and x402 unlock for machine-to-machine payments\n \u2022 Where AWS Bedrock Agent Core fits as the governance runtime\n\nAgentic commerce is the biggest internet economy shift since the 1990s \u2014 operators who understand the layers will shape it, and those who don't will get sidelined by it.\n\nCHAPTERS\n0:00 Your agent is about to spend your money\n0:42 The six layers of an agentic purchase\n1:25 How human checkout used to work\n2:35 What agentic commerce actually breaks\n4:00 ACP and the OpenAI Stripe instant checkout\n5:45 UCP and the Shopify Google merchant control bet\n8:00 Authorization is not the same as payment\n10:15 Google AP2 and the mandate permission slip\n11:45 Visa, MasterCard, and PayPal on trusted credentials\n12:45 Stablecoins, x402, and machine-to-machine payments\n15:00 AWS Bedrock Agent Core and the governance runtime\n17:00 Where responsibility actually lives across all six layers\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "agentic commerce",
+        "AI agents",
+        "stablecoins",
+        "x402 protocol",
+        "AWS Bedrock",
+        "agentic commerce protocol",
+        "AI agents for payments",
+        "agentic ai",
+        "ai for business"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Amazon",
+          "Shopify",
+          "Stripe",
+          "AWS"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Your agent is about to spend your money, your card, your companies, your customers"
+      ],
+      "transcript_chars": 21054,
+      "folder": "2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it"
+    },
+    {
+      "title": "While Execs Panic, This Skill Gets Rare #ai #career",
+      "video_id": "OhtcvogXtok",
+      "youtube_url": "https://www.youtube.com/watch?v=OhtcvogXtok",
+      "publish_date": "2026-05-12",
+      "duration": "0:54",
+      "duration_seconds": 54,
+      "view_count": 15438,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption\u2014but the reality is more interesting when both the doomer and boomer narratives are wrong about the same thing: speed.\n\nIn this video, I share the inside scoop on why the gap between AI capability and societal adoption is the real story:\n\n\u2022 Why Cittrini's 2028 memo went viral while the counter-evidence barely registers\n\u2022 How four inertia forces\u2014regulatory, organizational, cultural, and trust\u2014slow everything down\n\u2022 What Toby Lutke's mandate at Shopify reveals about collapsing the integration timeline\n\u2022 Where asymmetric economic returns concentrate while the gap stays wide\n\nFor anyone watching the stock market panic while building real AI fluency, the capability-dissipation gap is the greatest generational opportunity in the workforce.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "future of work",
+        "AI jobs",
+        "LLMs",
+        "AI career advice",
+        "AI agents",
+        "AI economic impact",
+        "AI adoption",
+        "AI productivity",
+        "AI future of work",
+        "OpenAI",
+        "Anthropic",
+        "career",
+        "self improvement",
+        "personal growth",
+        "ai",
+        "artificial intelligence",
+        "nate b jones",
+        "nate b jones ai"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "Career",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# While Execs Panic, This Skill Gets Rare #ai #career\ncareer move right now is to become the person in your organization who could walk into a room of panicking executives, and there's a lot of panic"
+      ],
+      "transcript_chars": 961,
+      "folder": "2026-05-12-while-execs-panic-this-skill-gets-rare-ai-career"
+    },
+    {
+      "title": "LLM Agents: The Security Breach Pattern Nobody's Talking About",
+      "video_id": "SX1myuPEDFg",
+      "youtube_url": "https://www.youtube.com/watch?v=SX1myuPEDFg",
+      "publish_date": "2026-05-11",
+      "duration": "19:17",
+      "duration_seconds": 1157,
+      "view_count": 34008,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full article w/ Prompts & Playbook: https://natesnewsletter.substack.com/p/agent-judge-layer-production-control?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________________________\nWhat's really happening when AI agents take real actions in production, and why do better prompts keep failing to stop them?\n\nThe common story is that prompt engineering and human approval will keep AI agents safe \u2014 but the reality is that frontier-model agents now need their own manager: a separate LLM-as-judge that guards your intent at the action boundary.\n\nIn this video, I share the inside scoop on the architectural pattern that's quietly replacing prompt-based guardrails in serious agentic systems:\n\n \u2022 Why prompts and manual approval both break under real agent workloads\n \u2022 How Lindy redesigned its system after agents started sending unauthorized emails\n \u2022 What the four action-risk classes mean for read, write, and high-stakes calls\n \u2022 Where correlated judgment fails and frontier models change the calculus\n\nBuilders shipping agents without a judge layer are gambling on every tool call \u2014 the teams who classify actions, instrument a four-way decision scope, and put a frontier model in the judge seat are the ones whose agents will actually be trusted to do real work.\n\nChapters\n00:00 The agent failures nobody wants to repeat\n01:30 Why this is the pattern most teams miss\n02:30 The real failure mode: agents acting past permission\n03:30 Lindy as the cleanest public example\n05:00 Why better prompts and manual approval fail\n06:30 The architectural move: a separate judge model\n08:00 Specialization at the right grain for today's models\n09:30 Why prompts can't do a policing job\n11:00 Human attention doesn't scale to dozens of agents\n12:00 Classifying agent actions into four risk buckets\n14:00 Placing the judge at the action boundary\n15:00 Why yes/no is too simple \u2014 the four-way decision scope\n16:30 Correlated judgment and why your judge model matters\n18:00 Agents as managed workers, not chatbots or swarms\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI agents",
+        "LLM as judge",
+        "AI strategy",
+        "agentic systems",
+        "prompt engineering",
+        "AI safety",
+        "Claude",
+        "GPT-5.5",
+        "Opus 4.7",
+        "Lindy",
+        "Codex",
+        "AI for enterprise",
+        "AI agents in production",
+        "agent design patterns",
+        "nate b jones",
+        "agentic ai",
+        "nate b jones ai"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Bolt"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# LLM Agents: The Security Breach Pattern Nobody's Talking About\nI can't tell you how many different times I have talked about the mistakes that agents have made"
+      ],
+      "transcript_chars": 20883,
+      "folder": "2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about"
+    },
+    {
+      "title": "Anthropic And OpenAI Just Admitted The Model Isn't Enough.",
+      "video_id": "EpJ0CjTJSag",
+      "youtube_url": "https://www.youtube.com/watch?v=EpJ0CjTJSag",
+      "publish_date": "2026-05-10",
+      "duration": "20:48",
+      "duration_seconds": 1248,
+      "view_count": 90060,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full article w/ Prompts & Playbook: https://natesnewsletter.substack.com/p/enterprise-ai-buying-build-room?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with AI agent security \u2014 and what does it mean for your AI roadmap? The common story is that McKinsey's Lilly platform had a security lapse \u2014 but the reality is a procurement and organizational design failure that most companies are quietly repeating right now.\n\nIn this video, I share the inside scoop on why AI agent exploits are a strategy problem, not a tech hygiene problem:\n\n \u2022 Why 22 unauthenticated endpoints signal culture, not carelessness\n \u2022 How traditional SaaS procurement breaks down with AI agents\n \u2022 What every vendor announced this week and why it matters\n \u2022 Where to start if your AI stack can't distinguish humans from agents\n\nIf your team is buying or building AI software this quarter, the cheapest move is bringing your developers to the table before you sign \u2014 not after.\n\n0:00 The $20 exploit that broke McKinsey's AI platform\n1:18 Why SQL injection in 2026 is a deeper story\n2:24 Three things this video covers\n3:05 What the postmortem missed\n4:22 22 of 200 endpoints \u2014 pattern, not mistake\n6:10 Why agents break the old procurement sequence\n8:45 What a single agent run actually touches\n10:30 Implementation is the strategy, not downstream of it\n12:15 Anthropic, OpenAI, SAP, Pinecone, Salesforce, ServiceNow respond\n14:00 The real question before you sign\n15:20 Does your platform know humans from agents\n17:10 What happens when your team is under pressure\n19:15 The 6-question checklist and repair playbook\n20:20 Why this is a people challenge, not a tech one\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "McKinsey Lilly",
+        "AI agents",
+        "enterprise AI security",
+        "AI procurement",
+        "ai agents explained"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Salesforce",
+          "Slack",
+          "Box",
+          "X",
+          "SAP"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Anthropic And OpenAI Just Admitted The Model Isn't Enough"
+      ],
+      "transcript_chars": 22910,
+      "folder": "2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough"
+    },
+    {
+      "title": "How Fast Can We Actually Replace Workers with AI? #AI #jobs #career",
+      "video_id": "BXb4AovU-VY",
+      "youtube_url": "https://www.youtube.com/watch?v=BXb4AovU-VY",
+      "publish_date": "2026-05-10",
+      "duration": "1:27",
+      "duration_seconds": 87,
+      "view_count": 13481,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption\u2014but the reality is more interesting when both the doomer and boomer narratives are wrong about the same thing: speed.\n\nIn this video, I share the inside scoop on why the gap between AI capability and societal adoption is the real story:\n\n\u2022 Why Cittrini's 2028 memo went viral while the counter-evidence barely registers\n\u2022 How four inertia forces\u2014regulatory, organizational, cultural, and trust\u2014slow everything down\n\u2022 What Toby Lutke's mandate at Shopify reveals about collapsing the integration timeline\n\u2022 Where asymmetric economic returns concentrate while the gap stays wide\n\nFor anyone watching the stock market panic while building real AI fluency, the capability-dissipation gap is the greatest generational opportunity in the workforce.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "future of work",
+        "AI jobs",
+        "LLMs",
+        "AI career advice",
+        "AI agents",
+        "AI economic impact",
+        "AI adoption",
+        "AI productivity",
+        "AI future of work",
+        "OpenAI",
+        "Anthropic",
+        "ai",
+        "artificial intelligence",
+        "nate b jones",
+        "nate b jones ai",
+        "ai jobs"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [
+        "Both doomer and boomer narratives assume that ai capabilities translate incredibly rapidly into economic impact"
+      ],
+      "summary": [
+        "#AI #jobs #career\nWhether or not AI displaces labor the way the bears describe depends on the speed of labor displacement outrunning the speed of technical adaptation"
+      ],
+      "transcript_chars": 1304,
+      "folder": "2026-05-10-how-fast-can-we-actually-replace-workers-with-ai-ai-jobs-career"
+    },
+    {
+      "title": "Human Oversight Isn't Slowing AI Down, It's Protecting It #AIGovernance #Shorts",
+      "video_id": "lNX4m6KmX4U",
+      "youtube_url": "https://www.youtube.com/watch?v=lNX4m6KmX4U",
+      "publish_date": "2026-05-10",
+      "duration": "1:52",
+      "duration_seconds": 112,
+      "view_count": 3385,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/a-fictional-recession-just-crashed?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when a fictional recession scenario wipes $100 billion in market cap and IBM craters 13% in a single day? The common story is about AI disruption\u2014but the reality is more interesting when both the doomer and boomer narratives are wrong about the same thing: speed.\n\nIn this video, I share the inside scoop on why the gap between AI capability and societal adoption is the real story:\n\n\u2022 Why Cittrini's 2028 memo went viral while the counter-evidence barely registers\n\u2022 How four inertia forces\u2014regulatory, organizational, cultural, and trust\u2014slow everything down\n\u2022 What Toby Lutke's mandate at Shopify reveals about collapsing the integration timeline\n\u2022 Where asymmetric economic returns concentrate while the gap stays wide\n\nFor anyone watching the stock market panic while building real AI fluency, the capability-dissipation gap is the greatest generational opportunity in the workforce.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "future of work",
+        "AI jobs",
+        "LLMs",
+        "AI career advice",
+        "AI agents",
+        "AI economic impact",
+        "AI adoption",
+        "AI productivity",
+        "AI future of work",
+        "OpenAI",
+        "Anthropic",
+        "ai",
+        "artificial intelligence",
+        "future of ai"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Gemini"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Human Oversight Isn't Slowing AI Down, It's Protecting It #AIGovernance #Shorts\nAll along the way, you have to build institutional trust to deploy that AI at scale"
+      ],
+      "transcript_chars": 1842,
+      "folder": "2026-05-10-human-oversight-isnt-slowing-ai-down-its-protecting-it-aigovernance-shorts"
+    },
     {
       "title": "Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career",
       "video_id": "cUo-QtAectY",

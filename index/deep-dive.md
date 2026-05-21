@@ -1,7 +1,11 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (88 episodes):
+Episodes discussing **Deep Dive** (92 episodes):
 
+- [Sarah Friar on the Tool That Scaled Her Fundraise #OpenAI #funding](../episodes/2026-05-16-sarah-friar-on-the-tool-that-scaled-her-fundraise-openai-funding/transcript.md) (2026-05-16)
+- [Professors Notice Something's Drastically Wrong #college #teacher](../episodes/2026-05-14-professors-notice-somethings-drastically-wrong-college-teacher/transcript.md) (2026-05-14)
+- [How Fast Can We Actually Replace Workers with AI? #AI #jobs #career](../episodes/2026-05-10-how-fast-can-we-actually-replace-workers-with-ai-ai-jobs-career/transcript.md) (2026-05-10)
+- [Human Oversight Isn't Slowing AI Down, It's Protecting It #AIGovernance #Shorts](../episodes/2026-05-10-human-oversight-isnt-slowing-ai-down-its-protecting-it-aigovernance-shorts/transcript.md) (2026-05-10)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
 - [AI Works Too Well at the Wrong Thing #IntentEngineering #AItruth](../episodes/2026-05-03-ai-works-too-well-at-the-wrong-thing-intentengineering-aitruth/transcript.md) (2026-05-03)
 - [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)

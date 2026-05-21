@@ -1,7 +1,9 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (80 episodes):
+Episodes discussing **Deep Dives** (82 episodes):
 
+- [Anthropic And OpenAI Just Admitted The Model Isn't Enough.](../episodes/2026-05-10-anthropic-and-openai-just-admitted-the-model-isnt-enough/transcript.md) (2026-05-10)
+- [How Fast Can We Actually Replace Workers with AI? #AI #jobs #career](../episodes/2026-05-10-how-fast-can-we-actually-replace-workers-with-ai-ai-jobs-career/transcript.md) (2026-05-10)
 - [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
 - [Block Laid Off Half Its Company for AI. AI Can't Do the Job.](../episodes/2026-04-19-block-laid-off-half-its-company-for-ai-ai-cant-do-the-job/transcript.md) (2026-04-19)
 - [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)

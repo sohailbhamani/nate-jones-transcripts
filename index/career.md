@@ -1,7 +1,12 @@
 # Career
 
-Episodes discussing **Career** (288 episodes):
+Episodes discussing **Career** (293 episodes):
 
+- [Codex Just Valued A Random House In India. I Wasn't Ready. #codex](../episodes/2026-05-14-codex-just-valued-a-random-house-in-india-i-wasnt-ready-codex/transcript.md) (2026-05-14)
+- [2025 Prompting vs 2026 Prompting #ai #comparison #shorts](../episodes/2026-05-13-2025-prompting-vs-2026-prompting-ai-comparison-shorts/transcript.md) (2026-05-13)
+- [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)
+- [While Execs Panic, This Skill Gets Rare #ai #career](../episodes/2026-05-12-while-execs-panic-this-skill-gets-rare-ai-career/transcript.md) (2026-05-12)
+- [How Fast Can We Actually Replace Workers with AI? #AI #jobs #career](../episodes/2026-05-10-how-fast-can-we-actually-replace-workers-with-ai-ai-jobs-career/transcript.md) (2026-05-10)
 - [Frontier vs Comfortable: Where Do You Actually Sit? #ai #strategy #career](../episodes/2026-05-09-frontier-vs-comfortable-where-do-you-actually-sit-ai-strategy-career/transcript.md) (2026-05-09)
 - [You're Wasting 40% Of Your AI Time On Something Fixable](../episodes/2026-05-09-youre-wasting-40-of-your-ai-time-on-something-fixable/transcript.md) (2026-05-09)
 - [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](../episodes/2026-05-08-271-vulnerabilities-what-mozillas-ai-found-changes-everything/transcript.md) (2026-05-08)
