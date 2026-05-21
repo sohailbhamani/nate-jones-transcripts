@@ -1,7 +1,8 @@
 # Aws
 
-Episodes discussing **Aws** (37 episodes):
+Episodes discussing **Aws** (38 episodes):
 
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)
 - [Nobody Knows What You're Worth Anymore | The AI Job Market Reality](../episodes/2026-04-20-nobody-knows-what-youre-worth-anymore-the-ai-job-market-reality/transcript.md) (2026-04-20)
 - [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)

@@ -1,7 +1,9 @@
 # Salesforce
 
-Episodes discussing **Salesforce** (44 episodes):
+Episodes discussing **Salesforce** (46 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Nobody Knows What You're Worth Anymore | The AI Job Market Reality](../episodes/2026-04-20-nobody-knows-what-youre-worth-anymore-the-ai-job-market-reality/transcript.md) (2026-04-20)
 - [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)

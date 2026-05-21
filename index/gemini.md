@@ -1,7 +1,11 @@
 # Gemini
 
-Episodes discussing **Gemini** (142 episodes):
+Episodes discussing **Gemini** (146 episodes):
 
+- [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)
+- [Why Gemini 3.1 Pro Broke Every Benchmark #shorts #ai](../episodes/2026-04-30-why-gemini-31-pro-broke-every-benchmark-shorts-ai/transcript.md) (2026-04-30)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)

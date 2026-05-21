@@ -1,8 +1,15 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (183 episodes):
+Episodes discussing **Tutorial** (190 episodes):
 
+- [When AI Optimizes for the Wrong Objective #aifails](../episodes/2026-05-02-when-ai-optimizes-for-the-wrong-objective-aifails/transcript.md) (2026-05-02)
+- [Tests vs Scenarios: Which One Actually Works #softwaredevelopment #QA #testing](../episodes/2026-05-01-tests-vs-scenarios-which-one-actually-works-softwaredevelopment-qa-testing/transcript.md) (2026-05-01)
+- [What Actually Stops Leaders From Deciding #psychology #truth](../episodes/2026-05-01-what-actually-stops-leaders-from-deciding-psychology-truth/transcript.md) (2026-05-01)
+- [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
 - [Experienced developers took 19% longer with AI #aicoding #study #reality](../episodes/2026-04-25-experienced-developers-took-19-longer-with-ai-aicoding-study-reality/transcript.md) (2026-04-25)
+- [StrongDM's three person team ships with zero human code review #ai #engineering](../episodes/2026-04-25-strongdms-three-person-team-ships-with-zero-human-code-review-ai-engineering/transcript.md) (2026-04-25)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
 - [Why Manual Testing Is Dead (This Architecture Proves It) #AI #Testing](../episodes/2026-04-22-why-manual-testing-is-dead-this-architecture-proves-it-ai-testing/transcript.md) (2026-04-22)
 - [Nobody Knows What You're Worth Anymore | The AI Job Market Reality](../episodes/2026-04-20-nobody-knows-what-youre-worth-anymore-the-ai-job-market-reality/transcript.md) (2026-04-20)

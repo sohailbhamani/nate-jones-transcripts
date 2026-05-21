@@ -1,7 +1,9 @@
 # Opus
 
-Episodes discussing **Opus** (63 episodes):
+Episodes discussing **Opus** (65 episodes):
 
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)

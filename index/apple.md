@@ -1,7 +1,10 @@
 # Apple
 
-Episodes discussing **Apple** (69 episodes):
+Episodes discussing **Apple** (72 episodes):
 
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)
 - [Nobody Knows What You're Worth Anymore | The AI Job Market Reality](../episodes/2026-04-20-nobody-knows-what-youre-worth-anymore-the-ai-job-market-reality/transcript.md) (2026-04-20)

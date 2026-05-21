@@ -1,12 +1,21 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (254 episodes):
+Episodes discussing **Ai Agents** (263 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
+- [OKRs Were Never Built for AI #aiagents #futureofwork #shorts](../episodes/2026-05-02-okrs-were-never-built-for-ai-aiagents-futureofwork-shorts/transcript.md) (2026-05-02)
+- [When AI Optimizes for the Wrong Objective #aifails](../episodes/2026-05-02-when-ai-optimizes-for-the-wrong-objective-aifails/transcript.md) (2026-05-02)
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [Tests vs Scenarios: Which One Actually Works #softwaredevelopment #QA #testing](../episodes/2026-05-01-tests-vs-scenarios-which-one-actually-works-softwaredevelopment-qa-testing/transcript.md) (2026-05-01)
+- [Boring beats brilliant when scope explodes #effort #reality](../episodes/2026-04-30-boring-beats-brilliant-when-scope-explodes-effort-reality/transcript.md) (2026-04-30)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Why Manual Testing Is Dead (This Architecture Proves It) #AI #Testing](../episodes/2026-04-22-why-manual-testing-is-dead-this-architecture-proves-it-ai-testing/transcript.md) (2026-04-22)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)
 - [Why Nothing Going Wrong Is Actually the Scariest Part #AIWakeUp #Implications](../episodes/2026-04-20-why-nothing-going-wrong-is-actually-the-scariest-part-aiwakeup-implications/transcript.md) (2026-04-20)
 - [The web is about to look completely different #AI #WebDevelopment #FutureOfTech](../episodes/2026-04-19-the-web-is-about-to-look-completely-different-ai-webdevelopment-futureoftech/transcript.md) (2026-04-19)
+- [This Is Why Your Trading Bot Fails (Wall Street's Doesn't) #trading #botfail #finance](../episodes/2026-04-19-this-is-why-your-trading-bot-fails-wall-streets-doesnt-trading-botfail-finance/transcript.md) (2026-04-19)
 - [Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure](../episodes/2026-04-18-every-tech-giant-is-building-the-same-thing-right-now-ai-agents-infrastructure/transcript.md) (2026-04-18)
 - [Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.](../episodes/2026-04-18-karpathys-agent-ran-700-experiments-while-he-slept-its-coming-for-you/transcript.md) (2026-04-18)
 - [OpenAI Just Gave Agents the Ability to Do Everything—The Consequences Are Massive #AI #OpenAI](../episodes/2026-04-18-openai-just-gave-agents-the-ability-to-do-everythingthe-consequences-are-massive/transcript.md) (2026-04-18)

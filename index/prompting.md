@@ -1,7 +1,10 @@
 # Prompting
 
-Episodes discussing **Prompting** (199 episodes):
+Episodes discussing **Prompting** (202 episodes):
 
+- [When AI Optimizes for the Wrong Objective #aifails](../episodes/2026-05-02-when-ai-optimizes-for-the-wrong-objective-aifails/transcript.md) (2026-05-02)
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)

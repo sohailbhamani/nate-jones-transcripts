@@ -1,8 +1,18 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (481 episodes):
+Episodes discussing **Frameworks** (491 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
+- [When AI Optimizes for the Wrong Objective #aifails](../episodes/2026-05-02-when-ai-optimizes-for-the-wrong-objective-aifails/transcript.md) (2026-05-02)
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [Tests vs Scenarios: Which One Actually Works #softwaredevelopment #QA #testing](../episodes/2026-05-01-tests-vs-scenarios-which-one-actually-works-softwaredevelopment-qa-testing/transcript.md) (2026-05-01)
+- [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)
+- [Why Gemini 3.1 Pro Broke Every Benchmark #shorts #ai](../episodes/2026-04-30-why-gemini-31-pro-broke-every-benchmark-shorts-ai/transcript.md) (2026-04-30)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
+- [StrongDM's three person team ships with zero human code review #ai #engineering](../episodes/2026-04-25-strongdms-three-person-team-ships-with-zero-human-code-review-ai-engineering/transcript.md) (2026-04-25)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](../episodes/2026-04-22-karpathys-wiki-vs-open-brain-one-fails-when-you-need-it-most/transcript.md) (2026-04-22)

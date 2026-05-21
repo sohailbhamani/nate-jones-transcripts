@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (159 episodes):
+Episodes discussing **Framework** (160 episodes):
 
+- [Why Gemini 3.1 Pro Broke Every Benchmark #shorts #ai](../episodes/2026-04-30-why-gemini-31-pro-broke-every-benchmark-shorts-ai/transcript.md) (2026-04-30)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](../episodes/2026-04-22-karpathys-wiki-vs-open-brain-one-fails-when-you-need-it-most/transcript.md) (2026-04-22)

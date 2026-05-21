@@ -1,8 +1,15 @@
 # Openai
 
-Episodes discussing **Openai** (248 episodes):
+Episodes discussing **Openai** (255 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
+- [StrongDM's three person team ships with zero human code review #ai #engineering](../episodes/2026-04-25-strongdms-three-person-team-ships-with-zero-human-code-review-ai-engineering/transcript.md) (2026-04-25)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)

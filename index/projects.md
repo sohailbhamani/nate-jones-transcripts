@@ -1,7 +1,9 @@
 # Projects
 
-Episodes discussing **Projects** (87 episodes):
+Episodes discussing **Projects** (89 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
 - [Nobody Knows What You're Worth Anymore | The AI Job Market Reality](../episodes/2026-04-20-nobody-knows-what-youre-worth-anymore-the-ai-job-market-reality/transcript.md) (2026-04-20)
 - [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
 - [Why AI skills are now table stakes #ai #work #future](../episodes/2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future/transcript.md) (2026-04-14)

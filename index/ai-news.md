@@ -1,7 +1,12 @@
 # Ai News
 
-Episodes discussing **Ai News** (336 episodes):
+Episodes discussing **Ai News** (341 episodes):
 
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
 - [Dark factories vs everyone else: the real AI divide #ai #engineering](../episodes/2026-04-23-dark-factories-vs-everyone-else-the-real-ai-divide-ai-engineering/transcript.md) (2026-04-23)

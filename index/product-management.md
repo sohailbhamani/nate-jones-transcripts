@@ -1,9 +1,16 @@
 # Product Management
 
-Episodes discussing **Product Management** (377 episodes):
+Episodes discussing **Product Management** (384 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
+- [Tests vs Scenarios: Which One Actually Works #softwaredevelopment #QA #testing](../episodes/2026-05-01-tests-vs-scenarios-which-one-actually-works-softwaredevelopment-qa-testing/transcript.md) (2026-05-01)
+- [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Experienced developers took 19% longer with AI #aicoding #study #reality](../episodes/2026-04-25-experienced-developers-took-19-longer-with-ai-aicoding-study-reality/transcript.md) (2026-04-25)
+- [StrongDM's three person team ships with zero human code review #ai #engineering](../episodes/2026-04-25-strongdms-three-person-team-ships-with-zero-human-code-review-ai-engineering/transcript.md) (2026-04-25)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Why Manual Testing Is Dead (This Architecture Proves It) #AI #Testing](../episodes/2026-04-22-why-manual-testing-is-dead-this-architecture-proves-it-ai-testing/transcript.md) (2026-04-22)

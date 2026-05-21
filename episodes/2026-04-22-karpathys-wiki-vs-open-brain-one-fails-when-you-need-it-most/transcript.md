@@ -69,6 +69,7 @@ yt_tags:
   - "obsidian second brain"
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"

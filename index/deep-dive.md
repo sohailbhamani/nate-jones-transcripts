@@ -1,8 +1,14 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (80 episodes):
+Episodes discussing **Deep Dive** (86 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
+- [OKRs Were Never Built for AI #aiagents #futureofwork #shorts](../episodes/2026-05-02-okrs-were-never-built-for-ai-aiagents-futureofwork-shorts/transcript.md) (2026-05-02)
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [Boring beats brilliant when scope explodes #effort #reality](../episodes/2026-04-30-boring-beats-brilliant-when-scope-explodes-effort-reality/transcript.md) (2026-04-30)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
 - [Dark factories vs everyone else: the real AI divide #ai #engineering](../episodes/2026-04-23-dark-factories-vs-everyone-else-the-real-ai-divide-ai-engineering/transcript.md) (2026-04-23)
+- [This Is Why Your Trading Bot Fails (Wall Street's Doesn't) #trading #botfail #finance](../episodes/2026-04-19-this-is-why-your-trading-bot-fails-wall-streets-doesnt-trading-botfail-finance/transcript.md) (2026-04-19)
 - [OpenAI Just Gave Agents the Ability to Do Everything—The Consequences Are Massive #AI #OpenAI](../episodes/2026-04-18-openai-just-gave-agents-the-ability-to-do-everythingthe-consequences-are-massive/transcript.md) (2026-04-18)
 - [How the Red Queen memo exposed who will actually survive #tech #AI](../episodes/2026-04-16-how-the-red-queen-memo-exposed-who-will-actually-survive-tech-ai/transcript.md) (2026-04-16)
 - [Why AI skills are now table stakes #ai #work #future](../episodes/2026-04-14-why-ai-skills-are-now-table-stakes-ai-work-future/transcript.md) (2026-04-14)

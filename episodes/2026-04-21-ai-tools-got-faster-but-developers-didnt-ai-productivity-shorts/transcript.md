@@ -47,6 +47,7 @@ yt_tags:
   - "web development"
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Tools"

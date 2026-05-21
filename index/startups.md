@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (118 episodes):
+Episodes discussing **Startups** (119 episodes):
 
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
 - [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](../episodes/2026-04-24-claude-design-does-in-30-minutes-what-your-team-does-in-a-sprint/transcript.md) (2026-04-24)
 - [Block Laid Off Half Its Company for AI. AI Can't Do the Job.](../episodes/2026-04-19-block-laid-off-half-its-company-for-ai-ai-cant-do-the-job/transcript.md) (2026-04-19)
 - [The web is about to look completely different #AI #WebDevelopment #FutureOfTech](../episodes/2026-04-19-the-web-is-about-to-look-completely-different-ai-webdevelopment-futureoftech/transcript.md) (2026-04-19)

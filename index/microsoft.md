@@ -1,7 +1,10 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (134 episodes):
+Episodes discussing **Microsoft** (137 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
+- [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Experienced developers took 19% longer with AI #aicoding #study #reality](../episodes/2026-04-25-experienced-developers-took-19-longer-with-ai-aicoding-study-reality/transcript.md) (2026-04-25)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)

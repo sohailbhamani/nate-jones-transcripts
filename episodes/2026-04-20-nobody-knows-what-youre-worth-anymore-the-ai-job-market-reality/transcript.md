@@ -66,6 +66,7 @@ yt_tags:
   - "how to get a job"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Career"

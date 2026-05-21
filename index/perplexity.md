@@ -1,7 +1,10 @@
 # Perplexity
 
-Episodes discussing **Perplexity** (47 episodes):
+Episodes discussing **Perplexity** (50 episodes):
 
+- [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
 - [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)
 - [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
 - [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](../episodes/2026-04-02-your-claude-limit-burns-in-90-minutes-because-of-one-chatgpt-habit/transcript.md) (2026-04-02)

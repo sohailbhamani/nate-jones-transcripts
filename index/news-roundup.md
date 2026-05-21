@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (129 episodes):
+Episodes discussing **News Roundup** (130 episodes):
 
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [Your Prompts Didn't Change. Opus 4.7 Did.](../episodes/2026-04-21-your-prompts-didnt-change-opus-47-did/transcript.md) (2026-04-21)
 - [Tech talent is about to get ugly thanks to this memo #ai #tech #competition](../episodes/2026-04-17-tech-talent-is-about-to-get-ugly-thanks-to-this-memo-ai-tech-competition/transcript.md) (2026-04-17)
 - [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)

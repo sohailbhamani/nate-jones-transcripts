@@ -1,7 +1,14 @@
 # Career
 
-Episodes discussing **Career** (275 episodes):
+Episodes discussing **Career** (282 episodes):
 
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [What Actually Stops Leaders From Deciding #psychology #truth](../episodes/2026-05-01-what-actually-stops-leaders-from-deciding-psychology-truth/transcript.md) (2026-05-01)
+- [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](../episodes/2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why/transcript.md) (2026-04-30)
+- [Why Gemini 3.1 Pro Broke Every Benchmark #shorts #ai](../episodes/2026-04-30-why-gemini-31-pro-broke-every-benchmark-shorts-ai/transcript.md) (2026-04-30)
+- [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](../episodes/2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now/transcript.md) (2026-04-29)
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Nobody Knows What You're Worth Anymore | The AI Job Market Reality](../episodes/2026-04-20-nobody-knows-what-youre-worth-anymore-the-ai-job-market-reality/transcript.md) (2026-04-20)
 - [Block Laid Off Half Its Company for AI. AI Can't Do the Job.](../episodes/2026-04-19-block-laid-off-half-its-company-for-ai-ai-cant-do-the-job/transcript.md) (2026-04-19)

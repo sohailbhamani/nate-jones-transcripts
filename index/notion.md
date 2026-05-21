@@ -1,7 +1,8 @@
 # Notion
 
-Episodes discussing **Notion** (28 episodes):
+Episodes discussing **Notion** (29 episodes):
 
+- [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](../episodes/2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense/transcript.md) (2026-05-02)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](../episodes/2026-04-10-there-are-only-5-safe-places-to-build-in-ai-right-now-are-you-in-one/transcript.md) (2026-04-10)
 - [The AI workflow that replaces your to do list! #ai #futureofwork](../episodes/2026-04-01-the-ai-workflow-that-replaces-your-to-do-list-ai-futureofwork/transcript.md) (2026-04-01)

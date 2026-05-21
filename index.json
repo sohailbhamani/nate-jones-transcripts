@@ -1,10 +1,858 @@
 {
-  "total_videos": 588,
+  "total_videos": 603,
   "date_range": {
-    "newest": "2026-04-25",
+    "newest": "2026-05-02",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.",
+      "video_id": "FDkvRl1RlT0",
+      "youtube_url": "https://www.youtube.com/watch?v=FDkvRl1RlT0",
+      "publish_date": "2026-05-02",
+      "duration": "29:08",
+      "duration_seconds": 1748,
+      "view_count": 64287,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/issue-trackers-agent-infrastructure?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\n\nWhat's really happening inside the issue tracker category when Linear's CEO says issue tracking is dead but OpenAI publishes Symphony using Linear as the control plane for autonomous coding agents?\n\nThe common story is that tickets are process overhead waiting to be eliminated \u2014 but the reality is that the human translation step is dying while the substrate underneath it is getting promoted to agent infrastructure.\n\nIn this video, I share the inside scoop on why boring tools are winning in 2026:\n\n \u2022 Why agents desperately need durable state, ownership, permissions, and history \u2014 exactly what issue trackers were built to provide\n \u2022 How the UX win becomes a data win because people using good tools produce cleaner state for agents to act on\n \u2022 What makes CRMs, service desks, ERPs, and source control all fit the same substrate pattern\n \u2022 How to diagnose which tools in your stack will become agent infrastructure and which will get wrapped\n\nLeaders building greenfield agent platforms without owning the records, permissions, and workflows are building wrappers \u2014 and owning the substrate is better than sitting on top of someone else's.\n\nChapters\n00:00 Programs we built for humans are useful to agents\n02:30 The Linear letter: issue tracking is dead\n05:00 Symphony: issue tracker as agent control plane\n07:30 Bugzilla and the origin of the substrate\n10:00 Why agents want this particular shape\n12:30 State machines, handoffs, and coordination\n15:00 Atlassian looks like infrastructure now\n17:30 CRMs are issue trackers for revenue\n20:00 Service desks, ERPs, and source control\n22:30 The five diagnostic questions for any tool\n25:00 Your work tracking choice is your agent infrastructure choice\n27:30 The boring tools win\n29:00 Mapping your agentic substrate\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "issue trackers",
+        "Linear",
+        "JIRA",
+        "Atlassian",
+        "Symphony",
+        "OpenAI",
+        "agent infrastructure",
+        "Salesforce",
+        "ServiceNow",
+        "MCP",
+        "enterprise AI",
+        "agentic substrate",
+        "coordination tools",
+        "boring tools",
+        "AI strategy for teams",
+        "ai",
+        "artificial intelligence",
+        "issue tracker",
+        "future tools",
+        "ai tools"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Salesforce",
+          "Notion",
+          "Slack",
+          "GitHub",
+          "Cursor",
+          "Oracle"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Cursor",
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "This is the story of one of the most surprising software categories of 2026"
+      ],
+      "transcript_chars": 33874,
+      "folder": "2026-05-02-anthropic-might-buy-atlassian-for-40b-heres-why-it-makes-sense"
+    },
+    {
+      "title": "OKRs Were Never Built for AI #aiagents #futureofwork #shorts",
+      "video_id": "RQXvde0wCPs",
+      "youtube_url": "https://www.youtube.com/watch?v=RQXvde0wCPs",
+      "publish_date": "2026-05-02",
+      "duration": "0:57",
+      "duration_seconds": 57,
+      "view_count": 4264,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance\u2014but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong objective.\n\nIn this video, I share the inside scoop on why the gap between AI capability and organizational value is the most important unsolved problem in enterprise AI:\n\n\u2022 Why 74% of companies report no tangible value from AI despite massive investment\n\u2022 How Microsoft Copilot stalled at 5% deployment despite 85% Fortune 500 adoption\n\u2022 What separates context engineering from intent engineering\u2014and why intent is the missing layer\n\u2022 Where the race has shifted from who has the smartest model to who has the clearest organizational intent\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nFor leaders watching agents run for weeks and soon for months, the question is no longer can AI do this task\u2014it's can AI do this task in a way that serves what we actually need?\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "intent engineering",
+        "LLMs",
+        "context engineering",
+        "AI future of work",
+        "enterprise AI",
+        "AI productivity",
+        "autonomous agents",
+        "prompt engineering",
+        "agentic workflows",
+        "Anthropic",
+        "AI career advice",
+        "okrs",
+        "performance management",
+        "ai",
+        "okr",
+        "what is okr"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# OKRs Were Never Built for AI #aiagents #futureofwork #shorts\nOKRs were designed for people"
+      ],
+      "transcript_chars": 1039,
+      "folder": "2026-05-02-okrs-were-never-built-for-ai-aiagents-futureofwork-shorts"
+    },
+    {
+      "title": "When AI Optimizes for the Wrong Objective #aifails",
+      "video_id": "AyZGx1nWzis",
+      "youtube_url": "https://www.youtube.com/watch?v=AyZGx1nWzis",
+      "publish_date": "2026-05-02",
+      "duration": "0:47",
+      "duration_seconds": 47,
+      "view_count": 6129,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/klarna-saved-60-million-and-broke?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Klarna's AI agent does the work of 853 employees but costs the company something far more valuable than the $60 million it saved? The common story is that AI can't handle nuance\u2014but the reality is more interesting when the AI worked too well at optimizing for exactly the wrong objective.\n\nIn this video, I share the inside scoop on why the gap between AI capability and organizational value is the most important unsolved problem in enterprise AI:\n\n\u2022 Why 74% of companies report no tangible value from AI despite massive investment\n\u2022 How Microsoft Copilot stalled at 5% deployment despite 85% Fortune 500 adoption\n\u2022 What separates context engineering from intent engineering\u2014and why intent is the missing layer\n\u2022 Where the race has shifted from who has the smartest model to who has the clearest organizational intent\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nFor leaders watching agents run for weeks and soon for months, the question is no longer can AI do this task\u2014it's can AI do this task in a way that serves what we actually need?\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "intent engineering",
+        "LLMs",
+        "context engineering",
+        "AI future of work",
+        "enterprise AI",
+        "AI productivity",
+        "autonomous agents",
+        "prompt engineering",
+        "agentic workflows",
+        "Anthropic",
+        "AI career advice",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# When AI Optimizes for the Wrong Objective #aifails\nIntent engineering is the third discipline and it's the one that almost nobody is building for yet"
+      ],
+      "transcript_chars": 778,
+      "folder": "2026-05-02-when-ai-optimizes-for-the-wrong-objective-aifails"
+    },
+    {
+      "title": "RTX 5090, Mac Studio, or DGX Spark? I tried all three.",
+      "video_id": "iUSdS-6uwr4",
+      "youtube_url": "https://www.youtube.com/watch?v=iUSdS-6uwr4",
+      "publish_date": "2026-05-01",
+      "duration": "32:36",
+      "duration_seconds": 1956,
+      "view_count": 117839,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/personal-ai-computer-stack?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside the personal AI computer movement when everyone is defaulting to cloud models but the real power comes from owning the substrate underneath?\n\nThe common framing is local versus cloud \u2014 but the reality is that this is a routing decision, and the long-term reason to build your own stack is not cost savings but compounding your knowledge over time.\n\nIn this video, I share the inside scoop on how to build a personal AI computer that actually works:\n\n \u2022 Why memory is the heart of the system and most people get the pipeline side wrong\n \u2022 How to set up many surfaces with one stack underneath so your editor, notes, browser, and voice all call the same runtime\n \u2022 What hardware makes sense for the local-first knowledge worker versus the all-local maximalist versus the local-first builder\n \u2022 Why cloud AI should be a visitor to your system, not dominant across it\n\nLeaders renting their memory layer from proprietary apps will lose their institutional knowledge the moment they close the tab \u2014 the compounding advantage goes to those who own the substrate.\n\nChapters\n00:00 Plain markdown plus Git is the boring immortal version\n02:30 Different data needs different memory handling\n05:00 MCP servers are not magic\n07:30 The interface principle: many surfaces, one stack\n10:00 Voice is underrated now that local whisper works\n12:30 Personal RAG and private coding loops\n15:00 Meeting capture without audio leaving the machine\n17:30 Three buyer profiles: knowledge worker, maximalist, builder\n20:00 Mac Studio vs DGX Spark vs dual RTX 5090s\n22:30 The personal AI computer is a routing system\n25:00 Memory needs to be cumulative but auditable\n27:30 Why cloud AI should be a visitor to your system\n30:00 Through the looking glass: the questions you start asking\n31:30 Your computer, your AI\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "personal AI computer",
+        "local AI",
+        "OpenBrain",
+        "Ollama",
+        "Mac Studio",
+        "DGX Spark",
+        "MCP",
+        "Whisper",
+        "AI memory",
+        "local inference",
+        "AI hardware",
+        "Postgres",
+        "vector search",
+        "AI sovereignty",
+        "AI strategy for teams",
+        "ai",
+        "artificial intelligence",
+        "ai agents",
+        "futuretools",
+        "future tools"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Box",
+          "Mistral",
+          "AWS",
+          "Azure"
+        ],
+        "people": [
+          "Andrej Karpathy"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Codex",
+          "Whisper",
+          "Ollama",
+          "LM Studio",
+          "Raycast",
+          "Alfred",
+          "Shortcuts",
+          "Make"
+        ],
+        "models": [
+          "Llama",
+          "Llama 3",
+          "Mistral",
+          "Qwen",
+          "DeepSeek",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "The strangest thing about AI right now is that it's making the computer on your desk important again"
+      ],
+      "transcript_chars": 38683,
+      "folder": "2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three"
+    },
+    {
+      "title": "Tests vs Scenarios: Which One Actually Works #softwaredevelopment #QA #testing",
+      "video_id": "g2occe4xMHk",
+      "youtube_url": "https://www.youtube.com/watch?v=g2occe4xMHk",
+      "publish_date": "2026-05-01",
+      "duration": "1:33",
+      "duration_seconds": 93,
+      "view_count": 7710,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster\u2014but the reality is more complicated when a rigorous study found experienced developers took 19% longer while believing they were 24% faster.\n\nIn this video, I share the inside scoop on why the gap between dark factories and everyone else is the most important divide in tech:\n\n\u2022 Why StrongDM's three-person team ships production software with no human-written or human-reviewed code\n\u2022 How the five levels of vibe coding reveal that 90% of developers plateau at level three\n\u2022 What external scenarios and digital twin universes solve that traditional tests cannot\n\u2022 Where the bottleneck has moved from implementation speed to specification quality\n\nFor engineering leaders watching the frontier pull away, this is not a tool problem\u2014it's a people problem, a culture problem, and a willingness-to-change problem that no vendor can close.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "software testing",
+        "AI strategy",
+        "large language models",
+        "LLMs",
+        "AI agents",
+        "future of work",
+        "automation at work",
+        "AI career advice",
+        "upskilling with AI",
+        "AI coding tools",
+        "software engineering AI",
+        "dark factory software",
+        "agentic coding",
+        "prompt engineering",
+        "AI labor market",
+        "junior developer jobs",
+        "AI native startups",
+        "AI jobs for developers",
+        "software team AI",
+        "coding",
+        "programming",
+        "ai assisted coding",
+        "software engineer",
+        "ai coding"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Tests vs Scenarios: Which One Actually Works #softwaredevelopment #QA #testing\nStrongDM doesn't actually use traditional software tests"
+      ],
+      "transcript_chars": 1580,
+      "folder": "2026-05-01-tests-vs-scenarios-which-one-actually-works-softwaredevelopment-qa-testing"
+    },
+    {
+      "title": "What Actually Stops Leaders From Deciding #psychology #truth",
+      "video_id": "21KNrDoIXnM",
+      "youtube_url": "https://www.youtube.com/watch?v=21KNrDoIXnM",
+      "publish_date": "2026-05-01",
+      "duration": "0:39",
+      "duration_seconds": 39,
+      "view_count": 3845,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/gemini-31-pro-broke-every-benchmark?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Google ships the smartest AI model on the planet, prices it at a seventh of the competition, and doesn't care if you keep using Claude or ChatGPT? The common story is that this is another benchmark race\u2014but the reality is more interesting when the company generating $100 billion in annual free cash flow is playing a fundamentally different game.\n\nIn this video, I share the inside scoop on why Gemini 3.1 Pro reveals more about problem types than model rankings:\n\n\u2022 Why Google's vertical stack from TPU silicon to Nobel Prize research is an impregnable fortress\n\u2022 How Deep Think solved 18 previously unsolved problems across math, physics, and economics\n\u2022 What separates reasoning problems from effort, coordination, ambiguity, and emotional intelligence problems\n\u2022 Where the question \"which AI should I use\" becomes the wrong question entirely\n\nFor knowledge workers watching the model landscape differentiate, the margin between routing models well and using one model for everything is widening every single month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Gemini 3.1 Pro",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "Google DeepMind",
+        "AI productivity",
+        "AI future of work",
+        "AI career advice",
+        "model routing",
+        "AI tools for builders",
+        "upskilling with AI",
+        "AI strategy for teams",
+        "frontier AI models",
+        "agentic workflows",
+        "AI workforce skills",
+        "ai",
+        "artificial intelligence",
+        "personal development"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# What Actually Stops Leaders From Deciding #psychology #truth\nand willpower problems"
+      ],
+      "transcript_chars": 707,
+      "folder": "2026-05-01-what-actually-stops-leaders-from-deciding-psychology-truth"
+    },
+    {
+      "title": "Boring beats brilliant when scope explodes #effort #reality",
+      "video_id": "eXhG0boQM_0",
+      "youtube_url": "https://www.youtube.com/watch?v=eXhG0boQM_0",
+      "publish_date": "2026-04-30",
+      "duration": "0:32",
+      "duration_seconds": 32,
+      "view_count": 8232,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/gemini-31-pro-broke-every-benchmark?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Google ships the smartest AI model on the planet, prices it at a seventh of the competition, and doesn't care if you keep using Claude or ChatGPT? The common story is that this is another benchmark race\u2014but the reality is more interesting when the company generating $100 billion in annual free cash flow is playing a fundamentally different game.\n\nIn this video, I share the inside scoop on why Gemini 3.1 Pro reveals more about problem types than model rankings:\n\n\u2022 Why Google's vertical stack from TPU silicon to Nobel Prize research is an impregnable fortress\n\u2022 How Deep Think solved 18 previously unsolved problems across math, physics, and economics\n\u2022 What separates reasoning problems from effort, coordination, ambiguity, and emotional intelligence problems\n\u2022 Where the question \"which AI should I use\" becomes the wrong question entirely\n\nFor knowledge workers watching the model landscape differentiate, the margin between routing models well and using one model for everything is widening every single month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Gemini 3.1 Pro",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "Google DeepMind",
+        "AI productivity",
+        "AI future of work",
+        "AI career advice",
+        "model routing",
+        "AI tools for builders",
+        "upskilling with AI",
+        "AI strategy for teams",
+        "frontier AI models",
+        "agentic workflows",
+        "AI workforce skills",
+        "google",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Boring beats brilliant when scope explodes #effort #reality\neffort problems"
+      ],
+      "transcript_chars": 535,
+      "folder": "2026-04-30-boring-beats-brilliant-when-scope-explodes-effort-reality"
+    },
+    {
+      "title": "Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.",
+      "video_id": "JvCtGjrn_N0",
+      "youtube_url": "https://www.youtube.com/watch?v=JvCtGjrn_N0",
+      "publish_date": "2026-04-30",
+      "duration": "24:48",
+      "duration_seconds": 1488,
+      "view_count": 37844,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/wrong-ai-default?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside corporate AI procurement when everyone on your team knows the default tool can't do the job but saying so makes you sound like the problem instead of the person trying to get work done?\n\nThe common framing is that you're asking for an exception \u2014 but the reality is that your company is expecting frontier tool results from default tool performance, and almost nobody is talking fluently about that gap.\n\nIn this video, I share the inside scoop on how to actually win this conversation:\n\n \u2022 Why your argument is landing as preference instead of evidence and how to fix it\n \u2022 How to run a simple test with one recurring job, two tools, and a week of data\n \u2022 What changes when the ask moves from your manager to a director to an exec\n \u2022 How to answer the four objections you're almost certainly going to get\n\nLeaders treating AI tools as interchangeable are paying a hidden tax in 30-minute chunks and five-minute corrections \u2014 and their best people are already quietly leaving for companies with better tooling.\n\nChapters\n00:00 The approved tool can't do your actual job\n02:30 Why your argument sounds like preference\n05:00 The hidden tax of a bad AI default\n07:30 How to reframe without attacking the default\n10:00 Pick one job and measure it\n12:30 What makes success criteria real\n15:00 The sales ops example: 90 minutes vs 15\n17:30 How to extrapolate across the org\n20:00 The altitude of your ask\n22:30 Handling the four objections\n25:00 AI native companies don't have this problem\n27:30 Talent is concentrating where tooling is excellent\n29:30 What to do this week\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "corporate AI tools",
+        "Copilot",
+        "Claude",
+        "ChatGPT",
+        "AI procurement",
+        "IT policy",
+        "AI adoption",
+        "productivity tools",
+        "enterprise AI",
+        "AI talent",
+        "shadow IT",
+        "AI measurement",
+        "tool selection",
+        "AI strategy for teams",
+        "ai",
+        "artificial intelligence",
+        "future tools",
+        "ai automation",
+        "copilot",
+        "new ai tools"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Microsoft",
+          "Slack",
+          "Box",
+          "Perplexity",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Copilot",
+          "Cursor",
+          "Codex",
+          "Perplexity",
+          "Make"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "That's the question set you ask if you want to set a good standard"
+      ],
+      "summary": [
+        "# Microsoft Is Testing Claude Against Its Own Copilot"
+      ],
+      "transcript_chars": 29438,
+      "folder": "2026-04-30-microsoft-is-testing-claude-against-its-own-copilot-heres-why"
+    },
+    {
+      "title": "Why Gemini 3.1 Pro Broke Every Benchmark #shorts #ai",
+      "video_id": "Dd-471nYilU",
+      "youtube_url": "https://www.youtube.com/watch?v=Dd-471nYilU",
+      "publish_date": "2026-04-30",
+      "duration": "0:56",
+      "duration_seconds": 56,
+      "view_count": 8785,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/gemini-31-pro-broke-every-benchmark?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Google ships the smartest AI model on the planet, prices it at a seventh of the competition, and doesn't care if you keep using Claude or ChatGPT? The common story is that this is another benchmark race\u2014but the reality is more interesting when the company generating $100 billion in annual free cash flow is playing a fundamentally different game.\n\nIn this video, I share the inside scoop on why Gemini 3.1 Pro reveals more about problem types than model rankings:\n\n\u2022 Why Google's vertical stack from TPU silicon to Nobel Prize research is an impregnable fortress\n\u2022 How Deep Think solved 18 previously unsolved problems across math, physics, and economics\n\u2022 What separates reasoning problems from effort, coordination, ambiguity, and emotional intelligence problems\n\u2022 Where the question \"which AI should I use\" becomes the wrong question entirely\n\nFor knowledge workers watching the model landscape differentiate, the margin between routing models well and using one model for everything is widening every single month.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "LLMs",
+        "Gemini 3.1 Pro",
+        "Claude",
+        "OpenAI",
+        "Anthropic",
+        "Google DeepMind",
+        "AI productivity",
+        "AI future of work",
+        "AI career advice",
+        "model routing",
+        "AI tools for builders",
+        "upskilling with AI",
+        "AI strategy for teams",
+        "frontier AI models",
+        "agentic workflows",
+        "AI workforce skills",
+        "google",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Gemini"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "1 Pro Broke Every Benchmark #shorts #ai\nemotional intelligence problems"
+      ],
+      "transcript_chars": 1015,
+      "folder": "2026-04-30-why-gemini-31-pro-broke-every-benchmark-shorts-ai"
+    },
+    {
+      "title": "Salesforce Killed The Browser. Every Agent Runs Your CRM Now.",
+      "video_id": "dQK_pTXrGDk",
+      "youtube_url": "https://www.youtube.com/watch?v=dQK_pTXrGDk",
+      "publish_date": "2026-04-29",
+      "duration": "23:08",
+      "duration_seconds": 1388,
+      "view_count": 54811,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/the-5-question-filter-i-run-every?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside the AI agent market when another launch drops every week and the question is no longer what shipped but which of these actually deserves an afternoon of your team's attention?\n\nThe common reaction is exhaustion \u2014 but the reality is that the agent conversation has quietly moved from model quality to infrastructure, and most launches fail a simple five-question filter.\n\nIn this video, I share the inside scoop on how to cut through the noise:\n\n \u2022 Why the best agent news is infrastructure news and the worst is a new destination to migrate to\n \u2022 How Workspace Agents, Headless 360, Copilot Wave 3, Kimi 2.6, and Perplexity Personal Computer score on the filter\n \u2022 What Claude showing up inside Microsoft, Salesforce, and Perplexity tells you about Anthropic's real strategy\n \u2022 Why the switching question is framed wrong and this is actually a layering question\n\nLeaders chasing whichever agent had the loudest launch will fall behind teams that learned to route work across layers based on the shape of the task.\n\nChapters\n00:00 Another agent launch, another week of exhaustion\n02:00 The five-question filter for every launch\n04:30 ChatGPT Workspace Agents: shared recurring workflows\n07:00 Salesforce Headless 360: infrastructure under the agent economy\n10:00 Microsoft Copilot Wave 3: the data graph advantage\n12:30 Kimi K 2.6: open weights for teams that self-host\n15:00 Perplexity Personal Computer: research-heavy deliverables\n17:30 Claude shows up in three different ways now\n19:30 When to stay, when to use a wrapper, when to switch\n22:00 Filter for infrastructure over features\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "AI agents",
+        "Workspace Agents",
+        "Salesforce Headless 360",
+        "Copilot Wave 3",
+        "Kimi K 2.6",
+        "Perplexity",
+        "Claude",
+        "OpenAI",
+        "MCP",
+        "enterprise AI",
+        "agent infrastructure",
+        "AI routing",
+        "agentic AI",
+        "AI strategy for teams",
+        "ai",
+        "artificial intelligence",
+        "ai tools",
+        "new ai tools"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Salesforce",
+          "Slack",
+          "Perplexity",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Copilot",
+          "Cursor",
+          "Perplexity",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "Claude Opus",
+          "Claude Sonnet",
+          "Sonnet 4",
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Just in the last couple of weeks, OpenAI shipped workspace agents"
+      ],
+      "transcript_chars": 27190,
+      "folder": "2026-04-29-salesforce-killed-the-browser-every-agent-runs-your-crm-now"
+    },
+    {
+      "title": "GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About",
+      "video_id": "9aIYhjeYxzM",
+      "youtube_url": "https://www.youtube.com/watch?v=9aIYhjeYxzM",
+      "publish_date": "2026-04-28",
+      "duration": "32:34",
+      "duration_seconds": 1954,
+      "view_count": 105030,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/chatgpt-55-scored-87-where-the-next?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside the GPT-5.5 release when everyone is comparing benchmark deltas but missing that the floor moved?\n\nThe common story is that 5.5 is a little better than 5.4 \u2014 but the reality is that this model changes what you can reasonably ask a model to do, and I put it through three tests designed to make any frontier model fail.\n\nIn this video, I share the inside scoop on why 5.5 is the strongest model in the world today:\n\n \u2022 Why the old question was \"can the model answer this\" and the new question is \"can the model carry this\"\n \u2022 How Dingo, Splash Brothers, and Artemis II expose where models actually break\n \u2022 What 5.5 caught that no previous model caught and where it still needs validation\n \u2022 Why Codex matters more than ChatGPT for serious work now\n\nLeaders evaluating models on easy tasks will conclude the differences are small \u2014 and they'll be right, but only about the wrong category of work.\n\nChapters\n00:00 5.5 reset the bar\n02:00 The floor moved, not just the ceiling\n04:00 Why the best model still matters\n06:30 The model plus system argument\n08:30 Three tests designed to fail\n10:30 Dingo: executive knowledge work package\n13:00 23 deliverables and legal posture\n15:30 Splash Brothers: dirty data migration\n18:00 Mickey Mouse and the $25K fake payment\n20:30 Where 5.5 still needs validation\n23:00 Artemis II: 3D visualization and taste\n25:30 Why routing between models matters\n27:30 Codex vs ChatGPT for serious work\n29:30 How I'm routing work now\n31:30 What can you now ask it to do\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "GPT-5.5",
+        "OpenAI",
+        "model evaluation",
+        "Codex",
+        "Claude Opus",
+        "frontier models",
+        "AI benchmarks",
+        "data migration",
+        "executive AI",
+        "agentic AI",
+        "model routing",
+        "AI testing",
+        "knowledge work",
+        "AI strategy for teams",
+        "chatgpt",
+        "ai",
+        "artificial intelligence",
+        "opus 4.7",
+        "gemini",
+        "future tools"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple",
+          "Box"
+        ],
+        "people": [
+          "Dario Amodei"
+        ],
+        "products": [
+          "ChatGPT",
+          "GPT-5",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Codex",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Computer Use"
+        ],
+        "models": [
+          "GPT-5",
+          "Gemini",
+          "Gemini 3",
+          "PaLM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "5 vs Claude vs Gemini: The Real Difference Nobody's Talking About\nGPT2 5",
+        "That any one of these tests by itself might give you the wrong story"
+      ],
+      "transcript_chars": 36369,
+      "folder": "2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about"
+    },
+    {
+      "title": "OpenAI Just Gave Every Team A Free Employee. Here's The Catch.",
+      "video_id": "QrvVkm-8Jx4",
+      "youtube_url": "https://www.youtube.com/watch?v=QrvVkm-8Jx4",
+      "publish_date": "2026-04-27",
+      "duration": "23:14",
+      "duration_seconds": 1394,
+      "view_count": 43861,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/your-team-spends-5-hours-a-week-on?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside ChatGPT's new Workspace Agents launch? The common story is that this is just a chatbot upgrade \u2014 but the reality is more interesting.\n\nIn this video, I share the inside scoop on what Workspace Agents actually replaces and where it fits: \u2022 Why this threatens lightweight automation layers, not Claude \u2022 How a plain-English build experience changes who can ship agents \u2022 What workflow patterns consistently work versus consistently backfire \u2022 Where governance becomes the real enterprise unlock\n\nTeams that point AI agents at novel, judgment-heavy work will blame the product when it fails. The real advantage goes to operators who match this tool to repeatable, tool-crossing workflows with a clear output and a human reviewer.\n\nChapters 00:00 - Why This Launch Is Underplayed 01:45 - What's Actually in the Product 03:30 - The Build Experience Explained 05:15 - Why Custom GPTs Never Got There 07:30 - Why Projects Still Required Human Lift 09:15 - The Workflow Pattern That Works 11:00 - Use Cases: Sales Teams 13:00 - Use Cases: Ops, Product, and CS 15:00 - What Workspace Agents Cannot Do 17:00 - The Wrong Way to Evaluate Agents 18:30 - Governance: The Enterprise Unlock 20:30 - The Competitive Picture 22:00 - What to Build First\n\nSubscribe for daily AI strategy and news. For deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n-   Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n-   Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "artificial intelligence",
+        "ai",
+        "ai automation tools",
+        "chatgpt new features",
+        "AI agents",
+        "ChatGPT Workspace Agents",
+        "OpenAI",
+        "automation at work",
+        "AI strategy",
+        "future of work",
+        "enterprise AI",
+        "LLMs",
+        "workflow automation",
+        "AI tools for teams",
+        "Zapier alternative",
+        "upskilling with AI",
+        "AI agent governance",
+        "AI for operators",
+        "AI strategy for teams",
+        "repeatable workflows",
+        "agent deployment"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Slack",
+          "Box",
+          "Perplexity",
+          "Zapier",
+          "Figma",
+          "Intel"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Perplexity",
+          "Zapier",
+          "Make",
+          "n8n",
+          "MCP",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "OpenAI just launched chat GPT workspace agents and after spending the week around the research preview with teams that are actually trying to use it"
+      ],
+      "transcript_chars": 27244,
+      "folder": "2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch"
+    },
+    {
+      "title": "Apple Just Positioned Itself for the Next Trillion Dollars",
+      "video_id": "RaAFquzj5B8",
+      "youtube_url": "https://www.youtube.com/watch?v=RaAFquzj5B8",
+      "publish_date": "2026-04-26",
+      "duration": "20:56",
+      "duration_seconds": 1256,
+      "view_count": 345395,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompt Kit: https://natesnewsletter.substack.com/p/executive-briefing-the-ai-race-youre?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening inside Apple's AI strategy behind the Tim Cook succession?\nThe common story is a smooth handoff to an Apple lifer \u2014 but the reality is more interesting: Apple just restructured the entire company around a race the rest of the industry isn't running.\nIn this video, I share the inside scoop on Apple's hardware-first bet against cloud AI:\n\nWhy Apple elevated two hardware engineers above everyone else\nHow broken cloud AI economics are building a two-class user system\nWhat law firms buying Mac Minis reveal about on-device AI demand\nWhere the trillion-dollar local AI opportunity sits for builders today\n\nFor leaders, builders, and prosumers, the shift from metered cloud AI to owned on-device compute is already underway \u2014 and the question isn't whether to pay attention, but how fast to reposition your strategy around it.\nChapters\n00:00 The Succession Story Nobody's Telling\n01:45 What the Org Chart Actually Says\n03:15 How Apple's Structure Failed the AI Race\n05:00 Why Apple Changed the Game Instead\n06:30 Cloud AI Economics Are Broken\n08:15 The Two-Class AI System Taking Shape\n10:00 Apple's On-Device Bet Explained\n11:45 The Apple II Parallel From 50 Years Ago\n13:30 Why Law Firms Are Buying Mac Minis\n15:15 The Trillion-Dollar Market No One Is Serving\n16:45 What This Means for Leaders\n17:45 What This Means for Builders\n19:00 What This Means for Prosumers\n20:15 Where Apple's Bet Finally Lands\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI strategy",
+        "local AI",
+        "on-device AI",
+        "Apple Silicon",
+        "AI agents",
+        "cloud AI economics",
+        "LLMs",
+        "future of work",
+        "Apple CEO succession",
+        "Tim Cook",
+        "John Ternus",
+        "regulated industries AI",
+        "law firms AI",
+        "AI infrastructure",
+        "AI strategy for leaders",
+        "AI for builders",
+        "on-device AI opportunity",
+        "Apple AI bet",
+        "ai",
+        "artificial intelligence"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple",
+          "Nvidia",
+          "IBM",
+          "Intel",
+          "Qualcomm"
+        ],
+        "people": [
+          "Tim Cook"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "Different from cloud economics of ai and most of the industry has been quietly underpricing the difference"
+      ],
+      "summary": [
+        "# Apple Just Positioned Itself for the Next Trillion Dollars\nTim Cook has stepped down as Apple's CEO"
+      ],
+      "transcript_chars": 24822,
+      "folder": "2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars"
+    },
     {
       "title": "ChatGPT Images Just Replaced Three People on Your Team.",
       "video_id": "brBPsPPyuQM",
@@ -143,6 +991,73 @@
       ],
       "transcript_chars": 1103,
       "folder": "2026-04-25-experienced-developers-took-19-longer-with-ai-aicoding-study-reality"
+    },
+    {
+      "title": "StrongDM's three person team ships with zero human code review #ai #engineering",
+      "video_id": "eY1u8Ni9ClQ",
+      "youtube_url": "https://www.youtube.com/watch?v=eY1u8Ni9ClQ",
+      "publish_date": "2026-04-25",
+      "duration": "1:11",
+      "duration_seconds": 71,
+      "view_count": 15173,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when 90% of Claude Code was written by Claude Code, yet most developers using AI get measurably slower? The common story is that AI coding tools make everyone faster\u2014but the reality is more complicated when a rigorous study found experienced developers took 19% longer while believing they were 24% faster.\n\nIn this video, I share the inside scoop on why the gap between dark factories and everyone else is the most important divide in tech:\n\n\u2022 Why StrongDM's three-person team ships production software with no human-written or human-reviewed code\n\u2022 How the five levels of vibe coding reveal that 90% of developers plateau at level three\n\u2022 What external scenarios and digital twin universes solve that traditional tests cannot\n\u2022 Where the bottleneck has moved from implementation speed to specification quality\n\nFor engineering leaders watching the frontier pull away, this is not a tool problem\u2014it's a people problem, a culture problem, and a willingness-to-change problem that no vendor can close.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "gpt 5",
+        "muse spark",
+        "artificial intelligence",
+        "ai",
+        "AI strategy",
+        "large language models",
+        "LLMs",
+        "AI agents",
+        "future of work",
+        "automation at work",
+        "AI career advice",
+        "upskilling with AI",
+        "AI coding tools",
+        "software engineering AI",
+        "dark factory software",
+        "agentic coding",
+        "prompt engineering",
+        "AI labor market",
+        "junior developer jobs",
+        "AI native startups",
+        "AI jobs for developers",
+        "software team AI",
+        "coding",
+        "programming",
+        "ai assisted coding",
+        "software engineer",
+        "ai coding"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# StrongDM's three person team ships with zero human code review #ai #engineering\nSelf-referential loop has taken hold at both Anthropic and OpenAI, and it's stranger than the hype might make it soun"
+      ],
+      "transcript_chars": 1108,
+      "folder": "2026-04-25-strongdms-three-person-team-ships-with-zero-human-code-review-ai-engineering"
     },
     {
       "title": "Claude Design Does In 30 Minutes What Your Team Does In A Sprint",
@@ -859,6 +1774,58 @@
       ],
       "transcript_chars": 1153,
       "folder": "2026-04-19-the-web-is-about-to-look-completely-different-ai-webdevelopment-futureoftech"
+    },
+    {
+      "title": "This Is Why Your Trading Bot Fails (Wall Street's Doesn't) #trading #botfail #finance",
+      "video_id": "qSLaZ-0zhtU",
+      "youtube_url": "https://www.youtube.com/watch?v=qSLaZ-0zhtU",
+      "publish_date": "2026-04-19",
+      "duration": "1:27",
+      "duration_seconds": 87,
+      "view_count": 118,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/coinbase-stripe-and-cloudflare-all?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Coinbase launches wallets for agents, Cloudflare ships Markdown for agents, and OpenAI publishes tools that let agents install software and write files\u2014all in the same week? The common story is that these are separate product launches\u2014but the reality is more interesting when you recognize the web itself is forking.\n\nIn this video, I share the inside scoop on why every major infrastructure company is simultaneously building toward the same agent-native future:\n\n\u2022 Why 13,000 AI agents registered Ethereum wallets within 24 hours of Coinbase's launch\n\u2022 How Stripe had to retrain its entire fraud detection system because agent traffic doesn't move a mouse\n\u2022 What Cloudflare's Markdown conversion and X402 monetization support means for content access\n\u2022 Where the mobile web analogy breaks down\u2014the new client isn't a smaller screen, it's no screen at all\n\nFor builders watching the primitives snap together, the gap between infrastructure being built and trust people are willing to extend is the central tension of the next few years.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "best ai trading bot",
+        "AI agents",
+        "agentic web",
+        "AI strategy",
+        "future of work",
+        "automation at work",
+        "large language models",
+        "OpenAI",
+        "Coinbase agentic wallets",
+        "Cloudflare markdown",
+        "Stripe agent commerce",
+        "agent payments",
+        "agent security",
+        "agent infrastructure",
+        "AI agent economy",
+        "agentic AI builders",
+        "AI strategy for teams",
+        "autonomous agents 2026",
+        "agent native search"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# This Is Why Your Trading Bot Fails (Wall Street's Doesn't) #trading #botfail #finance\nThe reality is considerably less glamorous"
+      ],
+      "transcript_chars": 1390,
+      "folder": "2026-04-19-this-is-why-your-trading-bot-fails-wall-streets-doesnt-trading-botfail-finance"
     },
     {
       "title": "Every Tech Giant Is Building the Same Thing Right Now #ai #agents #infrastructure",

@@ -62,6 +62,7 @@ yt_tags:
   - "AI strategy for teams"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Agents"

@@ -1,7 +1,10 @@
 # Meta
 
-Episodes discussing **Meta** (121 episodes):
+Episodes discussing **Meta** (124 episodes):
 
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)
+- [StrongDM's three person team ships with zero human code review #ai #engineering](../episodes/2026-04-25-strongdms-three-person-team-ships-with-zero-human-code-review-ai-engineering/transcript.md) (2026-04-25)
 - [The web is about to look completely different #AI #WebDevelopment #FutureOfTech](../episodes/2026-04-19-the-web-is-about-to-look-completely-different-ai-webdevelopment-futureoftech/transcript.md) (2026-04-19)
 - [Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.](../episodes/2026-04-18-karpathys-agent-ran-700-experiments-while-he-slept-its-coming-for-you/transcript.md) (2026-04-18)
 - [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](../episodes/2026-04-17-anthropic-and-openai-are-fighting-over-your-memory-youre-going-to-lose/transcript.md) (2026-04-17)

@@ -1,7 +1,9 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (70 episodes):
+Episodes discussing **Nvidia** (72 episodes):
 
+- [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](../episodes/2026-04-16-your-ai-is-50x-faster-youre-getting-2x-youre-fixing-the-wrong-thing/transcript.md) (2026-04-16)
 - [The Real Problem With AI Agents Nobody's Talking About](../episodes/2026-04-15-the-real-problem-with-ai-agents-nobodys-talking-about/transcript.md) (2026-04-15)
 - [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)

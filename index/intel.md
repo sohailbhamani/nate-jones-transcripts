@@ -1,7 +1,9 @@
 # Intel
 
-Episodes discussing **Intel** (7 episodes):
+Episodes discussing **Intel** (9 episodes):
 
+- [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](../episodes/2026-04-27-openai-just-gave-every-team-a-free-employee-heres-the-catch/transcript.md) (2026-04-27)
+- [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)
 - [Trump Just Gutted State Al Laws, OpenAl Panicked, Al Agents Stole $4.6M--Your 10-Minute Breakdown](../episodes/2025-12-13-trump-just-gutted-state-al-laws-openal-panicked-al-agents-stole-46m-your-10-minu/transcript.md) (2025-12-13)
 - [Your AI Can't See 16% of Humanity. Here's the 5-Minute Check That Proves It.](../episodes/2025-12-06-your-ai-cant-see-16-of-humanity-heres-the-5-minute-check-that-proves-it/transcript.md) (2025-12-06)
 - [Gemini 3 Just Triggered The Biggest AI Reset Since 2022](../episodes/2025-11-16-gemini-3-just-triggered-the-biggest-ai-reset-since-2022/transcript.md) (2025-11-16)
