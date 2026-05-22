@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (444 episodes):
+Episodes discussing **Ai Strategy** (445 episodes):
 
+- [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
 - [Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting](../episodes/2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting/transcript.md) (2026-05-21)
 - [The calculator moment nobody's talking about in education #AIinEducation #Learning #Parenting](../episodes/2026-05-20-the-calculator-moment-nobodys-talking-about-in-education-aiineducation-learning/transcript.md) (2026-05-20)
 - [40% growth nobody saw coming #expansion #tech](../episodes/2026-05-19-40-growth-nobody-saw-coming-expansion-tech/transcript.md) (2026-05-19)

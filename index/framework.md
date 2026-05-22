@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (166 episodes):
+Episodes discussing **Framework** (167 episodes):
 
+- [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
 - [The Secret Behind GPT's Simplicity #chatgpt #ai](../episodes/2026-05-15-the-secret-behind-gpts-simplicity-chatgpt-ai/transcript.md) (2026-05-15)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
 - [While Execs Panic, This Skill Gets Rare #ai #career](../episodes/2026-05-12-while-execs-panic-this-skill-gets-rare-ai-career/transcript.md) (2026-05-12)
