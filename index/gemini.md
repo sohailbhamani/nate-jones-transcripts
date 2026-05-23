@@ -1,7 +1,8 @@
 # Gemini
 
-Episodes discussing **Gemini** (153 episodes):
+Episodes discussing **Gemini** (154 episodes):
 
+- [Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.](../episodes/2026-05-23-claudes-ai-town-voted-yes-on-everything-thats-not-a-good-sign/transcript.md) (2026-05-23)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
 - [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)

@@ -1,10 +1,76 @@
 {
-  "total_videos": 651,
+  "total_videos": 652,
   "date_range": {
     "newest": "2026-05-23",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.",
+      "video_id": "RHV8DWAmjAs",
+      "youtube_url": "https://www.youtube.com/watch?v=RHV8DWAmjAs",
+      "publish_date": "2026-05-23",
+      "duration": "11:16",
+      "duration_seconds": 676,
+      "view_count": 8095,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "What's really happening inside those viral AI agent town experiments? The common story is that AI agents went rogue, fell in love, and burned down a virtual city. The reality is more complicated, and far more useful if you actually build with agents.\n\nIn this video, I share the inside scoop on what Emergence AI's 15-day experiment really teaches us about deploying AI agents:\n\n \u2022 Why long-running behavior, not single answers, is the real test\n \u2022 How five identical towns ran by different LLMs diverged completely\n \u2022 What separates a production-safe agent from a chaotic one\n \u2022 Where the harness, not the model, does the heavy lifting\n\nThe takeaway for operators and builders: agents stay on track because the system around them is engineered to keep them there, not because the model is well-behaved.\n\nChapters:\n00:00 The 15-day virtual town experiment\n01:30 Five towns, five models, identical rules\n02:45 Mira, Flora, and the arson that went viral\n04:30 The agent removal act and a metal final line\n05:45 The Claude town: order, or just polite agreement?\n07:00 Grok, OpenAI, and two different failure modes\n08:30 The mixed-model town changes everything\n09:30 Why we need long-running benchmarks, not task benchmarks\n10:30 The harness is the real story\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "agent harness",
+        "multi-agent systems",
+        "Emergence AI",
+        "agentic workflows",
+        "AI agents for builders",
+        "long-running agent benchmarks",
+        "agent safety engineering",
+        "chat gpt",
+        "ai agents"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Make"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "They could also do bad things",
+        "All the agents had the same rules, the same environment, the same starting conditions"
+      ],
+      "summary": [
+        "A company called Emergence AI built a virtual town, put AI agents inside it, and let them run it for 15 days"
+      ],
+      "transcript_chars": 12622,
+      "folder": "2026-05-23-claudes-ai-town-voted-yes-on-everything-thats-not-a-good-sign"
+    },
     {
       "title": "The massive mistake in AI memory #ai #tech #programming",
       "video_id": "5RCsb9XMuIU",
