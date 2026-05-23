@@ -1,10 +1,128 @@
 {
-  "total_videos": 649,
+  "total_videos": 651,
   "date_range": {
-    "newest": "2026-05-22",
+    "newest": "2026-05-23",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The massive mistake in AI memory #ai #tech #programming",
+      "video_id": "5RCsb9XMuIU",
+      "youtube_url": "https://www.youtube.com/watch?v=5RCsb9XMuIU",
+      "publish_date": "2026-05-23",
+      "duration": "1:00",
+      "duration_seconds": 60,
+      "view_count": 671,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ OpenBrain Guide: https://natesnewsletter.substack.com/p/every-ai-you-use-forgets-you-heres?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Claude's memory doesn't know what you told ChatGPT and your phone app doesn't share context with your coding agent? The common story is that AI memory is getting better\u2014but the reality is more interesting when every platform has built a walled garden designed to create lock-in.\n\nIn this video, I share the inside scoop on why the architecture of agent-readable memory matters more than any individual tool:\n\n\u2022 Why your Notion workspace is beautiful for humans and useless for agents that search by meaning \n\u2022 How a Postgres database with vector embeddings runs for 10-30 cents a month \n\u2022 What MCP servers enable when one brain connects to every AI you touch \n\u2022 Where the compounding advantage lives for people who stop re-explaining themselves\n\nFor anyone watching the agent revolution go mainstream, the gap between starting from zero and starting with six months of accumulated context is the career gap of this decade.\n\nSubscribe for daily AI strategy and news.\n\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/episode/57x8ZaXXInAN7NmeuXrJ0q\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372?i=1000752782596\n",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "LLMs",
+        "MCP protocol",
+        "context engineering",
+        "AI productivity",
+        "second brain AI",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "AI memory system",
+        "agent readable memory",
+        "AI future of work",
+        "AI tools for builders",
+        "autonomous agents",
+        "AI workflow",
+        "upskilling with AI",
+        "AI strategy for teams",
+        "nate b jones",
+        "nate b jones ai",
+        "openbrain ai",
+        "openbrain"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The massive mistake in AI memory #ai #tech #programming\nInstead of storing your thoughts in an app designed for humans, you should store them in infrastructure designed for anything"
+      ],
+      "transcript_chars": 939,
+      "folder": "2026-05-23-the-massive-mistake-in-ai-memory-ai-tech-programming"
+    },
+    {
+      "title": "This 30-cent database gives your AI infinite memory #ai #tech #coding",
+      "video_id": "eszYRrsIdHg",
+      "youtube_url": "https://www.youtube.com/watch?v=eszYRrsIdHg",
+      "publish_date": "2026-05-23",
+      "duration": "0:57",
+      "duration_seconds": 57,
+      "view_count": 2663,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/every-ai-you-use-forgets-you-heres?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when Claude's memory doesn't know what you told ChatGPT and your phone app doesn't share context with your coding agent? The common story is that AI memory is getting better\u2014but the reality is more interesting when every platform has built a walled garden designed to create lock-in.\n\nIn this video, I share the inside scoop on why the architecture of agent-readable memory matters more than any individual tool:\n\n\u2022 Why your Notion workspace is beautiful for humans and useless for agents that search by meaning \n\u2022 How a Postgres database with vector embeddings runs for 10-30 cents a month \n\u2022 What MCP servers enable when one brain connects to every AI you touch \n\u2022 Where the compounding advantage lives for people who stop re-explaining themselves\n\nFor anyone watching the agent revolution go mainstream, the gap between starting from zero and starting with six months of accumulated context is the career gap of this decade.\n\nSubscribe for daily AI strategy and news.\n\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/episode/57x8ZaXXInAN7NmeuXrJ0q\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372?i=1000752782596\n",
+      "yt_tags": [
+        "AI agents",
+        "AI strategy",
+        "LLMs",
+        "MCP protocol",
+        "context engineering",
+        "AI productivity",
+        "second brain AI",
+        "OpenAI",
+        "Anthropic",
+        "Claude",
+        "AI memory system",
+        "agent readable memory",
+        "AI future of work",
+        "AI tools for builders",
+        "autonomous agents",
+        "AI workflow",
+        "upskilling with AI",
+        "AI strategy for teams",
+        "nate b jones",
+        "nate b jones ai"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Slack",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Cursor",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# This 30-cent database gives your AI infinite memory #ai #tech #coding\nSo, what this looks like when you have Postgres hooked up with an MCP server is you can type into a Slack channel, 'Hey, I was "
+      ],
+      "transcript_chars": 1010,
+      "folder": "2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding"
+    },
     {
       "title": "The One AI Writing Hack Nobody Talks About.",
       "video_id": "ltbzgzZZmgI",

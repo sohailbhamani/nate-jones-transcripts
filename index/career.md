@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (297 episodes):
+Episodes discussing **Career** (298 episodes):
 
+- [This 30-cent database gives your AI infinite memory #ai #tech #coding](../episodes/2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding/transcript.md) (2026-05-23)
 - [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
 - [The biggest lie you've heard about AI jobs #ai #futureofwork #shorts](../episodes/2026-05-19-the-biggest-lie-youve-heard-about-ai-jobs-ai-futureofwork-shorts/transcript.md) (2026-05-19)
 - [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)

@@ -1,7 +1,9 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (467 episodes):
+Episodes discussing **Ai Tools** (469 episodes):
 
+- [The massive mistake in AI memory #ai #tech #programming](../episodes/2026-05-23-the-massive-mistake-in-ai-memory-ai-tech-programming/transcript.md) (2026-05-23)
+- [This 30-cent database gives your AI infinite memory #ai #tech #coding](../episodes/2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding/transcript.md) (2026-05-23)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
 - [Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting](../episodes/2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting/transcript.md) (2026-05-21)
 - [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
