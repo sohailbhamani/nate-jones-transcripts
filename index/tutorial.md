@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (209 episodes):
+Episodes discussing **Tutorial** (210 episodes):
 
+- [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)
 - [How ChatGPT Became Teenagers' Best Friend #AI #Psychology](../episodes/2026-05-20-how-chatgpt-became-teenagers-best-friend-ai-psychology/transcript.md) (2026-05-20)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
