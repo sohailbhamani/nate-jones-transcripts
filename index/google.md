@@ -1,8 +1,9 @@
 # Google
 
-Episodes discussing **Google** (274 episodes):
+Episodes discussing **Google** (275 episodes):
 
 - [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.](../episodes/2026-05-23-claudes-ai-town-voted-yes-on-everything-thats-not-a-good-sign/transcript.md) (2026-05-23)
 - [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)

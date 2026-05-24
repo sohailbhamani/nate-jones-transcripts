@@ -1,7 +1,8 @@
 # Azure
 
-Episodes discussing **Azure** (22 episodes):
+Episodes discussing **Azure** (23 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
 - [Claude Code vs Codex: The Decision That Compounds Every Week You Delay That Nobody Is Talking About](../episodes/2026-03-06-claude-code-vs-codex-the-decision-that-compounds-every-week-you-delay-that-nobod/transcript.md) (2026-03-06)
 - [Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.](../episodes/2026-03-03-dario-amodei-made-one-mistake-sam-altman-got-110-billion-heres-the-full-story/transcript.md) (2026-03-03)

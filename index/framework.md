@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (170 episodes):
+Episodes discussing **Framework** (171 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.](../episodes/2026-05-23-claudes-ai-town-voted-yes-on-everything-thats-not-a-good-sign/transcript.md) (2026-05-23)
 - [The massive mistake in AI memory #ai #tech #programming](../episodes/2026-05-23-the-massive-mistake-in-ai-memory-ai-tech-programming/transcript.md) (2026-05-23)
 - [This 30-cent database gives your AI infinite memory #ai #tech #coding](../episodes/2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding/transcript.md) (2026-05-23)

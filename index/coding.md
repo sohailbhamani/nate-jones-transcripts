@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (408 episodes):
+Episodes discussing **Coding** (409 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [The massive mistake in AI memory #ai #tech #programming](../episodes/2026-05-23-the-massive-mistake-in-ai-memory-ai-tech-programming/transcript.md) (2026-05-23)
 - [This 30-cent database gives your AI infinite memory #ai #tech #coding](../episodes/2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding/transcript.md) (2026-05-23)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)

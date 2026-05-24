@@ -1,5 +1,5 @@
 {
-  "total_videos": 653,
+  "total_videos": 654,
   "date_range": {
     "newest": "2026-05-24",
     "oldest": "2024-05-21"
@@ -63,6 +63,82 @@
       ],
       "transcript_chars": 988,
       "folder": "2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech"
+    },
+    {
+      "title": "Why the AI boom is about to hit a wall",
+      "video_id": "Poyi6X7rOwY",
+      "youtube_url": "https://www.youtube.com/watch?v=Poyi6X7rOwY",
+      "publish_date": "2026-05-24",
+      "duration": "23:37",
+      "duration_seconds": 1417,
+      "view_count": 4419,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompt Pack: https://natesnewsletter.substack.com/p/ai-big-tech-industrial-business?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening inside the AI supply chain that powers every model you use?\n\nThe common story is that AI is a software business with a fancy backend. The reality is more complicated, and it changes how you should buy, budget, and contract for AI.\n\nIn this video, I share the inside scoop on why your AI vendor contract is now a supply contract in everything but name:\n\n \u2022 Why \"capacity constrained\" points to memory and packaging, not GPUs\n \u2022 How hyperscaler CapEx reshapes every vendor agreement you sign\n \u2022 What questions belong in your next AI investment review\n \u2022 Where a single supply chain delay stops you from shipping AI\n\nFor operators and CFOs, the takeaway is sober: cheaper tokens are real and serving costs keep falling, but the industrial base underneath your AI strategy still demands supply assurance, utilization discipline, and contracts that account for allocation risk.\n\nChapters:\n00:00 Microsoft's $190B and \"capacity constrained\"\n01:35 Why this isn't just \"AI is industrial\" again\n03:10 Software contracts became supply contracts\n05:20 Why developers belong in procurement\n07:05 Stop thinking of AI as software with a backend\n08:40 Every hyperscaler is spending the same way\n10:30 The module: NVIDIA GB200 NVL72\n12:15 High bandwidth memory, the real constraint\n13:45 Packaging, substrates, and optics\n15:25 Power, cooling, and construction timelines\n17:30 The 90% packaging vs 12% logic die gap\n19:00 The capital cycle CFOs need to learn\n20:40 Forecasting tokens, not seats\n22:10 The good news: serving costs are falling\n23:00 Three questions for your investment review\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI supply chain",
+        "AI infrastructure",
+        "AI procurement",
+        "hyperscalers",
+        "token forecasting",
+        "AI strategy for CFOs",
+        "AI vendor contracts",
+        "AI capacity planning",
+        "microsoft"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "Nvidia",
+          "AWS",
+          "Azure",
+          "TSMC"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Copilot",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "I think that a lot of our experience with ai is tied down by our assumptions about how software has always been sold"
+      ],
+      "summary": [
+        "# Why the AI boom is about to hit a wall\nOn Microsoft's Q3 earnings call on April 29th, Satcha Nadella told investors the company will spend $190 billion on capex in this calendar year and still expe"
+      ],
+      "transcript_chars": 24905,
+      "folder": "2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall"
     },
     {
       "title": "Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.",

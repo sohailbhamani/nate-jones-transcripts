@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (72 episodes):
+Episodes discussing **Opus** (73 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
 - [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
 - [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)

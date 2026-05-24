@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (406 episodes):
+Episodes discussing **Product Management** (407 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
 - [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)

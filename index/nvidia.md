@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (73 episodes):
+Episodes discussing **Nvidia** (74 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
 - [Apple Just Positioned Itself for the Next Trillion Dollars](../episodes/2026-04-26-apple-just-positioned-itself-for-the-next-trillion-dollars/transcript.md) (2026-04-26)

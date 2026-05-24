@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (291 episodes):
+Episodes discussing **Leadership** (292 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [The massive mistake in AI memory #ai #tech #programming](../episodes/2026-05-23-the-massive-mistake-in-ai-memory-ai-tech-programming/transcript.md) (2026-05-23)
 - [This 30-cent database gives your AI infinite memory #ai #tech #coding](../episodes/2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding/transcript.md) (2026-05-23)
 - [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)

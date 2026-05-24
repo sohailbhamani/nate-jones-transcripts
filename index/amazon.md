@@ -1,7 +1,8 @@
 # Amazon
 
-Episodes discussing **Amazon** (106 episodes):
+Episodes discussing **Amazon** (107 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)

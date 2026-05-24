@@ -1,7 +1,8 @@
 # Copilot
 
-Episodes discussing **Copilot** (39 episodes):
+Episodes discussing **Copilot** (40 episodes):
 
+- [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)
 - [Your SaaS Bill Just Got a Second Meter. You're About to Pay It.](../episodes/2026-05-15-your-saas-bill-just-got-a-second-meter-youre-about-to-pay-it/transcript.md) (2026-05-15)
 - [Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](../episodes/2026-05-03-stripe-visa-mastercard-microsoft-meta-all-building-the-same-thing/transcript.md) (2026-05-03)
