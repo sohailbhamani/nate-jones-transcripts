@@ -1,7 +1,8 @@
 # Mcp
 
-Episodes discussing **Mcp** (82 episodes):
+Episodes discussing **Mcp** (83 episodes):
 
+- [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [The massive mistake in AI memory #ai #tech #programming](../episodes/2026-05-23-the-massive-mistake-in-ai-memory-ai-tech-programming/transcript.md) (2026-05-23)
 - [This 30-cent database gives your AI infinite memory #ai #tech #coding](../episodes/2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding/transcript.md) (2026-05-23)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)

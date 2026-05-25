@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (277 episodes):
+Episodes discussing **Openai** (278 episodes):
 
+- [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.](../episodes/2026-05-23-claudes-ai-town-voted-yes-on-everything-thats-not-a-good-sign/transcript.md) (2026-05-23)

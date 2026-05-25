@@ -1,7 +1,8 @@
 # Cursor
 
-Episodes discussing **Cursor** (104 episodes):
+Episodes discussing **Cursor** (105 episodes):
 
+- [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [This 30-cent database gives your AI infinite memory #ai #tech #coding](../episodes/2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding/transcript.md) (2026-05-23)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
 - [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)

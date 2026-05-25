@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (491 episodes):
+Episodes discussing **Make** (492 episodes):
 
+- [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.](../episodes/2026-05-23-claudes-ai-town-voted-yes-on-everything-thats-not-a-good-sign/transcript.md) (2026-05-23)
 - [The massive mistake in AI memory #ai #tech #programming](../episodes/2026-05-23-the-massive-mistake-in-ai-memory-ai-tech-programming/transcript.md) (2026-05-23)

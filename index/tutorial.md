@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (210 episodes):
+Episodes discussing **Tutorial** (211 episodes):
 
+- [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)
 - [How ChatGPT Became Teenagers' Best Friend #AI #Psychology](../episodes/2026-05-20-how-chatgpt-became-teenagers-best-friend-ai-psychology/transcript.md) (2026-05-20)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
