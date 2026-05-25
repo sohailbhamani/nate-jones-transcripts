@@ -1,5 +1,5 @@
 {
-  "total_videos": 655,
+  "total_videos": 656,
   "date_range": {
     "newest": "2026-05-25",
     "oldest": "2024-05-21"
@@ -66,6 +66,69 @@
       ],
       "transcript_chars": 975,
       "folder": "2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech"
+    },
+    {
+      "title": "The Infrastructure Nightmare Nobody Is Talking About",
+      "video_id": "z3pbrFKVyQE",
+      "youtube_url": "https://www.youtube.com/watch?v=z3pbrFKVyQE",
+      "publish_date": "2026-05-25",
+      "duration": "46:37",
+      "duration_seconds": 2797,
+      "view_count": 7143,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompt Pack Build Your Own Eval Suite: https://natesnewsletter.substack.com/p/ai-big-tech-industrial-business?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening inside an AI infrastructure team when agents start doing the work? The common story is that AI makes every team faster. The reality is more complicated, because the speed arrives unevenly and someone underneath has to absorb it. I sat down with Emma, who leads data infrastructure engineering at OpenAI, to find out what her team is actually building to stay ahead of the agents.\n\nIn this interview, I share the inside scoop on why platform teams become the bottleneck when AI agents scale across a company:\n\n- Why app teams and platform teams accelerate at completely different rates\n- How goal-directed agents start to feel adversarial without meaning to\n- What OpenAI's data platform team built to buy back time\n- Where a private eval suite fits into surviving constant model upgrades\n\nFor platform and infra engineers, this is the telegraph from the future: the pinch point is coming, and the teams that instrument the load now are the ones who stay standing.\n\nChapters:\n00:00 Meet Emma and the OpenAI data platform team\n01:46 What changed in the last six months\n03:10 Agents now run the release process\n05:15 The export job that fixed itself overnight\n07:52 When acceleration is uneven across teams\n09:29 The user who didn't know what Flink was\n12:18 Why agents turn unintentionally adversarial\n22:56 Platform agents need different primitives\n34:35 Triaging inbound to buy your team time back\n40:55 Building a janky eval suite that works\n44:56 The one thing leaders need to hear\nSubscribe for daily AI strategy and news.\n\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n= Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "platform engineering",
+        "infrastructure engineering",
+        "OpenAI",
+        "Codex",
+        "agentic code review",
+        "AI eval suite",
+        "AI agents for platform teams",
+        "openai",
+        "futuretools"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Notion",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The Infrastructure Nightmare Nobody Is Talking About\nI would love to hear from you like you know tell me about Emma"
+      ],
+      "transcript_chars": 50715,
+      "folder": "2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about"
     },
     {
       "title": "Why switching AI models is now impossible \ud83d\ude33 #chatgpt #ai #tech",

@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (88 episodes):
+Episodes discussing **Slack** (89 episodes):
 
+- [The Infrastructure Nightmare Nobody Is Talking About](../episodes/2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about/transcript.md) (2026-05-25)
 - [This 30-cent database gives your AI infinite memory #ai #tech #coding](../episodes/2026-05-23-this-30-cent-database-gives-your-ai-infinite-memory-ai-tech-coding/transcript.md) (2026-05-23)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)

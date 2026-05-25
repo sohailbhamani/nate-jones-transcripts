@@ -1,8 +1,9 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (293 episodes):
+Episodes discussing **Ai Agents** (294 episodes):
 
 - [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
+- [The Infrastructure Nightmare Nobody Is Talking About](../episodes/2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about/transcript.md) (2026-05-25)
 - [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)
 - [Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.](../episodes/2026-05-23-claudes-ai-town-voted-yes-on-everything-thats-not-a-good-sign/transcript.md) (2026-05-23)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
