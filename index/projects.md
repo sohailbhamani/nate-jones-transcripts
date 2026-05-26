@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (96 episodes):
+Episodes discussing **Projects** (97 episodes):
 
+- [Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech](../episodes/2026-05-26-are-ai-agents-actually-boosting-productivity-futureofwork-ai-tech/transcript.md) (2026-05-26)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
 - [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)

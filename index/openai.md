@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (279 episodes):
+Episodes discussing **Openai** (280 episodes):
 
+- [Why you should never trust ChatGPT's memory #ai #tech #chatgpt](../episodes/2026-05-26-why-you-should-never-trust-chatgpts-memory-ai-tech-chatgpt/transcript.md) (2026-05-26)
 - [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [The Infrastructure Nightmare Nobody Is Talking About](../episodes/2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about/transcript.md) (2026-05-25)
 - [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)
