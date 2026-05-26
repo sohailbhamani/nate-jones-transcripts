@@ -1,5 +1,5 @@
 {
-  "total_videos": 658,
+  "total_videos": 659,
   "date_range": {
     "newest": "2026-05-26",
     "oldest": "2024-05-21"
@@ -62,6 +62,66 @@
       ],
       "transcript_chars": 1125,
       "folder": "2026-05-26-are-ai-agents-actually-boosting-productivity-futureofwork-ai-tech"
+    },
+    {
+      "title": "Shopify CEO Reveals Their Secret AI Developer",
+      "video_id": "NRBQmwlILjk",
+      "youtube_url": "https://www.youtube.com/watch?v=NRBQmwlILjk",
+      "publish_date": "2026-05-26",
+      "duration": "16:25",
+      "duration_seconds": 985,
+      "view_count": 7195,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompts to Bring This To Your Org: https://natesnewsletter.substack.com/p/public-ai-work-team-learning?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening inside companies that are actually getting smarter with AI, not just faster? The common story is that AI adoption is a tooling problem you solve by buying licenses, but the reality is more complicated.\n\nIn this video, I share the inside scoop on why your most valuable AI work is invisible:\n\n \u2022 Why Shopify's River agent only runs in public Slack channels\n \u2022 How private AI chats are widening an apprenticeship gap\n \u2022 What four parts of AI work you should make visible\n \u2022 Where regulated teams can still expose work safely\n\nFor teams, the opportunity is real organizational learning, but only if senior people are willing to run actual work where everyone can watch.\n\nChapters:\n00:00 The substrate for AI collaboration\n01:30 Slack versus Teams and Copilot\n03:29 Why AI is coming to your company\n04:45 Tooling choices are frontier choices\n05:46 The apprenticeship gap\n07:30 Polanyi's paradox and tacit knowledge\n09:03 What public AI work looks like\n11:00 Why a prompt library isn't enough\n13:28 Building a public AI workflow\n15:00 Privacy, declared spaces, and senior people\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "Shopify River",
+        "AI apprenticeship",
+        "upskilling with AI",
+        "career development",
+        "shopify",
+        "tobi lutke"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Shopify",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Operator"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Shopify CEO Reveals Their Secret AI Developer\nSo Shopify's internal coding agent is named River"
+      ],
+      "transcript_chars": 18440,
+      "folder": "2026-05-26-shopify-ceo-reveals-their-secret-ai-developer"
     },
     {
       "title": "Why you should never trust ChatGPT's memory #ai #tech #chatgpt",

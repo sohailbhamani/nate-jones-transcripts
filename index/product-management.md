@@ -1,8 +1,9 @@
 # Product Management
 
-Episodes discussing **Product Management** (411 episodes):
+Episodes discussing **Product Management** (412 episodes):
 
 - [Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech](../episodes/2026-05-26-are-ai-agents-actually-boosting-productivity-futureofwork-ai-tech/transcript.md) (2026-05-26)
+- [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)
 - [Why you should never trust ChatGPT's memory #ai #tech #chatgpt](../episodes/2026-05-26-why-you-should-never-trust-chatgpts-memory-ai-tech-chatgpt/transcript.md) (2026-05-26)
 - [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [The Infrastructure Nightmare Nobody Is Talking About](../episodes/2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about/transcript.md) (2026-05-25)

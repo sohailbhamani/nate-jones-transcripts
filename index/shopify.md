@@ -1,7 +1,8 @@
 # Shopify
 
-Episodes discussing **Shopify** (23 episodes):
+Episodes discussing **Shopify** (24 episodes):
 
+- [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)
 - [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
 - [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
 - [Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.](../episodes/2026-04-18-karpathys-agent-ran-700-experiments-while-he-slept-its-coming-for-you/transcript.md) (2026-04-18)

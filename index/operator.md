@@ -1,7 +1,8 @@
 # Operator
 
-Episodes discussing **Operator** (27 episodes):
+Episodes discussing **Operator** (28 episodes):
 
+- [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](../episodes/2026-05-07-your-ai-agent-is-locked-to-one-model-openclaw-just-killed-that/transcript.md) (2026-05-07)
 - [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
