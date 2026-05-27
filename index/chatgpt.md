@@ -1,7 +1,9 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (83 episodes):
+Episodes discussing **Chatgpt** (85 episodes):
 
+- [The mistake everyone makes switching to Claude #ai #claude](../episodes/2026-05-27-the-mistake-everyone-makes-switching-to-claude-ai-claude/transcript.md) (2026-05-27)
+- [Why you're using Claude completely wrong #ai #claude #chatgpt](../episodes/2026-05-27-why-youre-using-claude-completely-wrong-ai-claude-chatgpt/transcript.md) (2026-05-27)
 - [Why you should never trust ChatGPT's memory #ai #tech #chatgpt](../episodes/2026-05-26-why-you-should-never-trust-chatgpts-memory-ai-tech-chatgpt/transcript.md) (2026-05-26)
 - [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)

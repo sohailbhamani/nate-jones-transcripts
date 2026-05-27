@@ -1,7 +1,9 @@
 # Framework
 
-Episodes discussing **Framework** (172 episodes):
+Episodes discussing **Framework** (174 episodes):
 
+- [The mistake everyone makes switching to Claude #ai #claude](../episodes/2026-05-27-the-mistake-everyone-makes-switching-to-claude-ai-claude/transcript.md) (2026-05-27)
+- [Why you're using Claude completely wrong #ai #claude #chatgpt](../episodes/2026-05-27-why-youre-using-claude-completely-wrong-ai-claude-chatgpt/transcript.md) (2026-05-27)
 - [Why you should never trust ChatGPT's memory #ai #tech #chatgpt](../episodes/2026-05-26-why-you-should-never-trust-chatgpts-memory-ai-tech-chatgpt/transcript.md) (2026-05-26)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [Claude's AI Town Voted Yes On Everything. That's Not A Good Sign.](../episodes/2026-05-23-claudes-ai-town-voted-yes-on-everything-thats-not-a-good-sign/transcript.md) (2026-05-23)

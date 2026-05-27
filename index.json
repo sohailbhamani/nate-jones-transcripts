@@ -1,10 +1,115 @@
 {
-  "total_videos": 659,
+  "total_videos": 661,
   "date_range": {
-    "newest": "2026-05-26",
+    "newest": "2026-05-27",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The mistake everyone makes switching to Claude #ai #claude",
+      "video_id": "C9BfGswIRnk",
+      "youtube_url": "https://www.youtube.com/watch?v=C9BfGswIRnk",
+      "publish_date": "2026-05-27",
+      "duration": "0:58",
+      "duration_seconds": 58,
+      "view_count": 1389,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/millions-just-switched-to-claude?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when millions of new users download Claude expecting a ChatGPT replacement and wonder why the spreadsheet features are missing? The common story is that AI models are interchangeable brands\u2014but the reality is more interesting when constitutional AI produces measurably different behavior than reinforcement learning with human feedback.\nIn this video, I share the inside scoop on why switching to Claude with the same habits misses the point:\n\n\u2022 Why Claude is more likely to tell you your plan has a hole in it\n\u2022 How describing your situation instead of your desired output changes everything\n\u2022 What extended thinking reveals about steering the chain of thought in real time\n\u2022 Where Cowork reframes the category from conversation partner to desktop worker\nFor anyone teaching a friend about Claude or learning it yourself, these differences shape how you think about AI over time\u2014and that compounds.\n\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com\n",
+      "yt_tags": [
+        "Claude",
+        "ChatGPT",
+        "Anthropic",
+        "OpenAI",
+        "AI comparison",
+        "AI productivity",
+        "constitutional AI",
+        "AI workflow",
+        "AI prompting",
+        "Cowork",
+        "AI tools",
+        "AI writing",
+        "enterprise AI",
+        "AI differences",
+        "AI strategy for teams",
+        "ai strategy",
+        "nate b jones",
+        "nate b jones ai"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The mistake everyone makes switching to Claude #ai #claude\nClaude is going to have a little bit more trouble guessing beyond what you've told it"
+      ],
+      "transcript_chars": 1017,
+      "folder": "2026-05-27-the-mistake-everyone-makes-switching-to-claude-ai-claude"
+    },
+    {
+      "title": "Why you're using Claude completely wrong #ai #claude #chatgpt",
+      "video_id": "6_7Tk0ZH9bU",
+      "youtube_url": "https://www.youtube.com/watch?v=6_7Tk0ZH9bU",
+      "publish_date": "2026-05-27",
+      "duration": "1:25",
+      "duration_seconds": 85,
+      "view_count": 1123,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/millions-just-switched-to-claude?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when millions of new users download Claude expecting a ChatGPT replacement and wonder why the spreadsheet features are missing? The common story is that AI models are interchangeable brands\u2014but the reality is more interesting when constitutional AI produces measurably different behavior than reinforcement learning with human feedback.\nIn this video, I share the inside scoop on why switching to Claude with the same habits misses the point:\n\n\u2022 Why Claude is more likely to tell you your plan has a hole in it\n\u2022 How describing your situation instead of your desired output changes everything\n\u2022 What extended thinking reveals about steering the chain of thought in real time\n\u2022 Where Cowork reframes the category from conversation partner to desktop worker\nFor anyone teaching a friend about Claude or learning it yourself, these differences shape how you think about AI over time\u2014and that compounds.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com\n",
+      "yt_tags": [
+        "Claude",
+        "ChatGPT",
+        "Anthropic",
+        "OpenAI",
+        "AI comparison",
+        "AI productivity",
+        "constitutional AI",
+        "AI workflow",
+        "AI prompting",
+        "Cowork",
+        "AI tools",
+        "AI writing",
+        "enterprise AI",
+        "AI differences",
+        "AI strategy for teams",
+        "ai strategy",
+        "nate b jones",
+        "nate b jones ai"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Why you're using Claude completely wrong #ai #claude #chatgpt\nClaude tends to respond more quickly, but uses all of that verbiage to stay on track and solve the problem"
+      ],
+      "transcript_chars": 1422,
+      "folder": "2026-05-27-why-youre-using-claude-completely-wrong-ai-claude-chatgpt"
+    },
     {
       "title": "Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech",
       "video_id": "rg6xNfwHYUU",
