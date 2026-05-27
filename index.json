@@ -1,10 +1,74 @@
 {
-  "total_videos": 661,
+  "total_videos": 662,
   "date_range": {
     "newest": "2026-05-27",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I Built a Deck With AI, Then Made a Second AI Attack It.",
+      "video_id": "MFzxIT88zfg",
+      "youtube_url": "https://www.youtube.com/watch?v=MFzxIT88zfg",
+      "publish_date": "2026-05-27",
+      "duration": "19:29",
+      "duration_seconds": 1169,
+      "view_count": 5944,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Truth Layer Guide + Prompts: https://natesnewsletter.substack.com/p/ai-office-files-verify-workflow?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\n\nWhat's really happening inside AI-built Office documents?\n\nThe common story is that ChatGPT, Claude, and Copilot can now build a polished PowerPoint or Excel model in minutes, so the work is basically solved. The reality is more complicated. The output looks finished long before it's actually trustworthy, and a clean-looking deck with an undefendable number is worse than no deck at all.\n\nIn this video, I share the inside scoop on building Office files with AI agents at the center of the workflow:\n\n \u2022 Why a prompt asks for output but a workflow defines trust\n \u2022 How to run the four stages: sources, structure, creation, verification\n \u2022 What a hostile reviewer prompt catches that proofreading never will\n \u2022 Where AI is highest risk on your task risk gradient\n\nFor operators and teams, the upside is real and measured in weeks a year, but only if you build a truth layer around the file instead of dragging in messy sources and hoping the output holds.\n\nChapters:\n00:00 The Excel and Office files conversation\n01:30 Past individual asset territory: eight documents at once\n03:00 Agents at the heart of the new workflow\n05:25 How to build documents reliably in a pipeline\n07:00 The board deck that blended actuals and plan data\n08:40 Models are goal-oriented and will guess without sources\n10:07 The task risk gradient: where AI is highest and lowest risk\n11:20 File creation in passes and layers\n12:37 Verification with a hostile reviewer prompt\n14:30 The RALPH loop between Codex and Opus 4.7\n16:00 The productivity upside and the truth layer\n17:18 Why knowledge work is contingent on domain knowledge\n18:50 Keep your brain turned on\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "Codex",
+        "powerpoint",
+        "excel",
+        "copilot"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Microsoft",
+          "Bolt"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Copilot",
+          "Make",
+          "Opus",
+          "Artifacts"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# I Built a Deck With AI, Then Made a Second AI Attack It"
+      ],
+      "transcript_chars": 21341,
+      "folder": "2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it"
+    },
     {
       "title": "The mistake everyone makes switching to Claude #ai #claude",
       "video_id": "C9BfGswIRnk",
