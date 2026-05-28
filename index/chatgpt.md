@@ -1,7 +1,9 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (85 episodes):
+Episodes discussing **Chatgpt** (87 episodes):
 
+- [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)
+- [Why millions are switching to Claude #ai #claude #tech](../episodes/2026-05-28-why-millions-are-switching-to-claude-ai-claude-tech/transcript.md) (2026-05-28)
 - [The mistake everyone makes switching to Claude #ai #claude](../episodes/2026-05-27-the-mistake-everyone-makes-switching-to-claude-ai-claude/transcript.md) (2026-05-27)
 - [Why you're using Claude completely wrong #ai #claude #chatgpt](../episodes/2026-05-27-why-youre-using-claude-completely-wrong-ai-claude-chatgpt/transcript.md) (2026-05-27)
 - [Why you should never trust ChatGPT's memory #ai #tech #chatgpt](../episodes/2026-05-26-why-you-should-never-trust-chatgpts-memory-ai-tech-chatgpt/transcript.md) (2026-05-26)

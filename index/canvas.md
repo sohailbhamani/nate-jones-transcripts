@@ -1,7 +1,8 @@
 # Canvas
 
-Episodes discussing **Canvas** (23 episodes):
+Episodes discussing **Canvas** (24 episodes):
 
+- [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)
 - [ChatGPT Images Just Replaced Three People on Your Team.](../episodes/2026-04-25-chatgpt-images-just-replaced-three-people-on-your-team/transcript.md) (2026-04-25)
 - [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](../episodes/2026-04-04-wall-street-just-bet-285-billion-on-ai-agents-the-best-one-barely-works/transcript.md) (2026-04-04)

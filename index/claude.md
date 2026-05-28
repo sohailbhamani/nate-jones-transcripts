@@ -1,7 +1,9 @@
 # Claude
 
-Episodes discussing **Claude** (309 episodes):
+Episodes discussing **Claude** (311 episodes):
 
+- [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)
+- [Why millions are switching to Claude #ai #claude #tech](../episodes/2026-05-28-why-millions-are-switching-to-claude-ai-claude-tech/transcript.md) (2026-05-28)
 - [I Built a Deck With AI, Then Made a Second AI Attack It.](../episodes/2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it/transcript.md) (2026-05-27)
 - [The mistake everyone makes switching to Claude #ai #claude](../episodes/2026-05-27-the-mistake-everyone-makes-switching-to-claude-ai-claude/transcript.md) (2026-05-27)
 - [Why you're using Claude completely wrong #ai #claude #chatgpt](../episodes/2026-05-27-why-youre-using-claude-completely-wrong-ai-claude-chatgpt/transcript.md) (2026-05-27)

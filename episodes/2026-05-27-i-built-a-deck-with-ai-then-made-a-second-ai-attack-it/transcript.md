@@ -67,6 +67,7 @@ yt_tags:
   - "copilot"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Agents"

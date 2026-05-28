@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (219 episodes):
+Episodes discussing **Prompting** (220 episodes):
 
+- [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)
 - [I Built a Deck With AI, Then Made a Second AI Attack It.](../episodes/2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it/transcript.md) (2026-05-27)
 - [Why you're using Claude completely wrong #ai #claude #chatgpt](../episodes/2026-05-27-why-youre-using-claude-completely-wrong-ai-claude-chatgpt/transcript.md) (2026-05-27)
 - [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)
