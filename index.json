@@ -1,10 +1,66 @@
 {
-  "total_videos": 664,
+  "total_videos": 665,
   "date_range": {
     "newest": "2026-05-28",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.",
+      "video_id": "n0nC1kmztSk",
+      "youtube_url": "https://www.youtube.com/watch?v=n0nC1kmztSk",
+      "publish_date": "2026-05-28",
+      "duration": "11:51",
+      "duration_seconds": 711,
+      "view_count": 6312,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompts: https://natesnewsletter.substack.com/p/agent-product-analytics?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening inside an AI agent run that your product dashboard cannot see?\n\nThe common story is that agent failures are engineering incidents \u2014 but the reality is that most of them are product analytics failures hiding inside the agent run.\n\nIn this video, I share the inside scoop on why product analytics for AI agents has to start from the run, not the click:\n\n \u2022 Why chat logs and trace data are not product analytics\n \u2022 How agent runs replace sessions as the unit of product behavior\n \u2022 What the completion vs acceptance gap tells you about trust\n \u2022 Where Salesforce's Agent Work Units land in this picture\n\nFor operators and product teams shipping AI agents, the opportunity is enormous, but only if the rudder of product analytics is in place before agents are running full speed in production.\n\nChapters:\n00:00 The agent era changes product analytics\n00:46 Ten billion tokens of agent code in production\n01:34 A Cursor agent deletes a database in nine seconds\n02:25 Why most dashboards miss the actual failure\n03:09 Delegated work is the new unit of product behavior\n04:08 Chat logs are not enough\n05:02 Engineering traces are not product analytics\n05:59 Salesforce Agent Work Units name the work\n07:01 The correction is your most valuable signal\n08:21 The completion vs acceptance gap\n09:42 Three events to ship first\n10:38 Product analytics is the rudder on your agents\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "Salesforce Agentforce",
+        "Cursor agent"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Salesforce",
+          "Slack",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "Cursor",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "We have never had a chance to look at the impact of our decisions in real time and now we do with agents"
+      ],
+      "transcript_chars": 12186,
+      "folder": "2026-05-28-a-cursor-agent-wiped-a-database-in-9-seconds-agent-analytics-would-have-seen-it"
+    },
     {
       "title": "The ultimate Claude AI prompting trick #ai #claude #aitools",
       "video_id": "LDb0mXNowF4",

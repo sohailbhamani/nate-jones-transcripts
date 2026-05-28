@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (536 episodes):
+Episodes discussing **Frameworks** (537 episodes):
 
+- [A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.](../episodes/2026-05-28-a-cursor-agent-wiped-a-database-in-9-seconds-agent-analytics-would-have-seen-it/transcript.md) (2026-05-28)
 - [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)
 - [Why millions are switching to Claude #ai #claude #tech](../episodes/2026-05-28-why-millions-are-switching-to-claude-ai-claude-tech/transcript.md) (2026-05-28)
 - [I Built a Deck With AI, Then Made a Second AI Attack It.](../episodes/2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it/transcript.md) (2026-05-27)
