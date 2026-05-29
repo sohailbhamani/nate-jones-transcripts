@@ -1,10 +1,113 @@
 {
-  "total_videos": 665,
+  "total_videos": 667,
   "date_range": {
-    "newest": "2026-05-28",
+    "newest": "2026-05-29",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "How Claude AI actually solves hard problems #claude #aitools",
+      "video_id": "Na29eKTInFk",
+      "youtube_url": "https://www.youtube.com/watch?v=Na29eKTInFk",
+      "publish_date": "2026-05-29",
+      "duration": "0:59",
+      "duration_seconds": 59,
+      "view_count": 1056,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/millions-just-switched-to-claude?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when millions of new users download Claude expecting a ChatGPT replacement and wonder why the spreadsheet features are missing? The common story is that AI models are interchangeable brands\u2014but the reality is more interesting when constitutional AI produces measurably different behavior than reinforcement learning with human feedback.\nIn this video, I share the inside scoop on why switching to Claude with the same habits misses the point:\n\n\u2022 Why Claude is more likely to tell you your plan has a hole in it\n\u2022 How describing your situation instead of your desired output changes everything\n\u2022 What extended thinking reveals about steering the chain of thought in real time\n\u2022 Where Cowork reframes the category from conversation partner to desktop worker\nFor anyone teaching a friend about Claude or learning it yourself, these differences shape how you think about AI over time\u2014and that compounds.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com\n",
+      "yt_tags": [
+        "Claude",
+        "ChatGPT",
+        "Anthropic",
+        "OpenAI",
+        "AI comparison",
+        "AI productivity",
+        "constitutional AI",
+        "AI workflow",
+        "AI prompting",
+        "Cowork",
+        "AI tools",
+        "AI writing",
+        "enterprise AI",
+        "AI differences",
+        "AI strategy for teams",
+        "ai strategy",
+        "nate b jones",
+        "nate b jones ai"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How Claude AI actually solves hard problems #claude #aitools\nis okay to ask Claude to show its reasoning"
+      ],
+      "transcript_chars": 991,
+      "folder": "2026-05-29-how-claude-ai-actually-solves-hard-problems-claude-aitools"
+    },
+    {
+      "title": "The trap hidden inside Salesforce #salesforce #crm #startup",
+      "video_id": "HC3PU1ZjyCU",
+      "youtube_url": "https://www.youtube.com/watch?v=HC3PU1ZjyCU",
+      "publish_date": "2026-05-29",
+      "duration": "0:49",
+      "duration_seconds": 49,
+      "view_count": 859,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump\u2014but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usable becomes the new enterprise data platform.\n\nIn this video, I share the inside scoop on why the four-part compound bet determines whether this justifies an $840 billion valuation:\n\n \u2022 Why intelligence and context are multiplicative\u2014and weak reasoning with long context is actively harmful\n \u2022 How retrieval at enterprise scale breaks RAG in ways nobody's benchmarking\n \u2022 What memory that doesn't rot requires when organizational knowledge continuously evolves\n \u2022 Where Anthropic's organic context accumulation through Claude Code might beat OpenAI's infrastructure play\n\nFor builders watching the enterprise stack get restructured, the lock-in from synthesized understanding is deeper than anything enterprise software has ever seen.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "chatgpt",
+        "chatgpt 5.4",
+        "nate b jones",
+        "nate b jones ai",
+        "salesforce",
+        "ai context",
+        "agentic ai",
+        "ai automation",
+        "ai news",
+        "openai",
+        "ai agents",
+        "enterprise ai strategy",
+        "ai",
+        "artificial intelligence",
+        "ai tools"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Salesforce",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The trap hidden inside Salesforce #salesforce #crm #startup\nSwitching to anything else means losing the synthesis layer that connects every other system in the stack"
+      ],
+      "transcript_chars": 853,
+      "folder": "2026-05-29-the-trap-hidden-inside-salesforce-salesforce-crm-startup"
+    },
     {
       "title": "A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.",
       "video_id": "n0nC1kmztSk",
