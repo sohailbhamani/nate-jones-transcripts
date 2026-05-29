@@ -1,10 +1,71 @@
 {
-  "total_videos": 667,
+  "total_videos": 668,
   "date_range": {
     "newest": "2026-05-29",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Cheap software made your PM job harder, not easier. Here's the new job.",
+      "video_id": "b6J387xJvHg",
+      "youtube_url": "https://www.youtube.com/watch?v=b6J387xJvHg",
+      "publish_date": "2026-05-29",
+      "duration": "12:38",
+      "duration_seconds": 758,
+      "view_count": 5830,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompts: https://natesnewsletter.substack.com/p/product-management-cheap-software-governance?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n__________________________________\nWhat's really happening with product management now that AI has collapsed the cost of building software?\n\nThe common story is that PMs just become prototypers \u2014 but the reality is more complicated. Prototyping is table stakes. The real shift is that AI moved the bottleneck, and product management is becoming the discipline that classifies software abundance into market value. Microsoft already has more than a million power platform assets built internally. The artifact arrives before the request. So the old question \u2014 should I build this? \u2014 gets replaced by a sharper one: somebody already built something, should the company actually rely on it?\n\nIn this video, I share the inside scoop on what product management looks like after software gets cheap:\n\n \u2022 Why the non-technical PM role is running out of room\n \u2022 How the prototype commons creates hidden demand and hidden risk\n \u2022 What a production class ladder looks like in practice\n \u2022 Where demotion matters as much as promotion\n\nFor PMs and product leaders, this is an exciting moment \u2014 but only if you build judgment fast enough to match the building.\n\nChapters:\n00:00 Product management in the age of AI\n01:14 Microsoft's million-asset reality check\n02:30 Why the non-technical PM is finished\n03:45 Where the old PM filter breaks down\n05:20 Broad building meets governance risk\n06:40 Market judgment is the new scarce thing\n07:44 What's the new job?\n08:30 The prototype commons\n09:30 The production class ladder\n11:00 Why demotion matters as much as promotion\n11:50 The decision rule for post-prototype PMs\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "product management",
+        "AI for PMs",
+        "power platform",
+        "ai agents",
+        "product manager job"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Microsoft",
+          "GitHub",
+          "Lovable"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Cheap software made your PM job harder, not easier"
+      ],
+      "transcript_chars": 13260,
+      "folder": "2026-05-29-cheap-software-made-your-pm-job-harder-not-easier-heres-the-new-job"
+    },
     {
       "title": "How Claude AI actually solves hard problems #claude #aitools",
       "video_id": "Na29eKTInFk",
