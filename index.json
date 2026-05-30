@@ -1,5 +1,5 @@
 {
-  "total_videos": 670,
+  "total_videos": 671,
   "date_range": {
     "newest": "2026-05-30",
     "oldest": "2024-05-21"
@@ -55,6 +55,63 @@
       ],
       "transcript_chars": 982,
       "folder": "2026-05-30-how-ai-is-quietly-replacing-databases-ai-tech"
+    },
+    {
+      "title": "My AI Workflow Has Changed (Here is What I Learned)",
+      "video_id": "rqVzTX8w_w0",
+      "youtube_url": "https://www.youtube.com/watch?v=rqVzTX8w_w0",
+      "publish_date": "2026-05-30",
+      "duration": "5:40",
+      "duration_seconds": 340,
+      "view_count": 4775,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "What's really happening with how AI power users actually structure their daily workflows?\n\nThe common story is that prompt engineering is still the skill that separates beginners from experts \u2014 but the reality in mid-2026 is more nuanced, and the way serious AI users work has shifted dramatically in just the last few weeks.\n\nIn this video, I share the inside scoop on how my AI workflow has evolved and what I've learned pushing Codex and Claude to their limits:\n\n \u2022 Why I build local file folders as context windows\n \u2022 How Codex handles 50,000-word documents other tools can't\n \u2022 What shifted in my prompting approach since May 2026\n \u2022 Where task delegation becomes true AI agent collaboration\n\nWhether you're a developer, an operator, or just getting started, the move from giving AI instructions to shaping work alongside it is the unlock most people are still missing.\n\nChapters:\n00:00 How Nate is using AI this week \n00:15 Context windows and local files \n01:18 Long documents, spreadsheets, and code \n02:23 Prompting has shifted \n03:13 Shape the task before execution \n04:26 Multi-threaded drafting and review \n05:13 Why not to pick a side\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Codex",
+        "OpenAI",
+        "context windows",
+        "prompt engineering",
+        "AI agents",
+        "AI workflow for developers",
+        "local file AI workflows"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# My AI Workflow Has Changed (Here is What I Learned)\nPeople like to ask, Nate, how do you use AI"
+      ],
+      "transcript_chars": 5937,
+      "folder": "2026-05-30-my-ai-workflow-has-changed-here-is-what-i-learned"
     },
     {
       "title": "The death of the filing cabinet #ai #tech",
