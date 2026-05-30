@@ -1,7 +1,9 @@
 # Framework
 
-Episodes discussing **Framework** (176 episodes):
+Episodes discussing **Framework** (178 episodes):
 
+- [How AI is quietly replacing databases #ai #tech](../episodes/2026-05-30-how-ai-is-quietly-replacing-databases-ai-tech/transcript.md) (2026-05-30)
+- [The death of the filing cabinet #ai #tech](../episodes/2026-05-30-the-death-of-the-filing-cabinet-ai-tech/transcript.md) (2026-05-30)
 - [The trap hidden inside Salesforce #salesforce #crm #startup](../episodes/2026-05-29-the-trap-hidden-inside-salesforce-salesforce-crm-startup/transcript.md) (2026-05-29)
 - [Why millions are switching to Claude #ai #claude #tech](../episodes/2026-05-28-why-millions-are-switching-to-claude-ai-claude-tech/transcript.md) (2026-05-28)
 - [The mistake everyone makes switching to Claude #ai #claude](../episodes/2026-05-27-the-mistake-everyone-makes-switching-to-claude-ai-claude/transcript.md) (2026-05-27)
