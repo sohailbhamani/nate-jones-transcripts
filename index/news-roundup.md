@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (140 episodes):
+Episodes discussing **News Roundup** (141 episodes):
 
+- [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
 - [My AI Workflow Has Changed (Here is What I Learned)](../episodes/2026-05-30-my-ai-workflow-has-changed-here-is-what-i-learned/transcript.md) (2026-05-30)
 - [Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech](../episodes/2026-05-26-are-ai-agents-actually-boosting-productivity-futureofwork-ai-tech/transcript.md) (2026-05-26)
 - [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)

@@ -1,7 +1,9 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (457 episodes):
+Episodes discussing **Ai Strategy** (459 episodes):
 
+- [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
+- [The Compound Risk of AI Agents ⚠️ #ai #risk #software](../episodes/2026-05-31-the-compound-risk-of-ai-agents-ai-risk-software/transcript.md) (2026-05-31)
 - [How AI is quietly replacing databases #ai #tech](../episodes/2026-05-30-how-ai-is-quietly-replacing-databases-ai-tech/transcript.md) (2026-05-30)
 - [The death of the filing cabinet #ai #tech](../episodes/2026-05-30-the-death-of-the-filing-cabinet-ai-tech/transcript.md) (2026-05-30)
 - [Cheap software made your PM job harder, not easier. Here's the new job.](../episodes/2026-05-29-cheap-software-made-your-pm-job-harder-not-easier-heres-the-new-job/transcript.md) (2026-05-29)

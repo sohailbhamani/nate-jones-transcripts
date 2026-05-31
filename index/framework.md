@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (178 episodes):
+Episodes discussing **Framework** (179 episodes):
 
+- [The Compound Risk of AI Agents ⚠️ #ai #risk #software](../episodes/2026-05-31-the-compound-risk-of-ai-agents-ai-risk-software/transcript.md) (2026-05-31)
 - [How AI is quietly replacing databases #ai #tech](../episodes/2026-05-30-how-ai-is-quietly-replacing-databases-ai-tech/transcript.md) (2026-05-30)
 - [The death of the filing cabinet #ai #tech](../episodes/2026-05-30-the-death-of-the-filing-cabinet-ai-tech/transcript.md) (2026-05-30)
 - [The trap hidden inside Salesforce #salesforce #crm #startup](../episodes/2026-05-29-the-trap-hidden-inside-salesforce-salesforce-crm-startup/transcript.md) (2026-05-29)

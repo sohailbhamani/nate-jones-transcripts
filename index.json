@@ -1,10 +1,105 @@
 {
-  "total_videos": 671,
+  "total_videos": 673,
   "date_range": {
-    "newest": "2026-05-30",
+    "newest": "2026-05-31",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews",
+      "video_id": "Kb7FxKgUWvo",
+      "youtube_url": "https://www.youtube.com/watch?v=Kb7FxKgUWvo",
+      "publish_date": "2026-05-31",
+      "duration": "1:10",
+      "duration_seconds": 70,
+      "view_count": 2342,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump\u2014but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usable becomes the new enterprise data platform.\n\nIn this video, I share the inside scoop on why the four-part compound bet determines whether this justifies an $840 billion valuation:\n\n \u2022 Why intelligence and context are multiplicative\u2014and weak reasoning with long context is actively harmful\n \u2022 How retrieval at enterprise scale breaks RAG in ways nobody's benchmarking\n \u2022 What memory that doesn't rot requires when organizational knowledge continuously evolves\n \u2022 Where Anthropic's organic context accumulation through Claude Code might beat OpenAI's infrastructure play\n\nFor builders watching the enterprise stack get restructured, the lock-in from synthesized understanding is deeper than anything enterprise software has ever seen.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "chatgpt",
+        "chatgpt 5.4",
+        "nate b jones",
+        "nate b jones ai",
+        "salesforce",
+        "ai context",
+        "agentic ai",
+        "ai automation",
+        "ai news",
+        "openai",
+        "ai agents",
+        "enterprise ai strategy",
+        "ai",
+        "artificial intelligence",
+        "ai tools"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#OpenAIstory #ainews\nIt's a compound bet that if it works justifies open AI's massive $840 billion valuation and also by the way restructures the entire enterprise software stack as a byproduct"
+      ],
+      "transcript_chars": 1011,
+      "folder": "2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews"
+    },
+    {
+      "title": "The Compound Risk of AI Agents \u26a0\ufe0f #ai #risk #software",
+      "video_id": "oTTVQt4IjPI",
+      "youtube_url": "https://www.youtube.com/watch?v=oTTVQt4IjPI",
+      "publish_date": "2026-05-31",
+      "duration": "1:12",
+      "duration_seconds": 72,
+      "view_count": 1060,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump\u2014but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usable becomes the new enterprise data platform.\n\nIn this video, I share the inside scoop on why the four-part compound bet determines whether this justifies an $840 billion valuation:\n\n \u2022 Why intelligence and context are multiplicative\u2014and weak reasoning with long context is actively harmful\n \u2022 How retrieval at enterprise scale breaks RAG in ways nobody's benchmarking\n \u2022 What memory that doesn't rot requires when organizational knowledge continuously evolves\n \u2022 Where Anthropic's organic context accumulation through Claude Code might beat OpenAI's infrastructure play\n\nFor builders watching the enterprise stack get restructured, the lock-in from synthesized understanding is deeper than anything enterprise software has ever seen.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "chatgpt",
+        "chatgpt 5.4",
+        "nate b jones",
+        "nate b jones ai",
+        "salesforce",
+        "ai context",
+        "agentic ai",
+        "ai automation",
+        "ai news",
+        "openai",
+        "ai agents",
+        "enterprise ai strategy",
+        "ai",
+        "artificial intelligence",
+        "ai tools"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The Compound Risk of AI Agents \u26a0\ufe0f #ai #risk #software\nI call it execution at the speed of trust"
+      ],
+      "transcript_chars": 1180,
+      "folder": "2026-05-31-the-compound-risk-of-ai-agents-ai-risk-software"
+    },
     {
       "title": "How AI is quietly replacing databases #ai #tech",
       "video_id": "WPe45FOh7G8",

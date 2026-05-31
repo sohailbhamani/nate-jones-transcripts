@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (287 episodes):
+Episodes discussing **Openai** (288 episodes):
 
+- [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
 - [The death of the filing cabinet #ai #tech](../episodes/2026-05-30-the-death-of-the-filing-cabinet-ai-tech/transcript.md) (2026-05-30)
 - [How Claude AI actually solves hard problems #claude #aitools](../episodes/2026-05-29-how-claude-ai-actually-solves-hard-problems-claude-aitools/transcript.md) (2026-05-29)
 - [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)

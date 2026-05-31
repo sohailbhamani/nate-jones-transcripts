@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (295 episodes):
+Episodes discussing **Leadership** (296 episodes):
 
+- [The Compound Risk of AI Agents ⚠️ #ai #risk #software](../episodes/2026-05-31-the-compound-risk-of-ai-agents-ai-risk-software/transcript.md) (2026-05-31)
 - [Cheap software made your PM job harder, not easier. Here's the new job.](../episodes/2026-05-29-cheap-software-made-your-pm-job-harder-not-easier-heres-the-new-job/transcript.md) (2026-05-29)
 - [A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.](../episodes/2026-05-28-a-cursor-agent-wiped-a-database-in-9-seconds-agent-analytics-would-have-seen-it/transcript.md) (2026-05-28)
 - [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)

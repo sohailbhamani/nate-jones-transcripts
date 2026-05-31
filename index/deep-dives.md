@@ -1,7 +1,8 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (85 episodes):
+Episodes discussing **Deep Dives** (86 episodes):
 
+- [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
 - [How Claude AI actually solves hard problems #claude #aitools](../episodes/2026-05-29-how-claude-ai-actually-solves-hard-problems-claude-aitools/transcript.md) (2026-05-29)
 - [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)
 - [When to Automate, Build, Buy, Hire, or Wait on AI](../episodes/2026-05-17-when-to-automate-build-buy-hire-or-wait-on-ai/transcript.md) (2026-05-17)

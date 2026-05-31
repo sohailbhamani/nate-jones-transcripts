@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (416 episodes):
+Episodes discussing **Product Management** (417 episodes):
 
+- [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
 - [How AI is quietly replacing databases #ai #tech](../episodes/2026-05-30-how-ai-is-quietly-replacing-databases-ai-tech/transcript.md) (2026-05-30)
 - [Cheap software made your PM job harder, not easier. Here's the new job.](../episodes/2026-05-29-cheap-software-made-your-pm-job-harder-not-easier-heres-the-new-job/transcript.md) (2026-05-29)
 - [A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.](../episodes/2026-05-28-a-cursor-agent-wiped-a-database-in-9-seconds-agent-analytics-would-have-seen-it/transcript.md) (2026-05-28)
