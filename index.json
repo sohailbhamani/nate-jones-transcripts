@@ -1,10 +1,68 @@
 {
-  "total_videos": 673,
+  "total_videos": 674,
   "date_range": {
     "newest": "2026-05-31",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.",
+      "video_id": "UsCgEuIAclE",
+      "youtube_url": "https://www.youtube.com/watch?v=UsCgEuIAclE",
+      "publish_date": "2026-05-31",
+      "duration": "10:34",
+      "duration_seconds": 634,
+      "view_count": 2677,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Post w/ Prompts and TalentBoard link: https://natesnewsletter.substack.com/p/prove-value-work-ai-era?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n________________________________\nWhat's really happening with how we prove our value at work now that AI strategy has changed the game?\n\nThe common story is that AI makes us more productive \u2014 but the reality is that AI makes everyone look productive, and the old career evidence is losing signal.\n\nIn this video, I share the inside scoop on why output alone no longer proves judgment:\n\n \u2022 Why polished artifacts no longer prove you understood the work\n \u2022 How whiteboard conversations reveal real judgment under pressure\n \u2022 What four questions make your thinking portable and shareable\n \u2022 Where to preserve that evidence before your badge stops working\n\nThe professionals who thrive from here will be the ones who can show their reasoning, not just their results.\n\nChapters:\n00:00 The stat that changes career evidence\n01:20 Why the AI age is the age of whiteboards\n02:45 The old evidence stopped carrying signal\n03:50 Why standard portfolio advice falls short\n05:10 Four questions that make judgment portable\n06:38 How whiteboard sessions reveal how you learn\n07:30 Comprehension over generation\n08:10 Starting strong in a new role\n09:25 Making reasoning visible without a physical board\n09:55 The evidence people actually need now\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI productivity",
+        "job search",
+        "whiteboard interview",
+        "talent board",
+        "AI career strategy",
+        "AI job search tips",
+        "career",
+        "future of work"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Microsoft"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Microsoft Says 86% Treat AI Output as a Starting Point"
+      ],
+      "transcript_chars": 11276,
+      "folder": "2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w"
+    },
     {
       "title": "OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews",
       "video_id": "Kb7FxKgUWvo",

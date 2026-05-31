@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (302 episodes):
+Episodes discussing **Career** (303 episodes):
 
+- [Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.](../episodes/2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w/transcript.md) (2026-05-31)
 - [My AI Workflow Has Changed (Here is What I Learned)](../episodes/2026-05-30-my-ai-workflow-has-changed-here-is-what-i-learned/transcript.md) (2026-05-30)
 - [Cheap software made your PM job harder, not easier. Here's the new job.](../episodes/2026-05-29-cheap-software-made-your-pm-job-harder-not-easier-heres-the-new-job/transcript.md) (2026-05-29)
 - [The Infrastructure Nightmare Nobody Is Talking About](../episodes/2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about/transcript.md) (2026-05-25)

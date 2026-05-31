@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (287 episodes):
+Episodes discussing **Workflows** (288 episodes):
 
+- [Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.](../episodes/2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w/transcript.md) (2026-05-31)
 - [The Compound Risk of AI Agents ⚠️ #ai #risk #software](../episodes/2026-05-31-the-compound-risk-of-ai-agents-ai-risk-software/transcript.md) (2026-05-31)
 - [How AI is quietly replacing databases #ai #tech](../episodes/2026-05-30-how-ai-is-quietly-replacing-databases-ai-tech/transcript.md) (2026-05-30)
 - [My AI Workflow Has Changed (Here is What I Learned)](../episodes/2026-05-30-my-ai-workflow-has-changed-here-is-what-i-learned/transcript.md) (2026-05-30)

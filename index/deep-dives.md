@@ -1,7 +1,8 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (86 episodes):
+Episodes discussing **Deep Dives** (87 episodes):
 
+- [Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.](../episodes/2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w/transcript.md) (2026-05-31)
 - [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
 - [How Claude AI actually solves hard problems #claude #aitools](../episodes/2026-05-29-how-claude-ai-actually-solves-hard-problems-claude-aitools/transcript.md) (2026-05-29)
 - [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)

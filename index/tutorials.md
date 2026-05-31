@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (275 episodes):
+Episodes discussing **Tutorials** (276 episodes):
 
+- [Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.](../episodes/2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w/transcript.md) (2026-05-31)
 - [A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.](../episodes/2026-05-28-a-cursor-agent-wiped-a-database-in-9-seconds-agent-analytics-would-have-seen-it/transcript.md) (2026-05-28)
 - [I Built a Deck With AI, Then Made a Second AI Attack It.](../episodes/2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it/transcript.md) (2026-05-27)
 - [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)
