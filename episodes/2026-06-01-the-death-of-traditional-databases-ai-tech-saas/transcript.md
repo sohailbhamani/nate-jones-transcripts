@@ -1,11 +1,11 @@
 ---
-title: "This is how AI agents actually take over enterprises #ai #business #tech"
-video_id: "KWCZWFDOapk"
-youtube_url: "https://www.youtube.com/watch?v=KWCZWFDOapk"
+title: "The death of traditional databases #ai #tech #saas"
+video_id: "UAanebcmBFI"
+youtube_url: "https://www.youtube.com/watch?v=UAanebcmBFI"
 publish_date: "2026-06-01"
-duration: "0:56"
-duration_seconds: 56
-view_count: 1617
+duration: "0:49"
+duration_seconds: 49
+view_count: 763
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
@@ -40,21 +40,18 @@ yt_tags:
   - "ai"
   - "artificial intelligence"
   - "ai tools"
-  - "ai agent"
-
 
 
 # AI-enriched metadata
 content_type: "Framework"
-primary_topic: "AI Agents"
+primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
-  - "Engineers"
-  - "Executives"
-  - "Product Managers"
+  - "General"
 entities:
   companies:
-    []
+    - "Salesforce"
+    - "GitHub"
   people:
     []
   products:
@@ -64,18 +61,18 @@ entities:
 concepts:
   []
 summary:
-  - "# This is how AI agents actually take over enterprises #ai #business #tech
+  - "# The death of traditional databases #ai #tech #saas
 
-In the compound bet ends up working at a specific enterprise and you have an active context layer, the progression of value "
+Switching to anything else means losing the synthesis layer that connects every other system in the stack"
 keywords:
   - "ai-agents"
   - "ai-strategy"
-  - "coding"
+  - "ai-tools"
   - "frameworks"
-  - "product-management"
-  - "workflows"
+  - "github"
+  - "salesforce"
 ---
 
-# This is how AI agents actually take over enterprises #ai #business #tech
+# The death of traditional databases #ai #tech #saas
 
-In the compound bet ends up working at a specific enterprise and you have an active context layer, the progression of value is relentless for that business. Month one, smart but generic agents, a talented new hire who can read the wiki. Month three, agents have processed hundreds of code reviews and architectural discussions. They've synthesized across silos. Month six, agents know things no one person knows, connecting decisions across teams that would never surface in normal human workflows. And honestly, they probably learn faster than that. And by the time we have a mature installation, whether that takes a few months or whether that takes just a few days because models are so capable, you're going to effectively have a network of agents that operate as the institutional knowledge layer of your enterprise. New engineers might on board in weeks, but agents could be up and productive in just a few days. And agents could be accelerating the onboarding and directing the work of humans across the entire enterprise right out of the gate.
+Switching to anything else means losing the synthesis layer that connects every other system in the stack. The agent that knows how Salesforce data relates to GitHub decisions relates to the board deck. That understanding can't be exported. That's not a model choice conversation. Salesforce's lock-in comes from data. The context platform's lock-in comes from understanding. Data is ultimately portable. A year's worth of synthesized organizational knowledge absolutely will not be portable. This is the deepest form of technology lock-in that has ever existed in enterprise software. You might call it comprehension lock-in. You could call it intelligence lock-in. And it's going to compound with every day this platform operates once it's built. Now, I want you to fast forward with me one more time. Let's talk about how this turns into a flywheel.
