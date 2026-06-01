@@ -66,6 +66,7 @@ yt_tags:
   - "future of work"
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "Career"

@@ -1,10 +1,59 @@
 {
-  "total_videos": 674,
+  "total_videos": 675,
   "date_range": {
-    "newest": "2026-05-31",
+    "newest": "2026-06-01",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "This is how AI agents actually take over enterprises #ai #business #tech",
+      "video_id": "KWCZWFDOapk",
+      "youtube_url": "https://www.youtube.com/watch?v=KWCZWFDOapk",
+      "publish_date": "2026-06-01",
+      "duration": "0:56",
+      "duration_seconds": 56,
+      "view_count": 1617,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full Story w/ Prompts: https://natesnewsletter.substack.com/p/your-engineers-are-building-your?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening when OpenAI engineers accidentally leak ChatGPT 5.4's existence but the model isn't even the interesting part? The common story is about the next capability jump\u2014but the reality is more interesting when the company that first makes trillion-token organizational context genuinely usable becomes the new enterprise data platform.\n\nIn this video, I share the inside scoop on why the four-part compound bet determines whether this justifies an $840 billion valuation:\n\n \u2022 Why intelligence and context are multiplicative\u2014and weak reasoning with long context is actively harmful\n \u2022 How retrieval at enterprise scale breaks RAG in ways nobody's benchmarking\n \u2022 What memory that doesn't rot requires when organizational knowledge continuously evolves\n \u2022 Where Anthropic's organic context accumulation through Claude Code might beat OpenAI's infrastructure play\n\nFor builders watching the enterprise stack get restructured, the lock-in from synthesized understanding is deeper than anything enterprise software has ever seen.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "chatgpt",
+        "chatgpt 5.4",
+        "nate b jones",
+        "nate b jones ai",
+        "salesforce",
+        "ai context",
+        "agentic ai",
+        "ai automation",
+        "ai news",
+        "openai",
+        "ai agents",
+        "enterprise ai strategy",
+        "ai",
+        "artificial intelligence",
+        "ai tools",
+        "ai agent"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# This is how AI agents actually take over enterprises #ai #business #tech\nIn the compound bet ends up working at a specific enterprise and you have an active context layer, the progression of value "
+      ],
+      "transcript_chars": 1052,
+      "folder": "2026-06-01-this-is-how-ai-agents-actually-take-over-enterprises-ai-business-tech"
+    },
     {
       "title": "Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.",
       "video_id": "UsCgEuIAclE",
