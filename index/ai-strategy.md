@@ -1,8 +1,9 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (463 episodes):
+Episodes discussing **Ai Strategy** (464 episodes):
 
 - [Is your AI team actually efficient? #ai #tech #programming](../episodes/2026-06-02-is-your-ai-team-actually-efficient-ai-tech-programming/transcript.md) (2026-06-02)
+- [Why you only have 150 friends #psychology #science](../episodes/2026-06-02-why-you-only-have-150-friends-psychology-science/transcript.md) (2026-06-02)
 - [The death of traditional databases #ai #tech #saas](../episodes/2026-06-01-the-death-of-traditional-databases-ai-tech-saas/transcript.md) (2026-06-01)
 - [This is how AI agents actually take over enterprises #ai #business #tech](../episodes/2026-06-01-this-is-how-ai-agents-actually-take-over-enterprises-ai-business-tech/transcript.md) (2026-06-01)
 - [Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.](../episodes/2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w/transcript.md) (2026-05-31)

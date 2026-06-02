@@ -1,11 +1,11 @@
 ---
-title: "Why your meetings are actually destroying your output #productivity #work"
-video_id: "hlGWME2hsl4"
-youtube_url: "https://www.youtube.com/watch?v=hlGWME2hsl4"
+title: "Why you only have 150 friends #psychology #science"
+video_id: "LVmijkrVti0"
+youtube_url: "https://www.youtube.com/watch?v=LVmijkrVti0"
 publish_date: "2026-06-02"
-duration: "0:39"
-duration_seconds: 39
-view_count: 1144
+duration: "0:36"
+duration_seconds: 36
+view_count: 506
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   My site: https://natebjones.com
@@ -45,16 +45,16 @@ yt_tags:
   - "nate b jones ai"
   - "team size"
   - "meeting productivity"
-
+  - "psychology facts"
+  - "psychological facts"
 
 
 # AI-enriched metadata
 content_type: "Deep Dive"
-primary_topic: "Career"
+primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
-  - "Engineers"
-  - "Product Managers"
+  - "General"
 entities:
   companies:
     []
@@ -67,15 +67,13 @@ entities:
 concepts:
   []
 summary:
-  - "# Why your meetings are actually destroying your output #productivity #work
+  - "# Why you only have 150 friends #psychology #science
 
-This is why your meetings are killing you"
+Robin Dunbar's research on primate neocortex size established in 1992 that the human brain has layered limits on relationship complexity"
 keywords:
-  - "coding"
-  - "product-management"
-  - "workflows"
+
 ---
 
-# Why your meetings are actually destroying your output #productivity #work
+# Why you only have 150 friends #psychology #science
 
-This is why your meetings are killing you. Every meeting exists because someone decided coordination was worth the cost. When your per person output was $250,000, it often was worth the cost. At $2 million per person, most of those meetings end up being net negative, destroying value at a rate that scales with how productive your people are. And here's where I talk about something that gets misunderstood a lot. Every conversation that I hear about AI and teams obsesses over volume. More code, more content, faster. This leads to disastrously incorrect organizational decisions. Decisions that are just plain wrong.
+Robin Dunbar's research on primate neocortex size established in 1992 that the human brain has layered limits on relationship complexity. This is not new. It's back in 1992. You have five for your core group, 15 with deep trust, 50 for meaningful working relationships, 150 for stable social connections. Army mathematicians confirmed the pattern empirically. Groups of five communicated most effectively with effectiveness peaking again at 15, 50, and 150. The military has tested this because their stakes are so high, they have to get it right.

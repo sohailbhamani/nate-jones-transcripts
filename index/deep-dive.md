@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (99 episodes):
+Episodes discussing **Deep Dive** (100 episodes):
 
+- [Why you only have 150 friends #psychology #science](../episodes/2026-06-02-why-you-only-have-150-friends-psychology-science/transcript.md) (2026-06-02)
 - [Why your meetings are actually destroying your output #productivity #work](../episodes/2026-06-02-why-your-meetings-are-actually-destroying-your-output-productivity-work/transcript.md) (2026-06-02)
 - [Cheap software made your PM job harder, not easier. Here's the new job.](../episodes/2026-05-29-cheap-software-made-your-pm-job-harder-not-easier-heres-the-new-job/transcript.md) (2026-05-29)
 - [How Claude AI actually solves hard problems #claude #aitools](../episodes/2026-05-29-how-claude-ai-actually-solves-hard-problems-claude-aitools/transcript.md) (2026-05-29)
