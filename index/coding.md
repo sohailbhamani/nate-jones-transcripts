@@ -1,7 +1,9 @@
 # Coding
 
-Episodes discussing **Coding** (418 episodes):
+Episodes discussing **Coding** (420 episodes):
 
+- [Is your AI team actually efficient? #ai #tech #programming](../episodes/2026-06-02-is-your-ai-team-actually-efficient-ai-tech-programming/transcript.md) (2026-06-02)
+- [Why your meetings are actually destroying your output #productivity #work](../episodes/2026-06-02-why-your-meetings-are-actually-destroying-your-output-productivity-work/transcript.md) (2026-06-02)
 - [This is how AI agents actually take over enterprises #ai #business #tech](../episodes/2026-06-01-this-is-how-ai-agents-actually-take-over-enterprises-ai-business-tech/transcript.md) (2026-06-01)
 - [My AI Workflow Has Changed (Here is What I Learned)](../episodes/2026-05-30-my-ai-workflow-has-changed-here-is-what-i-learned/transcript.md) (2026-05-30)
 - [The death of the filing cabinet #ai #tech](../episodes/2026-05-30-the-death-of-the-filing-cabinet-ai-tech/transcript.md) (2026-05-30)

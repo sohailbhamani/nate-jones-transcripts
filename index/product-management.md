@@ -1,7 +1,9 @@
 # Product Management
 
-Episodes discussing **Product Management** (419 episodes):
+Episodes discussing **Product Management** (421 episodes):
 
+- [Is your AI team actually efficient? #ai #tech #programming](../episodes/2026-06-02-is-your-ai-team-actually-efficient-ai-tech-programming/transcript.md) (2026-06-02)
+- [Why your meetings are actually destroying your output #productivity #work](../episodes/2026-06-02-why-your-meetings-are-actually-destroying-your-output-productivity-work/transcript.md) (2026-06-02)
 - [This is how AI agents actually take over enterprises #ai #business #tech](../episodes/2026-06-01-this-is-how-ai-agents-actually-take-over-enterprises-ai-business-tech/transcript.md) (2026-06-01)
 - [Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.](../episodes/2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w/transcript.md) (2026-05-31)
 - [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
