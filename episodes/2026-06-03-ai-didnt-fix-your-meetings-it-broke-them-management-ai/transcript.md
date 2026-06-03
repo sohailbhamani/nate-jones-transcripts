@@ -1,11 +1,11 @@
 ---
-title: "Why you only have 150 friends #psychology #science"
-video_id: "LVmijkrVti0"
-youtube_url: "https://www.youtube.com/watch?v=LVmijkrVti0"
-publish_date: "2026-06-02"
-duration: "0:36"
-duration_seconds: 36
-view_count: 506
+title: "AI didn't fix your meetings, it broke them #management #ai"
+video_id: "rdYgKhgnWrg"
+youtube_url: "https://www.youtube.com/watch?v=rdYgKhgnWrg"
+publish_date: "2026-06-03"
+duration: "0:38"
+duration_seconds: 38
+view_count: 980
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   My site: https://natebjones.com
@@ -45,17 +45,15 @@ yt_tags:
   - "nate b jones ai"
   - "team size"
   - "meeting productivity"
-  - "psychology facts"
-  - "psychological facts"
-
 
 
 # AI-enriched metadata
-content_type: "Deep Dive"
+content_type: "Tutorial"
 primary_topic: "AI Strategy"
-difficulty: "Intermediate"
+difficulty: "Advanced"
 audience:
-  - "General"
+  - "Executives"
+  - "Product Managers"
 entities:
   companies:
     []
@@ -68,13 +66,15 @@ entities:
 concepts:
   []
 summary:
-  - "# Why you only have 150 friends #psychology #science
+  - "# AI didn't fix your meetings, it broke them #management #ai
 
-Robin Dunbar's research on primate neocortex size established in 1992 that the human brain has layered limits on relationship complexity"
+Scarce is correctness"
 keywords:
-
+  - "ai-strategy"
+  - "product-management"
+  - "tutorials"
 ---
 
-# Why you only have 150 friends #psychology #science
+# AI didn't fix your meetings, it broke them #management #ai
 
-Robin Dunbar's research on primate neocortex size established in 1992 that the human brain has layered limits on relationship complexity. This is not new. It's back in 1992. You have five for your core group, 15 with deep trust, 50 for meaningful working relationships, 150 for stable social connections. Army mathematicians confirmed the pattern empirically. Groups of five communicated most effectively with effectiveness peaking again at 15, 50, and 150. The military has tested this because their stakes are so high, they have to get it right.
+Scarce is correctness. Whether the thing you shipped is actually right, architecturally sound, strategically coherent, right for the customer, polished, free of the subtle errors that look fine in a demo and compound into real failures in production. A Harvard Business School field experiment published in 2025 tested this directly. Researchers studied 776 professionals at Procter & Gamble on real innovation challenges. Teams using AI were three times more likely to produce ideas in the top 10% of quality. Not three times more output, you notice. Three times more likely to be right at the highest level.

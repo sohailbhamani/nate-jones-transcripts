@@ -1,10 +1,111 @@
 {
-  "total_videos": 679,
+  "total_videos": 681,
   "date_range": {
-    "newest": "2026-06-02",
+    "newest": "2026-06-03",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "AI didn't fix your meetings, it broke them #management #ai",
+      "video_id": "rdYgKhgnWrg",
+      "youtube_url": "https://www.youtube.com/watch?v=rdYgKhgnWrg",
+      "publish_date": "2026-06-03",
+      "duration": "0:38",
+      "duration_seconds": 38,
+      "view_count": 980,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the structural unit of the AI era:\n\n- Why AI raised coordination costs by the same order as output\n- How scouts and strike teams map to different AI-era missions\n- What correctness-first thinking means for how you hire and build\n- Where the real opportunity is \u2014 expanding ambition, not shrinking headcount\n\nAI agents and LLMs didn't break your meetings problem \u2014 they amplified a team size problem you already had, and the leaders who restructure around small, high-judgment teams will build the defining companies of this decade.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "ai",
+        "ai news",
+        "AI strategy",
+        "AI agents",
+        "future of work",
+        "prompt engineering",
+        "automation at work",
+        "AI career advice",
+        "upskilling with AI",
+        "AI productivity",
+        "Shopify AI mandate",
+        "AI native companies",
+        "small team AI",
+        "hiring in AI",
+        "AI force multiplier",
+        "nate b jones",
+        "nate b jones ai",
+        "team size",
+        "meeting productivity"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# AI didn't fix your meetings, it broke them #management #ai\nScarce is correctness"
+      ],
+      "transcript_chars": 610,
+      "folder": "2026-06-03-ai-didnt-fix-your-meetings-it-broke-them-management-ai"
+    },
+    {
+      "title": "AI didn't fix your meetings, it broke your team size #productivity",
+      "video_id": "IZjbq7cGqqs",
+      "youtube_url": "https://www.youtube.com/watch?v=IZjbq7cGqqs",
+      "publish_date": "2026-06-03",
+      "duration": "0:31",
+      "duration_seconds": 31,
+      "view_count": 498,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My site: https://natebjones.com\nFull Story w/ Prompts: https://natesnewsletter.substack.com/p/executive-briefing-ai-raised-output?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________\nWhat's really happening with AI and team size in your organization? The common story is that AI makes teams more productive so you can cut headcount \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on why the five-person strike team is the structural unit of the AI era:\n\n- Why AI raised coordination costs by the same order as output\n- How scouts and strike teams map to different AI-era missions\n- What correctness-first thinking means for how you hire and build\n- Where the real opportunity is \u2014 expanding ambition, not shrinking headcount\n\nAI agents and LLMs didn't break your meetings problem \u2014 they amplified a team size problem you already had, and the leaders who restructure around small, high-judgment teams will build the defining companies of this decade.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "ai",
+        "ai news",
+        "AI strategy",
+        "AI agents",
+        "future of work",
+        "prompt engineering",
+        "automation at work",
+        "AI career advice",
+        "upskilling with AI",
+        "AI productivity",
+        "Shopify AI mandate",
+        "AI native companies",
+        "small team AI",
+        "hiring in AI",
+        "AI force multiplier",
+        "nate b jones",
+        "nate b jones ai",
+        "team size",
+        "meeting productivity"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# AI didn't fix your meetings, it broke your team size #productivity\nFive really excellent people using AI can each operate across a broader domain than they could alone"
+      ],
+      "transcript_chars": 474,
+      "folder": "2026-06-03-ai-didnt-fix-your-meetings-it-broke-your-team-size-productivity"
+    },
     {
       "title": "Is your AI team actually efficient? #ai #tech #programming",
       "video_id": "8Y9IkxyZpHo",
