@@ -1,7 +1,8 @@
 # Uber
 
-Episodes discussing **Uber** (12 episodes):
+Episodes discussing **Uber** (13 episodes):
 
+- [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [The web is about to look completely different #AI #WebDevelopment #FutureOfTech](../episodes/2026-04-19-the-web-is-about-to-look-completely-different-ai-webdevelopment-futureoftech/transcript.md) (2026-04-19)
 - [Your iPhone Is About to Control Every AI App You Use. Here's What This Means For You.](../episodes/2026-03-31-your-iphone-is-about-to-control-every-ai-app-you-use-heres-what-this-means-for-y/transcript.md) (2026-03-31)
 - [McKinsey Says $1 Trillion In Sales Will Go Through AI Agents. Most Businesses Are Invisible.](../episodes/2026-03-22-mckinsey-says-1-trillion-in-sales-will-go-through-ai-agents-most-businesses-are/transcript.md) (2026-03-22)

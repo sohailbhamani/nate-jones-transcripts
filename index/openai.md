@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (288 episodes):
+Episodes discussing **Openai** (289 episodes):
 
+- [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
 - [The death of the filing cabinet #ai #tech](../episodes/2026-05-30-the-death-of-the-filing-cabinet-ai-tech/transcript.md) (2026-05-30)
 - [How Claude AI actually solves hard problems #claude #aitools](../episodes/2026-05-29-how-claude-ai-actually-solves-hard-problems-claude-aitools/transcript.md) (2026-05-29)

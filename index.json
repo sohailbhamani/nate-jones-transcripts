@@ -1,5 +1,5 @@
 {
-  "total_videos": 681,
+  "total_videos": 682,
   "date_range": {
     "newest": "2026-06-03",
     "oldest": "2024-05-21"
@@ -105,6 +105,80 @@
       ],
       "transcript_chars": 474,
       "folder": "2026-06-03-ai-didnt-fix-your-meetings-it-broke-your-team-size-productivity"
+    },
+    {
+      "title": "Opus 4.8 Scored 81. Your Workflow Doesn't Care.",
+      "video_id": "z73yuF14udI",
+      "youtube_url": "https://www.youtube.com/watch?v=z73yuF14udI",
+      "publish_date": "2026-06-03",
+      "duration": "26:36",
+      "duration_seconds": 1596,
+      "view_count": 14073,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full post here: https://natesnewsletter.substack.com/p/opus-48-benchmark-model-selection?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Substack covers:\n\u2705 Every test, scored and picked apart. Where Opus 4.8 won, where GPT-5.5 beat it, and where the score hides real caveats.\n\u2705 The effort-level trap. The Vending-Bench data on why max can make long-running work worse, and how I configure each mode for real work.\n\u2705 How I actually choose my daily tools. Why I still reach for Codex/5.5 despite the score, plus a routing guide for when to use Opus 4.8, Codex/5.5, and GPT-5.5.\n\u2705 What builders, leaders, and executives should each do differently. Role-specific guidance and four prompts you can paste and use today.\n__________________________________\n\nWhat's really happening with Opus 4.8, AI agents, and the model race heading into the second half of 2026?\n\nThe common story is that a stronger benchmark score automatically makes a model your daily driver \u2014 but the reality is that harnesses, compute, and workflow reliability now matter just as much as raw model intelligence.\n\nIn this video, I share the inside scoop on why Opus 4.8 is a checkpoint release and why the product harness around the model now matters more than the model itself:\n\n \u2022 Why reasoning effort became unpredictable on 4.8\n \u2022 How the Codex harness outperformed raw model intelligence\n \u2022 What the /workflows command reveals about agent design\n \u2022 Where knowledge workers should focus to drive real outcomes\n\nBuilders and engineering leaders who architect for harness flexibility now will avoid the budget trap of betting everything on a single model vendor.\n\nChapters:\n00:00 Everyone is getting the Opus 4.8 story wrong\n03:05 Reasoning effort breaks on 4.8\n05:04 The overthinking problem\n08:04 Why harnesses decide your daily driver\n11:47 I built two sites with 5.5 while 4.8 errored out\n15:35 The /workflows command\n16:58 Individual agents vs agentic pipelines\n19:43 The dark factory approach\n20:28 Knowledge workers and the outcome filter\n22:27 Architect for flexibility\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Opus 4.8",
+        "Anthropic",
+        "Codex",
+        "GPT-5.5",
+        "Claude Code",
+        "AI harness",
+        "agentic workflows",
+        "dark factory",
+        "AI daily driver 2026",
+        "AI model comparison 2026",
+        "claude opus 4.8",
+        "claude ai"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Box",
+          "X",
+          "Uber"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": [
+          "Claude 4"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "And I think it makes sense that we're getting it wrong because we're used to the 2025 story"
+      ],
+      "transcript_chars": 27824,
+      "folder": "2026-06-03-opus-48-scored-81-your-workflow-doesnt-care"
     },
     {
       "title": "Is your AI team actually efficient? #ai #tech #programming",
