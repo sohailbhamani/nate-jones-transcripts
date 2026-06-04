@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (466 episodes):
+Episodes discussing **Ai Strategy** (467 episodes):
 
+- [Don't let your AI output go to waste #strategy #ai](../episodes/2026-06-04-dont-let-your-ai-output-go-to-waste-strategy-ai/transcript.md) (2026-06-04)
 - [AI didn't fix your meetings, it broke them #management #ai](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-them-management-ai/transcript.md) (2026-06-03)
 - [AI didn't fix your meetings, it broke your team size #productivity](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-your-team-size-productivity/transcript.md) (2026-06-03)
 - [Is your AI team actually efficient? #ai #tech #programming](../episodes/2026-06-02-is-your-ai-team-actually-efficient-ai-tech-programming/transcript.md) (2026-06-02)

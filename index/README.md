@@ -1,15 +1,15 @@
 # Nate B Jones Podcast Index
 
-Index of 682 episodes across 121 topics.
+Index of 683 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (549 episodes)
+- [Frameworks](frameworks.md) (550 episodes)
 - [Make](make.md) (502 episodes)
 - [Ai Tools](ai-tools.md) (491 episodes)
-- [Ai Strategy](ai-strategy.md) (466 episodes)
+- [Ai Strategy](ai-strategy.md) (467 episodes)
 - [Product Management](product-management.md) (424 episodes)
-- [Coding](coding.md) (420 episodes)
+- [Coding](coding.md) (421 episodes)
 - [Ai News](ai-news.md) (363 episodes)
 - [Anthropic](anthropic.md) (323 episodes)
 - [Claude](claude.md) (315 episodes)
@@ -21,10 +21,10 @@ Index of 682 episodes across 121 topics.
 - [Tutorials](tutorials.md) (277 episodes)
 - [Google](google.md) (276 episodes)
 - [Prompting](prompting.md) (222 episodes)
-- [Tutorial](tutorial.md) (215 episodes)
+- [Tutorial](tutorial.md) (216 episodes)
 - [Framework](framework.md) (183 episodes)
 - [Gemini](gemini.md) (156 episodes)
-- [Microsoft](microsoft.md) (151 episodes)
+- [Microsoft](microsoft.md) (152 episodes)
 - [News Roundup](news-roundup.md) (141 episodes)
 - [Meta](meta.md) (132 episodes)
 - [Startups](startups.md) (123 episodes)
@@ -121,8 +121,8 @@ Index of 682 episodes across 121 topics.
 - [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
+- [Ollama](ollama.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 

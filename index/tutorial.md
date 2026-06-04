@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (215 episodes):
+Episodes discussing **Tutorial** (216 episodes):
 
+- [Don't let your AI output go to waste #strategy #ai](../episodes/2026-06-04-dont-let-your-ai-output-go-to-waste-strategy-ai/transcript.md) (2026-06-04)
 - [AI didn't fix your meetings, it broke them #management #ai](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-them-management-ai/transcript.md) (2026-06-03)
 - [A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.](../episodes/2026-05-28-a-cursor-agent-wiped-a-database-in-9-seconds-agent-analytics-would-have-seen-it/transcript.md) (2026-05-28)
 - [I Built a Deck With AI, Then Made a Second AI Attack It.](../episodes/2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it/transcript.md) (2026-05-27)
