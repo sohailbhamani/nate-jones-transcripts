@@ -1,11 +1,11 @@
 ---
-title: "Don't let your AI output go to waste #strategy #ai"
-video_id: "wKWt8Cq4oDs"
-youtube_url: "https://www.youtube.com/watch?v=wKWt8Cq4oDs"
-publish_date: "2026-06-04"
-duration: "0:41"
-duration_seconds: 41
-view_count: 204
+title: "The most expensive AI mistake isn't prompting #ai #business"
+video_id: "pO4qoLEMMog"
+youtube_url: "https://www.youtube.com/watch?v=pO4qoLEMMog"
+publish_date: "2026-06-05"
+duration: "0:40"
+duration_seconds: 40
+view_count: 298
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   My site: https://natebjones.com
@@ -46,13 +46,12 @@ yt_tags:
   - "nate b jones ai"
 
 
-
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
-  - "Engineers"
+  - "Executives"
 entities:
   companies:
     []
@@ -65,16 +64,15 @@ entities:
 concepts:
   []
 summary:
-  - "# Don't let your AI output go to waste #strategy #ai
+  - "# The most expensive AI mistake isn't prompting #ai #business
 
-If you start to do this, if you start to properly encode your rejections so they're durable, reusable constraints, then you are now building a fly"
+What does that look like"
 keywords:
-  - "ai-strategy"
-  - "coding"
   - "frameworks"
-  - "microsoft"
+  - "prompting"
+  - "tutorials"
 ---
 
-# Don't let your AI output go to waste #strategy #ai
+# The most expensive AI mistake isn't prompting #ai #business
 
-If you start to do this, if you start to properly encode your rejections so they're durable, reusable constraints, then you are now building a flywheel. You're not really scaling experts, you're scaling the encoded residue of expert judgment. You're scaling the outputs of human judgment. And this starts to compound across an organization's footprint. So, if you're a consulting firm that encodes partner rejections across thousands of engagement, you're effectively building a repeatable institutional bar for quality at that firm that no competitor can replicate by just subscribing to the same AI model APIs.
+What does that look like? And yes, we're going to get to that. Taste is a scalable asset, people love to say, but what people don't talk about is that taste, if it's locked inside your human brain, ends up stressing you out because you look at all of this pile of AI-generated output that's gone up 10x or 100x or 1,000x and you're like, I don't know. I'm supposed to have taste across this, whatever that means. You're not going to get there if you don't learn how to both reject what's bad and also systematize your rejection so that you can start to scale that a little bit. Your rejections are more valuable than your prompts. Yes, I said it. So, what happens in this moment of rejection?

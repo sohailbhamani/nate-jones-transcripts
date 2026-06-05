@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (491 episodes):
+Episodes discussing **Ai Tools** (492 episodes):
 
+- [The most expensive AI mistake you’re making right now #ai #strategy](../episodes/2026-06-04-the-most-expensive-ai-mistake-youre-making-right-now-ai-strategy/transcript.md) (2026-06-04)
 - [The death of traditional databases #ai #tech #saas](../episodes/2026-06-01-the-death-of-traditional-databases-ai-tech-saas/transcript.md) (2026-06-01)
 - [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
 - [The Compound Risk of AI Agents ⚠️ #ai #risk #software](../episodes/2026-05-31-the-compound-risk-of-ai-agents-ai-risk-software/transcript.md) (2026-05-31)

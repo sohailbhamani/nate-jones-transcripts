@@ -1,11 +1,11 @@
 ---
-title: "Don't let your AI output go to waste #strategy #ai"
-video_id: "wKWt8Cq4oDs"
-youtube_url: "https://www.youtube.com/watch?v=wKWt8Cq4oDs"
+title: "The most expensive AI mistake you’re making right now #ai #strategy"
+video_id: "4KU1CiiAsMI"
+youtube_url: "https://www.youtube.com/watch?v=4KU1CiiAsMI"
 publish_date: "2026-06-04"
-duration: "0:41"
-duration_seconds: 41
-view_count: 204
+duration: "0:50"
+duration_seconds: 50
+view_count: 422
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   My site: https://natebjones.com
@@ -46,13 +46,12 @@ yt_tags:
   - "nate b jones ai"
 
 
-
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
-  - "Engineers"
+  - "Product Managers"
 entities:
   companies:
     []
@@ -65,16 +64,15 @@ entities:
 concepts:
   []
 summary:
-  - "# Don't let your AI output go to waste #strategy #ai
+  - "# The most expensive AI mistake you’re making right now #ai #strategy
 
-If you start to do this, if you start to properly encode your rejections so they're durable, reusable constraints, then you are now building a fly"
+Recognition is the product of years of practice and it's the reason experienced domain experts are becoming more valuable, not le"
 keywords:
   - "ai-strategy"
-  - "coding"
-  - "frameworks"
-  - "microsoft"
+  - "ai-tools"
+  - "product-management"
 ---
 
-# Don't let your AI output go to waste #strategy #ai
+# The most expensive AI mistake you’re making right now #ai #strategy
 
-If you start to do this, if you start to properly encode your rejections so they're durable, reusable constraints, then you are now building a flywheel. You're not really scaling experts, you're scaling the encoded residue of expert judgment. You're scaling the outputs of human judgment. And this starts to compound across an organization's footprint. So, if you're a consulting firm that encodes partner rejections across thousands of engagement, you're effectively building a repeatable institutional bar for quality at that firm that no competitor can replicate by just subscribing to the same AI model APIs.
+Recognition is the product of years of practice and it's the reason experienced domain experts are becoming more valuable, not less, as AI floods every organization with lots and lots of output. So, the person who's reviewed 2,000 deals and can just feel when something is off is becoming the most important person in the building. Not despite AI, but because of it. And recognition is the dimension most enhanced by AI. A domain expert with very strong recognition and access to AI tools can evaluate 10 times the output that they could before. The leverage is very multiplicative, but it only works inside the boundary of their expertise. Inside that boundary, AI is a force multiplier, but outside of it, AI multiplies confidence, not expertise, and that's work.
