@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (75 episodes):
+Episodes discussing **Opus** (76 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [I Built a Deck With AI, Then Made a Second AI Attack It.](../episodes/2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it/transcript.md) (2026-05-27)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)

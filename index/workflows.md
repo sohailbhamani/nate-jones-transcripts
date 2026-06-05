@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (292 episodes):
+Episodes discussing **Workflows** (293 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [AI didn't fix your meetings, it broke your team size #productivity](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-your-team-size-productivity/transcript.md) (2026-06-03)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [Why your meetings are actually destroying your output #productivity #work](../episodes/2026-06-02-why-your-meetings-are-actually-destroying-your-output-productivity-work/transcript.md) (2026-06-02)

@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (309 episodes):
+Episodes discussing **Ai Agents** (310 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [Is your AI team actually efficient? #ai #tech #programming](../episodes/2026-06-02-is-your-ai-team-actually-efficient-ai-tech-programming/transcript.md) (2026-06-02)
 - [The death of traditional databases #ai #tech #saas](../episodes/2026-06-01-the-death-of-traditional-databases-ai-tech-saas/transcript.md) (2026-06-01)

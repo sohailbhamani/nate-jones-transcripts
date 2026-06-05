@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (34 episodes):
+Episodes discussing **Codex** (35 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [Cheap software made your PM job harder, not easier. Here's the new job.](../episodes/2026-05-29-cheap-software-made-your-pm-job-harder-not-easier-heres-the-new-job/transcript.md) (2026-05-29)
 - [The Infrastructure Nightmare Nobody Is Talking About](../episodes/2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about/transcript.md) (2026-05-25)

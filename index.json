@@ -1,10 +1,80 @@
 {
-  "total_videos": 685,
+  "total_videos": 686,
   "date_range": {
     "newest": "2026-06-05",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.",
+      "video_id": "l8BloTSLK6M",
+      "youtube_url": "https://www.youtube.com/watch?v=l8BloTSLK6M",
+      "publish_date": "2026-06-05",
+      "duration": "21:06",
+      "duration_seconds": 1266,
+      "view_count": 6217,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Token Burn Dashboard Guide: https://natesnewsletter.substack.com/p/token-burn-dashboard?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Substack covers:\n\u2705 A step-by-step guide to build your own token dashboard from scratch, with the prompt I used, and an instructional video.\n\u2705 A ready-made kit for your stack instead of a blank page, whether you live in Codex, Claude, ChatGPT, or all of them at once.\n\u2705 The line between assistant work and computer work, and why being stuck on the wrong side has nothing to do with the model.\n\u2705 A fifteen-minute weekly review that turns your best one-off runs into workflows you stop rebuilding.\n\u2705 Why ranking a team by token volume backfires, and the record that actually shows who can lead an AI rollout.\n___________________________________________\nWhat's really happening inside your own AI usage?\n\nThe common story is that burning more tokens is just waste \u2014 but the reality is more complicated.\n\nIn this video, I share the inside scoop on building a token burn dashboard:\n \u2022 Why token burn tracks with smarter AI results\n \u2022 How I built the whole thing in Codex\n \u2022 What multi-agent runs reveal about your real habits\n \u2022 Where to go next once you can see the data\n\nI burned roughly 800 million tokens in a single day, and the point was never the number. The point is the feedback loop. When you can see how your behavior shifts your token usage, you start to understand whether you're actually stretching your imagination with AI or coasting on the same few habits. I used an open-source Tufte visualization skill, a logarithmic scale, and plain-English intent to get there, no fancy prompt engineering required. The same approach works in Opus 4.8 if you live in Claude.\n\nFor operators and builders, this is the metering layer that turns vague AI enthusiasm into a signal you can measure, learn from, and improve before the gap between heavy and light users widens further.\n\nChapters:\n00:00 Why I built a token burn dashboard\n08:05 Tracking AI usage with Codex\n14:19 The value of learning from AI\n20:46 Making prompting and building fun\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Codex",
+        "token burn",
+        "Opus 4.8",
+        "AI dashboard",
+        "AI productivity tips",
+        "ai tokens explained",
+        "ai token cost",
+        "dashboard with ai"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Slack",
+          "GitHub",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Opus",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Different kind of architecture than we've ever had in computing before"
+      ],
+      "summary": [
+        "I built a token burn dashboard and in this video I'm going to show you how I did it"
+      ],
+      "transcript_chars": 22453,
+      "folder": "2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost"
+    },
     {
       "title": "The most expensive AI mistake isn't prompting #ai #business",
       "video_id": "pO4qoLEMMog",

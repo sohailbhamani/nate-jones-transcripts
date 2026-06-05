@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (421 episodes):
+Episodes discussing **Coding** (422 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Don't let your AI output go to waste #strategy #ai](../episodes/2026-06-04-dont-let-your-ai-output-go-to-waste-strategy-ai/transcript.md) (2026-06-04)
 - [Is your AI team actually efficient? #ai #tech #programming](../episodes/2026-06-02-is-your-ai-team-actually-efficient-ai-tech-programming/transcript.md) (2026-06-02)
 - [Why your meetings are actually destroying your output #productivity #work](../episodes/2026-06-02-why-your-meetings-are-actually-destroying-your-output-productivity-work/transcript.md) (2026-06-02)

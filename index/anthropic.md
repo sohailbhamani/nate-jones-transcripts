@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (323 episodes):
+Episodes discussing **Anthropic** (324 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [My AI Workflow Has Changed (Here is What I Learned)](../episodes/2026-05-30-my-ai-workflow-has-changed-here-is-what-i-learned/transcript.md) (2026-05-30)
 - [Cheap software made your PM job harder, not easier. Here's the new job.](../episodes/2026-05-29-cheap-software-made-your-pm-job-harder-not-easier-heres-the-new-job/transcript.md) (2026-05-29)

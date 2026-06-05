@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (91 episodes):
+Episodes discussing **Slack** (92 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.](../episodes/2026-05-28-a-cursor-agent-wiped-a-database-in-9-seconds-agent-analytics-would-have-seen-it/transcript.md) (2026-05-28)
 - [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)
 - [The Infrastructure Nightmare Nobody Is Talking About](../episodes/2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about/transcript.md) (2026-05-25)

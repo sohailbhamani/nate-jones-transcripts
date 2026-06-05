@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (425 episodes):
+Episodes discussing **Product Management** (426 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [The most expensive AI mistake you’re making right now #ai #strategy](../episodes/2026-06-04-the-most-expensive-ai-mistake-youre-making-right-now-ai-strategy/transcript.md) (2026-06-04)
 - [AI didn't fix your meetings, it broke them #management #ai](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-them-management-ai/transcript.md) (2026-06-03)
 - [AI didn't fix your meetings, it broke your team size #productivity](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-your-team-size-productivity/transcript.md) (2026-06-03)

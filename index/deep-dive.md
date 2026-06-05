@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (102 episodes):
+Episodes discussing **Deep Dive** (103 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [AI didn't fix your meetings, it broke your team size #productivity](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-your-team-size-productivity/transcript.md) (2026-06-03)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [Why you only have 150 friends #psychology #science](../episodes/2026-06-02-why-you-only-have-150-friends-psychology-science/transcript.md) (2026-06-02)

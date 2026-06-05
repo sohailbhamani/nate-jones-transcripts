@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (97 episodes):
+Episodes discussing **Projects** (98 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech](../episodes/2026-05-26-are-ai-agents-actually-boosting-productivity-futureofwork-ai-tech/transcript.md) (2026-05-26)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [The One AI Writing Hack Nobody Talks About.](../episodes/2026-05-22-the-one-ai-writing-hack-nobody-talks-about/transcript.md) (2026-05-22)

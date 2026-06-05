@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (551 episodes):
+Episodes discussing **Frameworks** (552 episodes):
 
+- [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [The most expensive AI mistake isn't prompting #ai #business](../episodes/2026-06-05-the-most-expensive-ai-mistake-isnt-prompting-ai-business/transcript.md) (2026-06-05)
 - [Don't let your AI output go to waste #strategy #ai](../episodes/2026-06-04-dont-let-your-ai-output-go-to-waste-strategy-ai/transcript.md) (2026-06-04)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
