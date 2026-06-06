@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (218 episodes):
+Episodes discussing **Tutorial** (219 episodes):
 
+- [The most expensive AI mistake you are making #ai #learning #shorts](../episodes/2026-06-06-the-most-expensive-ai-mistake-you-are-making-ai-learning-shorts/transcript.md) (2026-06-06)
 - [The most expensive AI mistake isn't prompting #ai #business](../episodes/2026-06-05-the-most-expensive-ai-mistake-isnt-prompting-ai-business/transcript.md) (2026-06-05)
 - [Don't let your AI output go to waste #strategy #ai](../episodes/2026-06-04-dont-let-your-ai-output-go-to-waste-strategy-ai/transcript.md) (2026-06-04)
 - [The most expensive AI mistake you’re making right now #ai #strategy](../episodes/2026-06-04-the-most-expensive-ai-mistake-youre-making-right-now-ai-strategy/transcript.md) (2026-06-04)

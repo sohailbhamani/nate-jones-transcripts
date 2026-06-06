@@ -1,27 +1,27 @@
 # Nate B Jones Podcast Index
 
-Index of 686 episodes across 121 topics.
+Index of 687 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (552 episodes)
 - [Make](make.md) (503 episodes)
 - [Ai Tools](ai-tools.md) (493 episodes)
-- [Ai Strategy](ai-strategy.md) (469 episodes)
+- [Ai Strategy](ai-strategy.md) (470 episodes)
 - [Product Management](product-management.md) (426 episodes)
-- [Coding](coding.md) (422 episodes)
+- [Coding](coding.md) (423 episodes)
 - [Ai News](ai-news.md) (364 episodes)
 - [Anthropic](anthropic.md) (324 episodes)
 - [Claude](claude.md) (316 episodes)
 - [Ai Agents](ai-agents.md) (310 episodes)
 - [Career](career.md) (304 episodes)
 - [Leadership](leadership.md) (297 episodes)
-- [Workflows](workflows.md) (293 episodes)
+- [Workflows](workflows.md) (294 episodes)
 - [Openai](openai.md) (290 episodes)
 - [Tutorials](tutorials.md) (278 episodes)
 - [Google](google.md) (276 episodes)
 - [Prompting](prompting.md) (224 episodes)
-- [Tutorial](tutorial.md) (218 episodes)
+- [Tutorial](tutorial.md) (219 episodes)
 - [Framework](framework.md) (183 episodes)
 - [Gemini](gemini.md) (156 episodes)
 - [Microsoft](microsoft.md) (152 episodes)
@@ -34,8 +34,8 @@ Index of 686 episodes across 121 topics.
 - [Deep Dive](deep-dive.md) (103 episodes)
 - [Claude Code](claude-code.md) (99 episodes)
 - [Projects](projects.md) (98 episodes)
+- [Slack](slack.md) (93 episodes)
 - [Box](box.md) (92 episodes)
-- [Slack](slack.md) (92 episodes)
 - [Github](github.md) (88 episodes)
 - [Chatgpt](chatgpt.md) (87 episodes)
 - [Deep Dives](deep-dives.md) (87 episodes)
@@ -112,8 +112,8 @@ Index of 686 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Cowork](cowork.md) (2 episodes)
 - [Claude Cowork](claude-cowork.md) (2 episodes)
+- [Cowork](cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Lm Studio](lm-studio.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
@@ -121,8 +121,8 @@ Index of 686 episodes across 121 topics.
 - [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
+- [Raycast](raycast.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 
