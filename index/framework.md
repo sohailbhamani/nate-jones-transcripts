@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (183 episodes):
+Episodes discussing **Framework** (184 episodes):
 
+- [The hidden value in your AI's worst outputs #ai #tech #work](../episodes/2026-06-06-the-hidden-value-in-your-ais-worst-outputs-ai-tech-work/transcript.md) (2026-06-06)
 - [Is your AI team actually efficient? #ai #tech #programming](../episodes/2026-06-02-is-your-ai-team-actually-efficient-ai-tech-programming/transcript.md) (2026-06-02)
 - [The death of traditional databases #ai #tech #saas](../episodes/2026-06-01-the-death-of-traditional-databases-ai-tech-saas/transcript.md) (2026-06-01)
 - [This is how AI agents actually take over enterprises #ai #business #tech](../episodes/2026-06-01-this-is-how-ai-agents-actually-take-over-enterprises-ai-business-tech/transcript.md) (2026-06-01)

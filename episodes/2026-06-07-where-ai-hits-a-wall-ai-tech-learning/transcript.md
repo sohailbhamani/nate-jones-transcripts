@@ -1,11 +1,11 @@
 ---
-title: "The most expensive AI mistake you are making #ai #learning #shorts"
-video_id: "zOndwcirGVY"
-youtube_url: "https://www.youtube.com/watch?v=zOndwcirGVY"
-publish_date: "2026-06-06"
-duration: "0:47"
-duration_seconds: 47
-view_count: 500
+title: "Where AI hits a wall #ai #tech #learning"
+video_id: "yOGLr2IwAWk"
+youtube_url: "https://www.youtube.com/watch?v=yOGLr2IwAWk"
+publish_date: "2026-06-07"
+duration: "0:53"
+duration_seconds: 53
+view_count: 695
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   My site: https://natebjones.com
@@ -47,16 +47,15 @@ yt_tags:
   - "ai"
 
 
-
 # AI-enriched metadata
-content_type: "Tutorial"
+content_type: "Deep Dive"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
-  - "Engineers"
+  - "Executives"
 entities:
   companies:
-    - "Slack"
+    []
   people:
     []
   products:
@@ -66,15 +65,15 @@ entities:
 concepts:
   []
 summary:
-  - "# The most expensive AI mistake you are making #ai #learning #shorts
+  - "# Where AI hits a wall #ai #tech #learning
 
-work"
+The person applying domain expertise that AI doesn't have is able to identify a specific gap between 'Hey, this looks right"
 keywords:
-  - "coding"
-  - "slack"
-  - "workflows"
+  - "ai-strategy"
+  - "deep-dives"
+  - "frameworks"
 ---
 
-# The most expensive AI mistake you are making #ai #learning #shorts
+# Where AI hits a wall #ai #tech #learning
 
-work. This is about anything we do with computers. These kinds of rejections are not null, they're not void, they're actually knowledge creation events. We're not capturing them mostly, but they are. And the thing I'm not hearing anyone say is hey, how do we take these and scale our nose? And how do we take these and let this moment of rejection become a valuable moment that scales in our AI workflow? Because the knowledge created in that moment, the constraint, the rule, the encoded taste, that compounds if you let it. But right now, for almost everybody, it evaporates. It lives in an email thread, it lives in a chat window, it lives in a Slack message. Nobody really captures it. Nobody compounds it and
+The person applying domain expertise that AI doesn't have is able to identify a specific gap between "Hey, this looks right." and "This actually is correct." And they can articulate a constraint that wasn't an explicit rule before they said it. So, a strategy partner might send back an AI-generated competitive analysis and say, "Look, where's our proprietary insight on customer switching costs here? Any firm with access to the same model could have produced the framing that I'm seeing here." And there you go, you're differentiating the firm's work from commodity output. Or a loan officer that rejects a covenant tracking prototype might say, "You can't treat a debt service coverage ratio the same as a minimum net worth requirement. Those have completely different monitoring triggers." And they're just specifying business logic that no requirements doc is going to capture.

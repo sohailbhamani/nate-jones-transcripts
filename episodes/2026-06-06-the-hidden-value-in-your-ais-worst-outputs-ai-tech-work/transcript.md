@@ -1,11 +1,11 @@
 ---
-title: "The most expensive AI mistake you are making #ai #learning #shorts"
-video_id: "zOndwcirGVY"
-youtube_url: "https://www.youtube.com/watch?v=zOndwcirGVY"
+title: "The hidden value in your AI's worst outputs #ai #tech #work"
+video_id: "g4FSU7g3IJw"
+youtube_url: "https://www.youtube.com/watch?v=g4FSU7g3IJw"
 publish_date: "2026-06-06"
-duration: "0:47"
-duration_seconds: 47
-view_count: 500
+duration: "0:46"
+duration_seconds: 46
+view_count: 808
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   My site: https://natebjones.com
@@ -44,37 +44,35 @@ yt_tags:
   - "AI strategy for teams"
   - "nate b jones"
   - "nate b jones ai"
-  - "ai"
-
 
 
 # AI-enriched metadata
-content_type: "Tutorial"
-primary_topic: "AI Strategy"
+content_type: "Framework"
+primary_topic: "Career"
 difficulty: "Intermediate"
 audience:
-  - "Engineers"
+  - "General"
 entities:
   companies:
-    - "Slack"
+    []
   people:
     []
   products:
-    []
+    - "Make"
   models:
     []
 concepts:
   []
 summary:
-  - "# The most expensive AI mistake you are making #ai #learning #shorts
+  - "# The hidden value in your AI's worst outputs #ai #tech #work
 
-work"
+But, the infrastructure to make all of this possible has really not been there in the age of AI"
 keywords:
-  - "coding"
-  - "slack"
-  - "workflows"
+  - "ai-tools"
+  - "frameworks"
+  - "make"
 ---
 
-# The most expensive AI mistake you are making #ai #learning #shorts
+# The hidden value in your AI's worst outputs #ai #tech #work
 
-work. This is about anything we do with computers. These kinds of rejections are not null, they're not void, they're actually knowledge creation events. We're not capturing them mostly, but they are. And the thing I'm not hearing anyone say is hey, how do we take these and scale our nose? And how do we take these and let this moment of rejection become a valuable moment that scales in our AI workflow? Because the knowledge created in that moment, the constraint, the rule, the encoded taste, that compounds if you let it. But right now, for almost everybody, it evaporates. It lives in an email thread, it lives in a chat window, it lives in a Slack message. Nobody really captures it. Nobody compounds it and
+But, the infrastructure to make all of this possible has really not been there in the age of AI. As far as I can tell, almost nobody is talking about how you scale your notes. This is not a small oversight. It's the largest structural gap in the AI tool ecosystem. All of the organizations using AI are generating rejections at grassroots at the individual user's seat all the time, and every single one of those, almost without exception, is falling on the floor. And the right solution is not a separate tool. It's not a spreadsheet, it's not a database, it's not a dashboard, because people won't context switch. I believe the capture has to happen where the work happens, inside the conversation as a side effect of the rejection you're already performing.
