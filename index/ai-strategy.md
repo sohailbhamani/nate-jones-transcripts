@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (471 episodes):
+Episodes discussing **Ai Strategy** (472 episodes):
 
+- [Uber's massive AI mistake revealed #tech #shorts](../episodes/2026-06-07-ubers-massive-ai-mistake-revealed-tech-shorts/transcript.md) (2026-06-07)
 - [Where AI hits a wall #ai #tech #learning](../episodes/2026-06-07-where-ai-hits-a-wall-ai-tech-learning/transcript.md) (2026-06-07)
 - [The most expensive AI mistake you are making #ai #learning #shorts](../episodes/2026-06-06-the-most-expensive-ai-mistake-you-are-making-ai-learning-shorts/transcript.md) (2026-06-06)
 - [The most expensive AI mistake isn't prompting #ai #business](../episodes/2026-06-05-the-most-expensive-ai-mistake-isnt-prompting-ai-business/transcript.md) (2026-06-05)

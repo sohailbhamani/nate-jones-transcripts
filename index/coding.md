@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (423 episodes):
+Episodes discussing **Coding** (424 episodes):
 
+- [Uber's massive AI mistake revealed #tech #shorts](../episodes/2026-06-07-ubers-massive-ai-mistake-revealed-tech-shorts/transcript.md) (2026-06-07)
 - [The most expensive AI mistake you are making #ai #learning #shorts](../episodes/2026-06-06-the-most-expensive-ai-mistake-you-are-making-ai-learning-shorts/transcript.md) (2026-06-06)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Don't let your AI output go to waste #strategy #ai](../episodes/2026-06-04-dont-let-your-ai-output-go-to-waste-strategy-ai/transcript.md) (2026-06-04)

@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (426 episodes):
+Episodes discussing **Product Management** (427 episodes):
 
+- [Uber's massive AI mistake revealed #tech #shorts](../episodes/2026-06-07-ubers-massive-ai-mistake-revealed-tech-shorts/transcript.md) (2026-06-07)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [The most expensive AI mistake you’re making right now #ai #strategy](../episodes/2026-06-04-the-most-expensive-ai-mistake-youre-making-right-now-ai-strategy/transcript.md) (2026-06-04)
 - [AI didn't fix your meetings, it broke them #management #ai](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-them-management-ai/transcript.md) (2026-06-03)
