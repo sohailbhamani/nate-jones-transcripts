@@ -1,5 +1,5 @@
 {
-  "total_videos": 693,
+  "total_videos": 694,
   "date_range": {
     "newest": "2026-06-08",
     "oldest": "2024-05-21"
@@ -113,6 +113,80 @@
       ],
       "transcript_chars": 1484,
       "folder": "2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity"
+    },
+    {
+      "title": "Meta Cut 8,000 People. It Has Nothing To Do With AI Working.",
+      "video_id": "hzAcDU1FYDo",
+      "youtube_url": "https://www.youtube.com/watch?v=hzAcDU1FYDo",
+      "publish_date": "2026-06-08",
+      "duration": "20:18",
+      "duration_seconds": 1218,
+      "view_count": 7033,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "For 50% off a yearly subscription ($250 \u2192 $150) to my Substack head to: https://www.natebjones.com/the-path-forward\n\nWhat you get access to:\n\u2705 One guide, build, or tool every week that helps you build fluency and learn how to use AI tools today.\n\u2705 Access to TalentBoard, where you can show your fluency and get found by people hiring for real roles.\n\u2705 One deep dive a week on something in AI that actually matters, so you know what's moving and how to move your career with it.\n\u2705 Access to my community Slack, where you can meet other builders and AI practitioners who are figuring this out alongside you.\n\u2705 And the whole archive. Everything I've ever published, the posts you've heard me reference on this channel, now yours to read.\n\nOffer valid until July 4th. Any issues, contact support@natebjones.com\n_______________________________________\nWhat's really happening inside the wave of AI layoffs rolling through tech right now? The common story is that AI made these workers redundant, but the reality is far messier and far more useful to understand.\n\nIn this video, I share the inside scoop on why no two AI layoffs mean the same thing:\n \u2022 Why hyperscalers like Meta cut staff while burning GPU billions\n \u2022 How Jack Dorsey's Block layoffs show a real AI vision\n \u2022 What activity-based layoffs reveal about a company's hidden distress\n \u2022 Where job seekers should run and where they should look\n\nFor leaders and job seekers alike, a layoff is the loudest strategy signal a company can send. Read it right and it's free intelligence. Read it wrong and you bet your career on the wrong story.\n\nChapters:\n00:00 Why the AI layoffs story is wrong\n01:27 An offer for anyone who's been laid off\n02:33 Hyperscaler layoffs: Meta and the CapEx trap\n07:35 Visionary layoffs: Jack Dorsey and Block\n08:12 What Jack got right and what's missing\n12:12 Activity layoffs: Cloudflare and usage stats\n15:48 Hope layoffs: telling a story without numbers\n18:00 The fifth category: when it isn't about AI\n19:30 How to read any layoff as a strategy signal\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI layoffs",
+        "Meta layoffs",
+        "Jack Dorsey",
+        "Block",
+        "Cloudflare",
+        "AI layoffs explained",
+        "AI strategy for leaders",
+        "AI job search advice",
+        "tech layoffs",
+        "layoffs",
+        "future of work"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Meta",
+          "Box",
+          "Uber"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make"
+        ],
+        "models": [
+          "Llama"
+        ]
+      },
+      "concepts": [
+        "Please, please, please do not view an ai layoff story as the same as the next ai layoff story",
+        "How to understand where the market is going so you can form a strategic perspective based on the fairly obvious strategy signifier these layoffs are showing",
+        "I think jack did one thing really, really well"
+      ],
+      "summary": [
+        "I think we're getting the story on AI layoffs wrong"
+      ],
+      "transcript_chars": 22107,
+      "folder": "2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working"
     },
     {
       "title": "Fix your AI pipeline: Rethink ownership #ai #tech",
