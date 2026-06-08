@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (278 episodes):
+Episodes discussing **Tutorials** (279 episodes):
 
+- [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [The most expensive AI mistake isn't prompting #ai #business](../episodes/2026-06-05-the-most-expensive-ai-mistake-isnt-prompting-ai-business/transcript.md) (2026-06-05)
 - [AI didn't fix your meetings, it broke them #management #ai](../episodes/2026-06-03-ai-didnt-fix-your-meetings-it-broke-them-management-ai/transcript.md) (2026-06-03)
 - [Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.](../episodes/2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w/transcript.md) (2026-05-31)

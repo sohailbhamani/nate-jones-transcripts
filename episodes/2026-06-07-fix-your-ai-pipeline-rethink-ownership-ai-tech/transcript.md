@@ -1,11 +1,11 @@
 ---
-title: "Uber's massive AI mistake revealed #tech #shorts"
-video_id: "lggtc9D5e7E"
-youtube_url: "https://www.youtube.com/watch?v=lggtc9D5e7E"
+title: "Fix your AI pipeline: Rethink ownership #ai #tech"
+video_id: "AEnQEupGS_Q"
+youtube_url: "https://www.youtube.com/watch?v=AEnQEupGS_Q"
 publish_date: "2026-06-07"
-duration: "0:55"
-duration_seconds: 55
-view_count: 1467
+duration: "0:32"
+duration_seconds: 32
+view_count: 718
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   Full video & write up: https://natesnewsletter.substack.com/p/ai-token-cost-management?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
@@ -44,16 +44,16 @@ yt_tags:
   - "uber"
 
 
-
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
   - "Engineers"
+  - "Product Managers"
 entities:
   companies:
-    - "Uber"
+    []
   people:
     []
   products:
@@ -63,17 +63,16 @@ entities:
 concepts:
   []
 summary:
-  - "# Uber's massive AI mistake revealed #tech #shorts
+  - "# Fix your AI pipeline: Rethink ownership #ai #tech
 
-Uber just gave everyone a very easy AI bubble headline"
+The goal here is to get to an endto-end pipeline that covers the whole path of development"
 keywords:
   - "ai-agents"
-  - "ai-tools"
+  - "ai-news"
   - "coding"
   - "product-management"
-  - "uber"
 ---
 
-# Uber's massive AI mistake revealed #tech #shorts
+# Fix your AI pipeline: Rethink ownership #ai #tech
 
-Uber just gave everyone a very easy AI bubble headline. The company spent heavily on AI coding tools. Engineers used them widely. Token usage went up. AI-driven commits went up. And Uber's president and COO, Andrew Macdonald, said the company still cannot draw a clean line from all of that AI usage to a clear increase in useful customer features. That is the version of the story that's spreading everywhere online today. AI is too expensive. Token maxing is backfiring. Agents aren't worth the money. The bubble is cracking. I think that's the wrong lesson, people. And I'm so tired of having to say that because I feel like the bubble people need to find more bubble stories whenever we actually talk about the real bottleneck, which is power and being able to get more tokens because demand is so high. I think the important part of the Uber story is not that Uber ignored agents. Public evidence says the opposite. Uber is already doing real agentic work.
+The goal here is to get to an endto-end pipeline that covers the whole path of development. Customer signal becomes a product decision. The product decision becomes a plan. The plan becomes a code change. The code change gets tested. The risk of launch gets reviewed. And then the feature launches and the rollout gets measured. The customer outcome then changes your next decision. That is a full learning loop. If those steps are still separate, the agents are stuck optimizing for individual tasks.

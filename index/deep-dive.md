@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (105 episodes):
+Episodes discussing **Deep Dive** (106 episodes):
 
+- [Fix your AI pipeline: Rethink ownership #ai #tech](../episodes/2026-06-07-fix-your-ai-pipeline-rethink-ownership-ai-tech/transcript.md) (2026-06-07)
 - [Uber's massive AI mistake revealed #tech #shorts](../episodes/2026-06-07-ubers-massive-ai-mistake-revealed-tech-shorts/transcript.md) (2026-06-07)
 - [Where AI hits a wall #ai #tech #learning](../episodes/2026-06-07-where-ai-hits-a-wall-ai-tech-learning/transcript.md) (2026-06-07)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)

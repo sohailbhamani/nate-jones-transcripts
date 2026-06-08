@@ -1,11 +1,11 @@
 ---
-title: "Uber's massive AI mistake revealed #tech #shorts"
-video_id: "lggtc9D5e7E"
-youtube_url: "https://www.youtube.com/watch?v=lggtc9D5e7E"
-publish_date: "2026-06-07"
-duration: "0:55"
-duration_seconds: 55
-view_count: 1467
+title: "Fix your AI pipeline or lose your budget #ai #strategy"
+video_id: "76ovBK3lJ2U"
+youtube_url: "https://www.youtube.com/watch?v=76ovBK3lJ2U"
+publish_date: "2026-06-08"
+duration: "0:35"
+duration_seconds: 35
+view_count: 886
 author: "AI News & Strategy Daily | Nate B Jones"
 description: |
   Full video & write up: https://natesnewsletter.substack.com/p/ai-token-cost-management?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
@@ -44,16 +44,16 @@ yt_tags:
   - "uber"
 
 
-
 # AI-enriched metadata
-content_type: "Deep Dive"
+content_type: "News Roundup"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
   - "Engineers"
+  - "Product Managers"
 entities:
   companies:
-    - "Uber"
+    []
   people:
     []
   products:
@@ -63,17 +63,19 @@ entities:
 concepts:
   []
 summary:
-  - "# Uber's massive AI mistake revealed #tech #shorts
+  - "# Fix your AI pipeline or lose your budget #ai #strategy
 
-Uber just gave everyone a very easy AI bubble headline"
+It's a designed path, where agents help move work from signal to decision to action to measurement"
 keywords:
   - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
   - "ai-tools"
   - "coding"
   - "product-management"
-  - "uber"
+  - "workflows"
 ---
 
-# Uber's massive AI mistake revealed #tech #shorts
+# Fix your AI pipeline or lose your budget #ai #strategy
 
-Uber just gave everyone a very easy AI bubble headline. The company spent heavily on AI coding tools. Engineers used them widely. Token usage went up. AI-driven commits went up. And Uber's president and COO, Andrew Macdonald, said the company still cannot draw a clean line from all of that AI usage to a clear increase in useful customer features. That is the version of the story that's spreading everywhere online today. AI is too expensive. Token maxing is backfiring. Agents aren't worth the money. The bubble is cracking. I think that's the wrong lesson, people. And I'm so tired of having to say that because I feel like the bubble people need to find more bubble stories whenever we actually talk about the real bottleneck, which is power and being able to get more tokens because demand is so high. I think the important part of the Uber story is not that Uber ignored agents. Public evidence says the opposite. Uber is already doing real agentic work.
+It's a designed path, where agents help move work from signal to decision to action to measurement. If the agent does not just write a piece of code and then disappear here, right? It's got to gather the context and read the source of truth and classify the work and use bounded tools and draft or change something and then run checks and attach evidence, route it to the right human gate if needed, log what happened, and then update the next run after it learns. That is the full pipeline. And if a large company wants AI to improve company productivity, that is the level it's going to have to operate at.

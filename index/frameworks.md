@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (554 episodes):
+Episodes discussing **Frameworks** (555 episodes):
 
+- [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Where AI hits a wall #ai #tech #learning](../episodes/2026-06-07-where-ai-hits-a-wall-ai-tech-learning/transcript.md) (2026-06-07)
 - [The hidden value in your AI's worst outputs #ai #tech #work](../episodes/2026-06-06-the-hidden-value-in-your-ais-worst-outputs-ai-tech-work/transcript.md) (2026-06-06)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
