@@ -1,10 +1,63 @@
 {
-  "total_videos": 694,
+  "total_videos": 695,
   "date_range": {
-    "newest": "2026-06-08",
+    "newest": "2026-06-09",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Fix your operating model or lose at AI #ai #strategy",
+      "video_id": "dfjA49EykLs",
+      "youtube_url": "https://www.youtube.com/watch?v=dfjA49EykLs",
+      "publish_date": "2026-06-09",
+      "duration": "1:07",
+      "duration_seconds": 67,
+      "view_count": 498,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full video & write up: https://natesnewsletter.substack.com/p/ai-token-cost-management?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n____________________\nWhat's really happening inside enterprise AI spending when a company like Uber can't connect its token bill to better customer features?\n\nThe common story is that AI is too expensive and token maxing is backfiring \u2014 but the real reason is an operating model that was never redesigned around agents.\n\nFor leaders, the token bill is not a verdict on AI \u2014 it's feedback on a system they have not yet redesigned for agents.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "enterprise AI",
+        "AI agents",
+        "agentic pipelines",
+        "Uber AI",
+        "AI coding agents",
+        "AI agents for enterprise",
+        "AI token costs",
+        "ai agents",
+        "uber"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Fix your operating model or lose at AI #ai #strategy\nIf you can't go fast with agents, it is on you as a leader"
+      ],
+      "transcript_chars": 1076,
+      "folder": "2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy"
+    },
     {
       "title": "Fix your AI pipeline or lose your budget #ai #strategy",
       "video_id": "76ovBK3lJ2U",

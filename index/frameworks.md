@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (555 episodes):
+Episodes discussing **Frameworks** (556 episodes):
 
+- [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Where AI hits a wall #ai #tech #learning](../episodes/2026-06-07-where-ai-hits-a-wall-ai-tech-learning/transcript.md) (2026-06-07)
 - [The hidden value in your AI's worst outputs #ai #tech #work](../episodes/2026-06-06-the-hidden-value-in-your-ais-worst-outputs-ai-tech-work/transcript.md) (2026-06-06)

@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (306 episodes):
+Episodes discussing **Career** (307 episodes):
 
+- [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)
 - [The hidden value in your AI's worst outputs #ai #tech #work](../episodes/2026-06-06-the-hidden-value-in-your-ais-worst-outputs-ai-tech-work/transcript.md) (2026-06-06)
 - [Why your meetings are actually destroying your output #productivity #work](../episodes/2026-06-02-why-your-meetings-are-actually-destroying-your-output-productivity-work/transcript.md) (2026-06-02)

@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (299 episodes):
+Episodes discussing **Leadership** (300 episodes):
 
+- [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)

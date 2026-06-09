@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (314 episodes):
+Episodes discussing **Ai Agents** (315 episodes):
 
+- [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Fix your AI pipeline: Rethink ownership #ai #tech](../episodes/2026-06-07-fix-your-ai-pipeline-rethink-ownership-ai-tech/transcript.md) (2026-06-07)
