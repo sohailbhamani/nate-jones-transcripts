@@ -1,16 +1,16 @@
 # Nate B Jones Podcast Index
 
-Index of 695 episodes across 121 topics.
+Index of 696 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (556 episodes)
 - [Make](make.md) (505 episodes)
-- [Ai Tools](ai-tools.md) (496 episodes)
-- [Ai Strategy](ai-strategy.md) (477 episodes)
+- [Ai Tools](ai-tools.md) (497 episodes)
+- [Ai Strategy](ai-strategy.md) (478 episodes)
 - [Product Management](product-management.md) (430 episodes)
 - [Coding](coding.md) (427 episodes)
-- [Ai News](ai-news.md) (368 episodes)
+- [Ai News](ai-news.md) (369 episodes)
 - [Anthropic](anthropic.md) (325 episodes)
 - [Claude](claude.md) (317 episodes)
 - [Ai Agents](ai-agents.md) (315 episodes)
@@ -29,8 +29,8 @@ Index of 695 episodes across 121 topics.
 - [Meta](meta.md) (133 episodes)
 - [Startups](startups.md) (123 episodes)
 - [X](x.md) (116 episodes)
+- [Deep Dive](deep-dive.md) (107 episodes)
 - [Amazon](amazon.md) (107 episodes)
-- [Deep Dive](deep-dive.md) (106 episodes)
 - [Cursor](cursor.md) (106 episodes)
 - [Claude Code](claude-code.md) (100 episodes)
 - [Projects](projects.md) (98 episodes)
@@ -41,8 +41,8 @@ Index of 695 episodes across 121 topics.
 - [Chatgpt](chatgpt.md) (87 episodes)
 - [Mcp](mcp.md) (84 episodes)
 - [Opus](opus.md) (76 episodes)
-- [Nvidia](nvidia.md) (74 episodes)
-- [Apple](apple.md) (73 episodes)
+- [Nvidia](nvidia.md) (75 episodes)
+- [Apple](apple.md) (74 episodes)
 - [Artifacts](artifacts.md) (66 episodes)
 - [Salesforce](salesforce.md) (58 episodes)
 - [Youtube](youtube.md) (56 episodes)
@@ -112,8 +112,8 @@ Index of 695 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Cowork](cowork.md) (2 episodes)
+- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Lm Studio](lm-studio.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)

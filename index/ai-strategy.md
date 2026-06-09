@@ -1,8 +1,9 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (477 episodes):
+Episodes discussing **Ai Strategy** (478 episodes):
 
 - [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
+- [Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)](../episodes/2026-06-09-siri-isnt-the-real-headline-at-wwdc-apple-ai-wwdc-full-video-thursday/transcript.md) (2026-06-09)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)

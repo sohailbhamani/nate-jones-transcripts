@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (74 episodes):
+Episodes discussing **Nvidia** (75 episodes):
 
+- [Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)](../episodes/2026-06-09-siri-isnt-the-real-headline-at-wwdc-apple-ai-wwdc-full-video-thursday/transcript.md) (2026-06-09)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [These 5 Infrastructure Giants Secretly Rule AI](../episodes/2026-05-20-these-5-infrastructure-giants-secretly-rule-ai/transcript.md) (2026-05-20)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)

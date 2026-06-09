@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (73 episodes):
+Episodes discussing **Apple** (74 episodes):
 
+- [Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)](../episodes/2026-06-09-siri-isnt-the-real-headline-at-wwdc-apple-ai-wwdc-full-video-thursday/transcript.md) (2026-06-09)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
 - [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](../episodes/2026-04-28-gpt-55-vs-claude-vs-gemini-the-real-difference-nobodys-talking-about/transcript.md) (2026-04-28)

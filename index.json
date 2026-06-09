@@ -1,5 +1,5 @@
 {
-  "total_videos": 695,
+  "total_videos": 696,
   "date_range": {
     "newest": "2026-06-09",
     "oldest": "2024-05-21"
@@ -57,6 +57,53 @@
       ],
       "transcript_chars": 1076,
       "folder": "2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy"
+    },
+    {
+      "title": "Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)",
+      "video_id": "kd_OFLhOOk8",
+      "youtube_url": "https://www.youtube.com/watch?v=kd_OFLhOOk8",
+      "publish_date": "2026-06-09",
+      "duration": "0:45",
+      "duration_seconds": 45,
+      "view_count": 583,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Is Apple AI strategy at WWDC actually about software, or is the hardware story being missed?\n\nThis Thursday, I'm publishing a full video that breaks down the latest WWDC announcements, specifically focusing on Siri AI and the broader implications for Apple in the current artificial intelligence race. \n\nWhile the conference highlights software updates, the real story is about the underlying hardware and chip requirements that often go unnoticed by casual observers. This is essential viewing if you want to understand the intersection of consumer software and silicon infrastructure.\n\nSubscribe for weekly tech strategy breakdowns, and comment below on whether you think Apple hardware is ready for the upcoming AI era.\n",
+      "yt_tags": [
+        "Apple AI strategy",
+        "WWDC",
+        "Siri AI",
+        "NVIDIA",
+        "AI hardware",
+        "Jensen Huang",
+        "tech analysis",
+        "apple wwdc",
+        "ai news",
+        "ai",
+        "apple"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "Nvidia"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)\nWWDC was yesterday, June 8th, and today and tomorrow you're going to hear nothing but how Siri is getting smarter with Si"
+      ],
+      "transcript_chars": 839,
+      "folder": "2026-06-09-siri-isnt-the-real-headline-at-wwdc-apple-ai-wwdc-full-video-thursday"
     },
     {
       "title": "Fix your AI pipeline or lose your budget #ai #strategy",

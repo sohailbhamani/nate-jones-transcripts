@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (496 episodes):
+Episodes discussing **Ai Tools** (497 episodes):
 
+- [Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)](../episodes/2026-06-09-siri-isnt-the-real-headline-at-wwdc-apple-ai-wwdc-full-video-thursday/transcript.md) (2026-06-09)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)
 - [Uber's massive AI mistake revealed #tech #shorts](../episodes/2026-06-07-ubers-massive-ai-mistake-revealed-tech-shorts/transcript.md) (2026-06-07)
 - [The hidden value in your AI's worst outputs #ai #tech #work](../episodes/2026-06-06-the-hidden-value-in-your-ais-worst-outputs-ai-tech-work/transcript.md) (2026-06-06)
