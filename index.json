@@ -1,10 +1,74 @@
 {
-  "total_videos": 696,
+  "total_videos": 697,
   "date_range": {
-    "newest": "2026-06-09",
+    "newest": "2026-06-10",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Stop Coding. Start Steering. Claude vs Codex",
+      "video_id": "R2-Y1Hjwx2U",
+      "youtube_url": "https://www.youtube.com/watch?v=R2-Y1Hjwx2U",
+      "publish_date": "2026-06-10",
+      "duration": "16:13",
+      "duration_seconds": 973,
+      "view_count": 8356,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full post: https://natesnewsletter.substack.com/p/claude-code-vs-codex-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n___________________________\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when people argue about Claude Code versus Codex?\n\nThe common story is that this is a coding-tool cage match \u2014 but the reality is that each interface quietly trains a different way of working with AI agents, and that habit outlasts whichever model wins a benchmark this month.\n\nIn this video, I share the inside scoop on agent literacy, the real skill of 2026:\n - Why Claude makes steering agents up close feel natural\n - How Codex makes dispatching and delegating work feel natural\n - What each tool's failure mode quietly trains you to miss\n - When to steer, when to dispatch, and when to demand proof\n\nFor operators and builders, the edge in 2026 isn't picking a winner \u2014 it's learning when to steer the work, when to delegate it, and how to demand receipts before anything leaves the machine.\n\nChapters:\n00:00 Claude vs Codex is the wrong question\n00:37 Interfaces train behavior: the Mac vs Windows parallel\n01:37 A chatbot answers, an agent takes a job\n02:49 Claude as a cockpit: steering work up close\n03:54 How serious Claude users actually work\n05:01 Codex as an operations desk\n05:55 Sandboxes, auto-review, and computer use\n08:23 Codex's failure mode: done isn't done\n09:21 A practical rule for Claude, Codex, or both\n10:34 The human job that can't be skipped\n12:00 The best operators use both\n16:01 Get-started guides and Friday's Codex deep dive\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Claude Code",
+        "Codex",
+        "AI agents",
+        "OpenAI",
+        "Claude Code vs Codex",
+        "how to manage AI agents",
+        "ai tools",
+        "claude",
+        "ai agents"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "MCP",
+          "Computer Use",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Claude vs Codex\nEveryone is asking whether claude code or codeex is better"
+      ],
+      "transcript_chars": 17934,
+      "folder": "2026-06-10-stop-coding-start-steering-claude-vs-codex"
+    },
     {
       "title": "Fix your operating model or lose at AI #ai #strategy",
       "video_id": "dfjA49EykLs",

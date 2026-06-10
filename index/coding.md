@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (427 episodes):
+Episodes discussing **Coding** (428 episodes):
 
+- [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Fix your AI pipeline: Rethink ownership #ai #tech](../episodes/2026-06-07-fix-your-ai-pipeline-rethink-ownership-ai-tech/transcript.md) (2026-06-07)
