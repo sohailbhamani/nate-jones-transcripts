@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (74 episodes):
+Episodes discussing **Apple** (75 episodes):
 
+- [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)](../episodes/2026-06-09-siri-isnt-the-real-headline-at-wwdc-apple-ai-wwdc-full-video-thursday/transcript.md) (2026-06-09)
 - [Consumer AI Has a Problem Nobody's Naming.](../episodes/2026-05-05-consumer-ai-has-a-problem-nobodys-naming/transcript.md) (2026-05-05)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)

@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (87 episodes):
+Episodes discussing **Chatgpt** (88 episodes):
 
+- [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [The ultimate Claude AI prompting trick #ai #claude #aitools](../episodes/2026-05-28-the-ultimate-claude-ai-prompting-trick-ai-claude-aitools/transcript.md) (2026-05-28)
 - [Why millions are switching to Claude #ai #claude #tech](../episodes/2026-05-28-why-millions-are-switching-to-claude-ai-claude-tech/transcript.md) (2026-05-28)
 - [The mistake everyone makes switching to Claude #ai #claude](../episodes/2026-05-27-the-mistake-everyone-makes-switching-to-claude-ai-claude/transcript.md) (2026-05-27)

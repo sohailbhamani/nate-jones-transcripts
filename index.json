@@ -1,5 +1,5 @@
 {
-  "total_videos": 698,
+  "total_videos": 699,
   "date_range": {
     "newest": "2026-06-11",
     "oldest": "2024-05-21"
@@ -50,6 +50,78 @@
       ],
       "transcript_chars": 1334,
       "folder": "2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts"
+    },
+    {
+      "title": "WWDC Isn't About Siri. It's Jensen Huang's Problem.",
+      "video_id": "t7L6-fMpxFc",
+      "youtube_url": "https://www.youtube.com/watch?v=t7L6-fMpxFc",
+      "publish_date": "2026-06-11",
+      "duration": "18:34",
+      "duration_seconds": 1114,
+      "view_count": 10583,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Apple's WWDC AI strategy?\n\nThe common story is that Apple fell behind in the model race and had to borrow Google's Gemini tech to catch up, but the reality is more complicated, and it has less to do with who builds the best large language model than who owns the device it runs on.\n\nIn this video, I share the inside scoop on why Apple's WWDC bet could decide the first AI trillionaire, and why most of the coverage is watching the wrong layer:\n\n \u2022 Why Siri is the face, not the strategy\n \u2022 How App Intents turns apps into OS-callable actions\n \u2022 What the Google and Nvidia deals actually signal\n \u2022 Where the real AI bottleneck is shifting\n\nFor operators and builders, the lesson is blunt: AI value is moving toward whoever owns the trusted surface where agents touch real work, so own that surface or plan to pay rent to whoever does.\n\nChapters:\n00:00 The three headlines hiding one bet\n02:26 Every AI announcement, mapped\n06:04 App Intents and apps the OS can call\n09:40 Moving inference from cloud to device\n16:18 Owning the default surface for personal AI\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Apple WWDC",
+        "Apple Intelligence",
+        "private cloud compute",
+        "Siri AI",
+        "Apple AI strategy",
+        "siri ai",
+        "ai",
+        "apple intelligence",
+        "wwdc 2026",
+        "apple wwdc 2026"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Slack",
+          "Bolt"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Shortcuts",
+          "Make"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Apple used WWDC to show Siri AI, confirmed the Google Gemini Apple Alliance story, and to expand private cloud compute into Google Cloud using Nvidia GPUs"
+      ],
+      "transcript_chars": 19394,
+      "folder": "2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem"
     },
     {
       "title": "Stop Coding. Start Steering. Claude vs Codex",

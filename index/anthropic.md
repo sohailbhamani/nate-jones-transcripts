@@ -1,8 +1,9 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (327 episodes):
+Episodes discussing **Anthropic** (328 episodes):
 
 - [Fable 5 is here—but who is it for? #ai #anthropic #shorts](../episodes/2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts/transcript.md) (2026-06-11)
+- [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)

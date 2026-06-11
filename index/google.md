@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (276 episodes):
+Episodes discussing **Google** (277 episodes):
 
+- [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)
 - [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)

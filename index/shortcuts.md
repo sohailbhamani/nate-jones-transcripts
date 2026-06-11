@@ -1,7 +1,8 @@
 # Shortcuts
 
-Episodes discussing **Shortcuts** (12 episodes):
+Episodes discussing **Shortcuts** (13 episodes):
 
+- [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](../episodes/2026-05-01-rtx-5090-mac-studio-or-dgx-spark-i-tried-all-three/transcript.md) (2026-05-01)
 - [Your Apps Don't Need an API Anymore. Codex Just Proved It.](../episodes/2026-04-23-your-apps-dont-need-an-api-anymore-codex-just-proved-it/transcript.md) (2026-04-23)
 - [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For.](../episodes/2026-03-24-nvidia-just-open-sourced-what-openai-wants-you-to-pay-consultants-for/transcript.md) (2026-03-24)

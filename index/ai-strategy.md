@@ -1,8 +1,9 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (479 episodes):
+Episodes discussing **Ai Strategy** (480 episodes):
 
 - [Fable 5 is here—but who is it for? #ai #anthropic #shorts](../episodes/2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts/transcript.md) (2026-06-11)
+- [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
 - [Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)](../episodes/2026-06-09-siri-isnt-the-real-headline-at-wwdc-apple-ai-wwdc-full-video-thursday/transcript.md) (2026-06-09)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)

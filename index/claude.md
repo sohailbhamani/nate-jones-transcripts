@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (318 episodes):
+Episodes discussing **Claude** (319 episodes):
 
+- [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
