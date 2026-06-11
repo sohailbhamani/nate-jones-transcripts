@@ -1,10 +1,56 @@
 {
-  "total_videos": 697,
+  "total_videos": 698,
   "date_range": {
-    "newest": "2026-06-10",
+    "newest": "2026-06-11",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Fable 5 is here\u2014but who is it for? #ai #anthropic #shorts",
+      "video_id": "74P-N6JZ5lc",
+      "youtube_url": "https://www.youtube.com/watch?v=74P-N6JZ5lc",
+      "publish_date": "2026-06-11",
+      "duration": "1:14",
+      "duration_seconds": 74,
+      "view_count": 4107,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Is Fable 5 AI actually worth the hype for your daily workflow? \n\nI'll be posting a full deep dive on Saturday where I'll break down the capabilities of this new model to see if it truly handles complex, time-consuming projects or if it is just more noise. If you are debating whether to integrate this tech into your professional stack, this review is for you.\n\nLet me know in the comments if you have found a real use case for Fable 5 yet.\n",
+      "yt_tags": [
+        "AI model review",
+        "AI productivity tools",
+        "Fable 5 capabilities",
+        "AI workflow automation",
+        "claude fable 5",
+        "fable 5",
+        "artificial intelligence",
+        "claude ai",
+        "anthropic",
+        "ai",
+        "claude"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#ai #anthropic #shorts\nFable 5 is one of those model launches where I think the immediate question is not is it smarter"
+      ],
+      "transcript_chars": 1334,
+      "folder": "2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts"
+    },
     {
       "title": "Stop Coding. Start Steering. Claude vs Codex",
       "video_id": "R2-Y1Hjwx2U",

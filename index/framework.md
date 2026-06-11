@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (185 episodes):
+Episodes discussing **Framework** (186 episodes):
 
+- [Fable 5 is here—but who is it for? #ai #anthropic #shorts](../episodes/2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts/transcript.md) (2026-06-11)
 - [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
 - [The hidden value in your AI's worst outputs #ai #tech #work](../episodes/2026-06-06-the-hidden-value-in-your-ais-worst-outputs-ai-tech-work/transcript.md) (2026-06-06)
 - [Is your AI team actually efficient? #ai #tech #programming](../episodes/2026-06-02-is-your-ai-team-actually-efficient-ai-tech-programming/transcript.md) (2026-06-02)

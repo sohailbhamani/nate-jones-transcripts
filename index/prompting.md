@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (224 episodes):
+Episodes discussing **Prompting** (225 episodes):
 
+- [Fable 5 is here—but who is it for? #ai #anthropic #shorts](../episodes/2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts/transcript.md) (2026-06-11)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [The most expensive AI mistake isn't prompting #ai #business](../episodes/2026-06-05-the-most-expensive-ai-mistake-isnt-prompting-ai-business/transcript.md) (2026-06-05)
 - [My AI Workflow Has Changed (Here is What I Learned)](../episodes/2026-05-30-my-ai-workflow-has-changed-here-is-what-i-learned/transcript.md) (2026-05-30)
