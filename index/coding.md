@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (429 episodes):
+Episodes discussing **Coding** (430 episodes):
 
+- [The bridge between hand-waving and doing it all #ai #innovation #fable5](../episodes/2026-06-12-the-bridge-between-hand-waving-and-doing-it-all-ai-innovation-fable5/transcript.md) (2026-06-12)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)

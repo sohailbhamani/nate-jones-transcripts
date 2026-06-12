@@ -1,10 +1,60 @@
 {
-  "total_videos": 699,
+  "total_videos": 700,
   "date_range": {
-    "newest": "2026-06-11",
+    "newest": "2026-06-12",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The bridge between hand-waving and doing it all #ai #innovation #fable5",
+      "video_id": "sgF5Fo2vhTE",
+      "youtube_url": "https://www.youtube.com/watch?v=sgF5Fo2vhTE",
+      "publish_date": "2026-06-12",
+      "duration": "1:19",
+      "duration_seconds": 79,
+      "view_count": 736,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Stop choosing between hand-waving instructions and doing all the work yourself. A third way to work with AI is here.\n\nMost people get stuck managing AI prompts or grinding through tasks manually. This framework bridges that gap, helping you delegate effectively without losing control of the output.\n\nSubscribe for more practical workflows on getting better results from your AI tools.\n",
+      "yt_tags": [
+        "AI workflow",
+        "AI prompting",
+        "AI productivity",
+        "delegating to AI",
+        "AI task management",
+        "AI model review",
+        "AI productivity tools",
+        "Fable 5 capabilities",
+        "AI workflow automation",
+        "claude fable 5",
+        "fable 5",
+        "artificial intelligence",
+        "claude ai",
+        "anthropic",
+        "ai",
+        "claude",
+        "how to use ai"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The bridge between hand-waving and doing it all #ai #innovation #fable5\nI think Fable 5 is exposing a weird gap in how we work"
+      ],
+      "transcript_chars": 1380,
+      "folder": "2026-06-12-the-bridge-between-hand-waving-and-doing-it-all-ai-innovation-fable5"
+    },
     {
       "title": "Fable 5 is here\u2014but who is it for? #ai #anthropic #shorts",
       "video_id": "74P-N6JZ5lc",

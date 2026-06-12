@@ -1,15 +1,15 @@
 # Nate B Jones Podcast Index
 
-Index of 699 episodes across 121 topics.
+Index of 700 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (559 episodes)
-- [Make](make.md) (508 episodes)
+- [Frameworks](frameworks.md) (560 episodes)
+- [Make](make.md) (509 episodes)
 - [Ai Tools](ai-tools.md) (499 episodes)
-- [Ai Strategy](ai-strategy.md) (480 episodes)
+- [Ai Strategy](ai-strategy.md) (481 episodes)
 - [Product Management](product-management.md) (432 episodes)
-- [Coding](coding.md) (429 episodes)
+- [Coding](coding.md) (430 episodes)
 - [Ai News](ai-news.md) (371 episodes)
 - [Anthropic](anthropic.md) (328 episodes)
 - [Claude](claude.md) (319 episodes)
@@ -21,7 +21,7 @@ Index of 699 episodes across 121 topics.
 - [Tutorials](tutorials.md) (281 episodes)
 - [Google](google.md) (277 episodes)
 - [Prompting](prompting.md) (225 episodes)
-- [Tutorial](tutorial.md) (221 episodes)
+- [Tutorial](tutorial.md) (222 episodes)
 - [Framework](framework.md) (187 episodes)
 - [Gemini](gemini.md) (157 episodes)
 - [Microsoft](microsoft.md) (152 episodes)
@@ -112,8 +112,8 @@ Index of 699 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Cowork](cowork.md) (2 episodes)
 - [Claude Cowork](claude-cowork.md) (2 episodes)
+- [Cowork](cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Lm Studio](lm-studio.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)

@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (221 episodes):
+Episodes discussing **Tutorial** (222 episodes):
 
+- [The bridge between hand-waving and doing it all #ai #innovation #fable5](../episodes/2026-06-12-the-bridge-between-hand-waving-and-doing-it-all-ai-innovation-fable5/transcript.md) (2026-06-12)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)
 - [The most expensive AI mistake you are making #ai #learning #shorts](../episodes/2026-06-06-the-most-expensive-ai-mistake-you-are-making-ai-learning-shorts/transcript.md) (2026-06-06)
