@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (292 episodes):
+Episodes discussing **Openai** (293 episodes):
 
+- [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)

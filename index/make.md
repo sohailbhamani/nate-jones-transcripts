@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (509 episodes):
+Episodes discussing **Make** (510 episodes):
 
+- [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [The bridge between hand-waving and doing it all #ai #innovation #fable5](../episodes/2026-06-12-the-bridge-between-hand-waving-and-doing-it-all-ai-innovation-fable5/transcript.md) (2026-06-12)
 - [Fable 5 is here—but who is it for? #ai #anthropic #shorts](../episodes/2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts/transcript.md) (2026-06-11)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)

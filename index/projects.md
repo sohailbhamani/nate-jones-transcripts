@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (98 episodes):
+Episodes discussing **Projects** (99 episodes):
 
+- [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech](../episodes/2026-05-26-are-ai-agents-actually-boosting-productivity-futureofwork-ai-tech/transcript.md) (2026-05-26)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)

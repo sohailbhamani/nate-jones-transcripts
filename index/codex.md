@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (36 episodes):
+Episodes discussing **Codex** (37 episodes):
 
+- [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)

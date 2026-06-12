@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (499 episodes):
+Episodes discussing **Ai Tools** (500 episodes):
 
+- [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Siri isn't the real headline at WWDC #apple #ai #wwdc (Full Video Thursday)](../episodes/2026-06-09-siri-isnt-the-real-headline-at-wwdc-apple-ai-wwdc-full-video-thursday/transcript.md) (2026-06-09)

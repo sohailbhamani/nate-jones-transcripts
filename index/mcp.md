@@ -1,7 +1,8 @@
 # Mcp
 
-Episodes discussing **Mcp** (85 episodes):
+Episodes discussing **Mcp** (86 episodes):
 
+- [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Are AI Agents Actually Boosting Productivity? #futureofwork #ai #tech](../episodes/2026-05-26-are-ai-agents-actually-boosting-productivity-futureofwork-ai-tech/transcript.md) (2026-05-26)
 - [How to build a 10-cent AI brain #ai #programming #tech](../episodes/2026-05-25-how-to-build-a-10-cent-ai-brain-ai-programming-tech/transcript.md) (2026-05-25)

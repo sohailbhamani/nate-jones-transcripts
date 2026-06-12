@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (296 episodes):
+Episodes discussing **Workflows** (297 episodes):
 
+- [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [The most expensive AI mistake you are making #ai #learning #shorts](../episodes/2026-06-06-the-most-expensive-ai-mistake-you-are-making-ai-learning-shorts/transcript.md) (2026-06-06)

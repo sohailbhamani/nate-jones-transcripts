@@ -1,10 +1,81 @@
 {
-  "total_videos": 700,
+  "total_videos": 701,
   "date_range": {
     "newest": "2026-06-12",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Only 1 in 1,600 People Use Codex. Here's How to Catch Up.",
+      "video_id": "xqGCbEDbny8",
+      "youtube_url": "https://www.youtube.com/watch?v=xqGCbEDbny8",
+      "publish_date": "2026-06-12",
+      "duration": "19:37",
+      "duration_seconds": 1177,
+      "view_count": 10126,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Ultimate Codex Guide: https://natesnewsletter.substack.com/p/codex-guide-no-code?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\u2705 Catch up on a year of AI in one Codex weekend. You're not behind on facts. You're behind on setup. That's a much better problem.\n\u2705  Run Codex with almost no code. Every step is a copy-paste prompt.\n\u2705 Codex does the work, not one more chat tab. Hand it a real job in your real files and get it back finished, with receipts.\n\u2705 Stop chasing every model release. Let Codex upgrade you for free. New model drops, it falls straight into your setup. You read zero changelogs.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Codex and the move to AI agents?\nThe common story is that Codex is just a coding tool, but the reality is that it changes how anyone does knowledge work on the computer they already own.\n\nIn this video, I share the inside scoop on why I now hand real computer jobs to an agent instead of using AI like a chat box:\n \u2022 Why the unit of work is changing with AI agents\n \u2022 How chief-of-staff threads turn chat into delegated automation\n \u2022 What goals, subagents, and skills add beyond prompt engineering\n \u2022 Where to set boundaries and receipts before you scale\n\nFor operators and builders, this is a glimpse of the future of work. It's powerful, but only safe if you keep checking what the agent hands back.\n\nChapters:\n00:00 Codex makes the computer feel different\n03:07 The token dashboard as a work receipt\n04:45 The unit of work gets bigger\n06:37 A new computing paradigm\n08:12 Chief of staff threads\n09:44 Threads, goals, and subagents\n10:53 Computer use, plugins, and skills\n12:04 A heads-up dashboard for work\n16:08 The first useful Codex loop\n17:09 Boundaries, receipts, and responsible delegation\n18:34 The new computer literacy\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Codex",
+        "OpenAI",
+        "AI agents",
+        "MCP server",
+        "agentic workflows",
+        "AI agents for knowledge work",
+        "Codex for non-coders",
+        "AI automation for work",
+        "codex guide",
+        "codex beginner",
+        "ai agents",
+        "ai"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Codex",
+          "Make",
+          "MCP",
+          "Computer Use",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "I'm obsessed with Codex right now in the way a kid is obsessed with a new PlayStation",
+        "Not that codeex can write software"
+      ],
+      "transcript_chars": 21331,
+      "folder": "2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up"
+    },
     {
       "title": "The bridge between hand-waving and doing it all #ai #innovation #fable5",
       "video_id": "sgF5Fo2vhTE",

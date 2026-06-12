@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (23 episodes):
+Episodes discussing **Computer Use** (24 episodes):
 
+- [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Opus 4.8 Scored 81. Your Workflow Doesn't Care.](../episodes/2026-06-03-opus-48-scored-81-your-workflow-doesnt-care/transcript.md) (2026-06-03)
 - [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)
