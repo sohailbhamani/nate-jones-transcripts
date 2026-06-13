@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (432 episodes):
+Episodes discussing **Product Management** (433 episodes):
 
+- [BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface](../episodes/2026-06-13-breaking-claude-fable-5-pulled-why-frontier-ai-is-now-a-policy-surface/transcript.md) (2026-06-13)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)

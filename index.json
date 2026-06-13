@@ -1,10 +1,130 @@
 {
-  "total_videos": 701,
+  "total_videos": 703,
   "date_range": {
-    "newest": "2026-06-12",
+    "newest": "2026-06-13",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface",
+      "video_id": "b3jlsjOIOzs",
+      "youtube_url": "https://www.youtube.com/watch?v=b3jlsjOIOzs",
+      "publish_date": "2026-06-13",
+      "duration": "10:04",
+      "duration_seconds": 604,
+      "view_count": 7398,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nThe US government just forced Anthropic to take its most advanced AI models offline, and I filmed this from a plane because it's that unprecedented. \n\nThe order moved to block foreign access to Fable 5 and Mythos 5, and it's broad enough, covering foreign nationals even inside the US, that the practical way to comply was to pull the models for everyone. This is the first time I can point to a frontier model getting rolled back like this. I walk through the three layers I see: the safety concern around a reported jailbreak pathway, the \"foreign national\" language that works less like a surgical restriction and more like an off switch, and the business reality that makes me think this gets resolved fast. I still think Fable is probably the best model in the world right now, and a full review is coming. But the bigger shift is that frontier model access is becoming a policy surface, and raw model quality is no longer the only thing that matters.\n\nWhat's really happening with frontier AI model access?\nThe common story is this was routine export control, but the reality is much stranger and much bigger.\n\nIn this video, I share the inside scoop on what the Fable 5 shutdown really means:\n \u2022 Why a single jailbreak claim froze a frontier model\n \u2022 How a \"foreign national\" rule shut off everyone\n \u2022 What model dependency now means for your workflow\n \u2022 Where AI governance and access quality go next\n\nFor operators, the opportunity is still real, but the smart move now is to keep your alternatives warm and never build critical work on one model staying available on yesterday's terms.\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Anthropic",
+        "Fable 5",
+        "Mythos 5",
+        "frontier models",
+        "export controls",
+        "AI model dependency",
+        "frontier AI governance",
+        "national security AI"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Why Frontier AI Is Now a Policy Surface\nI'm filming this from a plane because this is unprecedented"
+      ],
+      "transcript_chars": 11280,
+      "folder": "2026-06-13-breaking-claude-fable-5-pulled-why-frontier-ai-is-now-a-policy-surface"
+    },
+    {
+      "title": "Is AI actually causing your layoffs? #ai #work #career",
+      "video_id": "qEVgNyBkg78",
+      "youtube_url": "https://www.youtube.com/watch?v=qEVgNyBkg78",
+      "publish_date": "2026-06-13",
+      "duration": "0:59",
+      "duration_seconds": 59,
+      "view_count": 287,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "For 50% off a yearly subscription ($250 \u2192 $125) to my Substack head to: https://www.natebjones.com/the-path-forward\n\nWhat you get access to:\n\u2705 One guide, build, or tool every week that helps you build fluency and learn how to use AI tools today.\n\u2705 Access to TalentBoard, where you can show your fluency and get found by people hiring for real roles.\n\u2705 One deep dive a week on something in AI that actually matters, so you know what's moving and how to move your career with it.\n\u2705 Access to my community Slack, where you can meet other builders and AI practitioners who are figuring this out alongside you.\n\u2705 And the whole archive. Everything I've ever published, the posts you've heard me reference on this channel, now yours to read.\n\nOffer valid until July 4th. Any issues, contact support@natebjones.com\n_______________________________________\nWhat's really happening inside the wave of AI layoffs rolling through tech right now? The common story is that AI made these workers redundant, but the reality is far messier and far more useful to understand.\n\nFor leaders and job seekers alike, a layoff is the loudest strategy signal a company can send. Read it right and it's free intelligence. Read it wrong and you bet your career on the wrong story.\n\nSubscribe for daily AI strategy and news.\nFor deeper playbooks and analysis: https://natesnewsletter.substack.com/\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI layoffs",
+        "Meta layoffs",
+        "Jack Dorsey",
+        "Block",
+        "Cloudflare",
+        "AI layoffs explained",
+        "AI strategy for leaders",
+        "AI job search advice",
+        "tech layoffs",
+        "layoffs",
+        "future of work",
+        "meta"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Box"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [
+        "How to understand where the market is going so you can form a strategic perspective based on the fairly obvious strategy signifier that these layoffs are showing"
+      ],
+      "summary": [
+        "#ai #work #career\nI think we're getting the story on AI layoffs wrong"
+      ],
+      "transcript_chars": 1011,
+      "folder": "2026-06-13-is-ai-actually-causing-your-layoffs-ai-work-career"
+    },
     {
       "title": "Only 1 in 1,600 People Use Codex. Here's How to Catch Up.",
       "video_id": "xqGCbEDbny8",

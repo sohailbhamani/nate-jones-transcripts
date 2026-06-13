@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (510 episodes):
+Episodes discussing **Make** (511 episodes):
 
+- [BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface](../episodes/2026-06-13-breaking-claude-fable-5-pulled-why-frontier-ai-is-now-a-policy-surface/transcript.md) (2026-06-13)
 - [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [The bridge between hand-waving and doing it all #ai #innovation #fable5](../episodes/2026-06-12-the-bridge-between-hand-waving-and-doing-it-all-ai-innovation-fable5/transcript.md) (2026-06-12)
 - [Fable 5 is here—but who is it for? #ai #anthropic #shorts](../episodes/2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts/transcript.md) (2026-06-11)

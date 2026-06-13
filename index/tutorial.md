@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (222 episodes):
+Episodes discussing **Tutorial** (223 episodes):
 
+- [Is AI actually causing your layoffs? #ai #work #career](../episodes/2026-06-13-is-ai-actually-causing-your-layoffs-ai-work-career/transcript.md) (2026-06-13)
 - [The bridge between hand-waving and doing it all #ai #innovation #fable5](../episodes/2026-06-12-the-bridge-between-hand-waving-and-doing-it-all-ai-innovation-fable5/transcript.md) (2026-06-12)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)

@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (320 episodes):
+Episodes discussing **Claude** (321 episodes):
 
+- [BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface](../episodes/2026-06-13-breaking-claude-fable-5-pulled-why-frontier-ai-is-now-a-policy-surface/transcript.md) (2026-06-13)
 - [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)

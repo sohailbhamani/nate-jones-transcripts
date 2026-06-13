@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (282 episodes):
+Episodes discussing **Tutorials** (283 episodes):
 
+- [Is AI actually causing your layoffs? #ai #work #career](../episodes/2026-06-13-is-ai-actually-causing-your-layoffs-ai-work-career/transcript.md) (2026-06-13)
 - [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)

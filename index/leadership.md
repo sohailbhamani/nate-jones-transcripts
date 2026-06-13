@@ -1,7 +1,9 @@
 # Leadership
 
-Episodes discussing **Leadership** (300 episodes):
+Episodes discussing **Leadership** (302 episodes):
 
+- [BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface](../episodes/2026-06-13-breaking-claude-fable-5-pulled-why-frontier-ai-is-now-a-policy-surface/transcript.md) (2026-06-13)
+- [Is AI actually causing your layoffs? #ai #work #career](../episodes/2026-06-13-is-ai-actually-causing-your-layoffs-ai-work-career/transcript.md) (2026-06-13)
 - [Fix your operating model or lose at AI #ai #strategy](../episodes/2026-06-09-fix-your-operating-model-or-lose-at-ai-ai-strategy/transcript.md) (2026-06-09)
 - [How to actually scale AI beyond individual tasks #ai #productivity](../episodes/2026-06-08-how-to-actually-scale-ai-beyond-individual-tasks-ai-productivity/transcript.md) (2026-06-08)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)
