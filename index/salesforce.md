@@ -1,7 +1,8 @@
 # Salesforce
 
-Episodes discussing **Salesforce** (58 episodes):
+Episodes discussing **Salesforce** (59 episodes):
 
+- [OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.](../episodes/2026-06-14-openai-just-filed-for-its-ipo-the-real-story-isnt-the-trillion-dollars/transcript.md) (2026-06-14)
 - [The death of traditional databases #ai #tech #saas](../episodes/2026-06-01-the-death-of-traditional-databases-ai-tech-saas/transcript.md) (2026-06-01)
 - [How AI is quietly replacing databases #ai #tech](../episodes/2026-05-30-how-ai-is-quietly-replacing-databases-ai-tech/transcript.md) (2026-05-30)
 - [The trap hidden inside Salesforce #salesforce #crm #startup](../episodes/2026-05-29-the-trap-hidden-inside-salesforce-salesforce-crm-startup/transcript.md) (2026-05-29)
