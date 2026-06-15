@@ -1,10 +1,77 @@
 {
-  "total_videos": 704,
+  "total_videos": 705,
   "date_range": {
-    "newest": "2026-06-14",
+    "newest": "2026-06-15",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.",
+      "video_id": "mn4XBSBIuag",
+      "youtube_url": "https://www.youtube.com/watch?v=mn4XBSBIuag",
+      "publish_date": "2026-06-15",
+      "duration": "19:25",
+      "duration_seconds": 1165,
+      "view_count": 10398,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the AI bubble?\n\nThe common story is that the correction proves the whole AI trade was overhyped \u2014 but the reality is more complicated, and the distinction is where the money is.\n\nIn this video, I share the inside scoop on what the AI stock correction actually means:\n - Why a stock correction doesn't prove the demand is fake\n - How inference and agents rewired the compute math\n - What separates real AI revenue from a good narrative\n - Where the actual winners will capture durable value\n\nFor anyone deploying capital, budget, or AI tools in 2026, the real edge is no longer betting on AI in general \u2014 it's knowing which layer is speculative froth and which is real demand hardening into infrastructure.\n\nChapters:\n00:00 AI stocks correct and the bubble question returns\n00:50 A correction doesn't mean the demand is fake\n01:33 Financial froth vs. the physical supply chain\n03:05 Real revenue: OpenAI, Anthropic, and NVIDIA\n05:30 Where the bears are right: spending vs. revenue\n06:45 Railroads, fiber, dot-com: real build-outs, ruined investors\n08:06 Why inference is the part everyone underexplains\n10:05 The question of 2026: are expensive tokens worth it\n11:53 The better model: buildout vs. payback\n13:34 The questions to actually ask about any AI company\n15:30 Narrative, correction, sorting: the three phases\n17:47 AI is a marathon, not a sprint\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI bubble",
+        "AI infrastructure",
+        "inference",
+        "AI agents",
+        "NVIDIA",
+        "AI stocks correction",
+        "ai stocks",
+        "ai stock bubble",
+        "ai"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "AI stocks are finally getting hit and you can feel the story kind of evolving in real time as they do"
+      ],
+      "transcript_chars": 21478,
+      "folder": "2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble"
+    },
     {
       "title": "OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.",
       "video_id": "7RDK84LLL2U",
