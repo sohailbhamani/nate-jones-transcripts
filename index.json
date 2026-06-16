@@ -1,10 +1,71 @@
 {
-  "total_videos": 705,
+  "total_videos": 706,
   "date_range": {
-    "newest": "2026-06-15",
+    "newest": "2026-06-16",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech",
+      "video_id": "TJ-KNC-i3SY",
+      "youtube_url": "https://www.youtube.com/watch?v=TJ-KNC-i3SY",
+      "publish_date": "2026-06-16",
+      "duration": "1:49",
+      "duration_seconds": 109,
+      "view_count": 1473,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Apple's WWDC AI strategy?\n\n\n\nApple WWDC announcements are changing how Siri AI handles your data.\n\nWe break down the new Google Gemini partnership and what Apple's private cloud compute strategy means for your privacy. If you want to understand where your AI tasks are actually running, this overview explains the hardware and cloud shifts happening behind the scenes.\n\nSubscribe for more tech breakdowns and let me know your thoughts on Apple's new AI direction.\n",
+      "yt_tags": [
+        "nate b jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Apple WWDC",
+        "Apple Intelligence",
+        "private cloud compute",
+        "Siri AI",
+        "Apple AI strategy",
+        "siri ai",
+        "ai",
+        "apple intelligence",
+        "wwdc 2026",
+        "apple wwdc 2026"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Apple",
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech\nApple used WWDC to show Siri AI confirm the Google Gemini Apple alliance story and to expand private cloud compute into Google Cloud using"
+      ],
+      "transcript_chars": 1756,
+      "folder": "2026-06-16-the-3-biggest-wwdc-headlines-you-missed-wwdc-apple-tech"
+    },
     {
       "title": "Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.",
       "video_id": "mn4XBSBIuag",
