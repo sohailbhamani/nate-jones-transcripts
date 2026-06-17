@@ -1,10 +1,68 @@
 {
-  "total_videos": 706,
+  "total_videos": 707,
   "date_range": {
-    "newest": "2026-06-16",
+    "newest": "2026-06-17",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Siri is finally getting an upgrade \ud83e\udd2f #siri #apple #ios",
+      "video_id": "4-luYDWO9f4",
+      "youtube_url": "https://www.youtube.com/watch?v=4-luYDWO9f4",
+      "publish_date": "2026-06-17",
+      "duration": "1:45",
+      "duration_seconds": 105,
+      "view_count": 853,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 \ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nApple AI strategy isn't about a chatbot; it is about your device.\n\nMost people miss how Apple Intelligence weaves into the apps you already use daily. This breakdown explains why Apple is betting on integration over standalone features.\n\nWatch to see why Siri is changing without becoming a separate AI tool.\n\nSubscribe for more honest tech analysis.\n",
+      "yt_tags": [
+        "nate b jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Apple WWDC",
+        "Apple Intelligence",
+        "private cloud compute",
+        "Siri AI",
+        "Apple AI strategy",
+        "siri ai",
+        "ai",
+        "apple intelligence",
+        "wwdc 2026",
+        "apple wwdc 2026",
+        "tech analysis",
+        "Apple ecosystem"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Apple"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Siri is finally getting an upgrade \ud83e\udd2f #siri #apple #ios\nNot a separate chat tab, not a model picker, not some cloud products that you visit"
+      ],
+      "transcript_chars": 1871,
+      "folder": "2026-06-17-siri-is-finally-getting-an-upgrade-siri-apple-ios"
+    },
     {
       "title": "The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech",
       "video_id": "TJ-KNC-i3SY",
