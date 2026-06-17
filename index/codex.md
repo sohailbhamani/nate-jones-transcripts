@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (38 episodes):
+Episodes discussing **Codex** (39 episodes):
 
+- [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.](../episodes/2026-06-14-openai-just-filed-for-its-ipo-the-real-story-isnt-the-trillion-dollars/transcript.md) (2026-06-14)
 - [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)

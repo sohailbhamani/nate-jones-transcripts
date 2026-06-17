@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (95 episodes):
+Episodes discussing **Slack** (96 episodes):
 
+- [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [The most expensive AI mistake you are making #ai #learning #shorts](../episodes/2026-06-06-the-most-expensive-ai-mistake-you-are-making-ai-learning-shorts/transcript.md) (2026-06-06)

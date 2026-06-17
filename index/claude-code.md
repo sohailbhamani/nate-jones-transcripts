@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (102 episodes):
+Episodes discussing **Claude Code** (103 episodes):
 
+- [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.](../episodes/2026-06-14-openai-just-filed-for-its-ipo-the-real-story-isnt-the-trillion-dollars/transcript.md) (2026-06-14)
 - [Stop Coding. Start Steering. Claude vs Codex](../episodes/2026-06-10-stop-coding-start-steering-claude-vs-codex/transcript.md) (2026-06-10)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)

@@ -1,10 +1,88 @@
 {
-  "total_videos": 707,
+  "total_videos": 708,
   "date_range": {
     "newest": "2026-06-17",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Don't build more AI agents until you watch this",
+      "video_id": "BOXK2XFLA-E",
+      "youtube_url": "https://www.youtube.com/watch?v=BOXK2XFLA-E",
+      "publish_date": "2026-06-17",
+      "duration": "18:25",
+      "duration_seconds": 1105,
+      "view_count": 14828,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full post with Agent Maintenance Guide: https://natesnewsletter.substack.com/p//ai-agent-maintenance?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nOpenAI and Anthropic aren't the only ones who figured this out: Vercel made its AI agent better by deleting most of its tools. The real skill in 2026 is not building agents, it is maintaining the harness around them as the model improves and your data drifts.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the AI agents companies are racing to build?\n\nThe common story is that agents get better when you add more tools, memory, and access, but the real question is whether you can maintain the setup around the model as it keeps changing underneath you.\n\nIn this video, I share the inside scoop on why agent maintenance, not agent building, is the real skill of 2026:\n\n - Why Vercel improved its agent by deleting eighty percent of its tools\n - How a model getting better can quietly break your agent\n - What a harness actually is, and why every AI user already has one\n - Where Codex and Claude Code get their real edge\n\nFor operators and builders, the upside is real, but an unmaintained agent does not fail loudly, it just keeps working on top of stale truth until it costs you.\n\nChapters:\n00:00 Vercel made its agent better by deleting 80% of its tools\n04:34 The model changes inside, the world changes around the agent\n10:18 The art of a good harness and the two teams building them\n13:30 Your harness is the setup that makes a model useful\n18:03 Why you should read The Maintenance of Everything\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "Vercel agent",
+        "AI agent performance",
+        "AI tool reduction",
+        "LLM optimization",
+        "agentic workflow",
+        "AI system design",
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "agent maintenance",
+        "Codex",
+        "Claude Code",
+        "Vercel",
+        "how to maintain AI agents",
+        "AI agents for business",
+        "ai agents",
+        "ai",
+        "agentic ai"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Salesforce",
+          "Slack",
+          "GitHub",
+          "Vercel",
+          "Stripe",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Don't build more AI agents until you watch this\nVercel made its agent better by deleting 80% of its tools"
+      ],
+      "transcript_chars": 20340,
+      "folder": "2026-06-17-dont-build-more-ai-agents-until-you-watch-this"
+    },
     {
       "title": "Siri is finally getting an upgrade \ud83e\udd2f #siri #apple #ios",
       "video_id": "4-luYDWO9f4",

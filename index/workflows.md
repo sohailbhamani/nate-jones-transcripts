@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (300 episodes):
+Episodes discussing **Workflows** (301 episodes):
 
+- [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](../episodes/2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble/transcript.md) (2026-06-15)
 - [OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.](../episodes/2026-06-14-openai-just-filed-for-its-ipo-the-real-story-isnt-the-trillion-dollars/transcript.md) (2026-06-14)
 - [BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface](../episodes/2026-06-13-breaking-claude-fable-5-pulled-why-frontier-ai-is-now-a-policy-surface/transcript.md) (2026-06-13)

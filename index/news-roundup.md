@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (142 episodes):
+Episodes discussing **News Roundup** (143 episodes):
 
+- [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)
 - [OpenAI's Compound Bet: A Risk Worth Taking? #OpenAIstory #ainews](../episodes/2026-05-31-openais-compound-bet-a-risk-worth-taking-openaistory-ainews/transcript.md) (2026-05-31)
 - [My AI Workflow Has Changed (Here is What I Learned)](../episodes/2026-05-30-my-ai-workflow-has-changed-here-is-what-i-learned/transcript.md) (2026-05-30)

@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (295 episodes):
+Episodes discussing **Openai** (296 episodes):
 
+- [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](../episodes/2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble/transcript.md) (2026-06-15)
 - [OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.](../episodes/2026-06-14-openai-just-filed-for-its-ipo-the-real-story-isnt-the-trillion-dollars/transcript.md) (2026-06-14)
 - [Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](../episodes/2026-06-12-only-1-in-1600-people-use-codex-heres-how-to-catch-up/transcript.md) (2026-06-12)
