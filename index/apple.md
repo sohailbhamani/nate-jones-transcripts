@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (77 episodes):
+Episodes discussing **Apple** (78 episodes):
 
+- [Don't let your app get left behind #appleintelligence #tech #ai](../episodes/2026-06-18-dont-let-your-app-get-left-behind-appleintelligence-tech-ai/transcript.md) (2026-06-18)
 - [Siri is finally getting an upgrade 🤯 #siri #apple #ios](../episodes/2026-06-17-siri-is-finally-getting-an-upgrade-siri-apple-ios/transcript.md) (2026-06-17)
 - [The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech](../episodes/2026-06-16-the-3-biggest-wwdc-headlines-you-missed-wwdc-apple-tech/transcript.md) (2026-06-16)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)

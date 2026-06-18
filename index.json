@@ -1,10 +1,72 @@
 {
-  "total_videos": 708,
+  "total_videos": 709,
   "date_range": {
-    "newest": "2026-06-17",
+    "newest": "2026-06-18",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Don't let your app get left behind #appleintelligence #tech #ai",
+      "video_id": "nUoJS6AXoAw",
+      "youtube_url": "https://www.youtube.com/watch?v=nUoJS6AXoAw",
+      "publish_date": "2026-06-18",
+      "duration": "1:25",
+      "duration_seconds": 85,
+      "view_count": 1003,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 \ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nMaster App Intents to connect your mobile application directly with AI assistants. Learn how to expose your app actions so the operating system can trigger them automatically for users.\n\nThis guide breaks down the technical implementation required to make your app capabilities visible to system-level AI. Developers will see exactly how to structure intents to enable seamless cross-app functionality.\n\nSubscribe for more practical iOS development tutorials.\n",
+      "yt_tags": [
+        "nate b jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Apple WWDC",
+        "Apple Intelligence",
+        "private cloud compute",
+        "Siri AI",
+        "Apple AI strategy",
+        "siri ai",
+        "ai",
+        "apple intelligence",
+        "wwdc 2026",
+        "apple wwdc 2026",
+        "App Intents",
+        "iOS development",
+        "AI assistant integration",
+        "mobile app actions",
+        "Swift programming",
+        "Apple developer guide"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Apple"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Don't let your app get left behind #appleintelligence #tech #ai\nAnd that brings us to the developer story, which is probably the least sexy part of the keynote and maybe the most important one, too"
+      ],
+      "transcript_chars": 1505,
+      "folder": "2026-06-18-dont-let-your-app-get-left-behind-appleintelligence-tech-ai"
+    },
     {
       "title": "Don't build more AI agents until you watch this",
       "video_id": "BOXK2XFLA-E",
