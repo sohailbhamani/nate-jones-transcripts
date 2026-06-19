@@ -1,14 +1,14 @@
 # Nate B Jones Podcast Index
 
-Index of 709 episodes across 121 topics.
+Index of 710 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (568 episodes)
+- [Frameworks](frameworks.md) (569 episodes)
 - [Make](make.md) (516 episodes)
-- [Ai Tools](ai-tools.md) (506 episodes)
-- [Ai Strategy](ai-strategy.md) (488 episodes)
-- [Coding](coding.md) (435 episodes)
+- [Ai Tools](ai-tools.md) (507 episodes)
+- [Ai Strategy](ai-strategy.md) (489 episodes)
+- [Coding](coding.md) (436 episodes)
 - [Product Management](product-management.md) (435 episodes)
 - [Ai News](ai-news.md) (373 episodes)
 - [Anthropic](anthropic.md) (334 episodes)
@@ -19,11 +19,11 @@ Index of 709 episodes across 121 topics.
 - [Workflows](workflows.md) (301 episodes)
 - [Openai](openai.md) (296 episodes)
 - [Tutorials](tutorials.md) (285 episodes)
-- [Google](google.md) (281 episodes)
+- [Google](google.md) (282 episodes)
+- [Prompting](prompting.md) (226 episodes)
 - [Tutorial](tutorial.md) (225 episodes)
-- [Prompting](prompting.md) (225 episodes)
-- [Framework](framework.md) (190 episodes)
-- [Gemini](gemini.md) (158 episodes)
+- [Framework](framework.md) (191 episodes)
+- [Gemini](gemini.md) (159 episodes)
 - [Microsoft](microsoft.md) (153 episodes)
 - [News Roundup](news-roundup.md) (143 episodes)
 - [Meta](meta.md) (134 episodes)
@@ -40,8 +40,8 @@ Index of 709 episodes across 121 topics.
 - [Github](github.md) (89 episodes)
 - [Chatgpt](chatgpt.md) (88 episodes)
 - [Mcp](mcp.md) (86 episodes)
-- [Apple](apple.md) (78 episodes)
-- [Nvidia](nvidia.md) (78 episodes)
+- [Nvidia](nvidia.md) (79 episodes)
+- [Apple](apple.md) (79 episodes)
 - [Opus](opus.md) (76 episodes)
 - [Artifacts](artifacts.md) (69 episodes)
 - [Salesforce](salesforce.md) (60 episodes)

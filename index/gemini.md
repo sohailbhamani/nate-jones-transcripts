@@ -1,7 +1,8 @@
 # Gemini
 
-Episodes discussing **Gemini** (158 episodes):
+Episodes discussing **Gemini** (159 episodes):
 
+- [Apple’s Worst Nightmare #apple #google #gemini](../episodes/2026-06-19-apples-worst-nightmare-apple-google-gemini/transcript.md) (2026-06-19)
 - [The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech](../episodes/2026-06-16-the-3-biggest-wwdc-headlines-you-missed-wwdc-apple-tech/transcript.md) (2026-06-16)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [Why switching AI models is now impossible 😳 #chatgpt #ai #tech](../episodes/2026-05-24-why-switching-ai-models-is-now-impossible-chatgpt-ai-tech/transcript.md) (2026-05-24)

@@ -1,10 +1,75 @@
 {
-  "total_videos": 709,
+  "total_videos": 710,
   "date_range": {
-    "newest": "2026-06-18",
+    "newest": "2026-06-19",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Apple\u2019s Worst Nightmare #apple #google #gemini",
+      "video_id": "SzSL54SrSVE",
+      "youtube_url": "https://www.youtube.com/watch?v=SzSL54SrSVE",
+      "publish_date": "2026-06-19",
+      "duration": "1:34",
+      "duration_seconds": 94,
+      "view_count": 2929,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 \ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nIs Apple finally outsourcing its AI strategy to Google Gemini?\n\nWe are looking at the new partnership between Apple and Google and what it means for the future of Foundation models. If you have been following Apple's history of independent innovation, this shift in strategy is a major turning point for the company.\n\nThis breakdown covers the technical implications of this collaboration and how it changes the competitive landscape for Apple Intelligence.\n\nSubscribe for more deep dives into the latest Big Tech shifts.\n",
+      "yt_tags": [
+        "Apple Google partnership",
+        "Apple Gemini AI",
+        "Foundation models",
+        "Apple AI strategy",
+        "Google Gemini",
+        "tech news",
+        "nate b jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "Apple WWDC",
+        "Apple Intelligence",
+        "private cloud compute",
+        "Siri AI",
+        "siri ai",
+        "ai",
+        "apple intelligence",
+        "wwdc 2026",
+        "apple wwdc 2026",
+        "apple wwdc"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Apple",
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "Gemini"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Apple\u2019s Worst Nightmare #apple #google #gemini\nAnd the question around whether Apple is doing enough brings us to the Google Gemini piece of this story"
+      ],
+      "transcript_chars": 1690,
+      "folder": "2026-06-19-apples-worst-nightmare-apple-google-gemini"
+    },
     {
       "title": "Don't let your app get left behind #appleintelligence #tech #ai",
       "video_id": "nUoJS6AXoAw",

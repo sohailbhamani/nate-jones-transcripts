@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (568 episodes):
+Episodes discussing **Frameworks** (569 episodes):
 
+- [Apple’s Worst Nightmare #apple #google #gemini](../episodes/2026-06-19-apples-worst-nightmare-apple-google-gemini/transcript.md) (2026-06-19)
 - [Don't let your app get left behind #appleintelligence #tech #ai](../episodes/2026-06-18-dont-let-your-app-get-left-behind-appleintelligence-tech-ai/transcript.md) (2026-06-18)
 - [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [Siri is finally getting an upgrade 🤯 #siri #apple #ios](../episodes/2026-06-17-siri-is-finally-getting-an-upgrade-siri-apple-ios/transcript.md) (2026-06-17)
