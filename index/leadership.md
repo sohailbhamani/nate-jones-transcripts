@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (303 episodes):
+Episodes discussing **Leadership** (304 episodes):
 
+- [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](../episodes/2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble/transcript.md) (2026-06-15)
 - [BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface](../episodes/2026-06-13-breaking-claude-fable-5-pulled-why-frontier-ai-is-now-a-policy-surface/transcript.md) (2026-06-13)
 - [Is AI actually causing your layoffs? #ai #work #career](../episodes/2026-06-13-is-ai-actually-causing-your-layoffs-ai-work-career/transcript.md) (2026-06-13)

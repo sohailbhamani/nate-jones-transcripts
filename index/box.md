@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (95 episodes):
+Episodes discussing **Box** (96 episodes):
 
+- [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [Is AI actually causing your layoffs? #ai #work #career](../episodes/2026-06-13-is-ai-actually-causing-your-layoffs-ai-work-career/transcript.md) (2026-06-13)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)

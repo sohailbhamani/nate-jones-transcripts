@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (435 episodes):
+Episodes discussing **Product Management** (436 episodes):
 
+- [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Siri is finally getting an upgrade 🤯 #siri #apple #ios](../episodes/2026-06-17-siri-is-finally-getting-an-upgrade-siri-apple-ios/transcript.md) (2026-06-17)
 - [The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech](../episodes/2026-06-16-the-3-biggest-wwdc-headlines-you-missed-wwdc-apple-tech/transcript.md) (2026-06-16)
 - [BREAKING: Claude Fable 5 Pulled. Why Frontier AI Is Now a Policy Surface](../episodes/2026-06-13-breaking-claude-fable-5-pulled-why-frontier-ai-is-now-a-policy-surface/transcript.md) (2026-06-13)

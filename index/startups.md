@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (123 episodes):
+Episodes discussing **Startups** (124 episodes):
 
+- [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [The trap hidden inside Salesforce #salesforce #crm #startup](../episodes/2026-05-29-the-trap-hidden-inside-salesforce-salesforce-crm-startup/transcript.md) (2026-05-29)
 - [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)
 - [The Trillion Dollar Agentic Workflow Opportunity Is Here](../episodes/2026-05-14-the-trillion-dollar-agentic-workflow-opportunity-is-here/transcript.md) (2026-05-14)

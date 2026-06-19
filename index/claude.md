@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (325 episodes):
+Episodes discussing **Claude** (326 episodes):
 
+- [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech](../episodes/2026-06-16-the-3-biggest-wwdc-headlines-you-missed-wwdc-apple-tech/transcript.md) (2026-06-16)
 - [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](../episodes/2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble/transcript.md) (2026-06-15)

@@ -1,8 +1,9 @@
 # Prompting
 
-Episodes discussing **Prompting** (226 episodes):
+Episodes discussing **Prompting** (227 episodes):
 
 - [Apple’s Worst Nightmare #apple #google #gemini](../episodes/2026-06-19-apples-worst-nightmare-apple-google-gemini/transcript.md) (2026-06-19)
+- [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Fable 5 is here—but who is it for? #ai #anthropic #shorts](../episodes/2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts/transcript.md) (2026-06-11)
 - [My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](../episodes/2026-06-05-my-codex-ran-800-million-tokens-in-a-day-the-real-story-isnt-cost/transcript.md) (2026-06-05)
 - [The most expensive AI mistake isn't prompting #ai #business](../episodes/2026-06-05-the-most-expensive-ai-mistake-isnt-prompting-ai-business/transcript.md) (2026-06-05)
