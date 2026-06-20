@@ -1,8 +1,9 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (287 episodes):
+Episodes discussing **Tutorials** (288 episodes):
 
 - [Nvidia vs Apple: The real AI battle 🤖 #nvidia #apple #shorts](../episodes/2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts/transcript.md) (2026-06-20)
+- [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Siri is finally getting an upgrade 🤯 #siri #apple #ios](../episodes/2026-06-17-siri-is-finally-getting-an-upgrade-siri-apple-ios/transcript.md) (2026-06-17)
 - [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](../episodes/2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble/transcript.md) (2026-06-15)

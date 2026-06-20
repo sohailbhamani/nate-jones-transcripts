@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (56 episodes):
+Episodes discussing **Youtube** (57 episodes):
 
+- [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)
 - [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
 - [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](../episodes/2026-04-22-karpathys-wiki-vs-open-brain-one-fails-when-you-need-it-most/transcript.md) (2026-04-22)
 - [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](../episodes/2026-04-14-3-model-drops-15mday-in-burn-one-product-dead-nobody-connected-them/transcript.md) (2026-04-14)

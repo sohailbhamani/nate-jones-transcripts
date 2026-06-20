@@ -1,5 +1,5 @@
 {
-  "total_videos": 712,
+  "total_videos": 713,
   "date_range": {
     "newest": "2026-06-20",
     "oldest": "2024-05-21"
@@ -64,6 +64,65 @@
       ],
       "transcript_chars": 1482,
       "folder": "2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts"
+    },
+    {
+      "title": "You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.",
+      "video_id": "lWbtvC0Hn18",
+      "youtube_url": "https://www.youtube.com/watch?v=lWbtvC0Hn18",
+      "publish_date": "2026-06-20",
+      "duration": "9:21",
+      "duration_seconds": 561,
+      "view_count": 4063,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Newsletter: https://natesnewsletter.substack.com/ \nAI voice cloning is already good enough to fool a half-watching audience. The harder problem is that people can no longer tell what was human, what was synthetic, and who is accountable for the final result.\n\nMy Links:\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the question \"was this made with AI?\"\n\nThe common story says AI content is either a harmless gimmick or an existential threat, but the real question is who stays accountable for the final thing you're watching.\n\nIn this video, I share the inside scoop on what \"made with AI\" really means:\n\n - Why voice cloning already passes in a half-watching feed\n - How full human presence still breaks in the small details\n - What \"made with AI\" really splits into five questions\n - Where AI can help and where human judgment has to own the result\n\nAI will keep getting better at polish, so the creators and companies who win will be the ones who stay legibly human, disclose clearly, and keep a real person accountable for what ships.\n\nChapters:\n00:00 Someone could clone my voice today\n01:02 The disclosed voice clone\n01:35 Why voice cloning already passes\n01:59 Why full human presence is still hard\n02:27 The real danger is good-enough AI\n03:09 The uncanny valley got relational\n03:41 Made with AI is really five questions\n04:40 The creator trust stack\n05:47 There is no never use AI rule\n06:10 When humans get accused of being AI\n07:09 What creators and companies should do\n08:10 Trust is the scarce asset\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI voice cloning",
+        "synthetic media",
+        "creator trust",
+        "AI disclosure",
+        "voice cloning consent",
+        "AI policy for companies",
+        "ai voice cloner",
+        "ai tools"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "LinkedIn",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": [
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "The scary version is good enough AI in a low attention environment"
+      ],
+      "transcript_chars": 10355,
+      "folder": "2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too"
     },
     {
       "title": "Apple\u2019s Worst Nightmare #apple #google #gemini",

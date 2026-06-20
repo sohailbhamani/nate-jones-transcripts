@@ -1,7 +1,8 @@
 # Meta
 
-Episodes discussing **Meta** (134 episodes):
+Episodes discussing **Meta** (135 episodes):
 
+- [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)
 - [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](../episodes/2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble/transcript.md) (2026-06-15)
 - [Meta Cut 8,000 People. It Has Nothing To Do With AI Working.](../episodes/2026-06-08-meta-cut-8000-people-it-has-nothing-to-do-with-ai-working/transcript.md) (2026-06-08)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
