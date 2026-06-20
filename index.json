@@ -1,10 +1,70 @@
 {
-  "total_videos": 711,
+  "total_videos": 712,
   "date_range": {
-    "newest": "2026-06-19",
+    "newest": "2026-06-20",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Nvidia vs Apple: The real AI battle \ud83e\udd16 #nvidia #apple #shorts",
+      "video_id": "R9qzlpFWPxw",
+      "youtube_url": "https://www.youtube.com/watch?v=R9qzlpFWPxw",
+      "publish_date": "2026-06-20",
+      "duration": "1:27",
+      "duration_seconds": 87,
+      "view_count": 939,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWho will win the AI integration race? It isn't just about the best model, but who owns the interface.\n\nWe break down why Apple is positioned to control daily user interactions and how that impacts the broader tech landscape. You will also learn why massive data center demand keeps companies like Nvidia at the forefront of this shift.\n\nSubscribe for more analysis on the real winners of the AI era.\n",
+      "yt_tags": [
+        "jensen huang",
+        "nate b jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Apple WWDC",
+        "Apple Intelligence",
+        "private cloud compute",
+        "Siri AI",
+        "Apple AI strategy",
+        "siri ai",
+        "ai",
+        "wwdc 2026",
+        "apple wwdc 2026",
+        "apple wwdc",
+        "AI integration",
+        "Jensen Huang Nvidia",
+        "AI user interface",
+        "future of AI"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Nvidia vs Apple: The real AI battle \ud83e\udd16 #nvidia #apple #shorts\nThat's what's getting fought over now"
+      ],
+      "transcript_chars": 1482,
+      "folder": "2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts"
+    },
     {
       "title": "Apple\u2019s Worst Nightmare #apple #google #gemini",
       "video_id": "SzSL54SrSVE",
