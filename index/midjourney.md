@@ -1,7 +1,8 @@
 # Midjourney
 
-Episodes discussing **Midjourney** (8 episodes):
+Episodes discussing **Midjourney** (9 episodes):
 
+- [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)
 - [45 People, $200M Revenue. The Question Nobody's Asking About AI and Your Team Size.](../episodes/2026-03-08-45-people-200m-revenue-the-question-nobodys-asking-about-ai-and-your-team-size/transcript.md) (2026-03-08)
 - [The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)](../episodes/2026-02-18-the-5-levels-of-ai-coding-why-most-of-you-wont-make-it-past-level-2/transcript.md) (2026-02-18)
 - [The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.](../episodes/2026-02-15-the-job-market-split-nobodys-talking-about-its-already-started-heres-what-to-do/transcript.md) (2026-02-15)

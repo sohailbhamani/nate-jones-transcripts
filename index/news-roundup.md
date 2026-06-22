@@ -1,8 +1,9 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (145 episodes):
+Episodes discussing **News Roundup** (146 episodes):
 
 - [Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!](../episodes/2026-06-22-anthropic-just-proved-theyre-ahead-of-openai-airace-tech-news-full-video-tomorro/transcript.md) (2026-06-22)
+- [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [Fix your AI pipeline or lose your budget #ai #strategy](../episodes/2026-06-08-fix-your-ai-pipeline-or-lose-your-budget-ai-strategy/transcript.md) (2026-06-08)

@@ -1,5 +1,5 @@
 {
-  "total_videos": 715,
+  "total_videos": 716,
   "date_range": {
     "newest": "2026-06-22",
     "oldest": "2024-05-21"
@@ -49,6 +49,73 @@
       ],
       "transcript_chars": 532,
       "folder": "2026-06-22-anthropic-just-proved-theyre-ahead-of-openai-airace-tech-news-full-video-tomorro"
+    },
+    {
+      "title": "Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.",
+      "video_id": "h1MxhfZSTjo",
+      "youtube_url": "https://www.youtube.com/watch?v=h1MxhfZSTjo",
+      "publish_date": "2026-06-22",
+      "duration": "8:23",
+      "duration_seconds": 503,
+      "view_count": 18903,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "OpenAI vs Anthropic: OpenAI looks like it won the week \u2014 the Shazeer hire, the 5.6 rumors, the Fable headlines. But talent movement and pre-training cadence suggest Anthropic may actually be ahead, and the biggest AI story may be happening at neither lab.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the OpenAI versus Anthropic race?\n\nThe common story is that OpenAI ran the table while Anthropic played defense \u2014 but the real question is who actually leads on pre-training, where the Nobel-tier talent is going, and whether the model race matters at all next to what Midjourney just shipped.\n\nIn this video, I share the inside scoop on why Anthropic may quietly be ahead and where AI's real energy is moving:\n\n - Why OpenAI's winning week is an incomplete read of the race\n - How Anthropic's freshest pre-trained model resets the model race\n - What Nobel-tier talent movement signals about recursive self-improvement\n - Why Midjourney's medical imaging breakthrough may matter more than either lab\n\nFor operators and builders, the lesson is that betting on one lab's headline week is fragile \u2014 the durable edge is watching where talent, pre-training, and applied breakthroughs compound, even outside the obvious players.\n\nChapters:\n00:00 Anthropic has had the better month than OpenAI\n00:31 Why OpenAI looks like it won the week\n07:53 Is OpenAI ahead, or is Anthropic ahead?\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "OpenAI",
+        "Anthropic",
+        "Midjourney",
+        "recursive self-improvement",
+        "pre-training",
+        "OpenAI vs Anthropic",
+        "AI model race 2026",
+        "future of AI medical imaging"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Midjourney"
+        ],
+        "people": [
+          "Demis Hassabis"
+        ],
+        "products": [
+          "ChatGPT",
+          "Codex",
+          "Midjourney",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "What if I told you that Anthropic is the one that's actually ahead and that Anthropic has had the better month than OpenAI"
+      ],
+      "transcript_chars": 8842,
+      "folder": "2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money"
     },
     {
       "title": "Most Teams Skip This Critical AI Agent Skill in 2026",

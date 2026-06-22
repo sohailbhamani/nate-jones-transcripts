@@ -1,8 +1,9 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (337 episodes):
+Episodes discussing **Anthropic** (338 episodes):
 
 - [Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!](../episodes/2026-06-22-anthropic-just-proved-theyre-ahead-of-openai-airace-tech-news-full-video-tomorro/transcript.md) (2026-06-22)
+- [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)
 - [Most Teams Skip This Critical AI Agent Skill in 2026](../episodes/2026-06-21-most-teams-skip-this-critical-ai-agent-skill-in-2026/transcript.md) (2026-06-21)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)

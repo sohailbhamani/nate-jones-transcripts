@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (511 episodes):
+Episodes discussing **Ai Tools** (512 episodes):
 
+- [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)
 - [Most Teams Skip This Critical AI Agent Skill in 2026](../episodes/2026-06-21-most-teams-skip-this-critical-ai-agent-skill-in-2026/transcript.md) (2026-06-21)
 - [Nvidia vs Apple: The real AI battle 🤖 #nvidia #apple #shorts](../episodes/2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts/transcript.md) (2026-06-20)
 - [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)
