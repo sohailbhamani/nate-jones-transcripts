@@ -1,10 +1,55 @@
 {
-  "total_videos": 714,
+  "total_videos": 715,
   "date_range": {
-    "newest": "2026-06-21",
+    "newest": "2026-06-22",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!",
+      "video_id": "Dyi4y7o4FB8",
+      "youtube_url": "https://www.youtube.com/watch?v=Dyi4y7o4FB8",
+      "publish_date": "2026-06-22",
+      "duration": "0:31",
+      "duration_seconds": 31,
+      "view_count": 2557,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nIs Anthropic actually winning the AI development race?\n\nWhile OpenAI dominates the headlines, the real progress in AI industry trends is shifting. This analysis compares the current landscape and explains why the biggest breakthroughs might be coming from unexpected players.\n\nTomorrow I've got the full video, including a look at a major new development you likely haven't heard about yet.\n\nSubscribe for more independent tech analysis and let me know your thoughts on the Anthropic vs OpenAI debate below.\n",
+      "yt_tags": [
+        "Anthropic vs OpenAI",
+        "AI development",
+        "future of AI",
+        "AI industry trends",
+        "LLM comparisons",
+        "ai",
+        "midjourney medical",
+        "midjou",
+        "openai",
+        "chatgpt",
+        "anthropic"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow"
+      ],
+      "transcript_chars": 532,
+      "folder": "2026-06-22-anthropic-just-proved-theyre-ahead-of-openai-airace-tech-news-full-video-tomorro"
+    },
     {
       "title": "Most Teams Skip This Critical AI Agent Skill in 2026",
       "video_id": "rh_PcL26zls",

@@ -1,23 +1,23 @@
 # Nate B Jones Podcast Index
 
-Index of 714 episodes across 121 topics.
+Index of 715 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (573 episodes)
+- [Frameworks](frameworks.md) (574 episodes)
 - [Make](make.md) (519 episodes)
 - [Ai Tools](ai-tools.md) (511 episodes)
 - [Ai Strategy](ai-strategy.md) (491 episodes)
 - [Coding](coding.md) (438 episodes)
-- [Product Management](product-management.md) (437 episodes)
-- [Ai News](ai-news.md) (375 episodes)
-- [Anthropic](anthropic.md) (336 episodes)
+- [Product Management](product-management.md) (438 episodes)
+- [Ai News](ai-news.md) (376 episodes)
+- [Anthropic](anthropic.md) (337 episodes)
 - [Claude](claude.md) (327 episodes)
 - [Ai Agents](ai-agents.md) (325 episodes)
 - [Career](career.md) (315 episodes)
 - [Leadership](leadership.md) (305 episodes)
 - [Workflows](workflows.md) (304 episodes)
-- [Openai](openai.md) (296 episodes)
+- [Openai](openai.md) (297 episodes)
 - [Tutorials](tutorials.md) (289 episodes)
 - [Google](google.md) (283 episodes)
 - [Prompting](prompting.md) (227 episodes)
@@ -25,7 +25,7 @@ Index of 714 episodes across 121 topics.
 - [Framework](framework.md) (192 episodes)
 - [Gemini](gemini.md) (159 episodes)
 - [Microsoft](microsoft.md) (153 episodes)
-- [News Roundup](news-roundup.md) (144 episodes)
+- [News Roundup](news-roundup.md) (145 episodes)
 - [Meta](meta.md) (135 episodes)
 - [Startups](startups.md) (124 episodes)
 - [X](x.md) (116 episodes)
@@ -40,8 +40,8 @@ Index of 714 episodes across 121 topics.
 - [Github](github.md) (89 episodes)
 - [Chatgpt](chatgpt.md) (88 episodes)
 - [Mcp](mcp.md) (86 episodes)
-- [Apple](apple.md) (80 episodes)
 - [Nvidia](nvidia.md) (80 episodes)
+- [Apple](apple.md) (80 episodes)
 - [Opus](opus.md) (76 episodes)
 - [Artifacts](artifacts.md) (69 episodes)
 - [Salesforce](salesforce.md) (60 episodes)
@@ -112,8 +112,8 @@ Index of 714 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Cowork](cowork.md) (2 episodes)
+- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Lm Studio](lm-studio.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
