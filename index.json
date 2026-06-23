@@ -1,10 +1,58 @@
 {
-  "total_videos": 716,
+  "total_videos": 717,
   "date_range": {
-    "newest": "2026-06-22",
+    "newest": "2026-06-23",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Why Anthropic Hired the Smartest Person in AI #AI #Research #News",
+      "video_id": "V4sGSp2VMe4",
+      "youtube_url": "https://www.youtube.com/watch?v=V4sGSp2VMe4",
+      "publish_date": "2026-06-23",
+      "duration": "0:48",
+      "duration_seconds": 48,
+      "view_count": 1748,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nAnthropic AI is pulling ahead, and John Jumper\u2019s move is a major signal for the industry.\n\nWe break down why their recent focus on a massive context window matters for the future of AI development. If you follow machine learning trends or want to understand who is winning the model race, this update is essential viewing.\n\nSubscribe for more AI research updates, and let me know your thoughts on this shift below.\n",
+      "yt_tags": [
+        "Anthropic AI",
+        "John Jumper",
+        "AI development",
+        "large context window",
+        "AI research",
+        "machine learning news",
+        "openai",
+        "anthropic",
+        "ai news",
+        "ai updates"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google"
+        ],
+        "people": [
+          "Demis Hassabis"
+        ],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Why Anthropic Hired the Smartest Person in AI #AI #Research #News\nAnthropic is the one that's ahead"
+      ],
+      "transcript_chars": 808,
+      "folder": "2026-06-23-why-anthropic-hired-the-smartest-person-in-ai-ai-research-news"
+    },
     {
       "title": "Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!",
       "video_id": "Dyi4y7o4FB8",
