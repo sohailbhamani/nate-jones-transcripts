@@ -1,10 +1,79 @@
 {
-  "total_videos": 717,
+  "total_videos": 718,
   "date_range": {
     "newest": "2026-06-23",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work",
+      "video_id": "2w_vwQVvFmc",
+      "youtube_url": "https://www.youtube.com/watch?v=2w_vwQVvFmc",
+      "publish_date": "2026-06-23",
+      "duration": "18:12",
+      "duration_seconds": 1092,
+      "view_count": 11273,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full post w/ Work Spec + Benchmarks:\nhttps://natesnewsletter.substack.com/p/claude-fable-5-how-to-use?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nClaude Fable 5 is the biggest model in the world, and the real story isn't the benchmarks. It's that the bottleneck just moved from what the model can do to what you can imagine handing it.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening with Claude Fable 5?\n\nThe common story is that it's just a smarter, faster model \u2014 but the real question is whether you can even see the work that's finally big enough to hand it.\n\nIn this video, I share the inside scoop on five resets Fable 5 forces on how we work with AI:\n - Why AI has felt smaller than the headlines for years\n - How task imagination replaces prompt engineering as the core skill\n - What changes when one model can carry a whole job\n - Where the real job risk falls, and where it doesn't\n\nThe doing is getting cheap and the deciding is not, and the people who learn to hand over whole jobs are the ones who win back time.\n\nChapters:\n00:00 Cold open\n01:00 Bigger, not just smarter\n02:00 What a bigger model feels like\n06:29 Task imagination, the new core skill\n12:10 AI, jobs, and model managers\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Claude Fable 5",
+        "Anthropic",
+        "task imagination",
+        "prompt engineering",
+        "model managers",
+        "how to use Claude Fable 5",
+        "AI for whole jobs",
+        "future of work AI",
+        "ai",
+        "anthropic",
+        "claude fable 5",
+        "fable 5"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Stripe"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Projects"
+        ],
+        "models": [
+          "PaLM"
+        ]
+      },
+      "concepts": [
+        "Engineering work is over as usual, right? like we've seen that with every model"
+      ],
+      "summary": [
+        "| Claude Fable 5 Changes Work\nFable 5 is the best model in the world and I know you can't access it"
+      ],
+      "transcript_chars": 19101,
+      "folder": "2026-06-23-the-doing-got-cheap-now-what-claude-fable-5-changes-work"
+    },
     {
       "title": "Why Anthropic Hired the Smartest Person in AI #AI #Research #News",
       "video_id": "V4sGSp2VMe4",
