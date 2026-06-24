@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (289 episodes):
+Episodes discussing **Tutorials** (290 episodes):
 
+- [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [Most Teams Skip This Critical AI Agent Skill in 2026](../episodes/2026-06-21-most-teams-skip-this-critical-ai-agent-skill-in-2026/transcript.md) (2026-06-21)
 - [Nvidia vs Apple: The real AI battle 🤖 #nvidia #apple #shorts](../episodes/2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts/transcript.md) (2026-06-20)
 - [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)

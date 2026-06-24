@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (522 episodes):
+Episodes discussing **Make** (523 episodes):
 
+- [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work](../episodes/2026-06-23-the-doing-got-cheap-now-what-claude-fable-5-changes-work/transcript.md) (2026-06-23)
 - [Why Anthropic Hired the Smartest Person in AI #AI #Research #News](../episodes/2026-06-23-why-anthropic-hired-the-smartest-person-in-ai-ai-research-news/transcript.md) (2026-06-23)
 - [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)

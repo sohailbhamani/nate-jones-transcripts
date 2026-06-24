@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (316 episodes):
+Episodes discussing **Career** (317 episodes):
 
+- [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work](../episodes/2026-06-23-the-doing-got-cheap-now-what-claude-fable-5-changes-work/transcript.md) (2026-06-23)
 - [Most Teams Skip This Critical AI Agent Skill in 2026](../episodes/2026-06-21-most-teams-skip-this-critical-ai-agent-skill-in-2026/transcript.md) (2026-06-21)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)

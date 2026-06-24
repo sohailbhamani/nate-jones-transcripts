@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (340 episodes):
+Episodes discussing **Anthropic** (341 episodes):
 
+- [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work](../episodes/2026-06-23-the-doing-got-cheap-now-what-claude-fable-5-changes-work/transcript.md) (2026-06-23)
 - [Why Anthropic Hired the Smartest Person in AI #AI #Research #News](../episodes/2026-06-23-why-anthropic-hired-the-smartest-person-in-ai-ai-research-news/transcript.md) (2026-06-23)
 - [Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!](../episodes/2026-06-22-anthropic-just-proved-theyre-ahead-of-openai-airace-tech-news-full-video-tomorro/transcript.md) (2026-06-22)

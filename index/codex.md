@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (40 episodes):
+Episodes discussing **Codex** (41 episodes):
 
+- [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)
 - [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.](../episodes/2026-06-14-openai-just-filed-for-its-ipo-the-real-story-isnt-the-trillion-dollars/transcript.md) (2026-06-14)

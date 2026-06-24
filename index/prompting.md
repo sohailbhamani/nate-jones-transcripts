@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (227 episodes):
+Episodes discussing **Prompting** (228 episodes):
 
+- [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [Apple’s Worst Nightmare #apple #google #gemini](../episodes/2026-06-19-apples-worst-nightmare-apple-google-gemini/transcript.md) (2026-06-19)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Fable 5 is here—but who is it for? #ai #anthropic #shorts](../episodes/2026-06-11-fable-5-is-herebut-who-is-it-for-ai-anthropic-shorts/transcript.md) (2026-06-11)
