@@ -70,6 +70,7 @@ yt_tags:
   - "fable 5"
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Tools"
