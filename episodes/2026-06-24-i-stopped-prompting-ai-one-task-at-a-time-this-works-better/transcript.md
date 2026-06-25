@@ -75,6 +75,7 @@ yt_tags:
   - "automation"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Prompting"

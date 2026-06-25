@@ -1,6 +1,6 @@
 # Nate B Jones Podcast Index
 
-Index of 719 episodes across 121 topics.
+Index of 720 episodes across 121 topics.
 
 ## Topics
 
@@ -8,13 +8,13 @@ Index of 719 episodes across 121 topics.
 - [Make](make.md) (523 episodes)
 - [Ai Tools](ai-tools.md) (513 episodes)
 - [Ai Strategy](ai-strategy.md) (492 episodes)
-- [Coding](coding.md) (440 episodes)
+- [Coding](coding.md) (441 episodes)
 - [Product Management](product-management.md) (439 episodes)
 - [Ai News](ai-news.md) (380 episodes)
 - [Anthropic](anthropic.md) (341 episodes)
 - [Claude](claude.md) (329 episodes)
 - [Ai Agents](ai-agents.md) (326 episodes)
-- [Career](career.md) (317 episodes)
+- [Career](career.md) (318 episodes)
 - [Leadership](leadership.md) (306 episodes)
 - [Workflows](workflows.md) (305 episodes)
 - [Openai](openai.md) (299 episodes)
@@ -29,7 +29,7 @@ Index of 719 episodes across 121 topics.
 - [Meta](meta.md) (135 episodes)
 - [Startups](startups.md) (124 episodes)
 - [X](x.md) (116 episodes)
-- [Deep Dive](deep-dive.md) (111 episodes)
+- [Deep Dive](deep-dive.md) (112 episodes)
 - [Amazon](amazon.md) (108 episodes)
 - [Cursor](cursor.md) (108 episodes)
 - [Claude Code](claude-code.md) (105 episodes)
@@ -40,8 +40,8 @@ Index of 719 episodes across 121 topics.
 - [Chatgpt](chatgpt.md) (89 episodes)
 - [Github](github.md) (89 episodes)
 - [Mcp](mcp.md) (86 episodes)
-- [Nvidia](nvidia.md) (80 episodes)
 - [Apple](apple.md) (80 episodes)
+- [Nvidia](nvidia.md) (80 episodes)
 - [Opus](opus.md) (76 episodes)
 - [Artifacts](artifacts.md) (69 episodes)
 - [Salesforce](salesforce.md) (60 episodes)
@@ -121,8 +121,8 @@ Index of 719 episodes across 121 topics.
 - [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
+- [Raycast](raycast.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 
