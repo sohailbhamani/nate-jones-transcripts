@@ -1,7 +1,8 @@
 # Copilot
 
-Episodes discussing **Copilot** (41 episodes):
+Episodes discussing **Copilot** (42 episodes):
 
+- [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
 - [I Built a Deck With AI, Then Made a Second AI Attack It.](../episodes/2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it/transcript.md) (2026-05-27)
 - [Why the AI boom is about to hit a wall](../episodes/2026-05-24-why-the-ai-boom-is-about-to-hit-a-wall/transcript.md) (2026-05-24)
 - [Google Spent a Year Stitching MCP, A2A, AG-UI Together. I/O Today.](../episodes/2026-05-19-google-spent-a-year-stitching-mcp-a2a-ag-ui-together-io-today/transcript.md) (2026-05-19)

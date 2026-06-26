@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (441 episodes):
+Episodes discussing **Coding** (442 episodes):
 
+- [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
 - [The ONLY thing AI will NEVER replace #Career #FutureOfWork #ArtificialIntelligence](../episodes/2026-06-25-the-only-thing-ai-will-never-replace-career-futureofwork-artificialintelligence/transcript.md) (2026-06-25)
 - [The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work](../episodes/2026-06-23-the-doing-got-cheap-now-what-claude-fable-5-changes-work/transcript.md) (2026-06-23)
 - [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)

@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (492 episodes):
+Episodes discussing **Ai Strategy** (493 episodes):
 
+- [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
 - [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)
 - [Nvidia vs Apple: The real AI battle 🤖 #nvidia #apple #shorts](../episodes/2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts/transcript.md) (2026-06-20)
 - [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)

@@ -1,10 +1,43 @@
 {
-  "total_videos": 720,
+  "total_videos": 721,
   "date_range": {
-    "newest": "2026-06-25",
+    "newest": "2026-06-26",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork",
+      "video_id": "rRNbjws5P_M",
+      "youtube_url": "https://www.youtube.com/watch?v=rRNbjws5P_M",
+      "publish_date": "2026-06-26",
+      "duration": "0:25",
+      "duration_seconds": 25,
+      "view_count": 2020,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "I watched the people who actually survived their company's AI rollout, and they all figured out one thing: AI isn't a tool skill, it's a management skill. The skills that make you good at AI aren't prompting skills \u2014 they're people skills. Closing the AI fluency gap on your team starts here. Get my newsletter \ud83d\udc49 https://natesnewsletter.substack.com\n\n\nMy Links \n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Opinion",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Copilot",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here's the fix #AI #Management #Leadership #FutureOfWork\nThe survivors figured out one thing"
+      ],
+      "transcript_chars": 420,
+      "folder": "2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork"
+    },
     {
       "title": "The ONLY thing AI will NEVER replace #Career #FutureOfWork #ArtificialIntelligence",
       "video_id": "mWT-dBFkQdQ",

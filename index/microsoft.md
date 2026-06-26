@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (153 episodes):
+Episodes discussing **Microsoft** (154 episodes):
 
+- [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
 - [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](../episodes/2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble/transcript.md) (2026-06-15)
 - [Don't let your AI output go to waste #strategy #ai](../episodes/2026-06-04-dont-let-your-ai-output-go-to-waste-strategy-ai/transcript.md) (2026-06-04)
 - [Microsoft Says 86% Treat AI Output as a Starting Point. Your Resume Just Stopped Working.](../episodes/2026-05-31-microsoft-says-86-treat-ai-output-as-a-starting-point-your-resume-just-stopped-w/transcript.md) (2026-05-31)
