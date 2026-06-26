@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (105 episodes):
+Episodes discussing **Claude Code** (106 episodes):
 
+- [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)
 - [Most Teams Skip This Critical AI Agent Skill in 2026](../episodes/2026-06-21-most-teams-skip-this-critical-ai-agent-skill-in-2026/transcript.md) (2026-06-21)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)

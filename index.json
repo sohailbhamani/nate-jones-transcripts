@@ -1,10 +1,84 @@
 {
-  "total_videos": 721,
+  "total_videos": 722,
   "date_range": {
     "newest": "2026-06-26",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.",
+      "video_id": "QSK4vf_ZTRA",
+      "youtube_url": "https://www.youtube.com/watch?v=QSK4vf_ZTRA",
+      "publish_date": "2026-06-26",
+      "duration": "22:04",
+      "duration_seconds": 1324,
+      "view_count": 7819,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "How to Guide - Build Your Open Engine:\nhttps://natesnewsletter.substack.com/p/ai-agent-handoffs?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nYour AI agents don't talk to each other, so you have become the human glue moving work between Claude, Codex, and ChatGPT. Open Engine is a shared task queue that lets your agents hand off work, carry the sources, and leave a receipt, without you stuck in the middle.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the AI agent coordination problem in 2026?\n\nThe common story is that agents go autonomous and take work off your plate. The real bottleneck is the handoff between agents, where the context, the sources, and the review keep falling on you.\n\nIn this video, I share the inside scoop on Open Engine, a practical way to get your agents working as one system:\n\n - Why the handoff, not the model, is the real bottleneck\n - How a shared queue lets agents pass work without you\n - What changes when you move from prompt mode to work mode\n - How agents from different tools coordinate without direct integration\n\nThe agents are finally capable enough to do the work, and the win now is building the queue that moves it between them before you become the bottleneck.\n\nChapters:\n00:00 How to make your AI agents work as one system\n01:06 A friend juggling five AI tools\n04:48 Agents are loop managers and you are the hallway\n06:32 The fix is a shared queue both people and agents read\n08:45 The five components of the Open Engine guide\n10:24 The bottleneck is the boundary between agents\n12:59 Demo: the Open Engine loop in Linear\n14:13 Delegating a task across two different agents\n16:20 Prompt mode versus work mode\n19:30 The test: can the work leave your chat\n20:33 Get the full guide and join the community\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "multi-agent coordination",
+        "agent handoffs",
+        "Codex",
+        "Linear",
+        "AI agents for teams",
+        "AI agent workflows",
+        "ai agents",
+        "ai",
+        "ai tools",
+        "linear",
+        "chatgpt",
+        "openai codex",
+        "codex",
+        "ai automation"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Slack",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Operator",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# I Was The Only Thing Connecting Claude, ChatGPT, and Codex"
+      ],
+      "transcript_chars": 23533,
+      "folder": "2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme"
+    },
     {
       "title": "You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork",
       "video_id": "rRNbjws5P_M",

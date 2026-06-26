@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (227 episodes):
+Episodes discussing **Tutorial** (228 episodes):
 
+- [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)
 - [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [Nvidia vs Apple: The real AI battle 🤖 #nvidia #apple #shorts](../episodes/2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts/transcript.md) (2026-06-20)
 - [Siri is finally getting an upgrade 🤯 #siri #apple #ios](../episodes/2026-06-17-siri-is-finally-getting-an-upgrade-siri-apple-ios/transcript.md) (2026-06-17)
