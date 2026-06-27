@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (443 episodes):
+Episodes discussing **Coding** (444 episodes):
 
+- [This is the real AI moat — and it's not the models. #anthropic #claude #claudecowork](../episodes/2026-06-27-this-is-the-real-ai-moat-and-its-not-the-models-anthropic-claude-claudecowork/transcript.md) (2026-06-27)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)
 - [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
 - [The ONLY thing AI will NEVER replace #Career #FutureOfWork #ArtificialIntelligence](../episodes/2026-06-25-the-only-thing-ai-will-never-replace-career-futureofwork-artificialintelligence/transcript.md) (2026-06-25)

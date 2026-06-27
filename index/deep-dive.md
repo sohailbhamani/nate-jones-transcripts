@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (112 episodes):
+Episodes discussing **Deep Dive** (113 episodes):
 
+- [This is the real AI moat — and it's not the models. #anthropic #claude #claudecowork](../episodes/2026-06-27-this-is-the-real-ai-moat-and-its-not-the-models-anthropic-claude-claudecowork/transcript.md) (2026-06-27)
 - [The ONLY thing AI will NEVER replace #Career #FutureOfWork #ArtificialIntelligence](../episodes/2026-06-25-the-only-thing-ai-will-never-replace-career-futureofwork-artificialintelligence/transcript.md) (2026-06-25)
 - [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)
 - [OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.](../episodes/2026-06-14-openai-just-filed-for-its-ipo-the-real-story-isnt-the-trillion-dollars/transcript.md) (2026-06-14)

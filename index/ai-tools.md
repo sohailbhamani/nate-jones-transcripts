@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (515 episodes):
+Episodes discussing **Ai Tools** (516 episodes):
 
+- [This is the real AI moat — and it's not the models. #anthropic #claude #claudecowork](../episodes/2026-06-27-this-is-the-real-ai-moat-and-its-not-the-models-anthropic-claude-claudecowork/transcript.md) (2026-06-27)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)
 - [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
 - [The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work](../episodes/2026-06-23-the-doing-got-cheap-now-what-claude-fable-5-changes-work/transcript.md) (2026-06-23)

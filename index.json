@@ -1,10 +1,45 @@
 {
-  "total_videos": 722,
+  "total_videos": 723,
   "date_range": {
-    "newest": "2026-06-26",
+    "newest": "2026-06-27",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "This is the real AI moat \u2014 and it's not the models. #anthropic #claude #claudecowork",
+      "video_id": "u763aFhSeoU",
+      "youtube_url": "https://www.youtube.com/watch?v=u763aFhSeoU",
+      "publish_date": "2026-06-27",
+      "duration": "0:25",
+      "duration_seconds": 25,
+      "view_count": 1924,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Anthropic noticed something weird: developers were using their coding tool to sort expense receipts. 10 days later, they'd shipped Claude Cowork. That kind of operational velocity is becoming as big a moat as the models themselves. Want the deeper breakdown on how AI-native teams move this fast? Get my newsletter: https://natesnewsletter.substack.com\n\nMy Links \n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# This is the real AI moat \u2014 and it's not the models"
+      ],
+      "transcript_chars": 455,
+      "folder": "2026-06-27-this-is-the-real-ai-moat-and-its-not-the-models-anthropic-claude-claudecowork"
+    },
     {
       "title": "I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.",
       "video_id": "QSK4vf_ZTRA",
