@@ -1,10 +1,42 @@
 {
-  "total_videos": 723,
+  "total_videos": 724,
   "date_range": {
-    "newest": "2026-06-27",
+    "newest": "2026-06-28",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork",
+      "video_id": "AdtGNAhVtok",
+      "youtube_url": "https://www.youtube.com/watch?v=AdtGNAhVtok",
+      "publish_date": "2026-06-28",
+      "duration": "0:33",
+      "duration_seconds": 33,
+      "view_count": 1493,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Here's the uncomfortable truth: AI made the building part fast, so now everything around it is the slow part. The meeting to align on a feature. The PRD. The approval loop. There's a manufacturing principle that explains it \u2014 kill a bottleneck and it doesn't vanish, it just slides downstream. The work got faster. Our habits didn't.\n\nI broke down the 8 habits worth unlearning (with a prompt kit to find your real bottleneck) here \ud83d\udc49 https://natesnewsletter.substack.com/p/8-habits-worth-unlearning-in-the\n\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#Productivity #FutureOfWork\nThe meeting to discuss a feature, now takes longer than building the feature"
+      ],
+      "transcript_chars": 554,
+      "folder": "2026-06-28-ai-didnt-make-you-faster-it-just-hid-the-real-bottleneck-productivity-futureofwo"
+    },
     {
       "title": "This is the real AI moat \u2014 and it's not the models. #anthropic #claude #claudecowork",
       "video_id": "u763aFhSeoU",
