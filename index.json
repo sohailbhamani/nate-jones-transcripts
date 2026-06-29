@@ -1,10 +1,41 @@
 {
-  "total_videos": 725,
+  "total_videos": 726,
   "date_range": {
-    "newest": "2026-06-28",
+    "newest": "2026-06-29",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket",
+      "video_id": "f1Ulp-ZMWy8",
+      "youtube_url": "https://www.youtube.com/watch?v=f1Ulp-ZMWy8",
+      "publish_date": "2026-06-29",
+      "duration": "0:17",
+      "duration_seconds": 17,
+      "view_count": 3222,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "If you're early in your tech career, you already feel it: the bottom rung of the ladder is disappearing. AI took over exactly the kind of work juniors used to cut their teeth on \u2014 which means \"I can code\" no longer proves what it used to. The pipeline that turned beginners into seniors is quietly collapsing.\n\nSo how do you actually break into tech now? I broke down the strategies, success stories, and who's still hiring \ud83d\udc49 https://natesnewsletter.substack.com/p/the-inside-scoop-on-juniors-and-jobs\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#AI #SoftwareDevelopment #Coding #JobMarket\nJunior developer employment is dropping 9% within six quarters of widespread AI coding tool adoption according to a 2025 Harvard study"
+      ],
+      "transcript_chars": 308,
+      "folder": "2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar"
+    },
     {
       "title": "AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork",
       "video_id": "AdtGNAhVtok",

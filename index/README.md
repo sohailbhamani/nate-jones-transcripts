@@ -1,20 +1,20 @@
 # Nate B Jones Podcast Index
 
-Index of 725 episodes across 121 topics.
+Index of 726 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (581 episodes)
 - [Make](make.md) (527 episodes)
-- [Ai Tools](ai-tools.md) (517 episodes)
-- [Ai Strategy](ai-strategy.md) (494 episodes)
-- [Coding](coding.md) (445 episodes)
-- [Product Management](product-management.md) (442 episodes)
+- [Ai Tools](ai-tools.md) (518 episodes)
+- [Ai Strategy](ai-strategy.md) (495 episodes)
+- [Coding](coding.md) (446 episodes)
+- [Product Management](product-management.md) (443 episodes)
 - [Ai News](ai-news.md) (382 episodes)
 - [Anthropic](anthropic.md) (344 episodes)
 - [Claude](claude.md) (332 episodes)
 - [Ai Agents](ai-agents.md) (327 episodes)
-- [Career](career.md) (321 episodes)
+- [Career](career.md) (322 episodes)
 - [Leadership](leadership.md) (308 episodes)
 - [Workflows](workflows.md) (307 episodes)
 - [Openai](openai.md) (301 episodes)
@@ -29,7 +29,7 @@ Index of 725 episodes across 121 topics.
 - [Meta](meta.md) (135 episodes)
 - [Startups](startups.md) (124 episodes)
 - [X](x.md) (116 episodes)
-- [Deep Dive](deep-dive.md) (114 episodes)
+- [Deep Dive](deep-dive.md) (115 episodes)
 - [Amazon](amazon.md) (108 episodes)
 - [Cursor](cursor.md) (108 episodes)
 - [Claude Code](claude-code.md) (106 episodes)
@@ -118,8 +118,8 @@ Index of 725 episodes across 121 topics.
 - [Lm Studio](lm-studio.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)

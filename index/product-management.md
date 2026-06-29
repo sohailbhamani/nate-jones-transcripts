@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (442 episodes):
+Episodes discussing **Product Management** (443 episodes):
 
+- [Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket](../episodes/2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar/transcript.md) (2026-06-29)
 - [AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork](../episodes/2026-06-28-ai-didnt-make-you-faster-it-just-hid-the-real-bottleneck-productivity-futureofwo/transcript.md) (2026-06-28)
 - [This is the real AI moat — and it's not the models. #anthropic #claude #claudecowork](../episodes/2026-06-27-this-is-the-real-ai-moat-and-its-not-the-models-anthropic-claude-claudecowork/transcript.md) (2026-06-27)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)

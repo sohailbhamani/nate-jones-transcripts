@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (494 episodes):
+Episodes discussing **Ai Strategy** (495 episodes):
 
+- [Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket](../episodes/2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar/transcript.md) (2026-06-29)
 - [AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork](../episodes/2026-06-28-ai-didnt-make-you-faster-it-just-hid-the-real-bottleneck-productivity-futureofwo/transcript.md) (2026-06-28)
 - [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
 - [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)

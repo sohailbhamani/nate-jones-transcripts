@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (114 episodes):
+Episodes discussing **Deep Dive** (115 episodes):
 
+- [Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket](../episodes/2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar/transcript.md) (2026-06-29)
 - [AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork](../episodes/2026-06-28-ai-didnt-make-you-faster-it-just-hid-the-real-bottleneck-productivity-futureofwo/transcript.md) (2026-06-28)
 - [This is the real AI moat — and it's not the models. #anthropic #claude #claudecowork](../episodes/2026-06-27-this-is-the-real-ai-moat-and-its-not-the-models-anthropic-claude-claudecowork/transcript.md) (2026-06-27)
 - [The ONLY thing AI will NEVER replace #Career #FutureOfWork #ArtificialIntelligence](../episodes/2026-06-25-the-only-thing-ai-will-never-replace-career-futureofwork-artificialintelligence/transcript.md) (2026-06-25)
