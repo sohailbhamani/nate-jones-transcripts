@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (286 episodes):
+Episodes discussing **Google** (287 episodes):
 
+- [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [Why Anthropic Hired the Smartest Person in AI #AI #Research #News](../episodes/2026-06-23-why-anthropic-hired-the-smartest-person-in-ai-ai-research-news/transcript.md) (2026-06-23)
 - [Google Lost $2.7 Billion In Talent This Week. The Real Reason Isn't Money.](../episodes/2026-06-22-google-lost-27-billion-in-talent-this-week-the-real-reason-isnt-money/transcript.md) (2026-06-22)

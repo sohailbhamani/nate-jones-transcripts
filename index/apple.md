@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (80 episodes):
+Episodes discussing **Apple** (81 episodes):
 
+- [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [Nvidia vs Apple: The real AI battle 🤖 #nvidia #apple #shorts](../episodes/2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts/transcript.md) (2026-06-20)
 - [Apple’s Worst Nightmare #apple #google #gemini](../episodes/2026-06-19-apples-worst-nightmare-apple-google-gemini/transcript.md) (2026-06-19)
 - [Don't let your app get left behind #appleintelligence #tech #ai](../episodes/2026-06-18-dont-let-your-app-get-left-behind-appleintelligence-tech-ai/transcript.md) (2026-06-18)

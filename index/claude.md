@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (332 episodes):
+Episodes discussing **Claude** (333 episodes):
 
+- [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?](../episodes/2026-06-28-glm-52-is-free-and-beats-claude-on-most-work-so-why-cant-companies-switch/transcript.md) (2026-06-28)
 - [This is the real AI moat — and it's not the models. #anthropic #claude #claudecowork](../episodes/2026-06-27-this-is-the-real-ai-moat-and-its-not-the-models-anthropic-claude-claudecowork/transcript.md) (2026-06-27)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)

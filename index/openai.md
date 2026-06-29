@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (301 episodes):
+Episodes discussing **Openai** (302 episodes):
 
+- [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?](../episodes/2026-06-28-glm-52-is-free-and-beats-claude-on-most-work-so-why-cant-companies-switch/transcript.md) (2026-06-28)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)
 - [The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work](../episodes/2026-06-23-the-doing-got-cheap-now-what-claude-fable-5-changes-work/transcript.md) (2026-06-23)
