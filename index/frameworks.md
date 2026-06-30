@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (582 episodes):
+Episodes discussing **Frameworks** (583 episodes):
 
+- [Nobody’s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude](../episodes/2026-06-30-nobodys-ready-for-claude-fable-5-anthropic-ai-fable5-claude/transcript.md) (2026-06-30)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork](../episodes/2026-06-28-ai-didnt-make-you-faster-it-just-hid-the-real-bottleneck-productivity-futureofwo/transcript.md) (2026-06-28)
 - [GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?](../episodes/2026-06-28-glm-52-is-free-and-beats-claude-on-most-work-so-why-cant-companies-switch/transcript.md) (2026-06-28)

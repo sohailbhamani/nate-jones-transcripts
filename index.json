@@ -1,10 +1,44 @@
 {
-  "total_videos": 727,
+  "total_videos": 728,
   "date_range": {
-    "newest": "2026-06-29",
+    "newest": "2026-06-30",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Nobody\u2019s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude",
+      "video_id": "ZUK9fpJsHy8",
+      "youtube_url": "https://www.youtube.com/watch?v=ZUK9fpJsHy8",
+      "publish_date": "2026-06-30",
+      "duration": "0:11",
+      "duration_seconds": 11,
+      "view_count": 5220,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Claude Fable 5 was public for a few days, and the strange part was not just how good it was. It was realizing the new constraint might be us.\n\nThe model didn't run out of ability. I ran out of big things to ask for.\n\nSo the skill that matters now isn't prompting \u2014 it's learning to ask bigger. That's what the full breakdown gets into: https://natesnewsletter.substack.com/p/claude-fable-5-how-to-use?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Nobody\u2019s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude\nIt is the first model I've used where the limit I kept hitting was not the model running out of ability"
+      ],
+      "transcript_chars": 153,
+      "folder": "2026-06-30-nobodys-ready-for-claude-fable-5-anthropic-ai-fable5-claude"
+    },
     {
       "title": "Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket",
       "video_id": "f1Ulp-ZMWy8",
