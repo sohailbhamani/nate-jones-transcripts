@@ -66,6 +66,7 @@ yt_tags:
   - "enterprise AI adoption"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Tools"
