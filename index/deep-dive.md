@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (116 episodes):
+Episodes discussing **Deep Dive** (117 episodes):
 
+- [Midjourney breaks into ... healthcare? #AI #Medtech #MidjourneyMedical #Medicalbreakthrough](../episodes/2026-07-01-midjourney-breaks-into-healthcare-ai-medtech-midjourneymedical-medicalbreakthrou/transcript.md) (2026-07-01)
 - [Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket](../episodes/2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar/transcript.md) (2026-06-29)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork](../episodes/2026-06-28-ai-didnt-make-you-faster-it-just-hid-the-real-bottleneck-productivity-futureofwo/transcript.md) (2026-06-28)

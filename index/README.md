@@ -1,13 +1,13 @@
 # Nate B Jones Podcast Index
 
-Index of 728 episodes across 121 topics.
+Index of 729 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (583 episodes)
 - [Make](make.md) (528 episodes)
 - [Ai Tools](ai-tools.md) (520 episodes)
-- [Ai Strategy](ai-strategy.md) (495 episodes)
+- [Ai Strategy](ai-strategy.md) (496 episodes)
 - [Coding](coding.md) (447 episodes)
 - [Product Management](product-management.md) (444 episodes)
 - [Ai News](ai-news.md) (383 episodes)
@@ -28,7 +28,7 @@ Index of 728 episodes across 121 topics.
 - [News Roundup](news-roundup.md) (147 episodes)
 - [Meta](meta.md) (135 episodes)
 - [Startups](startups.md) (124 episodes)
-- [Deep Dive](deep-dive.md) (116 episodes)
+- [Deep Dive](deep-dive.md) (117 episodes)
 - [X](x.md) (116 episodes)
 - [Amazon](amazon.md) (108 episodes)
 - [Cursor](cursor.md) (108 episodes)
@@ -80,10 +80,10 @@ Index of 728 episodes across 121 topics.
 - [Ibm](ibm.md) (12 episodes)
 - [Tesla](tesla.md) (10 episodes)
 - [Deepmind](deepmind.md) (10 episodes)
+- [Midjourney](midjourney.md) (10 episodes)
 - [Intel](intel.md) (9 episodes)
 - [O3](o3.md) (9 episodes)
 - [Langchain](langchain.md) (9 episodes)
-- [Midjourney](midjourney.md) (9 episodes)
 - [Sap](sap.md) (9 episodes)
 - [Gpt 5](gpt-5.md) (9 episodes)
 - [Tsmc](tsmc.md) (8 episodes)
@@ -118,11 +118,11 @@ Index of 728 episodes across 121 topics.
 - [Lm Studio](lm-studio.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
+- [Fiverr](fiverr.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
+- [Ollama](ollama.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 

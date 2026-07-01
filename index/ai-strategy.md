@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (495 episodes):
+Episodes discussing **Ai Strategy** (496 episodes):
 
+- [Midjourney breaks into ... healthcare? #AI #Medtech #MidjourneyMedical #Medicalbreakthrough](../episodes/2026-07-01-midjourney-breaks-into-healthcare-ai-medtech-midjourneymedical-medicalbreakthrou/transcript.md) (2026-07-01)
 - [Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket](../episodes/2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar/transcript.md) (2026-06-29)
 - [AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork](../episodes/2026-06-28-ai-didnt-make-you-faster-it-just-hid-the-real-bottleneck-productivity-futureofwo/transcript.md) (2026-06-28)
 - [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
