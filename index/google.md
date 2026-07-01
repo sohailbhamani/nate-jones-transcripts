@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (287 episodes):
+Episodes discussing **Google** (288 episodes):
 
+- [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [Why Anthropic Hired the Smartest Person in AI #AI #Research #News](../episodes/2026-06-23-why-anthropic-hired-the-smartest-person-in-ai-ai-research-news/transcript.md) (2026-06-23)

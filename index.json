@@ -1,10 +1,77 @@
 {
-  "total_videos": 729,
+  "total_videos": 730,
   "date_range": {
     "newest": "2026-07-01",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.",
+      "video_id": "HgAQOkG_v8c",
+      "youtube_url": "https://www.youtube.com/watch?v=HgAQOkG_v8c",
+      "publish_date": "2026-07-01",
+      "duration": "16:17",
+      "duration_seconds": 977,
+      "view_count": 9967,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "The Full Open Stack Guide:\nhttps://natesnewsletter.substack.com/p/build-your-own-ai-memory?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nAI agents can now build most of your own AI memory stack for you, just by talking to Claude or Codex.\nThis is how to build a personal agent that starts from your context, follows your intent, and waits for your yes before it acts.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the race to build personal AI agents?\nThe common story is that you wait for the next assistant from a big lab, but the real move is owning the memory yourself and renting the intelligence.\n\nIn this video, I share the inside scoop on how to build your own AI memory and intent loop:\n - How to build 80% of your memory stack by talking to your agent\n - Why owning your memory matters more than renting intelligence\n - What boundaries keep an agent from acting without your approval\n - Where to start: one repeated part of your life\n\nThe agents are finally good enough to build this for you, but the memory, the boundaries, and the final approval only count for something if they stay yours.\n\nChapters:\n00:00 The insurance agent story and what this video builds\n00:43 What Nikita's agent did to Lemonade\n02:07 Why intent became the central problem\n04:01 Build 80% of the stack just by talking to your agent\n04:37 Why owning the stack matters for you\n05:25 Start with one repeated part of your life\n06:15 Open Engine and orchestrating work across agents\n07:06 Why the build barrier just dropped\n07:34 What you still own: accounts, permissions, approval\n08:03 A concrete example: coffee hunting in Japan\n10:56 The build is now a fifth as technical as February\n15:00 Rent the intelligence, own the memory\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "AI memory",
+        "agent memory",
+        "Codex",
+        "Open Brain",
+        "build your own AI memory",
+        "personal AI agent",
+        "context engineering",
+        "best ai tools",
+        "ai"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Slack",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Make",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "You woke up last week to the two best AI models on the planet getting locked behind a government door and we're all standing on the wrong side of it"
+      ],
+      "transcript_chars": 17331,
+      "folder": "2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself"
+    },
     {
       "title": "Midjourney breaks into ... healthcare? #AI #Medtech #MidjourneyMedical #Medicalbreakthrough",
       "video_id": "SdjhgU3Cpb0",

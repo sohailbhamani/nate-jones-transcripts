@@ -1,7 +1,8 @@
 # Gemini
 
-Episodes discussing **Gemini** (160 episodes):
+Episodes discussing **Gemini** (161 episodes):
 
+- [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [Apple’s Worst Nightmare #apple #google #gemini](../episodes/2026-06-19-apples-worst-nightmare-apple-google-gemini/transcript.md) (2026-06-19)
 - [The 3 Biggest WWDC Headlines You Missed #wwdc #apple #tech](../episodes/2026-06-16-the-3-biggest-wwdc-headlines-you-missed-wwdc-apple-tech/transcript.md) (2026-06-16)

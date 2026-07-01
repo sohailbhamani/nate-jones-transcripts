@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (100 episodes):
+Episodes discussing **Slack** (101 episodes):
 
+- [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?](../episodes/2026-06-28-glm-52-is-free-and-beats-claude-on-most-work-so-why-cant-companies-switch/transcript.md) (2026-06-28)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)
