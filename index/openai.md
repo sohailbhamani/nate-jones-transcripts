@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (303 episodes):
+Episodes discussing **Openai** (304 episodes):
 
+- [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?](../episodes/2026-06-28-glm-52-is-free-and-beats-claude-on-most-work-so-why-cant-companies-switch/transcript.md) (2026-06-28)

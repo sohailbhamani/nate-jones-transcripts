@@ -1,7 +1,8 @@
 # Shopify
 
-Episodes discussing **Shopify** (24 episodes):
+Episodes discussing **Shopify** (25 episodes):
 
+- [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)
 - [ChatGPT Has 900M Weekly Users. Almost None Can Buy In It.](../episodes/2026-05-12-chatgpt-has-900m-weekly-users-almost-none-can-buy-in-it/transcript.md) (2026-05-12)
 - [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)

@@ -1,8 +1,9 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (585 episodes):
+Episodes discussing **Frameworks** (586 episodes):
 
 - [The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork](../episodes/2026-07-02-the-fastest-way-to-make-an-ai-agent-dangerous-aiagents-ai-agents-automation-futu/transcript.md) (2026-07-02)
+- [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
 - [Nobody’s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude](../episodes/2026-06-30-nobodys-ready-for-claude-fable-5-anthropic-ai-fable5-claude/transcript.md) (2026-06-30)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)

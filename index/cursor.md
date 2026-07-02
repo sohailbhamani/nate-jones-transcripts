@@ -1,7 +1,8 @@
 # Cursor
 
-Episodes discussing **Cursor** (108 episodes):
+Episodes discussing **Cursor** (109 episodes):
 
+- [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [Most Teams Skip This Critical AI Agent Skill in 2026](../episodes/2026-06-21-most-teams-skip-this-critical-ai-agent-skill-in-2026/transcript.md) (2026-06-21)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [A Cursor Agent Wiped a Database in 9 Seconds. Agent Analytics Would Have Seen It Coming.](../episodes/2026-05-28-a-cursor-agent-wiped-a-database-in-9-seconds-agent-analytics-would-have-seen-it/transcript.md) (2026-05-28)

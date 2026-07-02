@@ -1,5 +1,5 @@
 {
-  "total_videos": 731,
+  "total_videos": 732,
   "date_range": {
     "newest": "2026-07-02",
     "oldest": "2024-05-21"
@@ -36,6 +36,82 @@
       ],
       "transcript_chars": 319,
       "folder": "2026-07-02-the-fastest-way-to-make-an-ai-agent-dangerous-aiagents-ai-agents-automation-futu"
+    },
+    {
+      "title": "Your AI Model is Probably Wrong for This Job",
+      "video_id": "lq2fP7wC7d8",
+      "youtube_url": "https://www.youtube.com/watch?v=lq2fP7wC7d8",
+      "publish_date": "2026-07-02",
+      "duration": "14:17",
+      "duration_seconds": 857,
+      "view_count": 4307,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full model routing guide:\nhttps://natesnewsletter.substack.com/p/which-ai-model-to-use?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nEvery AI model suddenly looks replaceable, and picking the right one has turned into a second job. This video is a practical model picker: how to choose which AI to use for real work without overpaying or drowning in model names.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when every AI model suddenly looks replaceable?\n\nThe common story is that the smartest model wins. The real question is which intelligence a specific job actually needs.\n\nIn this video, I share the inside scoop on how to pick the right AI for the work in front of you:\n\n - Why daily-driver models differ from cheap workhorse models like GLM 5.2\n - How to route familiar work to cheaper models and review it fast\n - What to keep on a frontier model when the shape of the job is unclear\n - Where specialists win: images, video, live web, and coding harnesses\n\nThe models will keep changing, but if you route by the job and keep your context portable, no single model going away can stall your work.\n\nChapters:\n00:00 Why picking an AI model suddenly got hard\n01:42 Start with the job, not the model\n02:28 Where GLM 5.2 fits: familiar, repeatable work\n03:25 When to pay for a frontier model\n03:53 Your daily driver and why the harness matters\n04:47 Fable-style problems that need the strongest model\n05:40 Test any model on your own work first\n06:13 Using AI at work: permission comes first\n06:59 Small teams: route your five recurring artifacts\n07:53 Specialists for images, video, and live web\n09:51 What Coinbase, Cursor, and Lindy are actually doing\n12:47 Five rules for picking a model\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "GLM 5.2",
+        "open source AI models",
+        "AI model comparison",
+        "Codex",
+        "which AI model to use",
+        "how to choose AI model",
+        "AI for business",
+        "fable 5",
+        "ai models explained"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Microsoft",
+          "Shopify",
+          "Cursor",
+          "X",
+          "Airbnb"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Copilot",
+          "Cursor",
+          "Codex",
+          "Make",
+          "Opus",
+          "Artifacts"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Qwen",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Your AI Model is Probably Wrong for This Job\nCoinbase, Cursor, Lindy, lots of companies are switching to open source models"
+      ],
+      "transcript_chars": 15565,
+      "folder": "2026-07-02-your-ai-model-is-probably-wrong-for-this-job"
     },
     {
       "title": "I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.",
