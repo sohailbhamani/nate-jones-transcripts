@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (57 episodes):
+Episodes discussing **Youtube** (58 episodes):
 
+- [Every AI Agent Demo Stops at Email. I Pointed Mine at the Bills That Cost You Money.](../episodes/2026-07-03-every-ai-agent-demo-stops-at-email-i-pointed-mine-at-the-bills-that-cost-you-mon/transcript.md) (2026-07-03)
 - [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)
 - [Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.](../episodes/2026-05-21-opus-47-and-openai-55-made-your-prompting-style-obsolete/transcript.md) (2026-05-21)
 - [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](../episodes/2026-04-22-karpathys-wiki-vs-open-brain-one-fails-when-you-need-it-most/transcript.md) (2026-04-22)
