@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (348 episodes):
+Episodes discussing **Anthropic** (349 episodes):
 
+- [Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork](../episodes/2026-07-03-will-fable-5-kill-jobs-fable5-fableisback-anthropic-futureofwork/transcript.md) (2026-07-03)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
 - [Nobody’s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude](../episodes/2026-06-30-nobodys-ready-for-claude-fable-5-anthropic-ai-fable5-claude/transcript.md) (2026-06-30)

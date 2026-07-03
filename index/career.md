@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (324 episodes):
+Episodes discussing **Career** (325 episodes):
 
+- [Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork](../episodes/2026-07-03-will-fable-5-kill-jobs-fable5-fableisback-anthropic-futureofwork/transcript.md) (2026-07-03)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
 - [Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket](../episodes/2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar/transcript.md) (2026-06-29)
