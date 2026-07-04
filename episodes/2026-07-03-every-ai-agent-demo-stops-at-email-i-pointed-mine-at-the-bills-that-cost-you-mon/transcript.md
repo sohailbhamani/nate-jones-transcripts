@@ -78,6 +78,7 @@ yt_tags:
   - "ai automation"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Agents"
