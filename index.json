@@ -1,10 +1,67 @@
 {
-  "total_videos": 735,
+  "total_videos": 736,
   "date_range": {
-    "newest": "2026-07-03",
+    "newest": "2026-07-04",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Free Fable 5 tokens this weekend? Here's how to max them",
+      "video_id": "RtxUdvSTQGc",
+      "youtube_url": "https://www.youtube.com/watch?v=RtxUdvSTQGc",
+      "publish_date": "2026-07-04",
+      "duration": "3:50",
+      "duration_seconds": 230,
+      "view_count": 3823,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Fable 5 is the AI model everyone's racing to max out this holiday weekend, but most people are pointing it at the wrong work. Here's how to get results that actually stand out.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the way serious users are running Fable 5?\n\nThe common advice is to plan with Fable 5 and code with something else, but the real move is using it to design the goal harness that steers whatever coding model you hand the work to.\n\nIn this video, I share the inside scoop on getting the most out of Fable 5:\n\nHow to wire Fable 5 into tools like Blender for real output\nWhy short prompts beat long ones on hard problems\nWhat business problems are worth handing to it directly\nHow to build a goal harness that steers your coding model\n\nFable 5 is worth paying for even after the free tokens are gone, but only if you aim it at problems that genuinely need that horsepower.\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Fable 5",
+        "AI coding tools",
+        "front end design",
+        "Blender AI",
+        "goal harness",
+        "how to use AI at work",
+        "AI for business"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here's how to max them\nYou can tell the difference this weekend between people who are not that into AI and people who are AI nerds because those of us who are AI nerds are saying, 'How are you maxin"
+      ],
+      "transcript_chars": 3939,
+      "folder": "2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them"
+    },
     {
       "title": "Every AI Agent Demo Stops at Email. I Pointed Mine at the Bills That Cost You Money.",
       "video_id": "U4TmrlWEY4M",
