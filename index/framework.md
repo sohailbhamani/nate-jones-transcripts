@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (196 episodes):
+Episodes discussing **Framework** (197 episodes):
 
+- [Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI](../episodes/2026-07-05-fable-5-doesnt-want-your-prompt-it-wants-the-whole-job-claudefable5-fable5-claud/transcript.md) (2026-07-05)
 - [Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork](../episodes/2026-07-03-will-fable-5-kill-jobs-fable5-fableisback-anthropic-futureofwork/transcript.md) (2026-07-03)
 - [Nobody’s ready for Claude Fable 5 #Anthropic #AI #Fable5 #Claude](../episodes/2026-06-30-nobodys-ready-for-claude-fable-5-anthropic-ai-fable5-claude/transcript.md) (2026-06-30)
 - [GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?](../episodes/2026-06-28-glm-52-is-free-and-beats-claude-on-most-work-so-why-cant-companies-switch/transcript.md) (2026-06-28)

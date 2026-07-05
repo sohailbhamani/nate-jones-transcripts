@@ -1,10 +1,42 @@
 {
-  "total_videos": 736,
+  "total_videos": 737,
   "date_range": {
-    "newest": "2026-07-04",
+    "newest": "2026-07-05",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI",
+      "video_id": "_qiFCABxvpo",
+      "youtube_url": "https://www.youtube.com/watch?v=_qiFCABxvpo",
+      "publish_date": "2026-07-05",
+      "duration": "0:31",
+      "duration_seconds": 31,
+      "view_count": 2238,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Everyone who got burned asking AI for big things in 2023 trained themselves to ask small, and almost nobody has updated that habit since, which means most people are quietly underusing the most capable model available right now.\n\nThe way through is not better prompting. It is picking one gnarly job nobody on your team owns, assembling the data it needs, writing down what done looks like, and handing the whole thing over. That takes a few hours of prep and can save you weeks, and it is a completely different way of working than anything you have done with a chatbot.\n\nFable 5 is back, and it is only generally available for a few more days before it moves to paid credits, so this is the window to actually try this.\n\nFull breakdown: https://natesnewsletter.substack.com/p/claude-fable-5-how-to-use?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#ClaudeFable5 #Fable5 #Claude #AI\nBigger means it can pick up and carry the job and I can trust it to do that and I just have to have a look at it when it's done"
+      ],
+      "transcript_chars": 538,
+      "folder": "2026-07-05-fable-5-doesnt-want-your-prompt-it-wants-the-whole-job-claudefable5-fable5-claud"
+    },
     {
       "title": "Free Fable 5 tokens this weekend? Here's how to max them",
       "video_id": "RtxUdvSTQGc",
