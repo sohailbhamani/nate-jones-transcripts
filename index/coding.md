@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (452 episodes):
+Episodes discussing **Coding** (453 episodes):
 
+- [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Free Fable 5 tokens this weekend? Here's how to max them](../episodes/2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them/transcript.md) (2026-07-04)
 - [Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech](../episodes/2026-07-03-fable-5-is-a-magician-fable5-ai-careers-claude-productivity-tech/transcript.md) (2026-07-03)
 - [The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork](../episodes/2026-07-02-the-fastest-way-to-make-an-ai-agent-dangerous-aiagents-ai-agents-automation-futu/transcript.md) (2026-07-02)

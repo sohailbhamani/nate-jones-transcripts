@@ -1,8 +1,9 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (589 episodes):
+Episodes discussing **Frameworks** (590 episodes):
 
 - [Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI](../episodes/2026-07-05-fable-5-doesnt-want-your-prompt-it-wants-the-whole-job-claudefable5-fable5-claud/transcript.md) (2026-07-05)
+- [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Free Fable 5 tokens this weekend? Here's how to max them](../episodes/2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them/transcript.md) (2026-07-04)
 - [Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork](../episodes/2026-07-03-will-fable-5-kill-jobs-fable5-fableisback-anthropic-futureofwork/transcript.md) (2026-07-03)
 - [The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork](../episodes/2026-07-02-the-fastest-way-to-make-an-ai-agent-dangerous-aiagents-ai-agents-automation-futu/transcript.md) (2026-07-02)

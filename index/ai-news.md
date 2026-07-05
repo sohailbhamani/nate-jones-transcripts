@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (384 episodes):
+Episodes discussing **Ai News** (385 episodes):
 
+- [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork](../episodes/2026-07-02-the-fastest-way-to-make-an-ai-agent-dangerous-aiagents-ai-agents-automation-futu/transcript.md) (2026-07-02)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?](../episodes/2026-06-28-glm-52-is-free-and-beats-claude-on-most-work-so-why-cant-companies-switch/transcript.md) (2026-06-28)

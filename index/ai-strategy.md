@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (498 episodes):
+Episodes discussing **Ai Strategy** (499 episodes):
 
+- [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Free Fable 5 tokens this weekend? Here's how to max them](../episodes/2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them/transcript.md) (2026-07-04)
 - [Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork](../episodes/2026-07-03-will-fable-5-kill-jobs-fable5-fableisback-anthropic-futureofwork/transcript.md) (2026-07-03)
 - [Midjourney breaks into ... healthcare? #AI #Medtech #MidjourneyMedical #Medicalbreakthrough](../episodes/2026-07-01-midjourney-breaks-into-healthcare-ai-medtech-midjourneymedical-medicalbreakthrou/transcript.md) (2026-07-01)

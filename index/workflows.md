@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (309 episodes):
+Episodes discussing **Workflows** (310 episodes):
 
+- [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech](../episodes/2026-07-03-fable-5-is-a-magician-fable5-ai-careers-claude-productivity-tech/transcript.md) (2026-07-03)
 - [The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork](../episodes/2026-07-02-the-fastest-way-to-make-an-ai-agent-dangerous-aiagents-ai-agents-automation-futu/transcript.md) (2026-07-02)
 - [AI didn't make you faster. It just hid the real bottleneck. #Productivity #FutureOfWork](../episodes/2026-06-28-ai-didnt-make-you-faster-it-just-hid-the-real-bottleneck-productivity-futureofwo/transcript.md) (2026-06-28)

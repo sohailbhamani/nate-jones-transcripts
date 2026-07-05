@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (124 episodes):
+Episodes discussing **Startups** (125 episodes):
 
+- [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [The trap hidden inside Salesforce #salesforce #crm #startup](../episodes/2026-05-29-the-trap-hidden-inside-salesforce-salesforce-crm-startup/transcript.md) (2026-05-29)
 - [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)

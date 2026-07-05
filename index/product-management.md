@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (446 episodes):
+Episodes discussing **Product Management** (447 episodes):
 
+- [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Free Fable 5 tokens this weekend? Here's how to max them](../episodes/2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them/transcript.md) (2026-07-04)
 - [Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech](../episodes/2026-07-03-fable-5-is-a-magician-fable5-ai-careers-claude-productivity-tech/transcript.md) (2026-07-03)
 - [Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket](../episodes/2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar/transcript.md) (2026-06-29)
