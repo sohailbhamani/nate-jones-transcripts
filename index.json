@@ -1,10 +1,42 @@
 {
-  "total_videos": 738,
+  "total_videos": 739,
   "date_range": {
-    "newest": "2026-07-05",
+    "newest": "2026-07-06",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools",
+      "video_id": "zs-2gPbQNQ4",
+      "youtube_url": "https://www.youtube.com/watch?v=zs-2gPbQNQ4",
+      "publish_date": "2026-07-06",
+      "duration": "0:19",
+      "duration_seconds": 19,
+      "view_count": 4418,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "I know. There are always rumors, and every release comes with the same breathless script \u2014 terrifying, speechless, best ever \u2014 so tuning it out became the smart move. I tune it out too. But this time Claude Fable 5 actually clears the bar.\n\nHere is where it shows up, minus the adjectives: Fable 5 is a much bigger pre-trained model, and the jump is in how much work you can hand it at once, not in a benchmark chart. Most of your day still feels the same until you change the size of what you ask for \u2014 and that part is on you, not the model.\n\nIt is back, and only generally available for a few more days before it moves to paid credits, so this is the week to see if the rumors hold up for your own work.\n\nFull breakdown: https://natesnewsletter.substack.com/p/claude-fable-5-how-to-use?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#ClaudeFable5 #Fable5 #Claude #AI #aitools\nIf you're tired of hearing that an AI model changes everything, stay with me for a second because you're the person this video is for"
+      ],
+      "transcript_chars": 339,
+      "folder": "2026-07-06-this-time-the-rumors-are-true-claudefable5-fable5-claude-ai-aitools"
+    },
     {
       "title": "Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI",
       "video_id": "_qiFCABxvpo",

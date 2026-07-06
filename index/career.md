@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (329 episodes):
+Episodes discussing **Career** (330 episodes):
 
+- [This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools](../episodes/2026-07-06-this-time-the-rumors-are-true-claudefable5-fable5-claude-ai-aitools/transcript.md) (2026-07-06)
 - [Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI](../episodes/2026-07-05-fable-5-doesnt-want-your-prompt-it-wants-the-whole-job-claudefable5-fable5-claud/transcript.md) (2026-07-05)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Every AI Agent Demo Stops at Email. I Pointed Mine at the Bills That Cost You Money.](../episodes/2026-07-03-every-ai-agent-demo-stops-at-email-i-pointed-mine-at-the-bills-that-cost-you-mon/transcript.md) (2026-07-03)
