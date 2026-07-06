@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (148 episodes):
+Episodes discussing **News Roundup** (149 episodes):
 
+- [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [The fastest way to make an AI agent dangerous #AIagents #AI #agents #automation #futureofwork](../episodes/2026-07-02-the-fastest-way-to-make-an-ai-agent-dangerous-aiagents-ai-agents-automation-futu/transcript.md) (2026-07-02)
 - [Why Anthropic Hired the Smartest Person in AI #AI #Research #News](../episodes/2026-06-23-why-anthropic-hired-the-smartest-person-in-ai-ai-research-news/transcript.md) (2026-06-23)
 - [Anthropic Just Proved They're Ahead of OpenAI #AIRace #Tech #News - Full Video Tomorrow!](../episodes/2026-06-22-anthropic-just-proved-theyre-ahead-of-openai-airace-tech-news-full-video-tomorro/transcript.md) (2026-06-22)

@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (339 episodes):
+Episodes discussing **Claude** (340 episodes):
 
+- [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools](../episodes/2026-07-06-this-time-the-rumors-are-true-claudefable5-fable5-claude-ai-aitools/transcript.md) (2026-07-06)
 - [Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI](../episodes/2026-07-05-fable-5-doesnt-want-your-prompt-it-wants-the-whole-job-claudefable5-fable5-claud/transcript.md) (2026-07-05)
 - [Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech](../episodes/2026-07-03-fable-5-is-a-magician-fable5-ai-careers-claude-productivity-tech/transcript.md) (2026-07-03)
