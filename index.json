@@ -1,10 +1,40 @@
 {
-  "total_videos": 740,
+  "total_videos": 741,
   "date_range": {
-    "newest": "2026-07-06",
+    "newest": "2026-07-07",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Now ... real people get accused of being AI #AI #deepfakes #syntheticmedia #creator",
+      "video_id": "nFzVuipvxXg",
+      "youtube_url": "https://www.youtube.com/watch?v=nFzVuipvxXg",
+      "publish_date": "2026-07-07",
+      "duration": "0:31",
+      "duration_seconds": 31,
+      "view_count": 1518,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "We used to worry about AI pretending to be human. Now it's flipped. You stumble on a word, or you're in the same shirt as last video because you batch filmed, and someone in the comments goes \"yeah, this is AI.\"\n\nBut that's not a bot. That's just a person. We're inconsistent. We get tired, we blink weird, we have bad hair days, we mess up a sentence and keep going. Honestly, that mess might be the last real proof there's a human on the other end.\n\nRelated read on why the mess is the tell: https://natesnewsletter.substack.com/p/if-the-ai-is-a-vibe-the-human-is?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "real people get accused of being AI #AI #deepfakes #syntheticmedia #creator\nHuman weirdness is going to start looking like machine weirdness"
+      ],
+      "transcript_chars": 531,
+      "folder": "2026-07-07-now-real-people-get-accused-of-being-ai-ai-deepfakes-syntheticmedia-creator"
+    },
     {
       "title": "OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.",
       "video_id": "oOpgmS88pLw",

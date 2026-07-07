@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (118 episodes):
+Episodes discussing **Deep Dive** (119 episodes):
 
+- [Now ... real people get accused of being AI #AI #deepfakes #syntheticmedia #creator](../episodes/2026-07-07-now-real-people-get-accused-of-being-ai-ai-deepfakes-syntheticmedia-creator/transcript.md) (2026-07-07)
 - [Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech](../episodes/2026-07-03-fable-5-is-a-magician-fable5-ai-careers-claude-productivity-tech/transcript.md) (2026-07-03)
 - [Midjourney breaks into ... healthcare? #AI #Medtech #MidjourneyMedical #Medicalbreakthrough](../episodes/2026-07-01-midjourney-breaks-into-healthcare-ai-medtech-midjourneymedical-medicalbreakthrou/transcript.md) (2026-07-01)
 - [Is the junior developer pipeline collapsing? #AI #SoftwareDevelopment #Coding #JobMarket](../episodes/2026-06-29-is-the-junior-developer-pipeline-collapsing-ai-softwaredevelopment-coding-jobmar/transcript.md) (2026-06-29)

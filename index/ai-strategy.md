@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (499 episodes):
+Episodes discussing **Ai Strategy** (500 episodes):
 
+- [Now ... real people get accused of being AI #AI #deepfakes #syntheticmedia #creator](../episodes/2026-07-07-now-real-people-get-accused-of-being-ai-ai-deepfakes-syntheticmedia-creator/transcript.md) (2026-07-07)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Free Fable 5 tokens this weekend? Here's how to max them](../episodes/2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them/transcript.md) (2026-07-04)
 - [Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork](../episodes/2026-07-03-will-fable-5-kill-jobs-fable5-fableisback-anthropic-futureofwork/transcript.md) (2026-07-03)
