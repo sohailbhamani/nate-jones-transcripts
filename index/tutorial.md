@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (234 episodes):
+Episodes discussing **Tutorial** (235 episodes):
 
+- [Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.](../episodes/2026-07-08-claude-fable-5-bossed-20-cheap-ai-agents-the-whole-site-cost-8/transcript.md) (2026-07-08)
 - [THIS is the 2026 AI skill #AI #aiagents #agents #automation #AItools](../episodes/2026-07-08-this-is-the-2026-ai-skill-ai-aiagents-agents-automation-aitools/transcript.md) (2026-07-08)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Free Fable 5 tokens this weekend? Here's how to max them](../episodes/2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them/transcript.md) (2026-07-04)

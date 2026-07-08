@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (311 episodes):
+Episodes discussing **Leadership** (312 episodes):
 
+- [Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.](../episodes/2026-07-08-claude-fable-5-bossed-20-cheap-ai-agents-the-whole-site-cost-8/transcript.md) (2026-07-08)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [Free Fable 5 tokens this weekend? Here's how to max them](../episodes/2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them/transcript.md) (2026-07-04)
 - [Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork](../episodes/2026-07-03-will-fable-5-kill-jobs-fable5-fableisback-anthropic-futureofwork/transcript.md) (2026-07-03)
