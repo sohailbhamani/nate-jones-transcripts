@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (234 episodes):
+Episodes discussing **Prompting** (235 episodes):
 
+- [THIS is the 2026 AI skill #AI #aiagents #agents #automation #AItools](../episodes/2026-07-08-this-is-the-2026-ai-skill-ai-aiagents-agents-automation-aitools/transcript.md) (2026-07-08)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI](../episodes/2026-07-05-fable-5-doesnt-want-your-prompt-it-wants-the-whole-job-claudefable5-fable5-claud/transcript.md) (2026-07-05)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
