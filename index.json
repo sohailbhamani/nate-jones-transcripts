@@ -1,10 +1,41 @@
 {
-  "total_videos": 743,
+  "total_videos": 744,
   "date_range": {
-    "newest": "2026-07-08",
+    "newest": "2026-07-09",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech",
+      "video_id": "s1QIY2AhD5k",
+      "youtube_url": "https://www.youtube.com/watch?v=s1QIY2AhD5k",
+      "publish_date": "2026-07-09",
+      "duration": "0:26",
+      "duration_seconds": 26,
+      "view_count": 3576,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "When code costs almost nothing to produce, writing it stops being the scarce skill. The person who writes it isn't the center of gravity anymore, and neither is the person reviewing the pull request, because an agent is about to do that too.The role that actually matters sits in the middle. \n\nSomeone has to take a vague business need and turn it into a spec precise enough to direct a machine, and then have the judgment to look at what comes back and know whether it actually solves the problem for a real customer. Precision on one side, judgment on the other. Title doesn't matter. \n\nI broke down the four skills that survive when agents can code for months at a time over on Substack. Read it here: https://natesnewsletter.substack.com/p/the-650-billion-infrastructure-bet?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech\nThe person who can take a vague business need and translate it into a spec is the new center of gravity in the organ"
+      ],
+      "transcript_chars": 481,
+      "folder": "2026-07-09-when-everyone-can-code-this-is-whats-scarce-ai-careers-aijobs-coding-tech"
+    },
     {
       "title": "Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.",
       "video_id": "suY66oTDn0s",
