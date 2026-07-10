@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (536 episodes):
+Episodes discussing **Make** (537 episodes):
 
+- [1.6M agents registered for OpenClaw and did NOTHING.](../episodes/2026-07-10-16m-agents-registered-for-openclaw-and-did-nothing/transcript.md) (2026-07-10)
 - [Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.](../episodes/2026-07-08-claude-fable-5-bossed-20-cheap-ai-agents-the-whole-site-cost-8/transcript.md) (2026-07-08)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)

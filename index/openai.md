@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (305 episodes):
+Episodes discussing **Openai** (306 episodes):
 
+- [1.6M agents registered for OpenClaw and did NOTHING.](../episodes/2026-07-10-16m-agents-registered-for-openclaw-and-did-nothing/transcript.md) (2026-07-10)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
