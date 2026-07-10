@@ -1,10 +1,42 @@
 {
-  "total_videos": 744,
+  "total_videos": 745,
   "date_range": {
-    "newest": "2026-07-09",
+    "newest": "2026-07-10",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech",
+      "video_id": "SvMFPKLqYSU",
+      "youtube_url": "https://www.youtube.com/watch?v=SvMFPKLqYSU",
+      "publish_date": "2026-07-10",
+      "duration": "0:50",
+      "duration_seconds": 50,
+      "view_count": 1154,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "It is an uncomfortable question, and it is the fastest way to see your own risk clearly. If the honest answer is no, then a lot of what you do is coordination, and coordination is the first thing that gets cut when an organization gets leaner, because agents and better internal tooling absorb it first.\n\nThe move is not to panic. It is to migrate toward work that creates direct value. Look for ways to ring the cash register. Build things customers actually touch. Get closer to revenue and to the data that steers the business.\n\nAnd all of it now runs on an engineering mindset, which knowledge work has dodged for decades. Precise, testable, falsifiable, and clear enough about your tools to know when they are wrong. That is the bar in every function now, not just engineering.\n\nI wrote up the four skills that hold up when agents can code for months at a time here: https://natesnewsletter.substack.com/p/the-650-billion-infrastructure-bet?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech\nmy company were half or a quarter of its current size, would my role exist"
+      ],
+      "transcript_chars": 874,
+      "folder": "2026-07-10-the-one-question-that-tells-you-if-your-role-is-safe-ai-careers-aijobs-jobs-tech"
+    },
     {
       "title": "When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech",
       "video_id": "s1QIY2AhD5k",

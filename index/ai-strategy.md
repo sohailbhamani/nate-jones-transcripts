@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (501 episodes):
+Episodes discussing **Ai Strategy** (502 episodes):
 
+- [The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech](../episodes/2026-07-10-the-one-question-that-tells-you-if-your-role-is-safe-ai-careers-aijobs-jobs-tech/transcript.md) (2026-07-10)
 - [When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech](../episodes/2026-07-09-when-everyone-can-code-this-is-whats-scarce-ai-careers-aijobs-coding-tech/transcript.md) (2026-07-09)
 - [Now ... real people get accused of being AI #AI #deepfakes #syntheticmedia #creator](../episodes/2026-07-07-now-real-people-get-accused-of-being-ai-ai-deepfakes-syntheticmedia-creator/transcript.md) (2026-07-07)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
