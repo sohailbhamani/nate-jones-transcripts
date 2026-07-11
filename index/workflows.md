@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (311 episodes):
+Episodes discussing **Workflows** (312 episodes):
 
+- [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)
 - [THIS is the 2026 AI skill #AI #aiagents #agents #automation #AItools](../episodes/2026-07-08-this-is-the-2026-ai-skill-ai-aiagents-agents-automation-aitools/transcript.md) (2026-07-08)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech](../episodes/2026-07-03-fable-5-is-a-magician-fable5-ai-careers-claude-productivity-tech/transcript.md) (2026-07-03)

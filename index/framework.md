@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (198 episodes):
+Episodes discussing **Framework** (199 episodes):
 
+- [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)
 - [This time ... the rumors are true. #ClaudeFable5 #Fable5 #Claude #AI #aitools](../episodes/2026-07-06-this-time-the-rumors-are-true-claudefable5-fable5-claude-ai-aitools/transcript.md) (2026-07-06)
 - [Fable 5 doesn't want your prompt. It wants the whole job. #ClaudeFable5 #Fable5 #Claude #AI](../episodes/2026-07-05-fable-5-doesnt-want-your-prompt-it-wants-the-whole-job-claudefable5-fable5-claud/transcript.md) (2026-07-05)
 - [Will Fable 5 kill jobs? #fable5 #fableisback #anthropic #futureofwork](../episodes/2026-07-03-will-fable-5-kill-jobs-fable5-fableisback-anthropic-futureofwork/transcript.md) (2026-07-03)

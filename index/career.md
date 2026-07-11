@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (334 episodes):
+Episodes discussing **Career** (335 episodes):
 
+- [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)
 - [1.6M agents registered for OpenClaw and did NOTHING.](../episodes/2026-07-10-16m-agents-registered-for-openclaw-and-did-nothing/transcript.md) (2026-07-10)
 - [The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech](../episodes/2026-07-10-the-one-question-that-tells-you-if-your-role-is-safe-ai-careers-aijobs-jobs-tech/transcript.md) (2026-07-10)
 - [When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech](../episodes/2026-07-09-when-everyone-can-code-this-is-whats-scarce-ai-careers-aijobs-coding-tech/transcript.md) (2026-07-09)

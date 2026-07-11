@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (594 episodes):
+Episodes discussing **Frameworks** (595 episodes):
 
+- [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)
 - [Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.](../episodes/2026-07-08-claude-fable-5-bossed-20-cheap-ai-agents-the-whole-site-cost-8/transcript.md) (2026-07-08)
 - [THIS is the 2026 AI skill #AI #aiagents #agents #automation #AItools](../episodes/2026-07-08-this-is-the-2026-ai-skill-ai-aiagents-agents-automation-aitools/transcript.md) (2026-07-08)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
