@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (120 episodes):
+Episodes discussing **Deep Dive** (121 episodes):
 
+- [With AI, going slow is the dangerous move #AI #productivity #mindset #technology](../episodes/2026-07-12-with-ai-going-slow-is-the-dangerous-move-ai-productivity-mindset-technology/transcript.md) (2026-07-12)
 - [When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech](../episodes/2026-07-09-when-everyone-can-code-this-is-whats-scarce-ai-careers-aijobs-coding-tech/transcript.md) (2026-07-09)
 - [Now ... real people get accused of being AI #AI #deepfakes #syntheticmedia #creator](../episodes/2026-07-07-now-real-people-get-accused-of-being-ai-ai-deepfakes-syntheticmedia-creator/transcript.md) (2026-07-07)
 - [Fable 5 is a magician 🪄 #Fable5 #AI #Careers #Claude #Productivity #tech](../episodes/2026-07-03-fable-5-is-a-magician-fable5-ai-careers-claude-productivity-tech/transcript.md) (2026-07-03)

@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (312 episodes):
+Episodes discussing **Workflows** (313 episodes):
 
+- [With AI, going slow is the dangerous move #AI #productivity #mindset #technology](../episodes/2026-07-12-with-ai-going-slow-is-the-dangerous-move-ai-productivity-mindset-technology/transcript.md) (2026-07-12)
 - [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)
 - [THIS is the 2026 AI skill #AI #aiagents #agents #automation #AItools](../episodes/2026-07-08-this-is-the-2026-ai-skill-ai-aiagents-agents-automation-aitools/transcript.md) (2026-07-08)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)

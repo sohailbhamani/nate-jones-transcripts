@@ -1,22 +1,22 @@
 # Nate B Jones Podcast Index
 
-Index of 747 episodes across 121 topics.
+Index of 748 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (595 episodes)
 - [Make](make.md) (538 episodes)
 - [Ai Tools](ai-tools.md) (532 episodes)
-- [Ai Strategy](ai-strategy.md) (502 episodes)
+- [Ai Strategy](ai-strategy.md) (503 episodes)
 - [Coding](coding.md) (457 episodes)
-- [Product Management](product-management.md) (452 episodes)
+- [Product Management](product-management.md) (453 episodes)
 - [Ai News](ai-news.md) (387 episodes)
 - [Anthropic](anthropic.md) (356 episodes)
 - [Claude](claude.md) (342 episodes)
 - [Ai Agents](ai-agents.md) (338 episodes)
 - [Career](career.md) (335 episodes)
+- [Workflows](workflows.md) (313 episodes)
 - [Leadership](leadership.md) (312 episodes)
-- [Workflows](workflows.md) (312 episodes)
 - [Openai](openai.md) (306 episodes)
 - [Tutorials](tutorials.md) (299 episodes)
 - [Google](google.md) (290 episodes)
@@ -28,7 +28,7 @@ Index of 747 episodes across 121 topics.
 - [News Roundup](news-roundup.md) (149 episodes)
 - [Meta](meta.md) (137 episodes)
 - [Startups](startups.md) (125 episodes)
-- [Deep Dive](deep-dive.md) (120 episodes)
+- [Deep Dive](deep-dive.md) (121 episodes)
 - [X](x.md) (118 episodes)
 - [Cursor](cursor.md) (109 episodes)
 - [Amazon](amazon.md) (108 episodes)
@@ -118,8 +118,8 @@ Index of 747 episodes across 121 topics.
 - [Lm Studio](lm-studio.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
+- [Fiverr](fiverr.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
