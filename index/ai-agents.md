@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (338 episodes):
+Episodes discussing **Ai Agents** (339 episodes):
 
+- [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)
 - [1.6M agents registered for OpenClaw and did NOTHING.](../episodes/2026-07-10-16m-agents-registered-for-openclaw-and-did-nothing/transcript.md) (2026-07-10)
 - [When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech](../episodes/2026-07-09-when-everyone-can-code-this-is-whats-scarce-ai-careers-aijobs-coding-tech/transcript.md) (2026-07-09)

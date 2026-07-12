@@ -1,8 +1,9 @@
 # Product Management
 
-Episodes discussing **Product Management** (453 episodes):
+Episodes discussing **Product Management** (454 episodes):
 
 - [With AI, going slow is the dangerous move #AI #productivity #mindset #technology](../episodes/2026-07-12-with-ai-going-slow-is-the-dangerous-move-ai-productivity-mindset-technology/transcript.md) (2026-07-12)
+- [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)
 - [1.6M agents registered for OpenClaw and did NOTHING.](../episodes/2026-07-10-16m-agents-registered-for-openclaw-and-did-nothing/transcript.md) (2026-07-10)
 - [The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech](../episodes/2026-07-10-the-one-question-that-tells-you-if-your-role-is-safe-ai-careers-aijobs-jobs-tech/transcript.md) (2026-07-10)

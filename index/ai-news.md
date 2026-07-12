@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (387 episodes):
+Episodes discussing **Ai News** (388 episodes):
 
+- [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.](../episodes/2026-07-08-claude-fable-5-bossed-20-cheap-ai-agents-the-whole-site-cost-8/transcript.md) (2026-07-08)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)

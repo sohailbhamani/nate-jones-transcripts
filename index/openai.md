@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (306 episodes):
+Episodes discussing **Openai** (307 episodes):
 
+- [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [1.6M agents registered for OpenClaw and did NOTHING.](../episodes/2026-07-10-16m-agents-registered-for-openclaw-and-did-nothing/transcript.md) (2026-07-10)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)

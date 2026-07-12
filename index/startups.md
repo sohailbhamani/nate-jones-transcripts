@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (125 episodes):
+Episodes discussing **Startups** (126 episodes):
 
+- [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)
 - [Your AI Skills Are Trapped | Here's How to Own Them](../episodes/2026-06-19-your-ai-skills-are-trapped-heres-how-to-own-them/transcript.md) (2026-06-19)
 - [The trap hidden inside Salesforce #salesforce #crm #startup](../episodes/2026-05-29-the-trap-hidden-inside-salesforce-salesforce-crm-startup/transcript.md) (2026-05-29)
