@@ -1,8 +1,9 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (534 episodes):
+Episodes discussing **Ai Tools** (535 episodes):
 
 - [Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise](../episodes/2026-07-13-claude-is-quietly-taking-over-your-companys-data-ai-claude-anthropic-data-enterp/transcript.md) (2026-07-13)
+- [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [1.6M agents registered for OpenClaw and did NOTHING.](../episodes/2026-07-10-16m-agents-registered-for-openclaw-and-did-nothing/transcript.md) (2026-07-10)
 - [The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech](../episodes/2026-07-10-the-one-question-that-tells-you-if-your-role-is-safe-ai-careers-aijobs-jobs-tech/transcript.md) (2026-07-10)

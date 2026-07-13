@@ -1,5 +1,5 @@
 {
-  "total_videos": 750,
+  "total_videos": 751,
   "date_range": {
     "newest": "2026-07-13",
     "oldest": "2024-05-21"
@@ -39,6 +39,76 @@
       ],
       "transcript_chars": 469,
       "folder": "2026-07-13-claude-is-quietly-taking-over-your-companys-data-ai-claude-anthropic-data-enterp"
+    },
+    {
+      "title": "Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.",
+      "video_id": "jOWXBzP6nNg",
+      "youtube_url": "https://www.youtube.com/watch?v=jOWXBzP6nNg",
+      "publish_date": "2026-07-13",
+      "duration": "13:27",
+      "duration_seconds": 807,
+      "view_count": 8948,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Get Your Model Fit (Free). Tell it how you work, it hands you a model mix plus some \"think bigger\" prompts to give your work a boost: https://modelfit.natebjones.com/\n\nGPT-5.6 Sol is the dumber model on my benchmarks, and it is still the AI model I open every morning. Here is how to pick the model that fits how you actually work.\n\nFull post w/ Model Benchmarks:\nhttps://natesnewsletter.substack.com/p/pick-ai-model-how-you-work?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the model race now that GPT-5.6 Sol, Fable 5, Grok 4.5, and GLM 5.2 are all on the table?\n\nThe common story is that you pick whatever tops the latest benchmark \u2014 but the real question is which model gets you to your own best work.\n\nIn this video, I share the inside scoop on choosing a model by work pattern instead of leaderboard position:\n\n - Why Sol set a new high on Agent's Last Exam and still lacks big model smell\n - How OpenAI's RL bet and Anthropic's pre-train bet produced different model families\n - What to look at before you look at the model itself\n - Why I still run Fable as the architect inside Ringer\n\nModels are becoming families you get to know rather than scores you rank, and the sooner you understand your own work, the less the leaderboard matters.\n\nChapters:\n00:00 Which model works for you, not which model works for me\n00:35 Sol scores 93 on Dingo, my knowledge work benchmark\n02:26 Your best work may come from a different approach entirely\n11:20 A tool to make choosing your own model mix easier over time\n\nListen to this video as a podcast.\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "GPT-5.6 Sol",
+        "Fable 5",
+        "Grok 4.5",
+        "AI benchmarks",
+        "Codex",
+        "how to choose an AI model",
+        "AI model comparison",
+        "AI for knowledge work"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Box",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Whisper",
+          "Make"
+        ],
+        "models": [
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "I'm going to tell you how to pick the model that works for you and why and why your huristic why the thing you use to pick that model is not anybody's benchmark score including mine"
+      ],
+      "summary": [
+        "Today I want to tell you about which model works for you"
+      ],
+      "transcript_chars": 13232,
+      "folder": "2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both"
     },
     {
       "title": "With AI, going slow is the dangerous move #AI #productivity #mindset #technology",

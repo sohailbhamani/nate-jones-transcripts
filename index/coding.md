@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (458 episodes):
+Episodes discussing **Coding** (459 episodes):
 
+- [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech](../episodes/2026-07-10-the-one-question-that-tells-you-if-your-role-is-safe-ai-careers-aijobs-jobs-tech/transcript.md) (2026-07-10)
 - [When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech](../episodes/2026-07-09-when-everyone-can-code-this-is-whats-scarce-ai-careers-aijobs-coding-tech/transcript.md) (2026-07-09)
