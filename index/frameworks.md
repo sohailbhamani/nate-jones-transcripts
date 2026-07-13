@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (596 episodes):
+Episodes discussing **Frameworks** (597 episodes):
 
+- [Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise](../episodes/2026-07-13-claude-is-quietly-taking-over-your-companys-data-ai-claude-anthropic-data-enterp/transcript.md) (2026-07-13)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)
 - [Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.](../episodes/2026-07-08-claude-fable-5-bossed-20-cheap-ai-agents-the-whole-site-cost-8/transcript.md) (2026-07-08)

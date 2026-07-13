@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (504 episodes):
+Episodes discussing **Ai Strategy** (505 episodes):
 
+- [Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise](../episodes/2026-07-13-claude-is-quietly-taking-over-your-companys-data-ai-claude-anthropic-data-enterp/transcript.md) (2026-07-13)
 - [With AI, going slow is the dangerous move #AI #productivity #mindset #technology](../episodes/2026-07-12-with-ai-going-slow-is-the-dangerous-move-ai-productivity-mindset-technology/transcript.md) (2026-07-12)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech](../episodes/2026-07-10-the-one-question-that-tells-you-if-your-role-is-safe-ai-careers-aijobs-jobs-tech/transcript.md) (2026-07-10)

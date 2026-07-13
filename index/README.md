@@ -1,18 +1,18 @@
 # Nate B Jones Podcast Index
 
-Index of 749 episodes across 121 topics.
+Index of 750 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (596 episodes)
+- [Frameworks](frameworks.md) (597 episodes)
 - [Make](make.md) (539 episodes)
-- [Ai Tools](ai-tools.md) (533 episodes)
-- [Ai Strategy](ai-strategy.md) (504 episodes)
+- [Ai Tools](ai-tools.md) (534 episodes)
+- [Ai Strategy](ai-strategy.md) (505 episodes)
 - [Coding](coding.md) (458 episodes)
 - [Product Management](product-management.md) (454 episodes)
 - [Ai News](ai-news.md) (388 episodes)
-- [Anthropic](anthropic.md) (357 episodes)
-- [Claude](claude.md) (342 episodes)
+- [Anthropic](anthropic.md) (358 episodes)
+- [Claude](claude.md) (343 episodes)
 - [Ai Agents](ai-agents.md) (339 episodes)
 - [Career](career.md) (336 episodes)
 - [Workflows](workflows.md) (314 episodes)
@@ -22,7 +22,7 @@ Index of 749 episodes across 121 topics.
 - [Google](google.md) (290 episodes)
 - [Tutorial](tutorial.md) (237 episodes)
 - [Prompting](prompting.md) (237 episodes)
-- [Framework](framework.md) (200 episodes)
+- [Framework](framework.md) (201 episodes)
 - [Gemini](gemini.md) (162 episodes)
 - [Microsoft](microsoft.md) (156 episodes)
 - [News Roundup](news-roundup.md) (149 episodes)
@@ -34,7 +34,7 @@ Index of 749 episodes across 121 topics.
 - [Cursor](cursor.md) (109 episodes)
 - [Claude Code](claude-code.md) (108 episodes)
 - [Projects](projects.md) (104 episodes)
-- [Slack](slack.md) (102 episodes)
+- [Slack](slack.md) (103 episodes)
 - [Box](box.md) (99 episodes)
 - [Chatgpt](chatgpt.md) (92 episodes)
 - [Deep Dives](deep-dives.md) (92 episodes)

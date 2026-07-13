@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (102 episodes):
+Episodes discussing **Slack** (103 episodes):
 
+- [Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise](../episodes/2026-07-13-claude-is-quietly-taking-over-your-companys-data-ai-claude-anthropic-data-enterp/transcript.md) (2026-07-13)
 - [Every AI Agent Demo Stops at Email. I Pointed Mine at the Bills That Cost You Money.](../episodes/2026-07-03-every-ai-agent-demo-stops-at-email-i-pointed-mine-at-the-bills-that-cost-you-mon/transcript.md) (2026-07-03)
 - [I Built My Own AI Memory by Talking to Claude. It Did 80% Itself.](../episodes/2026-07-01-i-built-my-own-ai-memory-by-talking-to-claude-it-did-80-itself/transcript.md) (2026-07-01)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
