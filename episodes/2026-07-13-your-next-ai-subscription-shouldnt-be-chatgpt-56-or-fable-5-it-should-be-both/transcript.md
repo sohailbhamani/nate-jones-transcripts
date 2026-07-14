@@ -68,6 +68,7 @@ yt_tags:
   - "AI for knowledge work"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
