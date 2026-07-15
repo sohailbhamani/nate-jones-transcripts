@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (540 episodes):
+Episodes discussing **Make** (541 episodes):
 
+- [GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic](../episodes/2026-07-15-glm-52-is-great-but-ai-glm-claude-openai-anthropic/transcript.md) (2026-07-15)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)

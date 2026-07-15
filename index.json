@@ -1,10 +1,46 @@
 {
-  "total_videos": 752,
+  "total_videos": 753,
   "date_range": {
-    "newest": "2026-07-14",
+    "newest": "2026-07-15",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic",
+      "video_id": "ZsN4hEtOxzs",
+      "youtube_url": "https://www.youtube.com/watch?v=ZsN4hEtOxzs",
+      "publish_date": "2026-07-15",
+      "duration": "0:29",
+      "duration_seconds": 29,
+      "view_count": 1710,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "GLM 5.2 is genuinely, seriously good. It is free, and on most real work it matches or beats Claude. On paper, this is the model everyone should be running by Monday.\n\nBut. There are engineers spending eighty thousand dollars a week in tokens who could cut that bill overnight, and they are not switching. Anthropic and OpenAI keep growing revenue like GLM does not exist. That is the puzzle.\n\nI broke down why GLM 5.2 keeps losing this fight despite the price here: https://nateszerotoai.substack.com/p/glm-5-2-explained?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "but #AI #GLM #Claude #OpenAI #Anthropic\nThere are stories going around where the numbers are absolutely eye-popping"
+      ],
+      "transcript_chars": 573,
+      "folder": "2026-07-15-glm-52-is-great-but-ai-glm-claude-openai-anthropic"
+    },
     {
       "title": "You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory",
       "video_id": "VOLWSC_XeZY",
