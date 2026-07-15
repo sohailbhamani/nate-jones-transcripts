@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (337 episodes):
+Episodes discussing **Career** (338 episodes):
 
+- [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)

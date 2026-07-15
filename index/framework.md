@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (202 episodes):
+Episodes discussing **Framework** (203 episodes):
 
+- [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
 - [GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic](../episodes/2026-07-15-glm-52-is-great-but-ai-glm-claude-openai-anthropic/transcript.md) (2026-07-15)
 - [Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise](../episodes/2026-07-13-claude-is-quietly-taking-over-your-companys-data-ai-claude-anthropic-data-enterp/transcript.md) (2026-07-13)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)

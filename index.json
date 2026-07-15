@@ -1,10 +1,72 @@
 {
-  "total_videos": 753,
+  "total_videos": 754,
   "date_range": {
     "newest": "2026-07-15",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.",
+      "video_id": "PDJfciNhyHU",
+      "youtube_url": "https://www.youtube.com/watch?v=PDJfciNhyHU",
+      "publish_date": "2026-07-15",
+      "duration": "15:51",
+      "duration_seconds": 951,
+      "view_count": 7469,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Full post w/ Clean Your Harness Guide: https://natesnewsletter.substack.com/p/ai-harness-audit?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nYour new AI model is running on instructions you wrote for the old one. This is the AI harness audit: how to find the hidden setup shaping your AI and clean it safely.\n\nI mapped every skill, memory, system prompt, permission, and check around my own AI and found 66 skill routes and 172 instruction files quietly slowing the models down. In this deep dive I test a compact setup against a much heavier one, show why the richer prompt still lost on delivery, and give you six rules for a harness that survives the next model upgrade. Then I hand you the cleaner so you can run the same audit on your own Claude or Codex setup.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside your AI setup?\nThe common story is that a new model just makes everything better, but the real question is what that model inherits from the setup you already built.\n\nIn this video, I share the inside scoop on auditing the harness around your AI:\n\n- Why your upgraded model can feel worse than a fresh chat\n- How a compact brief beat a richer method on delivery\n- What six rules keep a harness clean as models change\n- Where Fable 5 and ChatGPT 5.6 fail for different reasons\n\nA cleaner harness won't make a weak model strong, but it will tell you whether the problem is the model or the machinery you wrapped around it.\n\nChapters:\n00:00 I Overbuilt My AI Harness\n01:58 The Hidden Cost of Harness Bloat\n04:54 Rule 2: Blame the Right Layer\n06:06 Rule 3: One Rule, One Home, One Owner\n07:27 Rule 4: Load It When You Need It\n08:25 Rule 5: Hard Rules Need Hard Checks\n08:58 Rule 6: Build for the Model and Product\n10:58 The Codex Audit Results\n12:17 Fable 5 vs. ChatGPT 5.6 Failure Modes\n12:54 A Clean Harness Without the Barnacles\n14:17 Own the System Around Your AI\n14:39 The Cleaner Skill\n\nListen to this video as a podcast.\n- Spotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\n- Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI harness",
+        "Claude skills",
+        "Codex skills",
+        "Fable 5",
+        "prompt engineering",
+        "AI workflows for business",
+        "how to use AI at work",
+        "context engineering"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "I've been adding new rules and new instructions and new skills and I've been enthusiastic and you know what that means"
+      ],
+      "transcript_chars": 17370,
+      "folder": "2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it"
+    },
     {
       "title": "GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic",
       "video_id": "ZsN4hEtOxzs",

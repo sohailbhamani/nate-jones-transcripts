@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (93 episodes):
+Episodes discussing **Chatgpt** (94 episodes):
 
+- [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)

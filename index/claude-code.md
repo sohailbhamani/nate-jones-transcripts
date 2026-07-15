@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (108 episodes):
+Episodes discussing **Claude Code** (109 episodes):
 
+- [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)
