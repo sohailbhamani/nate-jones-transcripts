@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (345 episodes):
+Episodes discussing **Claude** (346 episodes):
 
+- [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
 - [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
 - [GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic](../episodes/2026-07-15-glm-52-is-great-but-ai-glm-claude-openai-anthropic/transcript.md) (2026-07-15)
 - [Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise](../episodes/2026-07-13-claude-is-quietly-taking-over-your-companys-data-ai-claude-anthropic-data-enterp/transcript.md) (2026-07-13)

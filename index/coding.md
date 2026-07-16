@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (461 episodes):
+Episodes discussing **Coding** (462 episodes):
 
+- [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
 - [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
 - [GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic](../episodes/2026-07-15-glm-52-is-great-but-ai-glm-claude-openai-anthropic/transcript.md) (2026-07-15)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)

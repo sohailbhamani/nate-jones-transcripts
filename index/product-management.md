@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (454 episodes):
+Episodes discussing **Product Management** (455 episodes):
 
+- [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
 - [With AI, going slow is the dangerous move #AI #productivity #mindset #technology](../episodes/2026-07-12-with-ai-going-slow-is-the-dangerous-move-ai-productivity-mindset-technology/transcript.md) (2026-07-12)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [The AI skill nobody talks about (and it isn't prompting) #AI #prompting #productivity #tech](../episodes/2026-07-11-the-ai-skill-nobody-talks-about-and-it-isnt-prompting-ai-prompting-productivity/transcript.md) (2026-07-11)

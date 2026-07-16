@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (122 episodes):
+Episodes discussing **Deep Dive** (123 episodes):
 
+- [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
 - [You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory](../episodes/2026-07-14-you-can-build-your-ais-memory-just-by-talking-heres-the-catch-ai-aiagents-aimemo/transcript.md) (2026-07-14)
 - [With AI, going slow is the dangerous move #AI #productivity #mindset #technology](../episodes/2026-07-12-with-ai-going-slow-is-the-dangerous-move-ai-productivity-mindset-technology/transcript.md) (2026-07-12)
 - [When everyone can code, this is what's scarce #AI #careers #AIjobs #coding #tech](../episodes/2026-07-09-when-everyone-can-code-this-is-whats-scarce-ai-careers-aijobs-coding-tech/transcript.md) (2026-07-09)
