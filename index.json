@@ -1,10 +1,40 @@
 {
-  "total_videos": 755,
+  "total_videos": 756,
   "date_range": {
-    "newest": "2026-07-16",
+    "newest": "2026-07-17",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "A 3-person team vs 50-person agency #AI #FutureOfWork #agency",
+      "video_id": "7KCPeQFWJv0",
+      "youtube_url": "https://www.youtube.com/watch?v=7KCPeQFWJv0",
+      "publish_date": "2026-07-17",
+      "duration": "0:23",
+      "duration_seconds": 23,
+      "view_count": 1387,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "For twenty years, size was the signal. A bigger agency meant more capacity, more safety, more reasons to trust them with the work. That signal is breaking. When a handful of people with good tools can turn around the same volume of work, the client starts doing math they never used to do, and the big team's headcount stops looking like strength and starts looking like the reason the invoice is so high.\n\nThe small shop will not win on reputation, and it does not need to. It wins on being faster, cheaper, and close enough on quality that the gap no longer justifies the premium. If you run a lean team, this is the biggest edge you have had in a generation. If you run the big one, the ground is moving under you.\n\nI broke down exactly which firms AI protects and which ones it quietly guts here: https://natesnewsletter.substack.com/p/executive-briefing-the-bifurcated?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# A 3-person team vs 50-person agency #AI #FutureOfWork #agency\nA team of three people with good AI tools can now produce as much work as that 50-person agency produces"
+      ],
+      "transcript_chars": 414,
+      "folder": "2026-07-17-a-3-person-team-vs-50-person-agency-ai-futureofwork-agency"
+    },
     {
       "title": "The real problem with AI #aiagents #Claude #OpenClaw #productivity",
       "video_id": "xeid_wnpfJs",

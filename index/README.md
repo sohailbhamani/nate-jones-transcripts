@@ -1,13 +1,13 @@
 # Nate B Jones Podcast Index
 
-Index of 755 episodes across 121 topics.
+Index of 756 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (601 episodes)
 - [Make](make.md) (543 episodes)
-- [Ai Tools](ai-tools.md) (538 episodes)
-- [Ai Strategy](ai-strategy.md) (506 episodes)
+- [Ai Tools](ai-tools.md) (539 episodes)
+- [Ai Strategy](ai-strategy.md) (507 episodes)
 - [Coding](coding.md) (462 episodes)
 - [Product Management](product-management.md) (455 episodes)
 - [Ai News](ai-news.md) (388 episodes)
@@ -28,7 +28,7 @@ Index of 755 episodes across 121 topics.
 - [News Roundup](news-roundup.md) (149 episodes)
 - [Meta](meta.md) (138 episodes)
 - [Startups](startups.md) (127 episodes)
-- [Deep Dive](deep-dive.md) (123 episodes)
+- [Deep Dive](deep-dive.md) (124 episodes)
 - [X](x.md) (119 episodes)
 - [Claude Code](claude-code.md) (110 episodes)
 - [Amazon](amazon.md) (109 episodes)
@@ -118,8 +118,8 @@ Index of 755 episodes across 121 topics.
 - [Lm Studio](lm-studio.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
