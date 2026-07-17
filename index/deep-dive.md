@@ -1,8 +1,9 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (124 episodes):
+Episodes discussing **Deep Dive** (125 episodes):
 
 - [A 3-person team vs 50-person agency #AI #FutureOfWork #agency](../episodes/2026-07-17-a-3-person-team-vs-50-person-agency-ai-futureofwork-agency/transcript.md) (2026-07-17)
+- [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
 - [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
 - [You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory](../episodes/2026-07-14-you-can-build-your-ais-memory-just-by-talking-heres-the-catch-ai-aiagents-aimemo/transcript.md) (2026-07-14)
 - [With AI, going slow is the dangerous move #AI #productivity #mindset #technology](../episodes/2026-07-12-with-ai-going-slow-is-the-dangerous-move-ai-productivity-mindset-technology/transcript.md) (2026-07-12)
