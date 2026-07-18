@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (238 episodes):
+Episodes discussing **Tutorial** (239 episodes):
 
+- [Applying for jobs stopped working. Here's the fix ⬇️ #ATS #careeradvice #jobmarket #AI](../episodes/2026-07-18-applying-for-jobs-stopped-working-heres-the-fix-ats-careeradvice-jobmarket-ai/transcript.md) (2026-07-18)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
 - [1.6M agents registered for OpenClaw and did NOTHING.](../episodes/2026-07-10-16m-agents-registered-for-openclaw-and-did-nothing/transcript.md) (2026-07-10)
 - [The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech](../episodes/2026-07-10-the-one-question-that-tells-you-if-your-role-is-safe-ai-careers-aijobs-jobs-tech/transcript.md) (2026-07-10)

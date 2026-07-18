@@ -1,10 +1,40 @@
 {
-  "total_videos": 757,
+  "total_videos": 758,
   "date_range": {
-    "newest": "2026-07-17",
+    "newest": "2026-07-18",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Applying for jobs stopped working. Here's the fix \u2b07\ufe0f #ATS #careeradvice #jobmarket #AI",
+      "video_id": "5Ho0NYVhL14",
+      "youtube_url": "https://www.youtube.com/watch?v=5Ho0NYVhL14",
+      "publish_date": "2026-07-18",
+      "duration": "0:34",
+      "duration_seconds": 34,
+      "view_count": 1420,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Here is the part the numbers do not tell you: you cannot win this by playing harder. More applications, better keywords, another resume rewrite. All of that just feeds the same broken machine faster, and it is why doing everything \"right\" still gets you nowhere.\n\nThe actual fix is to stop competing inside the pile at all. Instead of being one more document a filter throws out, you build something a hiring manager has to engage with directly, as a person, on your own terms. It is not networking harder and it is not a cleaner resume. It is a completely different move, and it works precisely because it steps outside the arms race instead of trying to win it.\n\nI built the exact site that does this in a weekend, no code required, and wrote up every step so you can copy it: https://natesnewsletter.substack.com/p/grab-the-fit-assessment-prompt-that?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here's the fix \u2b07\ufe0f #ATS #careeradvice #jobmarket #AI\nThe success rate on applications has dropped to something like half a percent"
+      ],
+      "transcript_chars": 516,
+      "folder": "2026-07-18-applying-for-jobs-stopped-working-heres-the-fix-ats-careeradvice-jobmarket-ai"
+    },
     {
       "title": "A 3-person team vs 50-person agency #AI #FutureOfWork #agency",
       "video_id": "7KCPeQFWJv0",

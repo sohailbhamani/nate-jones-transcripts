@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (339 episodes):
+Episodes discussing **Career** (340 episodes):
 
+- [Applying for jobs stopped working. Here's the fix ⬇️ #ATS #careeradvice #jobmarket #AI](../episodes/2026-07-18-applying-for-jobs-stopped-working-heres-the-fix-ats-careeradvice-jobmarket-ai/transcript.md) (2026-07-18)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
 - [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
