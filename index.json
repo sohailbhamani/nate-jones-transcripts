@@ -1,10 +1,72 @@
 {
-  "total_videos": 760,
+  "total_videos": 761,
   "date_range": {
     "newest": "2026-07-20",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "China's K3 Model Reveals the Problem With Open Weights",
+      "video_id": "2ZpZhsjoUK4",
+      "youtube_url": "https://www.youtube.com/watch?v=2ZpZhsjoUK4",
+      "publish_date": "2026-07-20",
+      "duration": "18:46",
+      "duration_seconds": 1126,
+      "view_count": 16308,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My benchmarks: https://unlock-ai.natebjones.com/benchmarks/kimi-k3?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nFull post:\nhttps://natesnewsletter.substack.com/p/kimi-k3-open-weights-cost?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nKimi K3 is Moonshot's new open-weight AI model, and it complicates the story that Chinese open models are cheap, efficient, and closing the gap on the frontier. Here's what it actually costs to run, and what it means for OpenAI, Anthropic, and the future of open source.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening with China's new open-weight AI model?\n\nThe common story is that Chinese open models are cheap, efficient, and catching the frontier, but the real question is what K3 costs to run and what still needs a closed model.\n\nIn this video, I share the inside scoop on Kimi K3 and the real economics of open-weight AI:\n\n- Why downloadable weights still need 64 accelerator chips to run\n- How K3's heavy token use erodes its apparent price advantage\n- What the \"efficient Chinese model\" narrative gets wrong about serving\n- Why open weights raise real cyber and governance risks\n\nK3 is a genuinely strong open model and a useful pricing check on the closed labs, but treating open weights as cheap, safe, or frontier-equal will cost you.\n\nChapters:\n00:00 Kimi K3 is Moonshot's new open-weight model\n00:53 Why K3 is a big, heavy model to run\n06:20 The cheap-and-easy open source narrative is outdated\n14:05 Governments may restrict model distribution\n17:04 Why K3 is an inflection point in open source\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Kimi K3",
+        "Moonshot AI",
+        "open weights",
+        "open source AI",
+        "AI inference cost",
+        "Chinese AI models",
+        "running AI models locally",
+        "ai news"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "LM Studio",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# China's K3 Model Reveals the Problem With Open Weights\nOpen source changed again"
+      ],
+      "transcript_chars": 18727,
+      "folder": "2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights"
+    },
     {
       "title": "The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech",
       "video_id": "F7bFbQSTPq8",

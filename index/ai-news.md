@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (389 episodes):
+Episodes discussing **Ai News** (390 episodes):
 
+- [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)
 - [The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech](../episodes/2026-07-20-the-real-thing-gating-ai-now-isnt-the-technology-openai-ai-airegulation-ainews-t/transcript.md) (2026-07-20)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.](../episodes/2026-07-08-claude-fable-5-bossed-20-cheap-ai-agents-the-whole-site-cost-8/transcript.md) (2026-07-08)
