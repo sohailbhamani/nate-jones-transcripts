@@ -1,7 +1,8 @@
 # Meta
 
-Episodes discussing **Meta** (138 episodes):
+Episodes discussing **Meta** (139 episodes):
 
+- [The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech](../episodes/2026-07-20-the-real-thing-gating-ai-now-isnt-the-technology-openai-ai-airegulation-ainews-t/transcript.md) (2026-07-20)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
 - [OpenAI Just Offered The Government $42 Billion. This Is The Real Reason.](../episodes/2026-07-06-openai-just-offered-the-government-42-billion-this-is-the-real-reason/transcript.md) (2026-07-06)
 - [Free Fable 5 tokens this weekend? Here's how to max them](../episodes/2026-07-04-free-fable-5-tokens-this-weekend-heres-how-to-max-them/transcript.md) (2026-07-04)

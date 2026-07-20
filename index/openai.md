@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (311 episodes):
+Episodes discussing **Openai** (312 episodes):
 
+- [The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech](../episodes/2026-07-20-the-real-thing-gating-ai-now-isnt-the-technology-openai-ai-airegulation-ainews-t/transcript.md) (2026-07-20)
 - [I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.](../episodes/2026-07-19-i-cut-the-internet-and-let-ai-read-the-file-i-could-never-upload-it-caught-the-l/transcript.md) (2026-07-19)
 - [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
 - [GLM 5.2 is great ... but #AI #GLM #Claude #OpenAI #Anthropic](../episodes/2026-07-15-glm-52-is-great-but-ai-glm-claude-openai-anthropic/transcript.md) (2026-07-15)
