@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (343 episodes):
+Episodes discussing **Ai Agents** (344 episodes):
 
+- [Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools](../episodes/2026-07-21-stop-building-ai-agents-that-just-click-buttons-ai-aiagents-automation-productiv/transcript.md) (2026-07-21)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
 - [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
 - [You can build your AI's memory just by talking. Here's the catch. #AI #aiagents #AImemory](../episodes/2026-07-14-you-can-build-your-ais-memory-just-by-talking-heres-the-catch-ai-aiagents-aimemo/transcript.md) (2026-07-14)

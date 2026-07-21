@@ -1,10 +1,40 @@
 {
-  "total_videos": 761,
+  "total_videos": 762,
   "date_range": {
-    "newest": "2026-07-20",
+    "newest": "2026-07-21",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools",
+      "video_id": "D64_UhhSj6A",
+      "youtube_url": "https://www.youtube.com/watch?v=D64_UhhSj6A",
+      "publish_date": "2026-07-21",
+      "duration": "0:28",
+      "duration_seconds": 28,
+      "view_count": 1111,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Most agent demos show you the wrong magic trick. Watch, it clicked send. Watch, it booked the meeting. That is the easy part. You could always click send. What actually eats your week is everything that happens before the click: digging through a messy folder, making sense of a denial letter, pulling the right numbers out of a pile of unstructured junk that was never meant to be read quickly.\n\nThat is the part worth automating. An agent earns its place when it takes the bureaucratic mess and turns it into something clean enough that the final action is trivial. It does the reading, the sorting, the assembling. You stay in the seat for the one decision that actually carries risk, and you click the button yourself.\n\nI built exactly this for insurance denials and tax piles, an agent that assembles the whole cited packet and then stops so you can review and send: https://natesnewsletter.substack.com/p/reusable-ai-agent?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools\nWhen you're doing high-trust work, I would encourage you and I would ask you to focus on the part th"
+      ],
+      "transcript_chars": 489,
+      "folder": "2026-07-21-stop-building-ai-agents-that-just-click-buttons-ai-aiagents-automation-productiv"
+    },
     {
       "title": "China's K3 Model Reveals the Problem With Open Weights",
       "video_id": "2ZpZhsjoUK4",
