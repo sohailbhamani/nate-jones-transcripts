@@ -1,7 +1,8 @@
 # Twitter
 
-Episodes discussing **Twitter** (30 episodes):
+Episodes discussing **Twitter** (31 episodes):
 
+- [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [I Stopped Prompting AI One Task At A Time. This Works Better.](../episodes/2026-06-24-i-stopped-prompting-ai-one-task-at-a-time-this-works-better/transcript.md) (2026-06-24)
 - [The Work Primitive: What Every AI Product Leader Gets Wrong](../episodes/2026-05-06-the-work-primitive-what-every-ai-product-leader-gets-wrong/transcript.md) (2026-05-06)
 - [OpenAI Leaked GPT-5.4. It's a Distraction. (The AI Lock-In No One Is Talking About)](../episodes/2026-03-05-openai-leaked-gpt-54-its-a-distraction-the-ai-lock-in-no-one-is-talking-about/transcript.md) (2026-03-05)

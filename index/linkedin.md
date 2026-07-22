@@ -1,7 +1,8 @@
 # Linkedin
 
-Episodes discussing **Linkedin** (37 episodes):
+Episodes discussing **Linkedin** (38 episodes):
 
+- [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](../episodes/2026-06-20-you-cant-tell-if-im-real-anymore-and-thats-now-youtubes-problem-too/transcript.md) (2026-06-20)
 - [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)
 - [Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.](../episodes/2026-05-13-pinecone-just-demoted-vector-search-heres-the-knowledge-layer/transcript.md) (2026-05-13)

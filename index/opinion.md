@@ -1,7 +1,8 @@
 # Opinion
 
-Episodes discussing **Opinion** (36 episodes):
+Episodes discussing **Opinion** (37 episodes):
 
+- [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
 - [Cognitive Architecture Beats AI Detection Every Time #ai #education #parenting](../episodes/2026-05-21-cognitive-architecture-beats-ai-detection-every-time-ai-education-parenting/transcript.md) (2026-05-21)
 - [The Prove-It Economy is Here | And Most Marketers Aren't Ready](../episodes/2026-05-18-the-prove-it-economy-is-here-and-most-marketers-arent-ready/transcript.md) (2026-05-18)

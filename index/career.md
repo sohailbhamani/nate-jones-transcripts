@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (341 episodes):
+Episodes discussing **Career** (342 episodes):
 
+- [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.](../episodes/2026-07-19-i-cut-the-internet-and-let-ai-read-the-file-i-could-never-upload-it-caught-the-l/transcript.md) (2026-07-19)
 - [Applying for jobs stopped working. Here's the fix ⬇️ #ATS #careeradvice #jobmarket #AI](../episodes/2026-07-18-applying-for-jobs-stopped-working-heres-the-fix-ats-careeradvice-jobmarket-ai/transcript.md) (2026-07-18)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
