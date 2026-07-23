@@ -78,6 +78,7 @@ yt_tags:
   - "ai"
 
 
+
 # AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "Career"
