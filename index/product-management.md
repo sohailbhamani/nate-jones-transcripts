@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (459 episodes):
+Episodes discussing **Product Management** (460 episodes):
 
+- [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
 - [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
 - [What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools](../episodes/2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor/transcript.md) (2026-07-23)
 - [Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools](../episodes/2026-07-21-stop-building-ai-agents-that-just-click-buttons-ai-aiagents-automation-productiv/transcript.md) (2026-07-21)

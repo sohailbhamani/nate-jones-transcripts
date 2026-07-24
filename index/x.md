@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (121 episodes):
+Episodes discussing **X** (122 episodes):
 
+- [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
 - [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)

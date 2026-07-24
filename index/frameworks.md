@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (608 episodes):
+Episodes discussing **Frameworks** (609 episodes):
 
+- [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
 - [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
 - [Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️](../episodes/2026-07-22-yes-ai-agents-hallucinate-heres-how-mine-caught-itself-get-the-multi-agent-syste/transcript.md) (2026-07-22)
 - [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)

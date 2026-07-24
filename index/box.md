@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (100 episodes):
+Episodes discussing **Box** (101 episodes):
 
+- [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)

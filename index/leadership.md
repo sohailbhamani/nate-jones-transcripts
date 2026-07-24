@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (316 episodes):
+Episodes discussing **Leadership** (317 episodes):
 
+- [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
 - [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)

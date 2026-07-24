@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (544 episodes):
+Episodes discussing **Ai Tools** (545 episodes):
 
+- [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
 - [What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools](../episodes/2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor/transcript.md) (2026-07-23)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools](../episodes/2026-07-21-stop-building-ai-agents-that-just-click-buttons-ai-aiagents-automation-productiv/transcript.md) (2026-07-21)
