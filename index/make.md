@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (548 episodes):
+Episodes discussing **Make** (549 episodes):
 
+- [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️](../episodes/2026-07-22-yes-ai-agents-hallucinate-heres-how-mine-caught-itself-get-the-multi-agent-syste/transcript.md) (2026-07-22)
 - [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)

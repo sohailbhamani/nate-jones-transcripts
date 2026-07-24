@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (607 episodes):
+Episodes discussing **Frameworks** (608 episodes):
 
+- [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
 - [Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️](../episodes/2026-07-22-yes-ai-agents-hallucinate-heres-how-mine-caught-itself-get-the-multi-agent-syste/transcript.md) (2026-07-22)
 - [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)
 - [The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech](../episodes/2026-07-20-the-real-thing-gating-ai-now-isnt-the-technology-openai-ai-airegulation-ainews-t/transcript.md) (2026-07-20)

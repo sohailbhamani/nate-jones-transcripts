@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (125 episodes):
+Episodes discussing **Deep Dive** (126 episodes):
 
+- [What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools](../episodes/2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor/transcript.md) (2026-07-23)
 - [A 3-person team vs 50-person agency #AI #FutureOfWork #agency](../episodes/2026-07-17-a-3-person-team-vs-50-person-agency-ai-futureofwork-agency/transcript.md) (2026-07-17)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
 - [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)

@@ -1,7 +1,9 @@
 # Workflows
 
-Episodes discussing **Workflows** (319 episodes):
+Episodes discussing **Workflows** (321 episodes):
 
+- [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
+- [What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools](../episodes/2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor/transcript.md) (2026-07-23)
 - [Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools](../episodes/2026-07-21-stop-building-ai-agents-that-just-click-buttons-ai-aiagents-automation-productiv/transcript.md) (2026-07-21)
 - [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)

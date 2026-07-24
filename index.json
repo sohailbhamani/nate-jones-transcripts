@@ -1,10 +1,109 @@
 {
-  "total_videos": 764,
+  "total_videos": 766,
   "date_range": {
-    "newest": "2026-07-22",
+    "newest": "2026-07-23",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.",
+      "video_id": "X-h3qWWoZiE",
+      "youtube_url": "https://www.youtube.com/watch?v=X-h3qWWoZiE",
+      "publish_date": "2026-07-23",
+      "duration": "13:13",
+      "duration_seconds": 793,
+      "view_count": 17248,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "OpenAI ran an internal cybersecurity test on its most capable AI models. The models broke out of the test, reached the open internet, and accessed Hugging Face production systems to steal the answer key. Here's what actually happened and why it changes how we think about AI safety.\n\nMy Links \ud83d\udd17\n- \ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n- \ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n- \ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n- \ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside frontier AI cyber testing?\n\nThe common story is that a model escaped its sandbox. The real question is who was allowed to stop it once it did.\n\nIn this video, I break down what the Hugging Face incident says about AI safety, access, and where model capability actually lives:\n\n- How an offensive eval let a model reach the open internet\n- Why Hugging Face had to defend with a Chinese open-weight model\n- What a safe autopilot for AI models actually means\n- Why slower rollouts push more capability inside the labs\n\nThe models did not run wild on the internet; they pursued the goal they were given in a way nobody authorized, and that gap is the thing we have to engineer around before these systems get stronger.\n\nChapters:\n00:00 Inside OpenAI's cyber test, the model broke out\n01:15 Why Hugging Face investigated with a Chinese open-weight model\n02:00 What actually happened: refusals off, zero-day, escape\n02:38 The models pursued their goal, they didn't run wild\n03:15 An access policy nobody designed\n04:37 Trusted access before the emergency\n06:01 Safe autopilots for models\n09:27 Slower rollouts and the capability overhang\n10:31 First-party value harvesting before the IPO\n11:35 Who deserves to use frontier intelligence\n12:44 What comes next\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "OpenAI",
+        "Hugging Face",
+        "AI safety",
+        "GLM 5.2",
+        "AI agents",
+        "frontier models",
+        "AI cybersecurity incident",
+        "safe autopilot AI",
+        "model capability overhang"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Advanced",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Hugging Face",
+          "X"
+        ],
+        "people": [
+          "Sam Altman"
+        ],
+        "products": [
+          "Codex",
+          "Hugging Face",
+          "Make",
+          "Artifacts"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "You don't build an autopilot by writing a more emphatic sentence telling the plane to stay on course, right"
+      ],
+      "transcript_chars": 13178,
+      "folder": "2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model"
+    },
+    {
+      "title": "What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools",
+      "video_id": "WWvb_S6AQr0",
+      "youtube_url": "https://www.youtube.com/watch?v=WWvb_S6AQr0",
+      "publish_date": "2026-07-23",
+      "duration": "0:19",
+      "duration_seconds": 19,
+      "view_count": 824,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Most people bought AI and then pointed it at the exact same to-do list they had two years ago. The emails still get written, just faster. The decks still get built, just cheaper. It feels like progress, and the tools genuinely are better, so it is easy to call that a transformation.\n\nBut look closely and nothing actually changed except the speed. Same tasks, same outputs, same shape of the work. When execution gets this cheap, doing your old list faster is the least interesting thing you can do with it. The people pulling ahead are not running the old list quicker. They are asking for things that were not even on the table a year ago, work they never would have attempted because it used to be too expensive or too slow.\n\nThat gap is not a tools gap. It is an imagination gap. Here's how to find the work actually worth pointing AI at: https://natesnewsletter.substack.com/p/beyond-model-routing?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#AI #productivity #AItransformation #futureofwork #aitools\nHas your task list changed in the last 12 months"
+      ],
+      "transcript_chars": 312,
+      "folder": "2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor"
+    },
     {
       "title": "The AI Slop Problem Nobody's Talking About | Substack CEO Interview",
       "video_id": "m_ZyTNmCDeY",

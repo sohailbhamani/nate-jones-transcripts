@@ -1,7 +1,9 @@
 # Product Management
 
-Episodes discussing **Product Management** (457 episodes):
+Episodes discussing **Product Management** (459 episodes):
 
+- [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
+- [What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools](../episodes/2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor/transcript.md) (2026-07-23)
 - [Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools](../episodes/2026-07-21-stop-building-ai-agents-that-just-click-buttons-ai-aiagents-automation-productiv/transcript.md) (2026-07-21)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
 - [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
