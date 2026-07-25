@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (514 episodes):
+Episodes discussing **Ai Strategy** (515 episodes):
 
+- [Why does everything look the same now? #AI #creativity #marketing #futureofwork #AItools](../episodes/2026-07-25-why-does-everything-look-the-same-now-ai-creativity-marketing-futureofwork-aitoo/transcript.md) (2026-07-25)
 - [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
 - [What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools](../episodes/2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor/transcript.md) (2026-07-23)
 - [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)
