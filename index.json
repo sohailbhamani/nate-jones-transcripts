@@ -1,10 +1,80 @@
 {
-  "total_videos": 768,
+  "total_videos": 769,
   "date_range": {
-    "newest": "2026-07-25",
+    "newest": "2026-07-26",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.",
+      "video_id": "7pqRRxrdr0c",
+      "youtube_url": "https://www.youtube.com/watch?v=7pqRRxrdr0c",
+      "publish_date": "2026-07-26",
+      "duration": "21:16",
+      "duration_seconds": 1276,
+      "view_count": 2225,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "How to give an AI agent a real job: start with the customer support problem your team keeps fixing by hand. We closed 51 of 52 support issues, then rebuilt the process so our biggest category stopped happening at all.\n\nHow to find the first problem your agent should solve (guide):  https://natesnewsletter.substack.com/p/first-ai-agent-use-case?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside AI automation for customer support?\n\nThe common story is that AI helps you answer tickets faster \u2014 but the real question is whether the ticket had to exist at all.\n\nIn this video, I share the inside scoop on how we used AI to root-cause our support work instead of speeding it up:\n\n- How we took a comparable support week from 52 cases down to 19\n- Why you group cases by root cause, not by subject line\n- What still needs human approval when access or money is involved\n- Where this same repeated pain shows up in sales, finance, and IT\n\nAgents can carry the research and prepare the work, and the cases left over will be the harder ones that still need your judgment.\n\nChapters:\n00:00 Fifty-one of fifty-two support issues, fixed with AI\n01:21 The hidden work behind a single support ticket\n02:09 Rebuilding the access path so the question stops\n05:49 Writing down the process before automating anything\n07:34 Recording the pain: one ticket per problem\n08:51 Keeping human approval on access and money\n09:56 Twenty-six patterns and two upstream failures\n11:31 Gumroad: an agent that shipped a bug fix\n12:18 When the customer became the approver\n14:43 Pull 50 to 100 cases and strip the PII\n16:23 Picking a boring, reversible first problem\n19:02 Keep a scorecard and count again next week\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "tech news",
+        "Codex",
+        "Gumroad",
+        "AI agent",
+        "customer support automation",
+        "AI workflow automation",
+        "AI support ticket automation",
+        "ai automation business",
+        "automation",
+        "ai for business",
+        "ai agents",
+        "ai customer service",
+        "workflow automation",
+        "ai support agent",
+        "customer support"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Amazon",
+          "Slack",
+          "Stripe",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "MCP",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# You Can Hand One AI Agent Your Worst Recurring Task"
+      ],
+      "transcript_chars": 22234,
+      "folder": "2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine"
+    },
     {
       "title": "Why does everything look the same now? #AI #creativity #marketing #futureofwork #AItools",
       "video_id": "nYL2tunaHxA",

@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (241 episodes):
+Episodes discussing **Tutorial** (242 episodes):
 
+- [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)
 - [Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️](../episodes/2026-07-22-yes-ai-agents-hallucinate-heres-how-mine-caught-itself-get-the-multi-agent-syste/transcript.md) (2026-07-22)
 - [Stop building AI agents that just click buttons #AI #aiagents #automation #productivity #AItools](../episodes/2026-07-21-stop-building-ai-agents-that-just-click-buttons-ai-aiagents-automation-productiv/transcript.md) (2026-07-21)
 - [Applying for jobs stopped working. Here's the fix ⬇️ #ATS #careeradvice #jobmarket #AI](../episodes/2026-07-18-applying-for-jobs-stopped-working-heres-the-fix-ats-careeradvice-jobmarket-ai/transcript.md) (2026-07-18)

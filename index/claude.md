@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (348 episodes):
+Episodes discussing **Claude** (349 episodes):
 
+- [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
 - [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
