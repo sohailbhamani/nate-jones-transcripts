@@ -1,10 +1,43 @@
 {
-  "total_videos": 769,
+  "total_videos": 770,
   "date_range": {
-    "newest": "2026-07-26",
+    "newest": "2026-07-27",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech",
+      "video_id": "NRCFWQC6Mx4",
+      "youtube_url": "https://www.youtube.com/watch?v=NRCFWQC6Mx4",
+      "publish_date": "2026-07-27",
+      "duration": "1:01",
+      "duration_seconds": 61,
+      "view_count": 2200,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "For two years, one number ran the entire AI industry: who has the best model this month. Every launch, every earnings call, every leak got scored against it, and that scoreboard justified the biggest capital buildout in the history of technology. It was not irrational. The model race was real and it produced real jumps.\n\nBut the tell is what the leaders are doing now. When the companies at the front quietly stop competing on the thing everyone else is still measuring, the game has already moved. The best model stops being the prize, and the fight shifts to who owns the context, the distribution, and the permission to ship. If you are still keeping score the old way, you are going to watch the wrong companies win and never quite understand why.\n\nHere's the new race the leaders are actually running: https://natesnewsletter.substack.com/p/ai-race-context?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech\nIf you're still watching the old AI scoreboard, the one about who shipped the best model in the past month, you're goi"
+      ],
+      "transcript_chars": 1151,
+      "folder": "2026-07-27-everyones-watching-the-wrong-ai-scoreboard-ai-openai-ainews-tech-bigtech"
+    },
     {
       "title": "You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.",
       "video_id": "7pqRRxrdr0c",
