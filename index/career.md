@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (344 episodes):
+Episodes discussing **Career** (345 episodes):
 
+- [How to pick an AI model in 2026](../episodes/2026-07-28-how-to-pick-an-ai-model-in-2026/transcript.md) (2026-07-28)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)

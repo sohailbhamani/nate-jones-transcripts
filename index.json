@@ -1,10 +1,44 @@
 {
-  "total_videos": 771,
+  "total_videos": 772,
   "date_range": {
-    "newest": "2026-07-27",
+    "newest": "2026-07-28",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "How to pick an AI model in 2026",
+      "video_id": "FyYRDeXbfW0",
+      "youtube_url": "https://www.youtube.com/watch?v=FyYRDeXbfW0",
+      "publish_date": "2026-07-28",
+      "duration": "1:34",
+      "duration_seconds": 94,
+      "view_count": 762,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Most people pick an AI model backward. They read the leaderboard, see which name is on top this week, and reach for that one for everything. Then they pay frontier prices to write a meeting summary a much cheaper model would have nailed.\n\nThe better move is to start with the work, not the model. Ask what the task actually is before you ask which model. A daily driver has to be strong across everything because you grab it before the job is even clean. A cheap workhorse earns its spot the moment the work is familiar and repeatable, which, if you are honest, is most of what fills your day. Normal decks, landing pages, memos, CRM cleanups, routine code with a familiar shape. That is a huge category, and it is exactly where something like GLM 5.2 quietly does the job for a fraction of the cost.\n\nI put the whole model-picker into one prompt that routes the deck, the repo, and the call for you: https://natesnewsletter.substack.com/p/which-ai-model-to-use?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make",
+          "Artifacts"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to pick an AI model in 2026\nHere's the frame I want you to use"
+      ],
+      "transcript_chars": 1667,
+      "folder": "2026-07-28-how-to-pick-an-ai-model-in-2026"
+    },
     {
       "title": "Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech",
       "video_id": "NRCFWQC6Mx4",
