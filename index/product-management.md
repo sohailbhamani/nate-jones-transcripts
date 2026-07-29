@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (462 episodes):
+Episodes discussing **Product Management** (463 episodes):
 
+- [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech](../episodes/2026-07-27-everyones-watching-the-wrong-ai-scoreboard-ai-openai-ainews-tech-bigtech/transcript.md) (2026-07-27)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)
 - [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)

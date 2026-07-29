@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (549 episodes):
+Episodes discussing **Ai Tools** (550 episodes):
 
+- [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech](../episodes/2026-07-29-the-fable-5-ban-taught-companies-one-thing-ai-claude-fable5-aitools-tech/transcript.md) (2026-07-29)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)

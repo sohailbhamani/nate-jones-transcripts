@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (105 episodes):
+Episodes discussing **Slack** (106 episodes):
 
+- [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
 - [Claude is quietly taking over your company's data #AI #Claude #Anthropic #data #enterprise](../episodes/2026-07-13-claude-is-quietly-taking-over-your-companys-data-ai-claude-anthropic-data-enterp/transcript.md) (2026-07-13)

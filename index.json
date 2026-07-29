@@ -1,10 +1,73 @@
 {
-  "total_videos": 773,
+  "total_videos": 774,
   "date_range": {
     "newest": "2026-07-29",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Paste This Into Claude, Never Hit a Token Limit Again",
+      "video_id": "Y8vAQ1FgNbM",
+      "youtube_url": "https://www.youtube.com/watch?v=Y8vAQ1FgNbM",
+      "publish_date": "2026-07-29",
+      "duration": "20:17",
+      "duration_seconds": 1217,
+      "view_count": 15958,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Running out of AI tokens on ChatGPT, Claude, or OpenAI Codex? Here are the 15 rules I use to cut reused input and get more real work out of the same plan.\n\nFull post w/ Token Saver Skill + Guide:\nhttps://natesnewsletter.substack.com/p/reduce-ai-token-usage?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside your AI token limits?\n\nThe common story is that hitting a limit means you asked too much \u2014 but the real question is how much of every request you never typed.\n\nIn this video, I share the inside scoop on keeping your AI desk clean:\n\n- Why your tenth message costs far more than your first\n- How reused input quietly dominates every request you send\n- What the Token Saver skill automates inside Codex and Claude Code\n- Where a local check beats any skill running after the call\n\nBetter tools are coming, but deciding what a job actually needs to remember stays the work you own.\n\nChapters:\n00:00 you keep running out of claude, codex or chatgpt tokens\n04:40 rule one, edit your mistakes instead of arguing with them\n11:13 the token saver skill and what it automates for you\n15:35 prompt caching and when it actually matters\n16:23 ringer as an intermediary before the model provider\n18:51 keeping your desk clean and what comes next\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI tokens",
+        "token limits",
+        "OpenAI Codex",
+        "Claude Code",
+        "prompt caching",
+        "how to reduce AI token usage",
+        "running out of AI tokens",
+        "reused input",
+        "ai tokens",
+        "ai tokens explained"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Slack",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Paste This Into Claude, Never Hit a Token Limit Again\nYou keep running out of Claude or Codex or or Chatg GPT or Kimmy or whatever you want and you don't do anything unreasonable to run out of toke"
+      ],
+      "transcript_chars": 21582,
+      "folder": "2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again"
+    },
     {
       "title": "The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech",
       "video_id": "l_060SZwBeo",

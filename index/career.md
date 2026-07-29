@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (345 episodes):
+Episodes discussing **Career** (346 episodes):
 
+- [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [How to pick an AI model in 2026](../episodes/2026-07-28-how-to-pick-an-ai-model-in-2026/transcript.md) (2026-07-28)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)

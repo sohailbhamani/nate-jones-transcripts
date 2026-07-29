@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (111 episodes):
+Episodes discussing **Claude Code** (112 episodes):
 
+- [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
 - [The real problem with AI #aiagents #Claude #OpenClaw #productivity](../episodes/2026-07-16-the-real-problem-with-ai-aiagents-claude-openclaw-productivity/transcript.md) (2026-07-16)
 - [Every Prompt You Send Drags 18,384 Words Of Junk. Here's How I Cut It.](../episodes/2026-07-15-every-prompt-you-send-drags-18384-words-of-junk-heres-how-i-cut-it/transcript.md) (2026-07-15)
