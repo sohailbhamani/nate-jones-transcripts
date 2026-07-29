@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (243 episodes):
+Episodes discussing **Tutorial** (244 episodes):
 
+- [The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech](../episodes/2026-07-29-the-fable-5-ban-taught-companies-one-thing-ai-claude-fable5-aitools-tech/transcript.md) (2026-07-29)
 - [How to pick an AI model in 2026](../episodes/2026-07-28-how-to-pick-an-ai-model-in-2026/transcript.md) (2026-07-28)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)
 - [Yes, AI agents hallucinate. Here's how mine caught itself. Get the multi-agent system below ⬇️](../episodes/2026-07-22-yes-ai-agents-hallucinate-heres-how-mine-caught-itself-get-the-multi-agent-syste/transcript.md) (2026-07-22)

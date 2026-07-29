@@ -1,10 +1,42 @@
 {
-  "total_videos": 772,
+  "total_videos": 773,
   "date_range": {
-    "newest": "2026-07-28",
+    "newest": "2026-07-29",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech",
+      "video_id": "l_060SZwBeo",
+      "youtube_url": "https://www.youtube.com/watch?v=l_060SZwBeo",
+      "publish_date": "2026-07-29",
+      "duration": "0:19",
+      "duration_seconds": 19,
+      "view_count": 1899,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Quick context in case you missed it: for about eighteen days this summer, Claude Fable 5 got pulled offline. If your product or your workflow was wired directly into that one model, you woke up one morning and the thing your business ran on was simply gone. No warning, no swap, nothing to do but wait it out.\n\nHere is who did not panic. The people who never tied their work to a single model in the first place. They had built a harness, a routing layer that sits above any one provider, so when Fable disappeared they pointed the same work at a different model and kept moving like nothing happened. That is the whole lesson. The model is not the thing you own, the harness is. Models will keep getting pulled, priced up, rate-limited, or replaced, and the only durable position is to never depend on exactly one.\n\nHere's how to build that routing layer so no single model can take you down: https://natesnewsletter.substack.com/p/which-ai-model-to-use?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech\nHere's what isn't coming back"
+      ],
+      "transcript_chars": 377,
+      "folder": "2026-07-29-the-fable-5-ban-taught-companies-one-thing-ai-claude-fable5-aitools-tech"
+    },
     {
       "title": "How to pick an AI model in 2026",
       "video_id": "FyYRDeXbfW0",

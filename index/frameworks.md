@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (613 episodes):
+Episodes discussing **Frameworks** (614 episodes):
 
+- [The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech](../episodes/2026-07-29-the-fable-5-ban-taught-companies-one-thing-ai-claude-fable5-aitools-tech/transcript.md) (2026-07-29)
 - [How to pick an AI model in 2026](../episodes/2026-07-28-how-to-pick-an-ai-model-in-2026/transcript.md) (2026-07-28)
 - [Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech](../episodes/2026-07-27-everyones-watching-the-wrong-ai-scoreboard-ai-openai-ainews-tech-bigtech/transcript.md) (2026-07-27)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
