@@ -1,10 +1,40 @@
 {
-  "total_videos": 774,
+  "total_videos": 775,
   "date_range": {
-    "newest": "2026-07-29",
+    "newest": "2026-07-30",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "A hack to build cheaper agents #AI #aiagents #automation #productivity",
+      "video_id": "TN3rglofqmE",
+      "youtube_url": "https://www.youtube.com/watch?v=TN3rglofqmE",
+      "publish_date": "2026-07-30",
+      "duration": "0:54",
+      "duration_seconds": 54,
+      "view_count": 850,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Most people build one AI agent, usually the little email demo, and then stall. When a bigger, higher-stakes job shows up, like fighting an insurance denial, it feels like starting from zero. New tool, new setup, more trust required. So they never build the second thing.\n\nThe trick is realizing you already own most of the second build. The first agent taught you a set of reusable parts. Ingestion that turns messy documents into text the agent can actually use, with links back to the source. Normalization so dates become dates and names become names. A receipt of what it did, and a gate before anything ships. None of those pieces care whether the job is a calendar thread or an insurance appeal. They are the same primitives, and they carry straight over. That is the flywheel. Every agent you build right adds a part to your shelf, and the next build gets cheaper instead of harder.\n\nHere's the exact reusable rig, built on insurance and tax piles, that you can copy: https://natesnewsletter.substack.com/p/reusable-ai-agent?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# A hack to build cheaper agents #AI #aiagents #automation #productivity\nThis is a move almost everybody misses, and it's the reason most people never get past that initial email simple 101 agent dem"
+      ],
+      "transcript_chars": 920,
+      "folder": "2026-07-30-a-hack-to-build-cheaper-agents-ai-aiagents-automation-productivity"
+    },
     {
       "title": "Paste This Into Claude, Never Hit a Token Limit Again",
       "video_id": "Y8vAQ1FgNbM",

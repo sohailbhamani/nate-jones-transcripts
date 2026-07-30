@@ -71,6 +71,7 @@ yt_tags:
   - "ai tokens explained"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"

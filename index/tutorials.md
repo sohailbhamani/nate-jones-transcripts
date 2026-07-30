@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (305 episodes):
+Episodes discussing **Tutorials** (306 episodes):
 
+- [A hack to build cheaper agents #AI #aiagents #automation #productivity](../episodes/2026-07-30-a-hack-to-build-cheaper-agents-ai-aiagents-automation-productivity/transcript.md) (2026-07-30)
 - [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [How to pick an AI model in 2026](../episodes/2026-07-28-how-to-pick-an-ai-model-in-2026/transcript.md) (2026-07-28)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)

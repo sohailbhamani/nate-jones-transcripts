@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (323 episodes):
+Episodes discussing **Workflows** (324 episodes):
 
+- [A hack to build cheaper agents #AI #aiagents #automation #productivity](../episodes/2026-07-30-a-hack-to-build-cheaper-agents-ai-aiagents-automation-productivity/transcript.md) (2026-07-30)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)
 - [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)

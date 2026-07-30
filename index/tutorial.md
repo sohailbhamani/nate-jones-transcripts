@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (245 episodes):
+Episodes discussing **Tutorial** (246 episodes):
 
+- [A hack to build cheaper agents #AI #aiagents #automation #productivity](../episodes/2026-07-30-a-hack-to-build-cheaper-agents-ai-aiagents-automation-productivity/transcript.md) (2026-07-30)
 - [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech](../episodes/2026-07-29-the-fable-5-ban-taught-companies-one-thing-ai-claude-fable5-aitools-tech/transcript.md) (2026-07-29)
 - [How to pick an AI model in 2026](../episodes/2026-07-28-how-to-pick-an-ai-model-in-2026/transcript.md) (2026-07-28)
