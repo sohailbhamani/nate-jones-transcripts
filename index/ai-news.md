@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (395 episodes):
+Episodes discussing **Ai News** (396 episodes):
 
+- [The AI hype is real #AI #AInews #tech #IPO #business](../episodes/2026-07-31-the-ai-hype-is-real-ai-ainews-tech-ipo-business/transcript.md) (2026-07-31)
 - [Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech](../episodes/2026-07-27-everyones-watching-the-wrong-ai-scoreboard-ai-openai-ainews-tech-bigtech/transcript.md) (2026-07-27)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)

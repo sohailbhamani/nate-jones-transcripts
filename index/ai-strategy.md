@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (518 episodes):
+Episodes discussing **Ai Strategy** (519 episodes):
 
+- [The AI hype is real #AI #AInews #tech #IPO #business](../episodes/2026-07-31-the-ai-hype-is-real-ai-ainews-tech-ipo-business/transcript.md) (2026-07-31)
 - [Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech](../episodes/2026-07-27-everyones-watching-the-wrong-ai-scoreboard-ai-openai-ainews-tech-bigtech/transcript.md) (2026-07-27)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)

@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (153 episodes):
+Episodes discussing **News Roundup** (154 episodes):
 
+- [The AI hype is real #AI #AInews #tech #IPO #business](../episodes/2026-07-31-the-ai-hype-is-real-ai-ainews-tech-ipo-business/transcript.md) (2026-07-31)
 - [Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech](../episodes/2026-07-27-everyones-watching-the-wrong-ai-scoreboard-ai-openai-ainews-tech-bigtech/transcript.md) (2026-07-27)
 - [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
 - [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)
