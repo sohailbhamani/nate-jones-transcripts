@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (352 episodes):
+Episodes discussing **Claude** (353 episodes):
 
+- [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [The Fable 5 ban taught companies one thing #AI #Claude #Fable5 #AItools #tech](../episodes/2026-07-29-the-fable-5-ban-taught-companies-one-thing-ai-claude-fable5-aitools-tech/transcript.md) (2026-07-29)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)

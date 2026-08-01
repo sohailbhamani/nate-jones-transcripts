@@ -1,7 +1,8 @@
 # Case Study
 
-Episodes discussing **Case Study** (6 episodes):
+Episodes discussing **Case Study** (7 episodes):
 
+- [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [ChatGPT convinced him he solved a million-dollar math problem #chatgpt #ai #deepmind](../episodes/2026-02-28-chatgpt-convinced-him-he-solved-a-million-dollar-math-problem-chatgpt-ai-deepmin/transcript.md) (2026-02-28)
 - [Real World Testing: Opus 4.5 vs. Gemini 3 vs. ChatGPT 5.1](../episodes/2025-11-25-real-world-testing-opus-45-vs-gemini-3-vs-chatgpt-51/transcript.md) (2025-11-25)
 - [AI Just Hijacked 15% of Google Traffic—Win Yours Back](../episodes/2025-07-17-ai-just-hijacked-15-of-google-trafficwin-yours-back/transcript.md) (2025-07-17)

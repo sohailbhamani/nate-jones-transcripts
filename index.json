@@ -1,10 +1,86 @@
 {
-  "total_videos": 776,
+  "total_videos": 777,
   "date_range": {
-    "newest": "2026-07-31",
+    "newest": "2026-08-01",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I Stopped Installing Claude Skills. Here's What I Do Instead.",
+      "video_id": "up0Bsf3f0Xc",
+      "youtube_url": "https://www.youtube.com/watch?v=up0Bsf3f0Xc",
+      "publish_date": "2026-08-01",
+      "duration": "16:57",
+      "duration_seconds": 1017,
+      "view_count": 5178,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Your ChatGPT, Claude, and Codex already ship with agent skills, and most people have no idea what those skills are doing to their output. This is what a skill actually is, how to tell a working one from a broken one, and how to build your own.\n\nFull post + the Skill Building Skill:\nhttps://natesnewsletter.substack.com/p/agent-skill-one-job-test?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside agent skills?\n\nThe common story is that installing more skills makes your AI more capable. The real question is whether your agent can even see the ones you already have.\n\nIn this video, I share the inside scoop on how agent skills actually work:\n\n- Why a folder arriving on your machine proves nothing about your output\n- How loading order decides whether your agent ever opens the skill\n- What a vague description costs you in wasted context window\n- Where conflicts across 25 skills start dulling every result\n\nSkills are the cheapest way to make an agent more useful and the fastest way to make it worse, and what separates the two is whether you ever check what you installed.\n\nChapters:\n00:00 The skills your AI already ships with\n00:44 What a skill actually is\n01:09 Why skills are not apps\n01:35 The risk in grabbing skills off GitHub\n02:05 The core reframe, agents use and humans read\n03:55 Inside a skill, the directory and loading order\n05:01 How a badly written skill fails\n06:23 Start with trusted sources and a real goal\n07:40 Why voice gets your judgment out of your head\n09:07 Skill lineage, forking grill-me\n10:52 The skill builder and what it handles\n14:18 Auditing a library of 25 skills\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "agent skills",
+        "claude skills",
+        "claude code",
+        "skill md",
+        "ai agents",
+        "how to build an agent skill",
+        "what are claude skills",
+        "ai skill builder",
+        "ai",
+        "ai for beginners",
+        "ai tools",
+        "ai explained",
+        "chatgpt"
+      ],
+      "content_type": "Case Study",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "Apple",
+          "GitHub",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Whisper",
+          "Shortcuts",
+          "Make"
+        ],
+        "models": [
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Did you know that your AI agent your it doesn't even know if you know what an agent is"
+      ],
+      "transcript_chars": 17873,
+      "folder": "2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead"
+    },
     {
       "title": "The AI hype is real #AI #AInews #tech #IPO #business",
       "video_id": "9wBOqiGsQo8",
