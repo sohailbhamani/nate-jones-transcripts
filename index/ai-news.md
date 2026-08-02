@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (397 episodes):
+Episodes discussing **Ai News** (398 episodes):
 
+- [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [The AI hype is real #AI #AInews #tech #IPO #business](../episodes/2026-07-31-the-ai-hype-is-real-ai-ainews-tech-ipo-business/transcript.md) (2026-07-31)
 - [Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech](../episodes/2026-07-27-everyones-watching-the-wrong-ai-scoreboard-ai-openai-ainews-tech-bigtech/transcript.md) (2026-07-27)

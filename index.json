@@ -1,5 +1,5 @@
 {
-  "total_videos": 778,
+  "total_videos": 779,
   "date_range": {
     "newest": "2026-08-02",
     "oldest": "2024-05-21"
@@ -36,6 +36,71 @@
       ],
       "transcript_chars": 284,
       "folder": "2026-08-02-chatgpt-56-is-a-dumber-model-i-love-it"
+    },
+    {
+      "title": "If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.",
+      "video_id": "lewY_0sJaWg",
+      "youtube_url": "https://www.youtube.com/watch?v=lewY_0sJaWg",
+      "publish_date": "2026-08-02",
+      "duration": "14:28",
+      "duration_seconds": 868,
+      "view_count": 2606,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "The 5 levels of AI building, and how to tell which one you are on. A practical framework for AI builders deciding what to work on next.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/5-levels-ai-building?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the AI builder ecosystem right now?\n\nThe common story is that OpenAI and Anthropic are squeezing independent builders out of the market \u2014 but the real question is which level of your business a launch actually exposed.\n\nIn this video, I share the inside scoop on the five levels of AI building:\n\n- Why level one builders read every model launch as a verdict\n- How listening to ten customers turns an idea into a business\n- What level three looks like when AI powers go to market\n- Where a domain thesis beats a frontier lab on detail\n\nThe labs will keep absorbing point solutions, and the builders who last will be the ones who know their customer, their distribution, and their domain better than any training run can.\n\nChapters:\n00:00 the fear every lab launch creates\n00:17 what the five levels actually measure\n00:36 level one, in love with the idea\n01:44 level two, letting the customer change it\n03:33 level three, distribution and go to market\n04:18 four AI go-to-market plays that work\n05:42 level four, an unfair domain thesis\n06:48 voice as the next computing paradigm\n09:13 level five, building for what is coming\n11:57 why the labs are not black holes\n13:02 the move between each level\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI builders",
+        "AI startups",
+        "levels of AI building",
+        "go to market",
+        "domain thesis",
+        "how to build with AI",
+        "AI startup strategy",
+        "building AI products"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Slack",
+          "LinkedIn",
+          "Tailwind"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder"
+      ],
+      "transcript_chars": 14913,
+      "folder": "2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder"
     },
     {
       "title": "I Stopped Installing Claude Skills. Here's What I Do Instead.",
