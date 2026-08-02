@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (206 episodes):
+Episodes discussing **Framework** (207 episodes):
 
+- [ChatGPT 5.6 is a dumber model. I love it.](../episodes/2026-08-02-chatgpt-56-is-a-dumber-model-i-love-it/transcript.md) (2026-08-02)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)
 - [I Cut the Internet and Let AI Read the File I Could Never Upload. It Caught the Leak.](../episodes/2026-07-19-i-cut-the-internet-and-let-ai-read-the-file-i-could-never-upload-it-caught-the-l/transcript.md) (2026-07-19)

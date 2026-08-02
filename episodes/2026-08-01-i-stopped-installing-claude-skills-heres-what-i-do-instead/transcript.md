@@ -80,6 +80,7 @@ yt_tags:
   - "chatgpt"
 
 
+
 # AI-enriched metadata
 content_type: "Case Study"
 primary_topic: "Career"

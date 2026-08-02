@@ -1,12 +1,12 @@
 # Nate B Jones Podcast Index
 
-Index of 777 episodes across 121 topics.
+Index of 778 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (617 episodes)
+- [Frameworks](frameworks.md) (618 episodes)
 - [Make](make.md) (555 episodes)
-- [Ai Tools](ai-tools.md) (552 episodes)
+- [Ai Tools](ai-tools.md) (553 episodes)
 - [Ai Strategy](ai-strategy.md) (519 episodes)
 - [Coding](coding.md) (471 episodes)
 - [Product Management](product-management.md) (464 episodes)
@@ -17,12 +17,12 @@ Index of 777 episodes across 121 topics.
 - [Career](career.md) (347 episodes)
 - [Workflows](workflows.md) (324 episodes)
 - [Leadership](leadership.md) (319 episodes)
-- [Openai](openai.md) (317 episodes)
+- [Openai](openai.md) (318 episodes)
 - [Tutorials](tutorials.md) (307 episodes)
 - [Google](google.md) (291 episodes)
 - [Tutorial](tutorial.md) (246 episodes)
 - [Prompting](prompting.md) (240 episodes)
-- [Framework](framework.md) (206 episodes)
+- [Framework](framework.md) (207 episodes)
 - [Gemini](gemini.md) (162 episodes)
 - [Microsoft](microsoft.md) (157 episodes)
 - [News Roundup](news-roundup.md) (154 episodes)
@@ -36,7 +36,7 @@ Index of 777 episodes across 121 topics.
 - [Slack](slack.md) (106 episodes)
 - [Projects](projects.md) (104 episodes)
 - [Box](box.md) (101 episodes)
-- [Chatgpt](chatgpt.md) (95 episodes)
+- [Chatgpt](chatgpt.md) (96 episodes)
 - [Deep Dives](deep-dives.md) (92 episodes)
 - [Github](github.md) (92 episodes)
 - [Mcp](mcp.md) (87 episodes)
@@ -118,8 +118,8 @@ Index of 777 episodes across 121 topics.
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
