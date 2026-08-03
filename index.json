@@ -1,10 +1,43 @@
 {
-  "total_videos": 779,
+  "total_videos": 780,
   "date_range": {
-    "newest": "2026-08-02",
+    "newest": "2026-08-03",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation",
+      "video_id": "TRIO7lBfgNQ",
+      "youtube_url": "https://www.youtube.com/watch?v=TRIO7lBfgNQ",
+      "publish_date": "2026-08-03",
+      "duration": "0:35",
+      "duration_seconds": 35,
+      "view_count": 2175,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "For a couple of years the whole skill was writing a better prompt. You brought the problem, the AI brought the words. That is already outdated. The 2026 version is to hand the AI the problem-finding itself.\n\nHere is what that looks like in practice. Instead of telling it what to fix, I turned it loose. Look at my files, read my Slacks, study how my business actually runs, and then come back and tell me what is worth automating and how. No prompt to perfect, no task to hand it. It has to notice the problem before it solves it. That is a different and far more useful thing than a model that just does what it is told, because most of us are bad at seeing our own bottlenecks in the first place. The interesting part is that when you do this, different models pick different problems, which tells you something about both the models and your business.\n\nI ran this head-to-head with Codex and Fable and they disagreed. The full breakdown: https://natesnewsletter.substack.com/p/let-ai-pick-what-to-automate?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Codex"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Do this instead #AI #aiagents #Codex #Fable5 #automation\nPart of the challenge in 2026 is to ask your AI to pick the problem"
+      ],
+      "transcript_chars": 532,
+      "folder": "2026-08-03-dont-tell-ai-what-to-do-in-2026-do-this-instead-ai-aiagents-codex-fable5-automat"
+    },
     {
       "title": "ChatGPT 5.6 is a dumber model. I love it.",
       "video_id": "lMiHRN8pzn4",

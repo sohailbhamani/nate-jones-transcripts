@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (127 episodes):
+Episodes discussing **Deep Dive** (128 episodes):
 
+- [Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation](../episodes/2026-08-03-dont-tell-ai-what-to-do-in-2026-do-this-instead-ai-aiagents-codex-fable5-automat/transcript.md) (2026-08-03)
 - [Why does everything look the same now? #AI #creativity #marketing #futureofwork #AItools](../episodes/2026-07-25-why-does-everything-look-the-same-now-ai-creativity-marketing-futureofwork-aitoo/transcript.md) (2026-07-25)
 - [What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools](../episodes/2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor/transcript.md) (2026-07-23)
 - [A 3-person team vs 50-person agency #AI #FutureOfWork #agency](../episodes/2026-07-17-a-3-person-team-vs-50-person-agency-ai-futureofwork-agency/transcript.md) (2026-07-17)
