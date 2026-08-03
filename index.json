@@ -1,5 +1,5 @@
 {
-  "total_videos": 780,
+  "total_videos": 781,
   "date_range": {
     "newest": "2026-08-03",
     "oldest": "2024-05-21"
@@ -37,6 +37,72 @@
       ],
       "transcript_chars": 532,
       "folder": "2026-08-03-dont-tell-ai-what-to-do-in-2026-do-this-instead-ai-aiagents-codex-fable5-automat"
+    },
+    {
+      "title": "Leopold Aschenbrenner's Warning Signal Apple Completely Missed",
+      "video_id": "MtcUDEklLLo",
+      "youtube_url": "https://www.youtube.com/watch?v=MtcUDEklLLo",
+      "publish_date": "2026-08-03",
+      "duration": "12:15",
+      "duration_seconds": 735,
+      "view_count": 6728,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Apple's AI strategy and Leopold Aschenbrenner's forced portfolio sale are the two artificial intelligence stories of 2026, and they answer the same question from opposite ends. Being right about AI matters less than being able to wait for it.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-bet-leverage-timing?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the AI trade right now?\n\nThe common story is that the best thesis wins, but the real question is who controls the clock while you wait for that thesis to pay off.\n\nIn this video, I share the inside scoop on the two AI bets that define 2026:\n\n- Why a leveraged AI portfolio moved to Citadel under lender pressure\n- How a Federal Reserve rate call added pressure to the AI trade\n- What Apple's chip design buys it in the AI race\n- Where local inference makes Apple a default winner on hardware\n\nBoth bets can still pay off, and both turn on something no forecast covers: how long you can afford to wait.\n\nChapters:\n00:00 An M5 chip, a margin call, and one question\n00:41 Leopold Aschenbrenner and the situational awareness thesis\n02:11 What leverage does on the way up and the way down\n03:42 The rate note and July's pressure on the AI trade\n05:07 How a margin call actually works\n05:47 Citadel buys the public equities book\n06:23 The public thesis and the private thesis split\n06:49 Apple's twenty-year hardware game\n07:21 Chips built for local inference\n08:10 Why a chip engineer is taking over Apple\n09:47 The case against calling a winner here\n11:50 You are invested in AI either way\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Apple",
+        "Leopold Aschenbrenner",
+        "Ken Griffin",
+        "Citadel",
+        "M5 chip",
+        "Anthropic",
+        "apple ai strategy",
+        "local inference on mac",
+        "ai investing 2026",
+        "ai",
+        "apple silicon",
+        "apple rumors"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Apple"
+        ],
+        "people": [
+          "Leopold Aschenbrenner"
+        ],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Leopold Aschenbrenner's Warning Signal Apple Completely Missed\nI'm going to tell you what a wedding day, an M5 chip, a margin call, and a guy that's been involved in Enron 20 years ago all have in "
+      ],
+      "transcript_chars": 12214,
+      "folder": "2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed"
     },
     {
       "title": "ChatGPT 5.6 is a dumber model. I love it.",

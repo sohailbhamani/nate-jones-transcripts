@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (347 episodes):
+Episodes discussing **Career** (348 episodes):
 
+- [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [How to pick an AI model in 2026](../episodes/2026-07-28-how-to-pick-an-ai-model-in-2026/transcript.md) (2026-07-28)

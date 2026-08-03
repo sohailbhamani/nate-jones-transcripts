@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (319 episodes):
+Episodes discussing **Leadership** (320 episodes):
 
+- [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [Everyone's watching the wrong AI scoreboard #AI #OpenAI #AInews #tech #bigtech](../episodes/2026-07-27-everyones-watching-the-wrong-ai-scoreboard-ai-openai-ainews-tech-bigtech/transcript.md) (2026-07-27)
 - [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
