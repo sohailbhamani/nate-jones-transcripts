@@ -1,10 +1,42 @@
 {
-  "total_videos": 781,
+  "total_videos": 782,
   "date_range": {
-    "newest": "2026-08-03",
+    "newest": "2026-08-04",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Are Chinese AI models actually catching up?",
+      "video_id": "LnIJ-F1nWMw",
+      "youtube_url": "https://www.youtube.com/watch?v=LnIJ-F1nWMw",
+      "publish_date": "2026-08-04",
+      "duration": "0:51",
+      "duration_seconds": 51,
+      "view_count": 1166,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Every few weeks a headline says a Chinese model just caught up to the frontier. The charts look convincing, the benchmarks are close, and the takeaway writes itself: the gap is basically gone. It is a good story. It is also measuring the wrong thing.\n\nThe mistake is comparing whatever just got released against whatever just got released. But the real frontier at the top American labs is not the model you can use today, it is the one sitting inside the lab that has not shipped yet. Fable was finished internally long before any of us touched it. So when you line up a brand-new open model against the public frontier and it looks close, you are comparing it to a model that is already old news to the people who built it. Measure it against what is actually in the lab and the gap is about where it has always been, roughly six to seven months, and the closed labs are not slowing down.\n\nMore on the open-weights reality, including why \"downloadable\" doesn't mean you can actually run it: https://natesnewsletter.substack.com/p/kimi-k3-open-weights-cost?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "The true frontier in American labs is what is not released"
+      ],
+      "transcript_chars": 865,
+      "folder": "2026-08-04-are-chinese-ai-models-actually-catching-up"
+    },
     {
       "title": "Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation",
       "video_id": "TRIO7lBfgNQ",
