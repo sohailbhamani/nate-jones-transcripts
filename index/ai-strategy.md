@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (522 episodes):
+Episodes discussing **Ai Strategy** (523 episodes):
 
+- [What AI privacy advice always misses](../episodes/2026-08-05-what-ai-privacy-advice-always-misses/transcript.md) (2026-08-05)
 - [Are Chinese AI models actually catching up?](../episodes/2026-08-04-are-chinese-ai-models-actually-catching-up/transcript.md) (2026-08-04)
 - [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)
 - [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)

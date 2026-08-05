@@ -1,10 +1,44 @@
 {
-  "total_videos": 782,
+  "total_videos": 783,
   "date_range": {
-    "newest": "2026-08-04",
+    "newest": "2026-08-05",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "What AI privacy advice always misses",
+      "video_id": "s6UhfGdwhrM",
+      "youtube_url": "https://www.youtube.com/watch?v=s6UhfGdwhrM",
+      "publish_date": "2026-08-05",
+      "duration": "0:37",
+      "duration_seconds": 37,
+      "view_count": 655,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Every privacy training says the same thing: do not paste sensitive information into AI. Fine. It is correct. It is also where the advice stops, and that is exactly where your real problem starts.\n\nBecause the work does not go away. The contract still needs a risk review. The performance review still needs writing. You can talk your thoughts into a dictation tool, but it still has to be organized into something usable. Sensitive work is still work. So when the only \"safe\" option on offer is to do all of it by hand, or to just not use AI on the stuff that would benefit most, the warning has not solved anything. It has quietly handed the problem back to you and called it guidance. The real answer is a way to strip out the name, the address, the number, the thing that actually makes a file sensitive, so the model can help with everything else.\n\nHere's the guide that does exactly that: https://natesnewsletter.substack.com/p/use-ai-sensitive-files?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Whisper"
+        ],
+        "models": [
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# What AI privacy advice always misses\nMost privacy advice stops too soon"
+      ],
+      "transcript_chars": 591,
+      "folder": "2026-08-05-what-ai-privacy-advice-always-misses"
+    },
     {
       "title": "Are Chinese AI models actually catching up?",
       "video_id": "LnIJ-F1nWMw",

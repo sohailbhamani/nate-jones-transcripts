@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (128 episodes):
+Episodes discussing **Deep Dive** (129 episodes):
 
+- [What AI privacy advice always misses](../episodes/2026-08-05-what-ai-privacy-advice-always-misses/transcript.md) (2026-08-05)
 - [Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation](../episodes/2026-08-03-dont-tell-ai-what-to-do-in-2026-do-this-instead-ai-aiagents-codex-fable5-automat/transcript.md) (2026-08-03)
 - [Why does everything look the same now? #AI #creativity #marketing #futureofwork #AItools](../episodes/2026-07-25-why-does-everything-look-the-same-now-ai-creativity-marketing-futureofwork-aitoo/transcript.md) (2026-07-25)
 - [What if AI isn't the problem anymore? #AI #productivity #AItransformation #futureofwork #aitools](../episodes/2026-07-23-what-if-ai-isnt-the-problem-anymore-ai-productivity-aitransformation-futureofwor/transcript.md) (2026-07-23)

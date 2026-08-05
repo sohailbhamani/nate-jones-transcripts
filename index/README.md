@@ -1,13 +1,13 @@
 # Nate B Jones Podcast Index
 
-Index of 782 episodes across 121 topics.
+Index of 783 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (620 episodes)
 - [Make](make.md) (557 episodes)
-- [Ai Tools](ai-tools.md) (555 episodes)
-- [Ai Strategy](ai-strategy.md) (522 episodes)
+- [Ai Tools](ai-tools.md) (556 episodes)
+- [Ai Strategy](ai-strategy.md) (523 episodes)
 - [Coding](coding.md) (472 episodes)
 - [Product Management](product-management.md) (465 episodes)
 - [Ai News](ai-news.md) (400 episodes)
@@ -28,7 +28,7 @@ Index of 782 episodes across 121 topics.
 - [News Roundup](news-roundup.md) (155 episodes)
 - [Meta](meta.md) (140 episodes)
 - [Startups](startups.md) (129 episodes)
-- [Deep Dive](deep-dive.md) (128 episodes)
+- [Deep Dive](deep-dive.md) (129 episodes)
 - [X](x.md) (123 episodes)
 - [Claude Code](claude-code.md) (113 episodes)
 - [Amazon](amazon.md) (110 episodes)
@@ -82,12 +82,12 @@ Index of 782 episodes across 121 topics.
 - [Deepmind](deepmind.md) (10 episodes)
 - [Midjourney](midjourney.md) (10 episodes)
 - [Intel](intel.md) (9 episodes)
+- [Whisper](whisper.md) (9 episodes)
 - [O3](o3.md) (9 episodes)
 - [Langchain](langchain.md) (9 episodes)
 - [Sap](sap.md) (9 episodes)
 - [Gpt 5](gpt-5.md) (9 episodes)
 - [Tsmc](tsmc.md) (8 episodes)
-- [Whisper](whisper.md) (8 episodes)
 - [Amd](amd.md) (7 episodes)
 - [Case Study](case-study.md) (7 episodes)
 - [Tailwind](tailwind.md) (7 episodes)
@@ -113,16 +113,16 @@ Index of 782 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Cowork](cowork.md) (2 episodes)
 - [Claude Cowork](claude-cowork.md) (2 episodes)
+- [Cowork](cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
+- [Ollama](ollama.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 
