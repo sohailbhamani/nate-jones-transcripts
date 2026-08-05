@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (129 episodes):
+Episodes discussing **Deep Dive** (130 episodes):
 
+- [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)
 - [What AI privacy advice always misses](../episodes/2026-08-05-what-ai-privacy-advice-always-misses/transcript.md) (2026-08-05)
 - [Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation](../episodes/2026-08-03-dont-tell-ai-what-to-do-in-2026-do-this-instead-ai-aiagents-codex-fable5-automat/transcript.md) (2026-08-03)
 - [Why does everything look the same now? #AI #creativity #marketing #futureofwork #AItools](../episodes/2026-07-25-why-does-everything-look-the-same-now-ai-creativity-marketing-futureofwork-aitoo/transcript.md) (2026-07-25)
