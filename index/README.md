@@ -1,13 +1,13 @@
 # Nate B Jones Podcast Index
 
-Index of 784 episodes across 121 topics.
+Index of 785 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (620 episodes)
+- [Frameworks](frameworks.md) (621 episodes)
 - [Make](make.md) (558 episodes)
 - [Ai Tools](ai-tools.md) (557 episodes)
-- [Ai Strategy](ai-strategy.md) (524 episodes)
+- [Ai Strategy](ai-strategy.md) (525 episodes)
 - [Coding](coding.md) (472 episodes)
 - [Product Management](product-management.md) (465 episodes)
 - [Ai News](ai-news.md) (400 episodes)
@@ -16,7 +16,7 @@ Index of 784 episodes across 121 topics.
 - [Claude](claude.md) (355 episodes)
 - [Career](career.md) (349 episodes)
 - [Workflows](workflows.md) (326 episodes)
-- [Leadership](leadership.md) (321 episodes)
+- [Leadership](leadership.md) (322 episodes)
 - [Openai](openai.md) (319 episodes)
 - [Tutorials](tutorials.md) (310 episodes)
 - [Google](google.md) (292 episodes)
@@ -27,7 +27,7 @@ Index of 784 episodes across 121 topics.
 - [Microsoft](microsoft.md) (157 episodes)
 - [News Roundup](news-roundup.md) (155 episodes)
 - [Meta](meta.md) (140 episodes)
-- [Deep Dive](deep-dive.md) (130 episodes)
+- [Deep Dive](deep-dive.md) (131 episodes)
 - [Startups](startups.md) (129 episodes)
 - [X](x.md) (124 episodes)
 - [Claude Code](claude-code.md) (113 episodes)
@@ -113,8 +113,8 @@ Index of 784 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Cowork](cowork.md) (2 episodes)
 - [Claude Cowork](claude-cowork.md) (2 episodes)
+- [Cowork](cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)

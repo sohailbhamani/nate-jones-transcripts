@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (524 episodes):
+Episodes discussing **Ai Strategy** (525 episodes):
 
+- [Open-source AI just took a scary turn #AI #cybersecurity #opensource #AIsafety #technology](../episodes/2026-08-06-open-source-ai-just-took-a-scary-turn-ai-cybersecurity-opensource-aisafety-techn/transcript.md) (2026-08-06)
 - [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)
 - [What AI privacy advice always misses](../episodes/2026-08-05-what-ai-privacy-advice-always-misses/transcript.md) (2026-08-05)
 - [Are Chinese AI models actually catching up?](../episodes/2026-08-04-are-chinese-ai-models-actually-catching-up/transcript.md) (2026-08-04)

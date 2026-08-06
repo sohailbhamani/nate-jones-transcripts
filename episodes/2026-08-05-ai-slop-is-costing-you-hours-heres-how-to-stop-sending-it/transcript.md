@@ -73,6 +73,7 @@ yt_tags:
   - "AI writing voice skill"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Strategy"

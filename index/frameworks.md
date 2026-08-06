@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (620 episodes):
+Episodes discussing **Frameworks** (621 episodes):
 
+- [Open-source AI just took a scary turn #AI #cybersecurity #opensource #AIsafety #technology](../episodes/2026-08-06-open-source-ai-just-took-a-scary-turn-ai-cybersecurity-opensource-aisafety-techn/transcript.md) (2026-08-06)
 - [Are Chinese AI models actually catching up?](../episodes/2026-08-04-are-chinese-ai-models-actually-catching-up/transcript.md) (2026-08-04)
 - [ChatGPT 5.6 is a dumber model. I love it.](../episodes/2026-08-02-chatgpt-56-is-a-dumber-model-i-love-it/transcript.md) (2026-08-02)
 - [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)

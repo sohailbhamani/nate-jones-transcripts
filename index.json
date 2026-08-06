@@ -1,10 +1,40 @@
 {
-  "total_videos": 784,
+  "total_videos": 785,
   "date_range": {
-    "newest": "2026-08-05",
+    "newest": "2026-08-06",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Open-source AI just took a scary turn #AI #cybersecurity #opensource #AIsafety #technology",
+      "video_id": "dx-0jU2Y0I4",
+      "youtube_url": "https://www.youtube.com/watch?v=dx-0jU2Y0I4",
+      "publish_date": "2026-08-06",
+      "duration": "0:29",
+      "duration_seconds": 29,
+      "view_count": 1667,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "For a while, open-source AI was the feel-good story. Free, transparent, in your control, a healthy check on the big closed labs. That story is still partly true, but it now has a second half nobody wants on the slide. The same models you can download for free are getting good enough to be genuinely dangerous.\n\nThe one that just crossed the line is strong at exactly the kind of work an attacker wants: probing systems, finding holes, writing the code to exploit them. And because it is open weight, there is no company sitting in the middle deciding who gets to use it or for what. Point it at something malicious and it will help. So the back half of 2026 looks like a world where capable, unrestricted models are everywhere on the internet, and a meaningful share of them are aimed at you. This is not a reason to panic. It is a reason to take your own security, and your family's, seriously now instead of later.\n\nMore on this model and what open weights actually cost you: https://natesnewsletter.substack.com/p/kimi-k3-open-weights-cost?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Open-source AI just took a scary turn #AI #cybersecurity #opensource #AIsafety #technology\nWe have now crossed the frontier into open-source models being cyber threats and we're just going up from "
+      ],
+      "transcript_chars": 462,
+      "folder": "2026-08-06-open-source-ai-just-took-a-scary-turn-ai-cybersecurity-opensource-aisafety-techn"
+    },
     {
       "title": "AI Slop Is Costing You Hours. Here's How To Stop Sending It.",
       "video_id": "AWGoOtNgw3c",
