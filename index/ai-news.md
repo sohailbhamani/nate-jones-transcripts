@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (400 episodes):
+Episodes discussing **Ai News** (401 episodes):
 
+- [You've Seen Your Agent Do This. You Just Didn't Call It Lying.](../episodes/2026-08-07-youve-seen-your-agent-do-this-you-just-didnt-call-it-lying/transcript.md) (2026-08-07)
 - [Are Chinese AI models actually catching up?](../episodes/2026-08-04-are-chinese-ai-models-actually-catching-up/transcript.md) (2026-08-04)
 - [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)
 - [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)

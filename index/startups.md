@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (129 episodes):
+Episodes discussing **Startups** (130 episodes):
 
+- [You've Seen Your Agent Do This. You Just Didn't Call It Lying.](../episodes/2026-08-07-youve-seen-your-agent-do-this-you-just-didnt-call-it-lying/transcript.md) (2026-08-07)
 - [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)

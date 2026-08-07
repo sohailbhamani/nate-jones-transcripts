@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (355 episodes):
+Episodes discussing **Claude** (356 episodes):
 
+- [You've Seen Your Agent Do This. You Just Didn't Call It Lying.](../episodes/2026-08-07-youve-seen-your-agent-do-this-you-just-didnt-call-it-lying/transcript.md) (2026-08-07)
 - [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)
 - [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)

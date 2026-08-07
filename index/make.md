@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (558 episodes):
+Episodes discussing **Make** (559 episodes):
 
+- [You've Seen Your Agent Do This. You Just Didn't Call It Lying.](../episodes/2026-08-07-youve-seen-your-agent-do-this-you-just-didnt-call-it-lying/transcript.md) (2026-08-07)
 - [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)
 - [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)
 - [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)

@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (349 episodes):
+Episodes discussing **Career** (350 episodes):
 
+- [You've Seen Your Agent Do This. You Just Didn't Call It Lying.](../episodes/2026-08-07-youve-seen-your-agent-do-this-you-just-didnt-call-it-lying/transcript.md) (2026-08-07)
 - [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)
 - [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
