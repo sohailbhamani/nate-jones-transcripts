@@ -1,10 +1,72 @@
 {
-  "total_videos": 786,
+  "total_videos": 787,
   "date_range": {
-    "newest": "2026-08-07",
+    "newest": "2026-08-09",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.",
+      "video_id": "JIGaCPv44QI",
+      "youtube_url": "https://www.youtube.com/watch?v=JIGaCPv44QI",
+      "publish_date": "2026-08-09",
+      "duration": "17:43",
+      "duration_seconds": 1063,
+      "view_count": 970,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Your engineers may be resisting your AI rollout, and another demo will not fix it. Here are the three things I tell leaders about AI adoption: the employment commitment you make in public, the narrow pilot that proves value, and the human work you protect on the other side.\n\nFull briefing:\nhttps://natesnewsletter.substack.com/p/ai-rollout-resistance?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside an AI rollout when the team quietly resists?\n\nThe common story is that resistance is a training problem, but the real question is whether leadership has made an honest deal about jobs, careers, and what the work becomes.\n\nIn this video, I share the inside scoop on how I walk leaders through an AI rollout their team will actually join:\n\n- Why an AI rollout stalls when leadership will not name the job risk\n- How to make a time bound employment commitment someone can actually keep\n- What a first pilot needs before you pick the use case\n- Where the human work goes as agents take more of the first draft\n\nLeaders can require the change, and the rollout only holds if they can also tell people where that change leads.\n\nChapters:\n00:00 Your AI engineers probably hate that you're doing AI\n01:48 Principle one, the commitment you make publicly\n03:10 Address the elephant in the room about jobs\n04:16 How to talk about headcount with integrity\n05:09 Why Jensen Huang's framing lands with teams\n05:38 Principle two, pick one specific place to start\n06:40 Pick work that moves the bottom line\n08:35 The Uber token budget contradiction\n08:59 Why team level managers decide the outcome\n10:01 Principle three, from pilot to real scale\n12:37 Technical details become people details\n15:09 What stays human as roles change\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI adoption",
+        "AI rollout",
+        "AI transformation",
+        "change management",
+        "AI agents",
+        "employees resisting AI",
+        "how to roll out AI at work",
+        "AI pilot program",
+        "leadership",
+        "digital transformation"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Hugging Face",
+          "Uber"
+        ],
+        "people": [],
+        "products": [
+          "Hugging Face",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "your AI engineers probably hate that you're doing AI"
+      ],
+      "transcript_chars": 18841,
+      "folder": "2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around"
+    },
     {
       "title": "You've Seen Your Agent Do This. You Just Didn't Call It Lying.",
       "video_id": "2wVvdX0ZxVw",
