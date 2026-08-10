@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (474 episodes):
+Episodes discussing **Coding** (475 episodes):
 
+- [How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools](../episodes/2026-08-10-how-to-use-ai-on-a-file-you-cant-upload-ai-privacy-productivity-datasecurity-ait/transcript.md) (2026-08-10)
 - [Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](../episodes/2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around/transcript.md) (2026-08-09)
 - [You've Seen Your Agent Do This. You Just Didn't Call It Lying.](../episodes/2026-08-07-youve-seen-your-agent-do-this-you-just-didnt-call-it-lying/transcript.md) (2026-08-07)
 - [Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation](../episodes/2026-08-03-dont-tell-ai-what-to-do-in-2026-do-this-instead-ai-aiagents-codex-fable5-automat/transcript.md) (2026-08-03)

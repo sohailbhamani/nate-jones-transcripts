@@ -1,10 +1,41 @@
 {
-  "total_videos": 787,
+  "total_videos": 788,
   "date_range": {
-    "newest": "2026-08-09",
+    "newest": "2026-08-10",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools",
+      "video_id": "SVNLC4NLXjA",
+      "youtube_url": "https://www.youtube.com/watch?v=SVNLC4NLXjA",
+      "publish_date": "2026-08-10",
+      "duration": "0:27",
+      "duration_seconds": 27,
+      "view_count": 1509,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Here is the mental shift that unlocks this. When a file is too sensitive to upload, do not start by asking whether AI is allowed. Start with the job. Ask what the model actually needs to see to help, which is almost never the whole document. It does not need the name, the account number, the salary, the address. It needs the shape of the problem. Once you see that, the move is obvious: make a smaller, stripped-down copy that carries the useful part and none of the sensitive part, and send that.\n\nThat is the whole trick, and the point is that it should be easy. You should not have to turn into a privacy engineer every time you want help with a contract or a review. AI made getting to intelligence frictionless, and the safe path has to be just as frictionless, or people will either leak the file or give up and do it by hand. Safety and convenience have to be the same path, not a trade-off.\n\nHere's the step-by-step guide, with the exact prompt, to do this on your own files: https://natesnewsletter.substack.com/p/use-ai-sensitive-files?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nHashtags: \nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools\nThe next time you open a document and you think AI could help, but I can't upload this file, begin with th"
+      ],
+      "transcript_chars": 408,
+      "folder": "2026-08-10-how-to-use-ai-on-a-file-you-cant-upload-ai-privacy-productivity-datasecurity-ait"
+    },
     {
       "title": "Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.",
       "video_id": "JIGaCPv44QI",

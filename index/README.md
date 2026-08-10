@@ -1,26 +1,26 @@
 # Nate B Jones Podcast Index
 
-Index of 787 episodes across 121 topics.
+Index of 788 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (623 episodes)
+- [Frameworks](frameworks.md) (624 episodes)
+- [Ai Tools](ai-tools.md) (560 episodes)
 - [Make](make.md) (560 episodes)
-- [Ai Tools](ai-tools.md) (559 episodes)
-- [Ai Strategy](ai-strategy.md) (526 episodes)
-- [Coding](coding.md) (474 episodes)
-- [Product Management](product-management.md) (466 episodes)
+- [Ai Strategy](ai-strategy.md) (527 episodes)
+- [Coding](coding.md) (475 episodes)
+- [Product Management](product-management.md) (467 episodes)
 - [Ai News](ai-news.md) (402 episodes)
 - [Anthropic](anthropic.md) (375 episodes)
 - [Ai Agents](ai-agents.md) (356 episodes)
 - [Claude](claude.md) (356 episodes)
-- [Career](career.md) (351 episodes)
-- [Workflows](workflows.md) (328 episodes)
+- [Career](career.md) (352 episodes)
+- [Workflows](workflows.md) (329 episodes)
 - [Leadership](leadership.md) (323 episodes)
 - [Openai](openai.md) (319 episodes)
-- [Tutorials](tutorials.md) (310 episodes)
+- [Tutorials](tutorials.md) (311 episodes)
 - [Google](google.md) (292 episodes)
-- [Tutorial](tutorial.md) (247 episodes)
+- [Tutorial](tutorial.md) (248 episodes)
 - [Prompting](prompting.md) (241 episodes)
 - [Framework](framework.md) (208 episodes)
 - [Gemini](gemini.md) (162 episodes)
@@ -121,8 +121,8 @@ Index of 787 episodes across 121 topics.
 - [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
+- [Ollama](ollama.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 

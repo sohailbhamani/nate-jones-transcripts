@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (247 episodes):
+Episodes discussing **Tutorial** (248 episodes):
 
+- [How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools](../episodes/2026-08-10-how-to-use-ai-on-a-file-you-cant-upload-ai-privacy-productivity-datasecurity-ait/transcript.md) (2026-08-10)
 - [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)
 - [A hack to build cheaper agents #AI #aiagents #automation #productivity](../episodes/2026-07-30-a-hack-to-build-cheaper-agents-ai-aiagents-automation-productivity/transcript.md) (2026-07-30)
 - [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)

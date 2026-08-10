@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (466 episodes):
+Episodes discussing **Product Management** (467 episodes):
 
+- [How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools](../episodes/2026-08-10-how-to-use-ai-on-a-file-you-cant-upload-ai-privacy-productivity-datasecurity-ait/transcript.md) (2026-08-10)
 - [Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](../episodes/2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around/transcript.md) (2026-08-09)
 - [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)
 - [A hack to build cheaper agents #AI #aiagents #automation #productivity](../episodes/2026-07-30-a-hack-to-build-cheaper-agents-ai-aiagents-automation-productivity/transcript.md) (2026-07-30)
