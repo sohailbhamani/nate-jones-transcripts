@@ -5,8 +5,8 @@ Index of 789 episodes across 121 topics.
 ## Topics
 
 - [Frameworks](frameworks.md) (625 episodes)
-- [Ai Tools](ai-tools.md) (561 episodes)
 - [Make](make.md) (561 episodes)
+- [Ai Tools](ai-tools.md) (561 episodes)
 - [Ai Strategy](ai-strategy.md) (527 episodes)
 - [Coding](coding.md) (476 episodes)
 - [Product Management](product-management.md) (467 episodes)
