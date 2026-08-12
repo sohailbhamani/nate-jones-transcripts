@@ -1,7 +1,8 @@
 # Meta
 
-Episodes discussing **Meta** (140 episodes):
+Episodes discussing **Meta** (141 episodes):
 
+- [Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.](../episodes/2026-08-12-three-openai-engineers-shipped-a-million-lines-your-ten-hour-agent-run-starts-he/transcript.md) (2026-08-12)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [The real thing gating AI now isn't the technology #OpenAI #AI #AIregulation #AInews #tech](../episodes/2026-07-20-the-real-thing-gating-ai-now-isnt-the-technology-openai-ai-airegulation-ainews-t/transcript.md) (2026-07-20)
 - [Your Next AI Subscription Shouldn't Be ChatGPT 5.6 Or Fable 5. It Should Be Both.](../episodes/2026-07-13-your-next-ai-subscription-shouldnt-be-chatgpt-56-or-fable-5-it-should-be-both/transcript.md) (2026-07-13)

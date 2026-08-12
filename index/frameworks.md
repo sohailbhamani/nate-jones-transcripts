@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (625 episodes):
+Episodes discussing **Frameworks** (626 episodes):
 
+- [Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.](../episodes/2026-08-12-three-openai-engineers-shipped-a-million-lines-your-ten-hour-agent-run-starts-he/transcript.md) (2026-08-12)
 - [Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.](../episodes/2026-08-10-anthropics-model-attacked-two-strangers-on-github-nobody-asked-it-to/transcript.md) (2026-08-10)
 - [How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools](../episodes/2026-08-10-how-to-use-ai-on-a-file-you-cant-upload-ai-privacy-productivity-datasecurity-ait/transcript.md) (2026-08-10)
 - [Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](../episodes/2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around/transcript.md) (2026-08-09)

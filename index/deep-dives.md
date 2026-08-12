@@ -1,7 +1,8 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (93 episodes):
+Episodes discussing **Deep Dives** (94 episodes):
 
+- [Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.](../episodes/2026-08-12-three-openai-engineers-shipped-a-million-lines-your-ten-hour-agent-run-starts-he/transcript.md) (2026-08-12)
 - [Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.](../episodes/2026-08-10-anthropics-model-attacked-two-strangers-on-github-nobody-asked-it-to/transcript.md) (2026-08-10)
 - [Your Roadmap Is Why You're Losing to AI-Native Teams.](../episodes/2026-07-12-your-roadmap-is-why-youre-losing-to-ai-native-teams/transcript.md) (2026-07-12)
 - [Your $20 AI Plan Costs Them Thousands. That's Not The Bubble.](../episodes/2026-06-15-your-20-ai-plan-costs-them-thousands-thats-not-the-bubble/transcript.md) (2026-06-15)

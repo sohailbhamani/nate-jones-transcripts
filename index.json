@@ -1,5 +1,5 @@
 {
-  "total_videos": 790,
+  "total_videos": 791,
   "date_range": {
     "newest": "2026-08-12",
     "oldest": "2024-05-21"
@@ -38,6 +38,71 @@
       ],
       "transcript_chars": 459,
       "folder": "2026-08-12-kill-the-questions-ai-2026-aiautomation"
+    },
+    {
+      "title": "Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.",
+      "video_id": "HZLPhPbw3fM",
+      "youtube_url": "https://www.youtube.com/watch?v=HZLPhPbw3fM",
+      "publish_date": "2026-08-12",
+      "duration": "23:57",
+      "duration_seconds": 1437,
+      "view_count": 6796,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI agent context files are what keep a long agent run on track once your opening prompt goes stale. Here is how OpenAI, Anthropic, and Arize actually structure them, and the four files you can copy.\n\nGrab the Working Context Starter Kit on my Substack:\nhttps://natesnewsletter.substack.com/p/ai-agent-context-files?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside a six hour agent run?\n\nThe common story is that a bigger context window solves this, but the real question is which decision the agent treats as current.\n\nIn this video, I share the inside scoop on progressive context shaping:\n\n- Why one giant instruction file becomes a graveyard of stale rules\n- How to change an agent's direction without restarting the project\n- What four kinds of context you should keep separate\n- Where OpenAI, Anthropic, and Arize put the current plan\n\nMore capable agents extend the reach of your judgment, and they extend the reach of an outdated judgment exactly as far.\n\nChapters:\n00:00 The million line project and what the headline hides\n02:43 OpenAI swaps the giant manual for a short map\n03:21 Anthropic's progress file as portable memory\n04:41 Progressive context shaping, defined\n05:36 Why the opening prompt cannot stay in charge\n07:04 Arize, 27 model calls, and the plan moved to disk\n10:21 My Codex benchmark and the instruction that went stale\n13:07 The four kinds of context worth separating\n16:14 400,000 Claude Code sessions and the 70/80 split\n17:15 Symphony, three to five sessions, and the ticket board\n18:35 The four things to give an agent at the start\n21:02 Why context window size is not the capability\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "context engineering",
+        "AI agents",
+        "Claude Code",
+        "OpenAI Codex",
+        "AGENTS md",
+        "progressive context shaping",
+        "long running AI agents",
+        "CLAUDE md file",
+        "ai tools",
+        "ai agents",
+        "ai",
+        "ai productivity tools"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Three engineers at OpenAI shipped an internal product in about a tenth of the time it would have taken by hand"
+      ],
+      "transcript_chars": 24135,
+      "folder": "2026-08-12-three-openai-engineers-shipped-a-million-lines-your-ten-hour-agent-run-starts-he"
     },
     {
       "title": "Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.",

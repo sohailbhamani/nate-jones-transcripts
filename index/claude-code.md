@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (113 episodes):
+Episodes discussing **Claude Code** (114 episodes):
 
+- [Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.](../episodes/2026-08-12-three-openai-engineers-shipped-a-million-lines-your-ten-hour-agent-run-starts-he/transcript.md) (2026-08-12)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)
 - [Codex vs Fable: Which AI Agent Picked the Better Problem?](../episodes/2026-07-17-codex-vs-fable-which-ai-agent-picked-the-better-problem/transcript.md) (2026-07-17)
