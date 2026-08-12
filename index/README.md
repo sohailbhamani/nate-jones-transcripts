@@ -1,21 +1,21 @@
 # Nate B Jones Podcast Index
 
-Index of 789 episodes across 121 topics.
+Index of 790 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (625 episodes)
-- [Make](make.md) (561 episodes)
+- [Make](make.md) (562 episodes)
 - [Ai Tools](ai-tools.md) (561 episodes)
-- [Ai Strategy](ai-strategy.md) (527 episodes)
+- [Ai Strategy](ai-strategy.md) (528 episodes)
 - [Coding](coding.md) (476 episodes)
 - [Product Management](product-management.md) (467 episodes)
 - [Ai News](ai-news.md) (402 episodes)
 - [Anthropic](anthropic.md) (376 episodes)
-- [Ai Agents](ai-agents.md) (357 episodes)
+- [Ai Agents](ai-agents.md) (358 episodes)
 - [Claude](claude.md) (356 episodes)
 - [Career](career.md) (353 episodes)
-- [Workflows](workflows.md) (329 episodes)
+- [Workflows](workflows.md) (330 episodes)
 - [Leadership](leadership.md) (324 episodes)
 - [Openai](openai.md) (320 episodes)
 - [Tutorials](tutorials.md) (311 episodes)
@@ -27,13 +27,13 @@ Index of 789 episodes across 121 topics.
 - [Microsoft](microsoft.md) (158 episodes)
 - [News Roundup](news-roundup.md) (157 episodes)
 - [Meta](meta.md) (140 episodes)
-- [Deep Dive](deep-dive.md) (132 episodes)
+- [Deep Dive](deep-dive.md) (133 episodes)
 - [Startups](startups.md) (130 episodes)
 - [X](x.md) (124 episodes)
 - [Claude Code](claude-code.md) (113 episodes)
 - [Amazon](amazon.md) (111 episodes)
+- [Slack](slack.md) (109 episodes)
 - [Cursor](cursor.md) (109 episodes)
-- [Slack](slack.md) (108 episodes)
 - [Projects](projects.md) (104 episodes)
 - [Box](box.md) (101 episodes)
 - [Chatgpt](chatgpt.md) (96 episodes)
@@ -118,8 +118,8 @@ Index of 789 episodes across 121 topics.
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)

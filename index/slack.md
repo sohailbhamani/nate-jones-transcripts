@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (108 episodes):
+Episodes discussing **Slack** (109 episodes):
 
+- [Kill the questions ... #AI #2026 #aiautomation](../episodes/2026-08-12-kill-the-questions-ai-2026-aiautomation/transcript.md) (2026-08-12)
 - [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)
 - [If OpenAI And Anthropic Are Discouraging You, You're Probably A Level 1 Builder.](../episodes/2026-08-02-if-openai-and-anthropic-are-discouraging-you-youre-probably-a-level-1-builder/transcript.md) (2026-08-02)
 - [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)

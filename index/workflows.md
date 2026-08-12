@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (329 episodes):
+Episodes discussing **Workflows** (330 episodes):
 
+- [Kill the questions ... #AI #2026 #aiautomation](../episodes/2026-08-12-kill-the-questions-ai-2026-aiautomation/transcript.md) (2026-08-12)
 - [How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools](../episodes/2026-08-10-how-to-use-ai-on-a-file-you-cant-upload-ai-privacy-productivity-datasecurity-ait/transcript.md) (2026-08-10)
 - [Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](../episodes/2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around/transcript.md) (2026-08-09)
 - [You've Seen Your Agent Do This. You Just Didn't Call It Lying.](../episodes/2026-08-07-youve-seen-your-agent-do-this-you-just-didnt-call-it-lying/transcript.md) (2026-08-07)

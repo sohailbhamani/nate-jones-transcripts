@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (132 episodes):
+Episodes discussing **Deep Dive** (133 episodes):
 
+- [Kill the questions ... #AI #2026 #aiautomation](../episodes/2026-08-12-kill-the-questions-ai-2026-aiautomation/transcript.md) (2026-08-12)
 - [Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](../episodes/2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around/transcript.md) (2026-08-09)
 - [Open-source AI just took a scary turn #AI #cybersecurity #opensource #AIsafety #technology](../episodes/2026-08-06-open-source-ai-just-took-a-scary-turn-ai-cybersecurity-opensource-aisafety-techn/transcript.md) (2026-08-06)
 - [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)
