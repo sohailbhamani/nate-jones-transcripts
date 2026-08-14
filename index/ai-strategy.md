@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (528 episodes):
+Episodes discussing **Ai Strategy** (529 episodes):
 
+- [Protect your family from voice AI scams. Here's how  #AI #scams #voicecloning #deepfakes](../episodes/2026-08-14-protect-your-family-from-voice-ai-scams-heres-how-ai-scams-voicecloning-deepfake/transcript.md) (2026-08-14)
 - [Kill the questions ... #AI #2026 #aiautomation](../episodes/2026-08-12-kill-the-questions-ai-2026-aiautomation/transcript.md) (2026-08-12)
 - [How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools](../episodes/2026-08-10-how-to-use-ai-on-a-file-you-cant-upload-ai-privacy-productivity-datasecurity-ait/transcript.md) (2026-08-10)
 - [Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](../episodes/2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around/transcript.md) (2026-08-09)

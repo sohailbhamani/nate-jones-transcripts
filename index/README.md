@@ -1,13 +1,13 @@
 # Nate B Jones Podcast Index
 
-Index of 791 episodes across 121 topics.
+Index of 792 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (626 episodes)
 - [Make](make.md) (563 episodes)
 - [Ai Tools](ai-tools.md) (562 episodes)
-- [Ai Strategy](ai-strategy.md) (528 episodes)
+- [Ai Strategy](ai-strategy.md) (529 episodes)
 - [Coding](coding.md) (477 episodes)
 - [Product Management](product-management.md) (468 episodes)
 - [Ai News](ai-news.md) (402 episodes)
@@ -27,7 +27,7 @@ Index of 791 episodes across 121 topics.
 - [Microsoft](microsoft.md) (158 episodes)
 - [News Roundup](news-roundup.md) (157 episodes)
 - [Meta](meta.md) (141 episodes)
-- [Deep Dive](deep-dive.md) (133 episodes)
+- [Deep Dive](deep-dive.md) (134 episodes)
 - [Startups](startups.md) (130 episodes)
 - [X](x.md) (124 episodes)
 - [Claude Code](claude-code.md) (114 episodes)
@@ -113,13 +113,13 @@ Index of 791 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Cowork](cowork.md) (2 episodes)
+- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
+- [Fiverr](fiverr.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)

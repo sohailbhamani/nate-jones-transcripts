@@ -1,10 +1,40 @@
 {
-  "total_videos": 791,
+  "total_videos": 792,
   "date_range": {
-    "newest": "2026-08-12",
+    "newest": "2026-08-14",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Protect your family from voice AI scams. Here's how  #AI #scams #voicecloning #deepfakes",
+      "video_id": "bC2VZlkvWXQ",
+      "youtube_url": "https://www.youtube.com/watch?v=bC2VZlkvWXQ",
+      "publish_date": "2026-08-14",
+      "duration": "0:27",
+      "duration_seconds": 27,
+      "view_count": 780,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "This is the simplest security thing you can do this week, and almost nobody has done it. Pick a word or short phrase with your family. Something you would never say in normal conversation, something a stranger could not guess. Everyone in the family knows it. The rule is simple: if you say the word, it is really you.\n\nHere is why it matters now. Voice cloning got good and cheap. Someone can grab a few seconds of your voice from a video, call your parent in what sounds exactly like you, panicked, and say you are in trouble and need money wired right now. The clone can copy how you sound. It cannot know the word. So when the scary call comes, your family asks for it, the voice on the other end has no idea, and everyone hangs up a lot of money richer. Five minutes at dinner tonight and you are covered.\n\nMore clear-eyed takes on living with this stuff: https://natesnewsletter.substack.com?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here's how  #AI #scams #voicecloning #deepfakes\nSo, you should have a password with your family"
+      ],
+      "transcript_chars": 501,
+      "folder": "2026-08-14-protect-your-family-from-voice-ai-scams-heres-how-ai-scams-voicecloning-deepfake"
+    },
     {
       "title": "Kill the questions ... #AI #2026 #aiautomation",
       "video_id": "51wR7XT_uiA",
