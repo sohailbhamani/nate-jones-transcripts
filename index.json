@@ -1,10 +1,71 @@
 {
-  "total_videos": 792,
+  "total_videos": 793,
   "date_range": {
     "newest": "2026-08-14",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?",
+      "video_id": "LM7Ft7g8qJw",
+      "youtube_url": "https://www.youtube.com/watch?v=LM7Ft7g8qJw",
+      "publish_date": "2026-08-14",
+      "duration": "18:56",
+      "duration_seconds": 1136,
+      "view_count": 7446,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Grok Bot review: xAI's new consumer AI agents, what the $200 subscription actually buys, and how to use them safely.\n\nGrab the Superdoer Bot & Business Bot Kits:\nhttps://natesnewsletter.substack.com/p/grok-bot-review?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Grok Bot?\n\nThe common story is that AI agents are finally easy enough for anyone \u2014 but the real question is what one shared computer means for every account you sign into.\n\nIn this video, I share the inside scoop on Grok Bot as a consumer multi-agent product:\n\n- Why Grok Bot solves the worst agent signup pain point\n- How one shared computer authorizes every bot at once\n- What the $200 subscription has to return to be worth it\n- Where the two bots I recommend fit your first week\n\nGrok Bot is the first agent product I would hand to someone completely nontechnical, and that same shared computer is the one security perimeter you are accepting when you do.\n\nChapters:\n00:00 grokbot is bigger than open claw\n01:10 the agent signup pain point grok solves\n06:55 the twelve bots nate built\n09:41 what the $200 subscription actually costs\n12:25 the two bots worth starting with\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "grok bot",
+        "grok bot review",
+        "openclaw",
+        "AI agents",
+        "grok bot price",
+        "how to use grok bot",
+        "grok",
+        "grok ai",
+        "grokbot"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Shopify",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "We are going to go into what is Grockbot, how much does Grockbot cost, why would you use it, what are the safety concerns with using it, how do you use it safely"
+      ],
+      "transcript_chars": 19930,
+      "folder": "2026-08-14-grok-bot-is-the-first-ai-agent-you-just-install-is-it-worth-200"
+    },
     {
       "title": "Protect your family from voice AI scams. Here's how  #AI #scams #voicecloning #deepfakes",
       "video_id": "bC2VZlkvWXQ",

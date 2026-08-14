@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (324 episodes):
+Episodes discussing **Leadership** (325 episodes):
 
+- [Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](../episodes/2026-08-14-grok-bot-is-the-first-ai-agent-you-just-install-is-it-worth-200/transcript.md) (2026-08-14)
 - [Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.](../episodes/2026-08-10-anthropics-model-attacked-two-strangers-on-github-nobody-asked-it-to/transcript.md) (2026-08-10)
 - [Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](../episodes/2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around/transcript.md) (2026-08-09)
 - [Open-source AI just took a scary turn #AI #cybersecurity #opensource #AIsafety #technology](../episodes/2026-08-06-open-source-ai-just-took-a-scary-turn-ai-cybersecurity-opensource-aisafety-techn/transcript.md) (2026-08-06)
