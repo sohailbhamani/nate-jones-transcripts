@@ -1,7 +1,8 @@
 # Github
 
-Episodes discussing **Github** (93 episodes):
+Episodes discussing **Github** (94 episodes):
 
+- [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)
 - [Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.](../episodes/2026-08-10-anthropics-model-attacked-two-strangers-on-github-nobody-asked-it-to/transcript.md) (2026-08-10)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [Paste This Into Claude, Never Hit a Token Limit Again](../episodes/2026-07-29-paste-this-into-claude-never-hit-a-token-limit-again/transcript.md) (2026-07-29)

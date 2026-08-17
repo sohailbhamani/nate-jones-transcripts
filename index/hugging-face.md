@@ -1,7 +1,8 @@
 # Hugging Face
 
-Episodes discussing **Hugging Face** (7 episodes):
+Episodes discussing **Hugging Face** (8 episodes):
 
+- [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)
 - [Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.](../episodes/2026-08-10-anthropics-model-attacked-two-strangers-on-github-nobody-asked-it-to/transcript.md) (2026-08-10)
 - [Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](../episodes/2026-08-09-your-engineers-are-resisting-your-ai-rollout-3-things-turn-that-around/transcript.md) (2026-08-09)
 - [OpenAI's AI broke loose in Hugging Face. Their defense? A Chinese model.](../episodes/2026-07-23-openais-ai-broke-loose-in-hugging-face-their-defense-a-chinese-model/transcript.md) (2026-07-23)

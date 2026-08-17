@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (157 episodes):
+Episodes discussing **News Roundup** (158 episodes):
 
+- [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)
 - [Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.](../episodes/2026-08-10-anthropics-model-attacked-two-strangers-on-github-nobody-asked-it-to/transcript.md) (2026-08-10)
 - [You've Seen Your Agent Do This. You Just Didn't Call It Lying.](../episodes/2026-08-07-youve-seen-your-agent-do-this-you-just-didnt-call-it-lying/transcript.md) (2026-08-07)
 - [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)

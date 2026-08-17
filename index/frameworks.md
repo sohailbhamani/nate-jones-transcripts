@@ -1,8 +1,9 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (629 episodes):
+Episodes discussing **Frameworks** (630 episodes):
 
 - [Stop overthinking which AI to use. Do this.](../episodes/2026-08-17-stop-overthinking-which-ai-to-use-do-this/transcript.md) (2026-08-17)
+- [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)
 - [NVIDIA Went To Wall Street For $500 Billion. Your Retirement Is In The Deal.](../episodes/2026-08-16-nvidia-went-to-wall-street-for-500-billion-your-retirement-is-in-the-deal/transcript.md) (2026-08-16)
 - [Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](../episodes/2026-08-14-grok-bot-is-the-first-ai-agent-you-just-install-is-it-worth-200/transcript.md) (2026-08-14)
 - [Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.](../episodes/2026-08-12-three-openai-engineers-shipped-a-million-lines-your-ten-hour-agent-run-starts-he/transcript.md) (2026-08-12)

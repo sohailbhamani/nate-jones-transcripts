@@ -1,5 +1,5 @@
 {
-  "total_videos": 795,
+  "total_videos": 796,
   "date_range": {
     "newest": "2026-08-17",
     "oldest": "2024-05-21"
@@ -34,6 +34,77 @@
       ],
       "transcript_chars": 392,
       "folder": "2026-08-17-stop-overthinking-which-ai-to-use-do-this"
+    },
+    {
+      "title": "Your Agent Attacks Real People Now. Nobody Has To Ask It To.",
+      "video_id": "4f5AJrJPilM",
+      "youtube_url": "https://www.youtube.com/watch?v=4f5AJrJPilM",
+      "publish_date": "2026-08-17",
+      "duration": "21:05",
+      "duration_seconds": 1265,
+      "view_count": 3968,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI agent security just got real: a booking agent broke a live system, and poisoned agent skills cleared 1.7 million installs. Here's what actually happened, and how to secure the agents you run.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when AI agents start acting inside other people's software?\n\nThe common story is that an agent has to go rogue before it hurts anyone, but the real question is what an ordinary goal does when it meets an unlocked door.\n\nIn this video, I share the inside scoop on the agent security incidents that are starting to connect:\n\n- Why a gym-booking agent canceled a stranger's reservation nobody asked it to touch\n- How a clean, approved skill turns malicious weeks after you install it\n- What the AI Security Institute found across 122 evaluation runs\n- Where swarm attacks start, and the two jobs you now own\n\nAgents are still worth running, but the people who do it well decide up front what theirs can touch and how fast they can stop it.\n\nChapters:\n00:00 nobody in that sentence is an attacker\n00:32 the melbourne agent that booked a gym class\n01:43 zenity labs and 1.7 million poisoned installs\n03:16 how a clean link turns malicious weeks later\n04:31 the scanners were live and it cleared anyway\n05:10 your agent does not share your social conventions\n06:17 the web is now more than half agents\n07:02 the skill that cleared every security scanner\n09:56 the frontier model case is different\n12:33 why swarm attacks come next\n14:40 your two jobs, identity and scope\n17:02 five questions before you run an agent\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agent security",
+        "agent skills",
+        "Claude Code",
+        "OpenClaw",
+        "Zenity Labs",
+        "AI Security Institute",
+        "swarm attacks",
+        "agent permissions",
+        "how to secure AI agents",
+        "AI agent attacks explained",
+        "agentic AI risk"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Nvidia",
+          "GitHub",
+          "Vercel",
+          "Hugging Face",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Hugging Face",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "One unlocked API call, one person asking a completely reasonable question, and a stranger loses her gym class and never finds out why"
+      ],
+      "transcript_chars": 22237,
+      "folder": "2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to"
     },
     {
       "title": "NVIDIA Went To Wall Street For $500 Billion. Your Retirement Is In The Deal.",

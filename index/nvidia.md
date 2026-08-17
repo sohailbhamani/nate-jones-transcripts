@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (81 episodes):
+Episodes discussing **Nvidia** (82 episodes):
 
+- [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)
 - [NVIDIA Went To Wall Street For $500 Billion. Your Retirement Is In The Deal.](../episodes/2026-08-16-nvidia-went-to-wall-street-for-500-billion-your-retirement-is-in-the-deal/transcript.md) (2026-08-16)
 - [Nvidia vs Apple: The real AI battle 🤖 #nvidia #apple #shorts](../episodes/2026-06-20-nvidia-vs-apple-the-real-ai-battle-nvidia-apple-shorts/transcript.md) (2026-06-20)
 - [Apple’s Worst Nightmare #apple #google #gemini](../episodes/2026-06-19-apples-worst-nightmare-apple-google-gemini/transcript.md) (2026-06-19)
