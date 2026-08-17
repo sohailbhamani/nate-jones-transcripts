@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (530 episodes):
+Episodes discussing **Ai Strategy** (531 episodes):
 
+- [Stop overthinking which AI to use. Do this.](../episodes/2026-08-17-stop-overthinking-which-ai-to-use-do-this/transcript.md) (2026-08-17)
 - [NVIDIA Went To Wall Street For $500 Billion. Your Retirement Is In The Deal.](../episodes/2026-08-16-nvidia-went-to-wall-street-for-500-billion-your-retirement-is-in-the-deal/transcript.md) (2026-08-16)
 - [Protect your family from voice AI scams. Here's how  #AI #scams #voicecloning #deepfakes](../episodes/2026-08-14-protect-your-family-from-voice-ai-scams-heres-how-ai-scams-voicecloning-deepfake/transcript.md) (2026-08-14)
 - [Kill the questions ... #AI #2026 #aiautomation](../episodes/2026-08-12-kill-the-questions-ai-2026-aiautomation/transcript.md) (2026-08-12)
