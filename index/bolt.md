@@ -1,7 +1,8 @@
 # Bolt
 
-Episodes discussing **Bolt** (28 episodes):
+Episodes discussing **Bolt** (29 episodes):
 
+- [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
 - [I Built a Deck With AI, Then Made a Second AI Attack It.](../episodes/2026-05-27-i-built-a-deck-with-ai-then-made-a-second-ai-attack-it/transcript.md) (2026-05-27)
 - [LLM Agents: The Security Breach Pattern Nobody's Talking About](../episodes/2026-05-11-llm-agents-the-security-breach-pattern-nobodys-talking-about/transcript.md) (2026-05-11)

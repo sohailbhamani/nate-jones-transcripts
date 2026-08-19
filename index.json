@@ -1,10 +1,83 @@
 {
-  "total_videos": 796,
+  "total_videos": 797,
   "date_range": {
-    "newest": "2026-08-17",
+    "newest": "2026-08-19",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.",
+      "video_id": "joRXo6x7Pgk",
+      "youtube_url": "https://www.youtube.com/watch?v=joRXo6x7Pgk",
+      "publish_date": "2026-08-19",
+      "duration": "34:59",
+      "duration_seconds": 2099,
+      "view_count": 5258,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "How to build your own personal software with AI when you are not a developer, from a wish to a working app. The complete map: the five software shapes, which building tool to use, and exactly what to sign up for.\n\nGrab my no-code guide to build your first app:\nhttps://natesnewsletter.substack.com/p/build-personal-software?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening with personal software right now?\nThe common story is that AI writes the code for you \u2014 but the real question is who makes the decisions that code depends on.\n\nIn this video, I share the inside scoop on building your own personal software as a non-developer:\n\n- Why five software shapes decide almost every choice that follows\n- How to pick between Lovable, Replit, Bolt, Codex, and Claude Code\n- What four plain text files make an AI builder explain itself\n- Where your data should live, and why moving it later is hard\n\nThe build is genuinely reachable now without a developer, and the part that stays yours is the judgment: what to make, where the data lives, and whether it works before anyone relies on it.\n\nChapters:\n00:00 you don't have to be a developer to build software\n02:53 the five software shapes and how to pick yours\n08:28 lovable cloud or supabase, and why it matters later\n13:32 sensors, raspberry pi, and touching the physical world\n20:50 authentication, authorization, and real access control\n27:08 testing your app against everyday scenarios\n33:09 why personal software matters\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Lovable",
+        "Supabase",
+        "Claude Code",
+        "OpenAI Codex",
+        "Replit",
+        "Vercel",
+        "personal software",
+        "build an app without coding",
+        "AI app builder",
+        "no code app builder"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Amazon",
+          "Apple",
+          "Slack",
+          "GitHub",
+          "Box",
+          "Twitter",
+          "Lovable",
+          "Bolt"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Nobody Laid Out The Five Kinds Of Software You Can Make"
+      ],
+      "transcript_chars": 38972,
+      "folder": "2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did"
+    },
     {
       "title": "Stop overthinking which AI to use. Do this.",
       "video_id": "0QCoAfMzSJE",
