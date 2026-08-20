@@ -71,6 +71,7 @@ yt_tags:
   - "no code app builder"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
