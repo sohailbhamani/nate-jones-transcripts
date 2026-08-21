@@ -1,10 +1,81 @@
 {
-  "total_videos": 797,
+  "total_videos": 798,
   "date_range": {
-    "newest": "2026-08-19",
+    "newest": "2026-08-21",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "GLM 5.3 in Claude Code Is A Game Changer!",
+      "video_id": "4HvFqhtCb-A",
+      "youtube_url": "https://www.youtube.com/watch?v=4HvFqhtCb-A",
+      "publish_date": "2026-08-21",
+      "duration": "20:49",
+      "duration_seconds": 1249,
+      "view_count": 5571,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "GLM-5.3 runs inside Claude Code and Codex, and the setup takes a few lines. Here is how to add a cheaper AI coding model to the tools you already use without rebuilding your harness.\n\nGrab the guide here:\nhttps://unlock-ai.natebjones.com/guides/glm-53-in-claude-code-and-codex?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nFull Post:\nhttps://natesnewsletter.substack.com/p/glm-5-3-claude-code-codex?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening with cheaper models inside Claude Code and Codex?\n\nThe common story is that a cheaper model means a cheaper bill, but the real question is what the work costs once you count retries, review, and the context you had to rebuild.\n\nIn this video, I share the inside scoop on running GLM-5.3 inside the coding tools you already use:\n\n- Why the harness matters more than the model underneath it\n- How to launch GLM-5.3 inside Claude Code and Codex\n- What carries across a model switch and what does not\n- Where the cheap model earns the work and where it loses\n\nA cheaper model is a real lever, but only after you measure what the result you actually accepted cost you.\n\nChapters:\n00:00 The $200 problem and the $18 alternative\n01:04 What you keep when you change models\n02:45 Model, harness, project context, conversation\n04:29 Why a late model switch costs more\n06:19 What 96% reused input taught me\n07:09 The Claude Code launcher\n09:15 The six-line handoff\n10:11 Subagents, forks, and two sessions\n12:09 Adding GLM-5.3 to Codex\n14:04 Which jobs belong to the cheap model\n16:13 Plan limits and whether it is actually cheaper\n17:54 Unbundling and the companion guide\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "GLM-5.3",
+        "Claude Code",
+        "OpenAI Codex",
+        "Z.AI",
+        "GLM coding plan",
+        "AI coding tools",
+        "cheaper AI coding model",
+        "AI coding costs",
+        "claude code",
+        "z.ai",
+        "saving token",
+        "ai tools"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "MCP",
+          "Sonnet",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Five different AI subscriptions, two of them alone can run you 400 bucks a month"
+      ],
+      "transcript_chars": 22096,
+      "folder": "2026-08-21-glm-53-in-claude-code-is-a-game-changer"
+    },
     {
       "title": "Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.",
       "video_id": "joRXo6x7Pgk",

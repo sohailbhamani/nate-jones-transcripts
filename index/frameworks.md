@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (631 episodes):
+Episodes discussing **Frameworks** (632 episodes):
 
+- [GLM 5.3 in Claude Code Is A Game Changer!](../episodes/2026-08-21-glm-53-in-claude-code-is-a-game-changer/transcript.md) (2026-08-21)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [Stop overthinking which AI to use. Do this.](../episodes/2026-08-17-stop-overthinking-which-ai-to-use-do-this/transcript.md) (2026-08-17)
 - [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)

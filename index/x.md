@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (124 episodes):
+Episodes discussing **X** (125 episodes):
 
+- [GLM 5.3 in Claude Code Is A Game Changer!](../episodes/2026-08-21-glm-53-in-claude-code-is-a-game-changer/transcript.md) (2026-08-21)
 - [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [How to Use AI on Files You're Not Allowed to Upload](../episodes/2026-07-24-how-to-use-ai-on-files-youre-not-allowed-to-upload/transcript.md) (2026-07-24)
