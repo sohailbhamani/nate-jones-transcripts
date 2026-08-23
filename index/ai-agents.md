@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (362 episodes):
+Episodes discussing **Ai Agents** (363 episodes):
 
+- [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)
 - [GLM 5.3 in Claude Code Is A Game Changer!](../episodes/2026-08-21-glm-53-in-claude-code-is-a-game-changer/transcript.md) (2026-08-21)
 - [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)
 - [Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](../episodes/2026-08-14-grok-bot-is-the-first-ai-agent-you-just-install-is-it-worth-200/transcript.md) (2026-08-14)

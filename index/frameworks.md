@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (632 episodes):
+Episodes discussing **Frameworks** (633 episodes):
 
+- [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)
 - [GLM 5.3 in Claude Code Is A Game Changer!](../episodes/2026-08-21-glm-53-in-claude-code-is-a-game-changer/transcript.md) (2026-08-21)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [Stop overthinking which AI to use. Do this.](../episodes/2026-08-17-stop-overthinking-which-ai-to-use-do-this/transcript.md) (2026-08-17)

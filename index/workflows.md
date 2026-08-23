@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (331 episodes):
+Episodes discussing **Workflows** (332 episodes):
 
+- [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [Kill the questions ... #AI #2026 #aiautomation](../episodes/2026-08-12-kill-the-questions-ai-2026-aiautomation/transcript.md) (2026-08-12)
 - [How to use AI on a file you can't upload #AI #privacy #productivity #datasecurity #AItools](../episodes/2026-08-10-how-to-use-ai-on-a-file-you-cant-upload-ai-privacy-productivity-datasecurity-ait/transcript.md) (2026-08-10)

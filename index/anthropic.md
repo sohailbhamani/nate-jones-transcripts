@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (381 episodes):
+Episodes discussing **Anthropic** (382 episodes):
 
+- [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)
 - [GLM 5.3 in Claude Code Is A Game Changer!](../episodes/2026-08-21-glm-53-in-claude-code-is-a-game-changer/transcript.md) (2026-08-21)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)

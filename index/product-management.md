@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (471 episodes):
+Episodes discussing **Product Management** (472 episodes):
 
+- [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [NVIDIA Went To Wall Street For $500 Billion. Your Retirement Is In The Deal.](../episodes/2026-08-16-nvidia-went-to-wall-street-for-500-billion-your-retirement-is-in-the-deal/transcript.md) (2026-08-16)
 - [Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](../episodes/2026-08-14-grok-bot-is-the-first-ai-agent-you-just-install-is-it-worth-200/transcript.md) (2026-08-14)

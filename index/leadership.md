@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (326 episodes):
+Episodes discussing **Leadership** (327 episodes):
 
+- [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](../episodes/2026-08-14-grok-bot-is-the-first-ai-agent-you-just-install-is-it-worth-200/transcript.md) (2026-08-14)
 - [Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.](../episodes/2026-08-10-anthropics-model-attacked-two-strangers-on-github-nobody-asked-it-to/transcript.md) (2026-08-10)

@@ -1,7 +1,8 @@
 # Operator
 
-Episodes discussing **Operator** (30 episodes):
+Episodes discussing **Operator** (31 episodes):
 
+- [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)
 - [NVIDIA Went To Wall Street For $500 Billion. Your Retirement Is In The Deal.](../episodes/2026-08-16-nvidia-went-to-wall-street-for-500-billion-your-retirement-is-in-the-deal/transcript.md) (2026-08-16)
 - [I Was The Only Thing Connecting Claude, ChatGPT, and Codex. So I Built My Replacement.](../episodes/2026-06-26-i-was-the-only-thing-connecting-claude-chatgpt-and-codex-so-i-built-my-replaceme/transcript.md) (2026-06-26)
 - [Shopify CEO Reveals Their Secret AI Developer](../episodes/2026-05-26-shopify-ceo-reveals-their-secret-ai-developer/transcript.md) (2026-05-26)
