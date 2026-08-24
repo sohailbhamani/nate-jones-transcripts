@@ -1,10 +1,75 @@
 {
-  "total_videos": 799,
+  "total_videos": 800,
   "date_range": {
-    "newest": "2026-08-23",
+    "newest": "2026-08-24",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.",
+      "video_id": "DgyQ5r6bnmc",
+      "youtube_url": "https://www.youtube.com/watch?v=DgyQ5r6bnmc",
+      "publish_date": "2026-08-24",
+      "duration": "25:19",
+      "duration_seconds": 1519,
+      "view_count": 4617,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Stripe paid a reported $7.5 billion for OpenRouter, the router for 400+ AI models, and told investors the singularity began on January 1, 2026. Here is what Stripe saw in its own data, and what it means if you are at a startup, at an incumbent, or neither.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Stripe's OpenRouter acquisition?\nThe common story is that this is one more AI bubble deal, but the real question is what bent in Stripe's own metrics to move a company from $1.3 billion in May to $7.5 billion in August.\n\nIn this video, I share the inside scoop on why Stripe changed its base case:\n\n- Why Stripe paid five times OpenRouter's May valuation in one quarter\n- How token volume doubling every 11 weeks became the new Moore's law\n- What agent-to-agent commerce lets a tiny team assemble and sell\n- Where incumbent moats still hold, and where they have already gone\n\nCheap attempts will produce plenty of cheap failures, and they will also produce the competitor who never shows up on your market map until it is taking your customers.\n\nChapters:\n00:00 The bubble argument and what Stripe just did\n00:46 Stripe names January 1 as the singularity\n01:31 OpenRouter and the 24,000x token curve\n03:03 The new Moore's law for intelligence\n05:27 The two curves that bent at once\n08:03 The same shift showing up away from Stripe\n09:30 The agent that charged another agent two dollars\n11:26 Why routing intelligence is a Stripe shaped problem\n16:19 What founders should do with this\n17:57 The wake up call for incumbents\n20:40 Agent purchasability and the demand side\n23:16 Change your base case\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Stripe",
+        "OpenRouter",
+        "agentic commerce",
+        "AI agents",
+        "token economy",
+        "stripe openrouter acquisition",
+        "agent to agent payments",
+        "AI singularity 2026",
+        "singularity"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Amazon",
+          "Tesla",
+          "Slack",
+          "Stripe",
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "The age of startups is here and Stripe just announced it by saying the singularity has arrived"
+      ],
+      "transcript_chars": 25919,
+      "folder": "2026-08-24-stripe-paid-75-billion-for-openrouter-you-are-living-in-the-age-of-startups"
+    },
     {
       "title": "OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.",
       "video_id": "0bLI31EFDDs",

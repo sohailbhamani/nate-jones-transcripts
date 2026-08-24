@@ -1,7 +1,8 @@
 # Tesla
 
-Episodes discussing **Tesla** (10 episodes):
+Episodes discussing **Tesla** (11 episodes):
 
+- [Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.](../episodes/2026-08-24-stripe-paid-75-billion-for-openrouter-you-are-living-in-the-age-of-startups/transcript.md) (2026-08-24)
 - [My 10-Year-Old Vibe Codes. She Also Does Math by Hand. Why That's the Only Strategy That Works.](../episodes/2026-02-28-my-10-year-old-vibe-codes-she-also-does-math-by-hand-why-thats-the-only-strategy/transcript.md) (2026-02-28)
 - [Amazon Fired Their AI Chief. Here's Why It Took So Long (Plus 5 Newsworthy Moments in AI This Week)](../episodes/2025-12-20-amazon-fired-their-ai-chief-heres-why-it-took-so-long-plus-5-newsworthy-moments/transcript.md) (2025-12-20)
 - [Claude Skills is BIGGER than Model Context Protocol (MCP)—Here's Why](../episodes/2025-10-18-claude-skills-is-bigger-than-model-context-protocol-mcpheres-why/transcript.md) (2025-10-18)
