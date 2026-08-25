@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (211 episodes):
+Episodes discussing **Framework** (212 episodes):
 
+- [This is the best way to choose an AI model](../episodes/2026-08-25-this-is-the-best-way-to-choose-an-ai-model/transcript.md) (2026-08-25)
 - [Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.](../episodes/2026-08-24-stripe-paid-75-billion-for-openrouter-you-are-living-in-the-age-of-startups/transcript.md) (2026-08-24)
 - [Stop overthinking which AI to use. Do this.](../episodes/2026-08-17-stop-overthinking-which-ai-to-use-do-this/transcript.md) (2026-08-17)
 - [Grok Bot Is The First AI Agent You Just Install. Is It Worth $200?](../episodes/2026-08-14-grok-bot-is-the-first-ai-agent-you-just-install-is-it-worth-200/transcript.md) (2026-08-14)
