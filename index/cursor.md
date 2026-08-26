@@ -1,7 +1,8 @@
 # Cursor
 
-Episodes discussing **Cursor** (110 episodes):
+Episodes discussing **Cursor** (111 episodes):
 
+- [Agents Aren't Taking Your Jobs. They're Creating More Work Instead.](../episodes/2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead/transcript.md) (2026-08-26)
 - [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)
 - [Most Teams Skip This Critical AI Agent Skill in 2026](../episodes/2026-06-21-most-teams-skip-this-critical-ai-agent-skill-in-2026/transcript.md) (2026-06-21)

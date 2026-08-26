@@ -1,7 +1,8 @@
 # Amazon
 
-Episodes discussing **Amazon** (113 episodes):
+Episodes discussing **Amazon** (114 episodes):
 
+- [Agents Aren't Taking Your Jobs. They're Creating More Work Instead.](../episodes/2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead/transcript.md) (2026-08-26)
 - [Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.](../episodes/2026-08-24-stripe-paid-75-billion-for-openrouter-you-are-living-in-the-age-of-startups/transcript.md) (2026-08-24)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [AI Slop Is Costing You Hours. Here's How To Stop Sending It.](../episodes/2026-08-05-ai-slop-is-costing-you-hours-heres-how-to-stop-sending-it/transcript.md) (2026-08-05)

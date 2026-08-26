@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (533 episodes):
+Episodes discussing **Ai Strategy** (534 episodes):
 
+- [Agents Aren't Taking Your Jobs. They're Creating More Work Instead.](../episodes/2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead/transcript.md) (2026-08-26)
 - [This is the best way to choose an AI model](../episodes/2026-08-25-this-is-the-best-way-to-choose-an-ai-model/transcript.md) (2026-08-25)
 - [Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.](../episodes/2026-08-24-stripe-paid-75-billion-for-openrouter-you-are-living-in-the-age-of-startups/transcript.md) (2026-08-24)
 - [Stop overthinking which AI to use. Do this.](../episodes/2026-08-17-stop-overthinking-which-ai-to-use-do-this/transcript.md) (2026-08-17)

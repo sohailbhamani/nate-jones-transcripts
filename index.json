@@ -1,10 +1,79 @@
 {
-  "total_videos": 801,
+  "total_videos": 802,
   "date_range": {
-    "newest": "2026-08-25",
+    "newest": "2026-08-26",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Agents Aren't Taking Your Jobs. They're Creating More Work Instead.",
+      "video_id": "IpEaSa7tgfc",
+      "youtube_url": "https://www.youtube.com/watch?v=IpEaSa7tgfc",
+      "publish_date": "2026-08-26",
+      "duration": "31:14",
+      "duration_seconds": 1874,
+      "view_count": 6588,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI agents are creating more human work than they remove, and almost nobody is measuring it. Here is how agent management actually lands at three different scales: one person, a small business, and an enterprise.\n\nFull post: https://natesnewsletter.substack.com/p/managing-ai-agents-at-scale?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 \ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/ \ud83d\udc49\ud83c\udffb X: https://x.com/natebjones \ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones \ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening with AI agent management inside real companies?\n\nThe common story is that agents replace headcount, but the real question is who absorbs the allocation, review, and recovery work that agents generate.\n\nIn this video, I share the inside scoop on how agent management changes with company size:\n\nWhy legal agentic AI use is up 108x while other small businesses stall\nHow nine seconds of agent execution cost one founder thirty hours\nWhat forty dollars a month actually buys a small business\nWhere enterprise returns come from, and why capital is the difference\nAgents are real leverage, and the companies seeing returns are the ones staffing the human work around them instead of assuming it disappeared.\n\nChapters: 00:00 why agents are creating more human work 01:23 who actually does the work when agents run 02:41 legal is up 108x and why that matters 08:02 what forty dollars a month actually buys 14:59 why enterprises report better returns 21:50 the team problem nobody has solved yet 24:05 managers are becoming agent allocators 26:22 what to take away for the rest of 2026\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4 Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "agent management",
+        "OpenAI Codex",
+        "enterprise AI",
+        "AI for business",
+        "managing AI agents at scale",
+        "AI agents small business",
+        "above the loop",
+        "ai productivity tools",
+        "ai agent"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Amazon",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Look, we were told agents would take our stuff off our plate"
+      ],
+      "transcript_chars": 31380,
+      "folder": "2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead"
+    },
     {
       "title": "This is the best way to choose an AI model",
       "video_id": "_biYWRU6f34",
