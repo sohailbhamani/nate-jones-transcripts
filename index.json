@@ -1,10 +1,75 @@
 {
-  "total_videos": 803,
+  "total_videos": 804,
   "date_range": {
-    "newest": "2026-08-27",
+    "newest": "2026-08-28",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.",
+      "video_id": "CSCwaqVqHGE",
+      "youtube_url": "https://www.youtube.com/watch?v=CSCwaqVqHGE",
+      "publish_date": "2026-08-28",
+      "duration": "27:19",
+      "duration_seconds": 1639,
+      "view_count": 10514,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI brain rot is everywhere right now, and most of the advice is to use AI less. I do the opposite. I add friction on purpose, and this is how that works in practice across Codex, Grok and Claude.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/fight-ai-brain-rot?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n- \ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n- \ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n- \ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n- \ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside AI brain rot?\n\nThe common story is that AI makes you lazy \u2014 but the real question is whether the work keeps looking finished while you quietly stop making the decisions.\n\nIn this video, I share the inside scoop on how I use disagreement to keep my own judgment sharp:\n\n- Why brain rot can look exactly like high productivity\n- How I size up a new agent before I trust it\n- What the MIT ChatGPT study actually says and does not say\n- Where I add friction and where I let AI run\n\nAI can make you faster and sharper at the same time, but only if you keep hold of the decisions that were actually yours to make.\n\nChapters:\n00:00 Friction maxing and why AI is not rotting my brain\n01:04 What the MIT study actually says\n04:28 The wrong spreadsheet\n06:07 The hard boundary and testing three agents\n09:13 Why AI interfaces pull you toward the middle\n12:36 Test time learning and how humans already do it\n14:43 Chipping away until the idea is right\n16:21 Design taste and the colors Claude keeps reaching for\n19:13 Why I stopped using Gemini\n22:34 Which models need extra source checks\n24:24 Where are you in this journey\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI brain rot",
+        "friction maxxing",
+        "OpenAI Codex",
+        "Grok",
+        "cognitive debt",
+        "how to use AI without losing critical thinking",
+        "AI agent onboarding",
+        "your brain on ChatGPT study"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Slack",
+          "YouTube",
+          "Figma"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Codex",
+          "Make"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "That's what I do all day with AI and it's why I don't think it's rotting my brain"
+      ],
+      "transcript_chars": 26539,
+      "folder": "2026-08-28-how-i-fight-ai-brain-rot-friction-maxxing-with-codex-grok-and-claude"
+    },
     {
       "title": "These are the people AI can't replace #AI #futureofwork",
       "video_id": "Po7mWmEeEWs",
