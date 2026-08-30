@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (486 episodes):
+Episodes discussing **Coding** (487 episodes):
 
+- [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)
 - [How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.](../episodes/2026-08-28-how-i-fight-ai-brain-rot-friction-maxxing-with-codex-grok-and-claude/transcript.md) (2026-08-28)
 - [These are the people AI can't replace #AI #futureofwork](../episodes/2026-08-27-these-are-the-people-ai-cant-replace-ai-futureofwork/transcript.md) (2026-08-27)
 - [Agents Aren't Taking Your Jobs. They're Creating More Work Instead.](../episodes/2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead/transcript.md) (2026-08-26)

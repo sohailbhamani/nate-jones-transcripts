@@ -1,5 +1,5 @@
 {
-  "total_videos": 805,
+  "total_videos": 806,
   "date_range": {
     "newest": "2026-08-30",
     "oldest": "2024-05-21"
@@ -37,6 +37,72 @@
       ],
       "transcript_chars": 545,
       "folder": "2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil"
+    },
+    {
+      "title": "Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.",
+      "video_id": "qYe1GsMRElw",
+      "youtube_url": "https://www.youtube.com/watch?v=qYe1GsMRElw",
+      "publish_date": "2026-08-30",
+      "duration": "27:09",
+      "duration_seconds": 1629,
+      "view_count": 6111,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI agents can find zero-day vulnerabilities and ship software end to end, and still leave your business exactly where it was. Here is how to tell whether an agent is installed or just connected.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-agents-get-work-done?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside agents that work hard and change nothing?\n\nThe common story is that rogue agents are the risk \u2014 but the real question is what your agent thinks done means.\n\nIn this video, I share the inside scoop on why capable agents produce process instead of finished work:\n\n- Why 1,200 OpenAI agents attacked Hugging Face to pass a test\n- How agent school trains for a grader your company never built\n- What separates an installed agent from a connected one\n- Where enterprises, small businesses, and solo operators should each start\n\nAgents will keep chasing whatever finish line they can recognize, which is a problem if you never set one and an advantage the moment you do.\n\nChapters:\n00:00 Agents that work hard on the wrong thing\n03:34 Agent school and why coding agents got good first\n09:44 Can your second best engineer read it\n17:31 The revenue line and the measures that count\n18:51 Mech suits and the unplug test\n22:30 The four questions I ask founders\n25:52 What getting work done should mean\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "OpenAI",
+        "Hugging Face",
+        "Shopify River",
+        "Block Goose",
+        "how to install an AI agent",
+        "AI agent definition of done",
+        "AI agents for small business",
+        "runnable ai"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Shopify",
+          "Slack",
+          "Hugging Face",
+          "X",
+          "Azure"
+        ],
+        "people": [],
+        "products": [
+          "Hugging Face",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Every business failure in the video I'm about to show you today comes down to one"
+      ],
+      "transcript_chars": 27651,
+      "folder": "2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean"
     },
     {
       "title": "How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.",
