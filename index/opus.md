@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (79 episodes):
+Episodes discussing **Opus** (80 episodes):
 
+- [Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens](../episodes/2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil/transcript.md) (2026-08-30)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)
 - [Your AI Model is Probably Wrong for This Job](../episodes/2026-07-02-your-ai-model-is-probably-wrong-for-this-job/transcript.md) (2026-07-02)

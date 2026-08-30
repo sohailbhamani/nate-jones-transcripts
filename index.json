@@ -1,10 +1,43 @@
 {
-  "total_videos": 804,
+  "total_videos": 805,
   "date_range": {
-    "newest": "2026-08-28",
+    "newest": "2026-08-30",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens",
+      "video_id": "8KE4hjghc60",
+      "youtube_url": "https://www.youtube.com/watch?v=8KE4hjghc60",
+      "publish_date": "2026-08-30",
+      "duration": "0:33",
+      "duration_seconds": 33,
+      "view_count": 1296,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "This one is not glamorous and it will save you a genuinely absurd amount of money, so stay with me. If you are building on top of an AI model and you are not using prompt caching, you are lighting cash on fire for no reason.\n\nHere is the whole idea. A lot of what you send the model on every single call is identical every time. Your system prompt. Your tool definitions. The reference documents you paste in. That stuff does not change, and yet most people pay full price to reprocess it on every request. Prompt caching lets the model reuse it instead, and the discount is not small. On Opus, a cached read runs about fifty cents per million tokens against five dollars per million at standard rates. That is a ninety percent cut on the part of your bill that was pure waste. This is not exotic engineering. It is a setting. If your stable context is not cached in 2026, that is just money you are choosing to spend. Audit it, cache it, move on.\n\nI broke down where your tokens actually go and how to stop wasting them here: https://natesnewsletter.substack.com/p/reduce-ai-token-usage?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens\nDon't need to have it"
+      ],
+      "transcript_chars": 545,
+      "folder": "2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil"
+    },
     {
       "title": "How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.",
       "video_id": "CSCwaqVqHGE",

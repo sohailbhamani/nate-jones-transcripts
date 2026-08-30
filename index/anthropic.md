@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (384 episodes):
+Episodes discussing **Anthropic** (385 episodes):
 
+- [Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens](../episodes/2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil/transcript.md) (2026-08-30)
 - [How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.](../episodes/2026-08-28-how-i-fight-ai-brain-rot-friction-maxxing-with-codex-grok-and-claude/transcript.md) (2026-08-28)
 - [Agents Aren't Taking Your Jobs. They're Creating More Work Instead.](../episodes/2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead/transcript.md) (2026-08-26)
 - [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)

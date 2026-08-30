@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (637 episodes):
+Episodes discussing **Frameworks** (638 episodes):
 
+- [Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens](../episodes/2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil/transcript.md) (2026-08-30)
 - [How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.](../episodes/2026-08-28-how-i-fight-ai-brain-rot-friction-maxxing-with-codex-grok-and-claude/transcript.md) (2026-08-28)
 - [These are the people AI can't replace #AI #futureofwork](../episodes/2026-08-27-these-are-the-people-ai-cant-replace-ai-futureofwork/transcript.md) (2026-08-27)
 - [This is the best way to choose an AI model](../episodes/2026-08-25-this-is-the-best-way-to-choose-an-ai-model/transcript.md) (2026-08-25)

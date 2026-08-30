@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (243 episodes):
+Episodes discussing **Prompting** (244 episodes):
 
+- [Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens](../episodes/2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil/transcript.md) (2026-08-30)
 - [How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.](../episodes/2026-08-28-how-i-fight-ai-brain-rot-friction-maxxing-with-codex-grok-and-claude/transcript.md) (2026-08-28)
 - [Anthropic's Model Attacked Two Strangers On GitHub. Nobody Asked It To.](../episodes/2026-08-10-anthropics-model-attacked-two-strangers-on-github-nobody-asked-it-to/transcript.md) (2026-08-10)
 - [Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation](../episodes/2026-08-03-dont-tell-ai-what-to-do-in-2026-do-this-instead-ai-aiagents-codex-fable5-automat/transcript.md) (2026-08-03)
