@@ -1,10 +1,82 @@
 {
-  "total_videos": 807,
+  "total_videos": 808,
   "date_range": {
     "newest": "2026-08-31",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
+      "video_id": "1lO8aNSLPJc",
+      "youtube_url": "https://www.youtube.com/watch?v=1lO8aNSLPJc",
+      "publish_date": "2026-08-31",
+      "duration": "22:33",
+      "duration_seconds": 1353,
+      "view_count": 69733,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Apple rebuilt the entire desktop Mac line around local AI, and the price ladder tells you exactly who it is for. Here is what the M6 and M5 chip split means for running local models, keeping agents alive on your desk, and deciding how much AI compute is worth owning.\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Apple's local AI launch?\nThe common story is Apple coming for NVIDIA \u2014 but the real question is which intelligence is worth owning and which is worth renting.\n\nIn this video, I share the inside scoop on Apple's local AI bet and the cloud bet running against it:\n\n- Why Apple put its newest chip at the bottom of the line\n- How the memory ladder maps to how many agents you can run\n- What the cloud bet assumes that a local machine cannot answer\n- Where the missing middle sits and who could own it\n\nLocal compute is now a real option for a profitable minority of prosumers, but frontier agents are moving to persistent cloud machines fast enough that buying the hardware does not settle where your work ends up living.\n\nChapters:\n00:00 apple rebuilds the entire desktop mac line around local ai\n00:39 the strange wrinkle, the new chip is at the bottom\n01:34 own your intelligence or rent it\n02:46 the memory ladder from mac mini to mac studio\n05:14 the obvious objection and the memory math videos\n06:29 two trends moving in opposite directions\n08:27 what these machines cost and which one i would buy\n11:22 the setup problem apple has not solved\n12:43 the cloud bet is a separate bet\n14:33 renting a personal supercomputer instead of a chatbot\n17:45 the real danger, your mac becomes a terminal\n20:33 my bet on the missing middle\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Apple",
+        "Mac Studio",
+        "Mac mini",
+        "M6",
+        "M5 Ultra",
+        "local AI",
+        "NVIDIA",
+        "DGX Spark",
+        "Hugging Face",
+        "running local LLMs on Mac",
+        "local vs cloud AI",
+        "Apple local AI Mac",
+        "ai explained"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple",
+          "Nvidia",
+          "Box",
+          "Hugging Face"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [
+          "Claude",
+          "Hugging Face",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Apple just refreshed the entire desktop Mac line around local AI"
+      ],
+      "transcript_chars": 22761,
+      "folder": "2026-08-31-apples-new-mac-line-is-built-around-local-ai-the-bet-is-youd-rather-own-than-ren"
+    },
     {
       "title": "How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking",
       "video_id": "L4vlYjFDVSk",
