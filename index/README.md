@@ -1,26 +1,26 @@
 # Nate B Jones Podcast Index
 
-Index of 806 episodes across 121 topics.
+Index of 807 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (639 episodes)
+- [Frameworks](frameworks.md) (640 episodes)
 - [Make](make.md) (573 episodes)
-- [Ai Tools](ai-tools.md) (570 episodes)
-- [Ai Strategy](ai-strategy.md) (536 episodes)
+- [Ai Tools](ai-tools.md) (571 episodes)
+- [Ai Strategy](ai-strategy.md) (537 episodes)
 - [Coding](coding.md) (487 episodes)
-- [Product Management](product-management.md) (474 episodes)
+- [Product Management](product-management.md) (475 episodes)
 - [Ai News](ai-news.md) (407 episodes)
 - [Anthropic](anthropic.md) (385 episodes)
 - [Ai Agents](ai-agents.md) (367 episodes)
 - [Claude](claude.md) (365 episodes)
-- [Career](career.md) (361 episodes)
-- [Workflows](workflows.md) (336 episodes)
+- [Career](career.md) (362 episodes)
+- [Workflows](workflows.md) (337 episodes)
 - [Leadership](leadership.md) (331 episodes)
 - [Openai](openai.md) (327 episodes)
-- [Tutorials](tutorials.md) (318 episodes)
+- [Tutorials](tutorials.md) (319 episodes)
 - [Google](google.md) (295 episodes)
-- [Tutorial](tutorial.md) (256 episodes)
+- [Tutorial](tutorial.md) (257 episodes)
 - [Prompting](prompting.md) (244 episodes)
 - [Framework](framework.md) (214 episodes)
 - [Gemini](gemini.md) (164 episodes)

@@ -1,10 +1,40 @@
 {
-  "total_videos": 806,
+  "total_videos": 807,
   "date_range": {
-    "newest": "2026-08-30",
+    "newest": "2026-08-31",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking",
+      "video_id": "L4vlYjFDVSk",
+      "youtube_url": "https://www.youtube.com/watch?v=L4vlYjFDVSk",
+      "publish_date": "2026-08-31",
+      "duration": "0:27",
+      "duration_seconds": 27,
+      "view_count": 1673,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "It is easy to let AI become a hobby, playing with tools because they are fun and new. But at some point it has to actually pay off for you, or you are just entertaining yourself with expensive software. That is the whole reason I keep pushing on this. AI has to be worth it, in real time you get back and real work that comes out better.\n\nSo here is what I am actually optimizing for when I build my learning loop. I am not learning skills to look busy. I am learning the specific ones that pay rent. The skills that let me pick the right AI tool faster instead of flailing between five of them, and the skills that stop me from spending an afternoon polishing something beautiful that was built on a wrong assumption in the first place. That second one is the quiet killer. Nothing feels more productive, or wastes more time, than perfecting work that was pointed in the wrong direction from the start. Learn the things that get you to a real payoff faster, and let the rest go.\n\nMore on building an AI loop that makes you sharper instead of duller: https://natesnewsletter.substack.com/p/fight-ai-brain-rot?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking\nThey're tired of the hype"
+      ],
+      "transcript_chars": 416,
+      "folder": "2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi"
+    },
     {
       "title": "Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens",
       "video_id": "8KE4hjghc60",
