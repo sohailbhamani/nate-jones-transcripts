@@ -1,10 +1,45 @@
 {
-  "total_videos": 808,
+  "total_videos": 809,
   "date_range": {
-    "newest": "2026-08-31",
+    "newest": "2026-09-01",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools",
+      "video_id": "IHQzN2rFj2k",
+      "youtube_url": "https://www.youtube.com/watch?v=IHQzN2rFj2k",
+      "publish_date": "2026-09-01",
+      "duration": "0:57",
+      "duration_seconds": 57,
+      "view_count": 1179,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Everyone is worried AI is quietly making us dumber, and honestly the worry is fair. Most of how we use AI is friction removal. You ask, you get a clean answer, you move on. It feels like productivity, and done all day, every day, it slowly takes the reps away from the one muscle that actually matters, which is your own thinking.\n\nSo I do the opposite on purpose. I call it friction maxing. Instead of taking the first clean answer, I run the same problem past Codex, then Grok, then Claude, then a handful of people whose judgment I trust, and I am not collecting opinions for fun. I am hunting for the one that disagrees, the thing that breaks the answer everyone else nodded along to. Every disagreement is a rep for my brain. The work comes out better, because whatever is still standing after five or six rounds of argument is never what the model handed me first. AI does not have to rot your brain. Run the other way with it and it is the best thinking partner you have ever had, but only if you make it fight you.\n\nHere's how I decide when Codex, Grok, and Claude all agree and I still don't trust it: https://natesnewsletter.substack.com/p/fight-ai-brain-rot?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude",
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools\nFriction maxing, that's what I do all day with AI and it's why I don't think it's rotting my brain"
+      ],
+      "transcript_chars": 986,
+      "folder": "2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a"
+    },
     {
       "title": "Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.",
       "video_id": "1lO8aNSLPJc",

@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (571 episodes):
+Episodes discussing **Ai Tools** (572 episodes):
 
+- [Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools](../episodes/2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a/transcript.md) (2026-09-01)
 - [How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking](../episodes/2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi/transcript.md) (2026-08-31)
 - [Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens](../episodes/2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil/transcript.md) (2026-08-30)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)

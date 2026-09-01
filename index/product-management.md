@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (475 episodes):
+Episodes discussing **Product Management** (476 episodes):
 
+- [Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools](../episodes/2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a/transcript.md) (2026-09-01)
 - [How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking](../episodes/2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi/transcript.md) (2026-08-31)
 - [These are the people AI can't replace #AI #futureofwork](../episodes/2026-08-27-these-are-the-people-ai-cant-replace-ai-futureofwork/transcript.md) (2026-08-27)
 - [Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.](../episodes/2026-08-24-stripe-paid-75-billion-for-openrouter-you-are-living-in-the-age-of-startups/transcript.md) (2026-08-24)

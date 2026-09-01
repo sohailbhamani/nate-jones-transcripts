@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (366 episodes):
+Episodes discussing **Claude** (367 episodes):
 
+- [Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools](../episodes/2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a/transcript.md) (2026-09-01)
 - [Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.](../episodes/2026-08-31-apples-new-mac-line-is-built-around-local-ai-the-bet-is-youd-rather-own-than-ren/transcript.md) (2026-08-31)
 - [Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens](../episodes/2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil/transcript.md) (2026-08-30)
 - [How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.](../episodes/2026-08-28-how-i-fight-ai-brain-rot-friction-maxxing-with-codex-grok-and-claude/transcript.md) (2026-08-28)
