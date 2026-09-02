@@ -1,7 +1,8 @@
 # Stripe
 
-Episodes discussing **Stripe** (37 episodes):
+Episodes discussing **Stripe** (38 episodes):
 
+- [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.](../episodes/2026-08-24-stripe-paid-75-billion-for-openrouter-you-are-living-in-the-age-of-startups/transcript.md) (2026-08-24)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)
 - [You Can't Compete on Cheap Models Anymore](../episodes/2026-07-05-you-cant-compete-on-cheap-models-anymore/transcript.md) (2026-07-05)

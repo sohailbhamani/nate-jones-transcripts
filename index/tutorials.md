@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (320 episodes):
+Episodes discussing **Tutorials** (321 episodes):
 
+- [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.](../episodes/2026-08-31-apples-new-mac-line-is-built-around-local-ai-the-bet-is-youd-rather-own-than-ren/transcript.md) (2026-08-31)
 - [How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking](../episodes/2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi/transcript.md) (2026-08-31)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)

@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (80 episodes):
+Episodes discussing **Opus** (81 episodes):
 
+- [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Prompt caching: this is what most builders ignore #AI #promptcaching #Claude #APIbuilders #tokens](../episodes/2026-08-30-prompt-caching-this-is-what-most-builders-ignore-ai-promptcaching-claude-apibuil/transcript.md) (2026-08-30)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [China's K3 Model Reveals the Problem With Open Weights](../episodes/2026-07-20-chinas-k3-model-reveals-the-problem-with-open-weights/transcript.md) (2026-07-20)

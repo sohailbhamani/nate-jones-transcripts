@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (109 episodes):
+Episodes discussing **Projects** (110 episodes):
 
+- [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Stripe Paid $7.5 Billion For OpenRouter. You Are Living In The Age Of Startups.](../episodes/2026-08-24-stripe-paid-75-billion-for-openrouter-you-are-living-in-the-age-of-startups/transcript.md) (2026-08-24)
 - [OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](../episodes/2026-08-23-openai-pays-280000-for-this-job-you-dont-have-to-be-an-engineer/transcript.md) (2026-08-23)
 - [GLM 5.3 in Claude Code Is A Game Changer!](../episodes/2026-08-21-glm-53-in-claude-code-is-a-game-changer/transcript.md) (2026-08-21)

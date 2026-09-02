@@ -1,7 +1,8 @@
 # Netflix
 
-Episodes discussing **Netflix** (18 episodes):
+Episodes discussing **Netflix** (19 episodes):
 
+- [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](../episodes/2026-04-12-i-watched-3-companies-lay-off-their-managers-all-3-hit-the-same-wall/transcript.md) (2026-04-12)
 - [The AI career coach execs pay millions for! #ai #futureofwork](../episodes/2026-03-21-the-ai-career-coach-execs-pay-millions-for-ai-futureofwork/transcript.md) (2026-03-21)
 - [4,000 People Lost Their Jobs At Block. Dorsey Blamed AI. Here's What Actually Happened.](../episodes/2026-03-12-4000-people-lost-their-jobs-at-block-dorsey-blamed-ai-heres-what-actually-happen/transcript.md) (2026-03-12)

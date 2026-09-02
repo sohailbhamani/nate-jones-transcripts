@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (58 episodes):
+Episodes discussing **Codex** (59 episodes):
 
+- [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools](../episodes/2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a/transcript.md) (2026-09-01)
 - [How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.](../episodes/2026-08-28-how-i-fight-ai-brain-rot-friction-maxxing-with-codex-grok-and-claude/transcript.md) (2026-08-28)
 - [Agents Aren't Taking Your Jobs. They're Creating More Work Instead.](../episodes/2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead/transcript.md) (2026-08-26)

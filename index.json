@@ -1,10 +1,91 @@
 {
-  "total_videos": 809,
+  "total_videos": 810,
   "date_range": {
-    "newest": "2026-09-01",
+    "newest": "2026-09-02",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.",
+      "video_id": "L9xXnPqVfnM",
+      "youtube_url": "https://www.youtube.com/watch?v=L9xXnPqVfnM",
+      "publish_date": "2026-09-02",
+      "duration": "17:42",
+      "duration_seconds": 1062,
+      "view_count": 29955,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "OpenAI's Jalape\u00f1o chip, the Cursor cutoff, and Jensen Huang's answer on NVIDIA's earnings call reveal three different plans for controlling AI. I break down how the OpenAI, NVIDIA, and Anthropic camps actually work, and how I spend $20, $60, or $200 a month without letting one provider hold my memory and my files.\n\nFull post with the Provider Independence Audit + Guide:\nhttps://natesnewsletter.substack.com/p/switch-ai-providers?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the fight between OpenAI, NVIDIA, and Anthropic?\n\nThe common story is that this is a race to the best model, but the real question is who controls the system around the intelligence.\n\nIn this video, I share the inside scoop on how the three AI camps are forming and what that means for the money you spend:\n\n- Why OpenAI built Jalape\u00f1o and what it does not replace\n- How the Cursor cutoff shows a model can vanish from your tool\n- What NVIDIA sells that keeps every camp dependent on it\n- Where I put my $20, $60, and $200 without losing my memory\n\nThe camps are still forming, which makes this a good moment to keep your own work portable enough to move when they shift.\n\nChapters:\n00:00 Three camps forming in AI\n00:29 What I can actually control\n01:39 Why Jalape\u00f1o matters for OpenAI\n02:01 The benchmark numbers OpenAI published\n03:29 CUDA and the software problem\n04:19 The loop OpenAI wants to own\n05:19 OpenAI cuts off Cursor\n06:42 NVIDIA sells to everybody\n08:28 Anthropic keeps its options open\n10:43 Why I use Open Brain\n11:48 What I would buy at 20, 60, and 200\n15:31 If your main model disappeared\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "OpenAI Jalapeno",
+        "NVIDIA",
+        "Anthropic",
+        "Cursor",
+        "Jensen Huang",
+        "AI vendor lock in",
+        "AI subscription cost",
+        "Open Brain",
+        "ai news",
+        "jensen huang",
+        "openai"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "Stripe",
+          "Cursor",
+          "Netflix"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Cursor",
+          "Codex",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Open AI just showed us habanero, its first chip for running AI models"
+      ],
+      "transcript_chars": 18154,
+      "folder": "2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200"
+    },
     {
       "title": "Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools",
       "video_id": "IHQzN2rFj2k",

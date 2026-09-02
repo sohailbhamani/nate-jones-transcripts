@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (87 episodes):
+Episodes discussing **Apple** (88 episodes):
 
+- [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.](../episodes/2026-08-31-apples-new-mac-line-is-built-around-local-ai-the-bet-is-youd-rather-own-than-ren/transcript.md) (2026-08-31)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)
 - [Leopold Aschenbrenner's Warning Signal Apple Completely Missed](../episodes/2026-08-03-leopold-aschenbrenners-warning-signal-apple-completely-missed/transcript.md) (2026-08-03)
