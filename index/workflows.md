@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (338 episodes):
+Episodes discussing **Workflows** (339 episodes):
 
+- [Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.](../episodes/2026-09-04-everyones-testing-claude-fable-51-on-code-it-made-me-a-37-second-film/transcript.md) (2026-09-04)
 - [Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools](../episodes/2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a/transcript.md) (2026-09-01)
 - [How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking](../episodes/2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi/transcript.md) (2026-08-31)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)

@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (644 episodes):
+Episodes discussing **Frameworks** (645 episodes):
 
+- [Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.](../episodes/2026-09-04-everyones-testing-claude-fable-51-on-code-it-made-me-a-37-second-film/transcript.md) (2026-09-04)
 - [Why you still need human feedback](../episodes/2026-09-04-why-you-still-need-human-feedback/transcript.md) (2026-09-04)
 - [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools](../episodes/2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a/transcript.md) (2026-09-01)
