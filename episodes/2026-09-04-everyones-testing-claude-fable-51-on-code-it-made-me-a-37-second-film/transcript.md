@@ -72,6 +72,7 @@ yt_tags:
   - "fable 5.1"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
