@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (259 episodes):
+Episodes discussing **Tutorial** (260 episodes):
 
+- [I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design](../episodes/2026-09-06-i-told-fable-51-to-make-a-film-it-wrote-the-whole-thing-in-code-ai-fable5-blende/transcript.md) (2026-09-06)
 - [Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.](../episodes/2026-09-04-everyones-testing-claude-fable-51-on-code-it-made-me-a-37-second-film/transcript.md) (2026-09-04)
 - [Why you still need human feedback](../episodes/2026-09-04-why-you-still-need-human-feedback/transcript.md) (2026-09-04)
 - [How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking](../episodes/2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi/transcript.md) (2026-08-31)

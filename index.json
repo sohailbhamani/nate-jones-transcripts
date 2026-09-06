@@ -1,10 +1,42 @@
 {
-  "total_videos": 812,
+  "total_videos": 813,
   "date_range": {
-    "newest": "2026-09-04",
+    "newest": "2026-09-06",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design",
+      "video_id": "nW-X5EkOnLw",
+      "youtube_url": "https://www.youtube.com/watch?v=nW-X5EkOnLw",
+      "publish_date": "2026-09-06",
+      "duration": "0:55",
+      "duration_seconds": 55,
+      "view_count": 1331,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "I gave Fable an idea and it made me a movie. Not a slideshow, an actual 37-second film. It built the house, the terrain, the interiors, the lighting, the landscaping, and the whole camera path in code, inside Blender. Then it rendered the stills, looked at them itself, changed the scenes, checked a motion preview, and rendered the final sequence. I mostly watched.\n\nIs it perfect? No. The trees are a little stylized, some of the glass is simple, and an editor would find things to fix. If you do this for a living, your job is safe. But that is not the point. The point is what it means for everyone who has ever needed to show an idea instead of describe it. You can now say, hey Fable, turn this into a video in Blender, go get a coffee, and come back to a real concept you can put in front of a client. It does not have to be a building. It can be anything that is easier to show than to say. The gap between an idea in your head and something moving on a screen just got very small.\n\nFull breakdown of running Fable 5.1 for real work: https://natesnewsletter.substack.com/p/fable-5-1-low-effort?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#AI #Fable5 #Blender #3D #design\nThe full film runs for 37 seconds and Fable built the house, the terrain, the interiors, the lighting, the landscaping, the whole camera path in code"
+      ],
+      "transcript_chars": 951,
+      "folder": "2026-09-06-i-told-fable-51-to-make-a-film-it-wrote-the-whole-thing-in-code-ai-fable5-blende"
+    },
     {
       "title": "Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.",
       "video_id": "55rDzRkUVdE",
