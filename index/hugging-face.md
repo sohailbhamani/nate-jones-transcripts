@@ -1,7 +1,8 @@
 # Hugging Face
 
-Episodes discussing **Hugging Face** (10 episodes):
+Episodes discussing **Hugging Face** (11 episodes):
 
+- [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.](../episodes/2026-08-31-apples-new-mac-line-is-built-around-local-ai-the-bet-is-youd-rather-own-than-ren/transcript.md) (2026-08-31)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)
 - [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)

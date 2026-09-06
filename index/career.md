@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (363 episodes):
+Episodes discussing **Career** (364 episodes):
 
+- [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design](../episodes/2026-09-06-i-told-fable-51-to-make-a-film-it-wrote-the-whole-thing-in-code-ai-fable5-blende/transcript.md) (2026-09-06)
 - [How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking](../episodes/2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi/transcript.md) (2026-08-31)
 - [Agents Aren't Taking Your Jobs. They're Creating More Work Instead.](../episodes/2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead/transcript.md) (2026-08-26)

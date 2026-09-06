@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (114 episodes):
+Episodes discussing **Slack** (115 episodes):
 
+- [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [Why you still need human feedback](../episodes/2026-09-04-why-you-still-need-human-feedback/transcript.md) (2026-09-04)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)
 - [How I Fight AI Brain Rot. Friction Maxxing With Codex, Grok And Claude.](../episodes/2026-08-28-how-i-fight-ai-brain-rot-friction-maxxing-with-codex-grok-and-claude/transcript.md) (2026-08-28)

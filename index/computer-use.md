@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (28 episodes):
+Episodes discussing **Computer Use** (29 episodes):
 
+- [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)
 - [The Real Story Behind the Government GPT 5.6 Freeze.](../episodes/2026-06-29-the-real-story-behind-the-government-gpt-56-freeze/transcript.md) (2026-06-29)

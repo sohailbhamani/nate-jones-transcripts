@@ -1,10 +1,84 @@
 {
-  "total_videos": 813,
+  "total_videos": 814,
   "date_range": {
     "newest": "2026-09-06",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "GPT-6 Astra Doesn't Need Your Instructions Anymore.",
+      "video_id": "1qGH6NwTj3o",
+      "youtube_url": "https://www.youtube.com/watch?v=1qGH6NwTj3o",
+      "publish_date": "2026-09-06",
+      "duration": "27:35",
+      "duration_seconds": 1655,
+      "view_count": 6625,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "GPT-6 Astra is out, and it changes what an AI agent can be trusted to do alone. Here is what self-directed agents mean for your work, your skills, and the next six months.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/gpt-6-astra-self-directed-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the shift to self-directed AI agents?\nThe common story is that a smarter model arrived, but the real question is what happens when you stop supplying the method.\n\nIn this video, I share the inside scoop on what changes when agents stop needing your method:\n\n- Why Astra counts as AGI without winning a benchmark argument\n- How agents work around obstacles now instead of stopping to ask\n- What standing jobs replace when you stop handing out tasks\n- Where junior careers break when agents do the learning work\n\nThe capability is here and none of it can be recalled, and the decision still in front of you is how much of your world you hand over and how carefully you watch it.\n\nChapters:\n00:00 Why this counts as AGI\n01:39 What OpenAI shipped with GPT-6 Astra\n02:57 What makes a super agent\n04:32 Agents that find and message each other\n06:59 From tasks to standing areas of concern\n08:01 Which work moves to agents first\n10:38 The unowned work inside big companies\n13:09 When your agent talks to their agent\n15:19 Reliability, not intelligence, is the bottleneck\n18:56 Memory and the cost of switching agents\n21:51 How juniors learn when agents do the work\n25:12 What takeoff actually looks like\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "GPT-6 Astra",
+        "super agents",
+        "AI agents",
+        "OpenAI",
+        "Anthropic",
+        "long running AI agents",
+        "AI agent computer use",
+        "future of work AI",
+        "astra"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Meta",
+          "Slack",
+          "Hugging Face",
+          "Cursor",
+          "YouTube",
+          "AWS"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Cursor",
+          "Hugging Face",
+          "Make",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "How they're approaching game development"
+      ],
+      "summary": [
+        "# GPT-6 Astra Doesn't Need Your Instructions Anymore"
+      ],
+      "transcript_chars": 27843,
+      "folder": "2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore"
+    },
     {
       "title": "I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design",
       "video_id": "nW-X5EkOnLw",

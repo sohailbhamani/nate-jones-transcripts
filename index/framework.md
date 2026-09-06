@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (216 episodes):
+Episodes discussing **Framework** (217 episodes):
 
+- [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools](../episodes/2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a/transcript.md) (2026-09-01)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)

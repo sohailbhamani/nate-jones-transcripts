@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (476 episodes):
+Episodes discussing **Product Management** (477 episodes):
 
+- [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [Friction maxing...How I avoid AI brainrot #AI #criticalthinking #Claude #productivity #aitools](../episodes/2026-09-01-friction-maxinghow-i-avoid-ai-brainrot-ai-criticalthinking-claude-productivity-a/transcript.md) (2026-09-01)
 - [How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking](../episodes/2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi/transcript.md) (2026-08-31)
 - [These are the people AI can't replace #AI #futureofwork](../episodes/2026-08-27-these-are-the-people-ai-cant-replace-ai-futureofwork/transcript.md) (2026-08-27)
