@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (541 episodes):
+Episodes discussing **Ai Strategy** (542 episodes):
 
+- [Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens](../episodes/2026-09-07-fable-51-is-quietly-45-cheaper-to-run-ai-fable5-anthropic-apibuilders-tokens/transcript.md) (2026-09-07)
 - [I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design](../episodes/2026-09-06-i-told-fable-51-to-make-a-film-it-wrote-the-whole-thing-in-code-ai-fable5-blende/transcript.md) (2026-09-06)
 - [Why you still need human feedback](../episodes/2026-09-04-why-you-still-need-human-feedback/transcript.md) (2026-09-04)
 - [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
