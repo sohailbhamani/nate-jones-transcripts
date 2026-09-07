@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (127 episodes):
+Episodes discussing **X** (128 episodes):
 
+- [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)
 - [Agents Aren't Taking Your Jobs. They're Creating More Work Instead.](../episodes/2026-08-26-agents-arent-taking-your-jobs-theyre-creating-more-work-instead/transcript.md) (2026-08-26)
 - [GLM 5.3 in Claude Code Is A Game Changer!](../episodes/2026-08-21-glm-53-in-claude-code-is-a-game-changer/transcript.md) (2026-08-21)

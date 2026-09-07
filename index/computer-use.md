@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (29 episodes):
+Episodes discussing **Computer Use** (30 episodes):
 
+- [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [US AI Dominance Is Over: Here's Why](../episodes/2026-07-27-us-ai-dominance-is-over-heres-why/transcript.md) (2026-07-27)
 - [You Can Hand One AI Agent Your Worst Recurring Task. It Cleared 60% Of Mine.](../episodes/2026-07-26-you-can-hand-one-ai-agent-your-worst-recurring-task-it-cleared-60-of-mine/transcript.md) (2026-07-26)

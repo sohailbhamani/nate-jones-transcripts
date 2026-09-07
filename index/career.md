@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (364 episodes):
+Episodes discussing **Career** (365 episodes):
 
+- [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design](../episodes/2026-09-06-i-told-fable-51-to-make-a-film-it-wrote-the-whole-thing-in-code-ai-fable5-blende/transcript.md) (2026-09-06)
 - [How to use AI to become smarter #AI #productivity #AItools #futureofwork #criticalthinking](../episodes/2026-08-31-how-to-use-ai-to-become-smarter-ai-productivity-aitools-futureofwork-criticalthi/transcript.md) (2026-08-31)

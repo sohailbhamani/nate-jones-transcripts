@@ -1,5 +1,5 @@
 {
-  "total_videos": 815,
+  "total_videos": 816,
   "date_range": {
     "newest": "2026-09-07",
     "oldest": "2024-05-21"
@@ -36,6 +36,73 @@
       ],
       "transcript_chars": 603,
       "folder": "2026-09-07-fable-51-is-quietly-45-cheaper-to-run-ai-fable5-anthropic-apibuilders-tokens"
+    },
+    {
+      "title": "There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.",
+      "video_id": "ix8SsXjBc7M",
+      "youtube_url": "https://www.youtube.com/watch?v=ix8SsXjBc7M",
+      "publish_date": "2026-09-07",
+      "duration": "26:58",
+      "duration_seconds": 1618,
+      "view_count": 42153,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "GPT-6 Astra is the first AI agent I'd hand a week-long job instead of a one-minute prompt. My own research puts over 20 hours of pure admin inside an average household move. So I simulated one and gave it to Astra.\n\nGet all 23 Astra recipe cards here: https://unlock-ai.natebjones.com/guides/astra-work-you-can-delegate?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when an AI agent can take an entire job instead of one prompt at a time?\n\nThe common story is that a better model gives better answers. The real question is how much of the work you can stop doing yourself.\n\nIn this video, I share the inside scoop on giving Astra work that is bigger than a prompt:\n\n- Why this feels like the Claude Code moment for knowledge work\n- How a manager loop supervises a long-running agent job\n- What a recipe card gives an agent that a prompt cannot\n- Where your judgment still decides, however capable the agent gets\n\nAstra can carry the work between the problem you hand it and the decision that's yours. Knowing which is which is the skill worth building now.\n\nChapters:\n00:00 The Astra launch and why I waited to post\n00:52 Over 20 hours of admin inside one household move\n03:08 Task-shaped work you can already hand to a model\n04:19 Why this is the Claude Code moment for knowledge work\n07:26 Agent supervision is the actual unlock\n09:15 The manager loop, explained\n12:33 Running a simulated move end to end\n15:47 Big model smell and what it feels like in practice\n18:00 Which decisions still belong to you\n20:18 Recipe cards as the post-prompt format\n23:44 The 23 recipe cards in the paid guide\n25:13 Three questions to ask before you delegate\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "GPT-6 Astra",
+        "OpenAI",
+        "Claude Code",
+        "Codex",
+        "AI agents",
+        "agent supervision",
+        "manager loop",
+        "AI for household admin",
+        "astra",
+        "ai news",
+        "openai"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "I decided to spend a few days just handing it work instead of making a video right away because one, not everybody had access to it"
+      ],
+      "transcript_chars": 28248,
+      "folder": "2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin"
     },
     {
       "title": "GPT-6 Astra Doesn't Need Your Instructions Anymore.",
