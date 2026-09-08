@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (372 episodes):
+Episodes discussing **Ai Agents** (373 episodes):
 
+- [AGI is here. Humans should now decide what to do #astra #openai #ai](../episodes/2026-09-08-agi-is-here-humans-should-now-decide-what-to-do-astra-openai-ai/transcript.md) (2026-09-08)
 - [Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens](../episodes/2026-09-07-fable-51-is-quietly-45-cheaper-to-run-ai-fable5-anthropic-apibuilders-tokens/transcript.md) (2026-09-07)
 - [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)

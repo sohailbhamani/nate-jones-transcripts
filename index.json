@@ -1,10 +1,44 @@
 {
-  "total_videos": 816,
+  "total_videos": 817,
   "date_range": {
-    "newest": "2026-09-07",
+    "newest": "2026-09-08",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "AGI is here. Humans should now decide what to do #astra #openai #ai",
+      "video_id": "zBt__cwsfvQ",
+      "youtube_url": "https://www.youtube.com/watch?v=zBt__cwsfvQ",
+      "publish_date": "2026-09-08",
+      "duration": "0:23",
+      "duration_seconds": 23,
+      "view_count": 3867,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "I want to say this plainly, because I think we are sleepwalking past it. AGI, by most of the metrics that actually mean something, is basically here. Long-running agents are here. The things we would have called super agents six months ago and gotten laughed out of the room for saying, they are here now, running on their own for hours.\n\nThe part nobody is really sitting with is that the hard question stopped being technical. It is not can we build these anymore. It is what we let them do. We are about to decide, mostly by default and without noticing, where these agents live, what they get to know about us, what actions we hand them, and how much of our actual lives we are willing to let them carry. That decision is being made right now whether you take part in it or not. So here is my challenge to you. Do not let it happen to you by accident. Decide, on purpose, what role you want this to play before the default answer gets chosen for you.\n\nMore on what self-directed agents actually change: https://natesnewsletter.substack.com/p/gpt-6-astra-self-directed-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Humans should now decide what to do #astra #openai #ai\nGI by most meaningful metrics is here around now"
+      ],
+      "transcript_chars": 339,
+      "folder": "2026-09-08-agi-is-here-humans-should-now-decide-what-to-do-astra-openai-ai"
+    },
     {
       "title": "Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens",
       "video_id": "LGKW-nLUkp4",
