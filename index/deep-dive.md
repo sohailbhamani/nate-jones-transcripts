@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (135 episodes):
+Episodes discussing **Deep Dive** (136 episodes):
 
+- [Should you ask Astra to do this? #AGI #thisisAGI #openai #astra](../episodes/2026-09-09-should-you-ask-astra-to-do-this-agi-thisisagi-openai-astra/transcript.md) (2026-09-09)
 - [AGI is here. Humans should now decide what to do #astra #openai #ai](../episodes/2026-09-08-agi-is-here-humans-should-now-decide-what-to-do-astra-openai-ai/transcript.md) (2026-09-08)
 - [Protect your family from voice AI scams. Here's how  #AI #scams #voicecloning #deepfakes](../episodes/2026-08-14-protect-your-family-from-voice-ai-scams-heres-how-ai-scams-voicecloning-deepfake/transcript.md) (2026-08-14)
 - [Kill the questions ... #AI #2026 #aiautomation](../episodes/2026-08-12-kill-the-questions-ai-2026-aiautomation/transcript.md) (2026-08-12)

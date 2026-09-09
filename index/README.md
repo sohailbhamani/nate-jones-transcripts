@@ -1,13 +1,13 @@
 # Nate B Jones Podcast Index
 
-Index of 817 episodes across 121 topics.
+Index of 818 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (648 episodes)
-- [Make](make.md) (581 episodes)
+- [Make](make.md) (582 episodes)
 - [Ai Tools](ai-tools.md) (576 episodes)
-- [Ai Strategy](ai-strategy.md) (543 episodes)
+- [Ai Strategy](ai-strategy.md) (544 episodes)
 - [Coding](coding.md) (493 episodes)
 - [Product Management](product-management.md) (477 episodes)
 - [Ai News](ai-news.md) (412 episodes)
@@ -17,7 +17,7 @@ Index of 817 episodes across 121 topics.
 - [Career](career.md) (365 episodes)
 - [Workflows](workflows.md) (340 episodes)
 - [Leadership](leadership.md) (335 episodes)
-- [Openai](openai.md) (333 episodes)
+- [Openai](openai.md) (334 episodes)
 - [Tutorials](tutorials.md) (323 episodes)
 - [Google](google.md) (298 episodes)
 - [Tutorial](tutorial.md) (261 episodes)
@@ -27,7 +27,7 @@ Index of 817 episodes across 121 topics.
 - [News Roundup](news-roundup.md) (160 episodes)
 - [Microsoft](microsoft.md) (160 episodes)
 - [Meta](meta.md) (144 episodes)
-- [Deep Dive](deep-dive.md) (135 episodes)
+- [Deep Dive](deep-dive.md) (136 episodes)
 - [Startups](startups.md) (133 episodes)
 - [X](x.md) (128 episodes)
 - [Claude Code](claude-code.md) (121 episodes)
@@ -113,16 +113,16 @@ Index of 817 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Cowork](cowork.md) (2 episodes)
 - [Claude Cowork](claude-cowork.md) (2 episodes)
+- [Cowork](cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
+- [Raycast](raycast.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 
