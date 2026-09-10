@@ -1,10 +1,82 @@
 {
-  "total_videos": 819,
+  "total_videos": 820,
   "date_range": {
     "newest": "2026-09-10",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.",
+      "video_id": "n5bZHETCiJA",
+      "youtube_url": "https://www.youtube.com/watch?v=n5bZHETCiJA",
+      "publish_date": "2026-09-10",
+      "duration": "16:21",
+      "duration_seconds": 981,
+      "view_count": 18346,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Claude Fable 5.1 and GPT-6 Astra got the same short prompt and built two different Mac clipboard apps. Here is which one I kept, and which model I now open for writing, spreadsheets, research, and code.\n\nGet Shelf & Ledge (Free!): https://unlock-ai.natebjones.com/apps/shelf-ledge?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nFull Fable 5.1 vs Astra guide: \nhttps://unlock-ai.natebjones.com/guides/fable-vs-astra?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when two frontier models answer the same prompt?\n\nThe common story is that one model wins the benchmark, but the real question is which one you can correct after you have used what it built.\n\nIn this video, I share the inside scoop on choosing between Fable 5.1 and Astra job by job:\n\n- Why the second round of prompting matters more than the first\n- How one short prompt produced two completely different Mac apps\n- What made Shelf easier to reach for than Ledge\n- Where I now start for writing, spreadsheets, research, and code\n\nNeither model wins every job, and knowing which one to open is worth more than knowing which one benchmarks higher.\n\nChapters:\n00:00 One prompt, two models, two different apps\n00:55 The exact prompt I gave both\n01:22 What each model got me\n02:11 Ledge and Shelf, two design calls\n04:06 Why the hotkey decided it\n05:12 The four fixes I asked for\n06:06 The speed test, 1.2 versus 1.0\n07:51 Speed changed my preference\n09:03 Job resumes and job fits\n10:12 Writing, spreadsheets, computer use\n13:00 Do you need multi agent?\n15:08 Spoiled for riches\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "GPT-6 Astra",
+        "Claude Fable 5.1",
+        "Codex",
+        "Anthropic",
+        "OpenAI",
+        "AI model comparison",
+        "clipboard manager Mac",
+        "vibe coding",
+        "gpt 6 astra",
+        "openai",
+        "claude fable 5.1",
+        "fable 5",
+        "fable 5.1 review",
+        "gpt-6",
+        "ai news",
+        "gpt astra",
+        "gpt 6",
+        "astra ai"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "I gave one prompt to two models and I got two completely different apps, both trying to solve the exact same problem"
+      ],
+      "transcript_chars": 17564,
+      "folder": "2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su"
+    },
     {
       "title": "Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface",
       "video_id": "is6Z78vNZzI",

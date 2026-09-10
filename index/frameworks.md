@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (649 episodes):
+Episodes discussing **Frameworks** (650 episodes):
 
+- [I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](../episodes/2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su/transcript.md) (2026-09-10)
 - [Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface](../episodes/2026-09-10-remember-the-hugging-face-incident-that-was-a-preview-of-astra-astra-ai-huggingf/transcript.md) (2026-09-10)
 - [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
