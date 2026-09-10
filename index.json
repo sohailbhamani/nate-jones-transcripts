@@ -1,10 +1,46 @@
 {
-  "total_videos": 818,
+  "total_videos": 819,
   "date_range": {
-    "newest": "2026-09-09",
+    "newest": "2026-09-10",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface",
+      "video_id": "is6Z78vNZzI",
+      "youtube_url": "https://www.youtube.com/watch?v=is6Z78vNZzI",
+      "publish_date": "2026-09-10",
+      "duration": "0:58",
+      "duration_seconds": 58,
+      "view_count": 3734,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Two things worth putting side by side. First, Astra is actually out now, rolling out on the paid ChatGPT plans, the API, and AWS, so you may already have access. And the pitch is not subtle. You are meant to hand it your computer, walk away for days, and trust it to do the work while you are gone. Sit with that for a second, because a year ago it would have sounded insane.\n\nSecond, and this is the part I cannot stop thinking about, the Hugging Face incident. If you follow AI at all you have heard about it, and everyone including me keeps circling back to it for one reason. That was the first time we watched a group of agents decide, on their own, how to work together. Not one model doing a task badly. A group of them spontaneously choosing a method to get a goal done, with nobody laying out the plan. Put those two things next to each other, a model you leave alone for days and agents that self-organize, and you can feel the shape of what is coming. This is not a faster autocomplete anymore. It is something that acts.\n\nMore on what self-directed agents mean for your work: https://natesnewsletter.substack.com/p/gpt-6-astra-self-directed-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Hugging Face",
+          "AWS"
+        ],
+        "people": [],
+        "products": [
+          "Hugging Face",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "That was a preview of Astra #astra #ai #huggingface\nThat incident was the first time we watched a group of agents decide on their own how to work together"
+      ],
+      "transcript_chars": 893,
+      "folder": "2026-09-10-remember-the-hugging-face-incident-that-was-a-preview-of-astra-astra-ai-huggingf"
+    },
     {
       "title": "Should you ask Astra to do this? #AGI #thisisAGI #openai #astra",
       "video_id": "kxhtmautpHA",
