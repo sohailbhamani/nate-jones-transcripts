@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (584 episodes):
+Episodes discussing **Make** (585 episodes):
 
+- [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)
 - [I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](../episodes/2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su/transcript.md) (2026-09-10)
 - [Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface](../episodes/2026-09-10-remember-the-hugging-face-incident-that-was-a-preview-of-astra-astra-ai-huggingf/transcript.md) (2026-09-10)
 - [Should you ask Astra to do this? #AGI #thisisAGI #openai #astra](../episodes/2026-09-09-should-you-ask-astra-to-do-this-agi-thisisagi-openai-astra/transcript.md) (2026-09-09)

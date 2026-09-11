@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (374 episodes):
+Episodes discussing **Ai Agents** (375 episodes):
 
+- [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)
 - [Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface](../episodes/2026-09-10-remember-the-hugging-face-incident-that-was-a-preview-of-astra-astra-ai-huggingf/transcript.md) (2026-09-10)
 - [AGI is here. Humans should now decide what to do #astra #openai #ai](../episodes/2026-09-08-agi-is-here-humans-should-now-decide-what-to-do-astra-openai-ai/transcript.md) (2026-09-08)
 - [Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens](../episodes/2026-09-07-fable-51-is-quietly-45-cheaper-to-run-ai-fable5-anthropic-apibuilders-tokens/transcript.md) (2026-09-07)
