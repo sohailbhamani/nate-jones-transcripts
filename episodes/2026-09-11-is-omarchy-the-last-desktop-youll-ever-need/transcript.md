@@ -81,6 +81,7 @@ yt_tags:
   - "omarchy tutorial"
 
 
+
 # AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"
