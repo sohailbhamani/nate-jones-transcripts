@@ -1,10 +1,40 @@
 {
-  "total_videos": 822,
+  "total_videos": 823,
   "date_range": {
-    "newest": "2026-09-12",
+    "newest": "2026-09-13",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "We're spoilt for riches #AI #Fable5 #GPT6 #Astra #AItools",
+      "video_id": "FV8HAq39yxs",
+      "youtube_url": "https://www.youtube.com/watch?v=FV8HAq39yxs",
+      "publish_date": "2026-09-13",
+      "duration": "0:30",
+      "duration_seconds": 30,
+      "view_count": 1094,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Here is a thing I did not expect to be saying in 2026. We are spoiled for riches. Two different companies now have models that can each take a short prompt and hand you a real, working piece of custom software in under two hours. That was science fiction not long ago, and now it is a Tuesday.\n\nYes, one of them tends to move a little faster than the other, and eventually you will land on a favorite. But the more interesting move is not to pick a side. It is to use both on purpose. When two strong models attack the same problem, they show you genuinely different takes on the solution space, and seeing those side by side makes you sharper about what you actually want. You come out smarter than you would with either one alone. It is like Godzilla versus Megalodon. Whoever wins, the audience does.\n\nThe full write-up on why I use both is on my newsletter: https://natesnewsletter.substack.com?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# We're spoilt for riches #AI #Fable5 #GPT6 #Astra #AItools\nWe are spoiled for riches"
+      ],
+      "transcript_chars": 531,
+      "folder": "2026-09-13-were-spoilt-for-riches-ai-fable5-gpt6-astra-aitools"
+    },
     {
       "title": "I ran an experiment: Fable vs Astra #AI #Fable5 #GPT6 #Astra",
       "video_id": "L5Ua3SLAmb0",
