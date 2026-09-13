@@ -1,10 +1,74 @@
 {
-  "total_videos": 823,
+  "total_videos": 824,
   "date_range": {
     "newest": "2026-09-13",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The US\u2013China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.",
+      "video_id": "ifgB5u53Ftg",
+      "youtube_url": "https://www.youtube.com/watch?v=ifgB5u53Ftg",
+      "publish_date": "2026-09-13",
+      "duration": "48:24",
+      "duration_seconds": 2904,
+      "view_count": 5063,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "US-China AI is usually framed as a race with one winner. Alvin Wang Graylin argues that framing is the core mistake driving bad decisions, and that it makes everyone less safe.\n\nRead the full briefing:\nhttps://natesnewsletter.substack.com/p/us-china-ai-human-flourishing?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nConnect with Alvin\nLinkedIn:   /agraylin  \nX: https://x.com/AGraylin\n\nWhat's really happening inside the US-China AI race?\nThe common story is a contest one country wins, but the real question is what people do with intelligence once it is everywhere and nobody can hoard it.\n\nIn this video, I share the inside scoop on what happens when the AI race frame breaks down:\n\n- Why Graylin calls the AI arms race the core misconception\n- How open models make intelligence ambient and impossible to monopolize\n- What young people should build when AI does the entry work\n- Where the US and China could cooperate without either side losing\n\nThe competition and the danger are both real, and the larger opportunity is what ordinary people can do once useful intelligence gets cheap enough to assume.\n\nChapters:\n00:00 Nobody won the electricity race\n00:52 Who Alvin Wang Graylin is\n02:54 The AI arms race misconception\n09:01 What AI is doing to entry level jobs\n11:10 What to tell young people now\n16:49 Where cooperation could actually start\n19:17 The real threat is non state actors\n23:07 The dark path and the middle path\n26:55 The bubble and when it pops\n32:56 Why robotics changes the picture\n37:11 The end user is the biggest winner\n44:40 Chimps, bonobos, and abundance\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Alvin Graylin",
+        "Alvin Wang Graylin",
+        "US China AI",
+        "open source AI",
+        "AI governance",
+        "humanoid robotics",
+        "US China AI cooperation",
+        "AI arms race",
+        "ambient intelligence"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Amazon",
+          "Stripe",
+          "X",
+          "YouTube",
+          "Intel"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The US\u2013China AI Arms Race Isn't Real But The Lobbying Is"
+      ],
+      "transcript_chars": 50122,
+      "folder": "2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side"
+    },
     {
       "title": "We're spoilt for riches #AI #Fable5 #GPT6 #Astra #AItools",
       "video_id": "FV8HAq39yxs",

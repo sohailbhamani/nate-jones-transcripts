@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (652 episodes):
+Episodes discussing **Frameworks** (653 episodes):
 
+- [The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.](../episodes/2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side/transcript.md) (2026-09-13)
 - [I ran an experiment: Fable vs Astra #AI #Fable5 #GPT6 #Astra](../episodes/2026-09-12-i-ran-an-experiment-fable-vs-astra-ai-fable5-gpt6-astra/transcript.md) (2026-09-12)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)
 - [I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](../episodes/2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su/transcript.md) (2026-09-10)

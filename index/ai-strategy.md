@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (549 episodes):
+Episodes discussing **Ai Strategy** (550 episodes):
 
+- [The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.](../episodes/2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side/transcript.md) (2026-09-13)
 - [We're spoilt for riches #AI #Fable5 #GPT6 #Astra #AItools](../episodes/2026-09-13-were-spoilt-for-riches-ai-fable5-gpt6-astra-aitools/transcript.md) (2026-09-13)
 - [I ran an experiment: Fable vs Astra #AI #Fable5 #GPT6 #Astra](../episodes/2026-09-12-i-ran-an-experiment-fable-vs-astra-ai-fable5-gpt6-astra/transcript.md) (2026-09-12)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)

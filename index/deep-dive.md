@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (136 episodes):
+Episodes discussing **Deep Dive** (137 episodes):
 
+- [The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.](../episodes/2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side/transcript.md) (2026-09-13)
 - [Should you ask Astra to do this? #AGI #thisisAGI #openai #astra](../episodes/2026-09-09-should-you-ask-astra-to-do-this-agi-thisisagi-openai-astra/transcript.md) (2026-09-09)
 - [AGI is here. Humans should now decide what to do #astra #openai #ai](../episodes/2026-09-08-agi-is-here-humans-should-now-decide-what-to-do-astra-openai-ai/transcript.md) (2026-09-08)
 - [Protect your family from voice AI scams. Here's how  #AI #scams #voicecloning #deepfakes](../episodes/2026-08-14-protect-your-family-from-voice-ai-scams-heres-how-ai-scams-voicecloning-deepfake/transcript.md) (2026-08-14)
