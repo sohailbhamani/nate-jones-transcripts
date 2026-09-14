@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (219 episodes):
+Episodes discussing **Framework** (220 episodes):
 
+- [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [I ran an experiment: Fable vs Astra #AI #Fable5 #GPT6 #Astra](../episodes/2026-09-12-i-ran-an-experiment-fable-vs-astra-ai-fable5-gpt6-astra/transcript.md) (2026-09-12)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)

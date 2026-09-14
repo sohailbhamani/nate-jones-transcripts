@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (84 episodes):
+Episodes discussing **Nvidia** (85 episodes):
 
+- [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.](../episodes/2026-08-31-apples-new-mac-line-is-built-around-local-ai-the-bet-is-youd-rather-own-than-ren/transcript.md) (2026-08-31)
 - [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)

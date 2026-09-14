@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (335 episodes):
+Episodes discussing **Openai** (336 episodes):
 
+- [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](../episodes/2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su/transcript.md) (2026-09-10)
 - [Should you ask Astra to do this? #AGI #thisisAGI #openai #astra](../episodes/2026-09-09-should-you-ask-astra-to-do-this-agi-thisisagi-openai-astra/transcript.md) (2026-09-09)
 - [AGI is here. Humans should now decide what to do #astra #openai #ai](../episodes/2026-09-08-agi-is-here-humans-should-now-decide-what-to-do-astra-openai-ai/transcript.md) (2026-09-08)

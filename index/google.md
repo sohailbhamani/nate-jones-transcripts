@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (298 episodes):
+Episodes discussing **Google** (299 episodes):
 
+- [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)

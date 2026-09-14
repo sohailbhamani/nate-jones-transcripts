@@ -1,7 +1,8 @@
 # Shortcuts
 
-Episodes discussing **Shortcuts** (15 episodes):
+Episodes discussing **Shortcuts** (16 episodes):
 
+- [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [WWDC Isn't About Siri. It's Jensen Huang's Problem.](../episodes/2026-06-11-wwdc-isnt-about-siri-its-jensen-huangs-problem/transcript.md) (2026-06-11)
