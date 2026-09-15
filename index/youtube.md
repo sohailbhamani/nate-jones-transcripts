@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (66 episodes):
+Episodes discussing **Youtube** (67 episodes):
 
+- [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)
 - [The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.](../episodes/2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side/transcript.md) (2026-09-13)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
 - [Why you still need human feedback](../episodes/2026-09-04-why-you-still-need-human-feedback/transcript.md) (2026-09-04)
