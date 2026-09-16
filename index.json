@@ -1,10 +1,42 @@
 {
-  "total_videos": 826,
+  "total_videos": 827,
   "date_range": {
-    "newest": "2026-09-14",
+    "newest": "2026-09-16",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The hidden costs of a bad AI assistant #siri #apple #applenews",
+      "video_id": "wXAif5oyzio",
+      "youtube_url": "https://www.youtube.com/watch?v=wXAif5oyzio",
+      "publish_date": "2026-09-16",
+      "duration": "0:58",
+      "duration_seconds": 58,
+      "view_count": 1463,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Here is a cost of bad AI that never shows up in a benchmark or a keynote. When an assistant is slow and a little dumb for long enough, people quietly stop asking it for things. That is the real damage.\n\nThink about how you actually use Siri, if you still do. You ask for something, the screen glows, you wait, and half the time the answer gives you a fresh reason to wonder why you bothered. After enough of those, a switch flips. If explaining what you want to the assistant, and then double-checking that it understood, takes longer than just doing the thing yourself, you do it yourself, and you are a little annoyed at the brand every time. That is the hole Apple is in. It can announce all the intelligence in the world on stage, but people who have been burned will still reach for the app, still search their own email, still open the AI they actually trust. Trust like that is not won back with a demo. Apple has to earn its way back into the moment where you are willing to ask again.\n\nThe full write-up on where your work lives and who you keep paying: https://natesnewsletter.substack.com/p/apple-openai-good-enough-ai?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Apple"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The hidden costs of a bad AI assistant #siri #apple #applenews\nApple has to deal with Siri, because Siri has been annoyingly slow and annoyingly dumb for a long, long time"
+      ],
+      "transcript_chars": 999,
+      "folder": "2026-09-16-the-hidden-costs-of-a-bad-ai-assistant-siri-apple-applenews"
+    },
     {
       "title": "Intelligence is Everywhere: Why the AI 'Race' is Already Over",
       "video_id": "duv4A1gDZOY",

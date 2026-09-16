@@ -1,16 +1,16 @@
 # Nate B Jones Podcast Index
 
-Index of 826 episodes across 121 topics.
+Index of 827 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (655 episodes)
+- [Frameworks](frameworks.md) (656 episodes)
 - [Make](make.md) (588 episodes)
 - [Ai Tools](ai-tools.md) (582 episodes)
-- [Ai Strategy](ai-strategy.md) (552 episodes)
+- [Ai Strategy](ai-strategy.md) (553 episodes)
 - [Coding](coding.md) (498 episodes)
 - [Product Management](product-management.md) (481 episodes)
-- [Ai News](ai-news.md) (415 episodes)
+- [Ai News](ai-news.md) (416 episodes)
 - [Anthropic](anthropic.md) (393 episodes)
 - [Ai Agents](ai-agents.md) (376 episodes)
 - [Claude](claude.md) (372 episodes)
@@ -24,7 +24,7 @@ Index of 826 episodes across 121 topics.
 - [Prompting](prompting.md) (248 episodes)
 - [Framework](framework.md) (220 episodes)
 - [Gemini](gemini.md) (167 episodes)
-- [News Roundup](news-roundup.md) (161 episodes)
+- [News Roundup](news-roundup.md) (162 episodes)
 - [Microsoft](microsoft.md) (160 episodes)
 - [Meta](meta.md) (144 episodes)
 - [Deep Dive](deep-dive.md) (138 episodes)
@@ -39,7 +39,7 @@ Index of 826 episodes across 121 topics.
 - [Chatgpt](chatgpt.md) (98 episodes)
 - [Deep Dives](deep-dives.md) (95 episodes)
 - [Github](github.md) (95 episodes)
-- [Apple](apple.md) (91 episodes)
+- [Apple](apple.md) (92 episodes)
 - [Mcp](mcp.md) (88 episodes)
 - [Nvidia](nvidia.md) (85 episodes)
 - [Opus](opus.md) (82 episodes)
@@ -118,11 +118,11 @@ Index of 826 episodes across 121 topics.
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
+- [Ollama](ollama.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 
