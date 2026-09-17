@@ -1,7 +1,8 @@
 # Hugging Face
 
-Episodes discussing **Hugging Face** (13 episodes):
+Episodes discussing **Hugging Face** (14 episodes):
 
+- [AI Agents Are Starting To Buy. Stripe Is Building How They Pay.](../episodes/2026-09-17-ai-agents-are-starting-to-buy-stripe-is-building-how-they-pay/transcript.md) (2026-09-17)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)
 - [Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface](../episodes/2026-09-10-remember-the-hugging-face-incident-that-was-a-preview-of-astra-astra-ai-huggingf/transcript.md) (2026-09-10)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)
