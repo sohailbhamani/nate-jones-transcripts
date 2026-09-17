@@ -1,10 +1,10 @@
 # Nate B Jones Podcast Index
 
-Index of 827 episodes across 121 topics.
+Index of 828 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (656 episodes)
+- [Frameworks](frameworks.md) (657 episodes)
 - [Make](make.md) (588 episodes)
 - [Ai Tools](ai-tools.md) (582 episodes)
 - [Ai Strategy](ai-strategy.md) (553 episodes)
@@ -12,7 +12,7 @@ Index of 827 episodes across 121 topics.
 - [Product Management](product-management.md) (481 episodes)
 - [Ai News](ai-news.md) (416 episodes)
 - [Anthropic](anthropic.md) (393 episodes)
-- [Ai Agents](ai-agents.md) (376 episodes)
+- [Ai Agents](ai-agents.md) (377 episodes)
 - [Claude](claude.md) (372 episodes)
 - [Career](career.md) (368 episodes)
 - [Workflows](workflows.md) (342 episodes)
@@ -22,13 +22,13 @@ Index of 827 episodes across 121 topics.
 - [Google](google.md) (299 episodes)
 - [Tutorial](tutorial.md) (263 episodes)
 - [Prompting](prompting.md) (248 episodes)
-- [Framework](framework.md) (220 episodes)
+- [Framework](framework.md) (221 episodes)
 - [Gemini](gemini.md) (167 episodes)
 - [News Roundup](news-roundup.md) (162 episodes)
 - [Microsoft](microsoft.md) (160 episodes)
 - [Meta](meta.md) (144 episodes)
 - [Deep Dive](deep-dive.md) (138 episodes)
-- [Startups](startups.md) (134 episodes)
+- [Startups](startups.md) (135 episodes)
 - [X](x.md) (130 episodes)
 - [Claude Code](claude-code.md) (121 episodes)
 - [Amazon](amazon.md) (117 episodes)
