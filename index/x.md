@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (130 episodes):
+Episodes discussing **X** (131 episodes):
 
+- [Jensen Huang's mic-drop answer on AI safety #dreamforce #aisafety #meta #zuckerberg #nvidia](../episodes/2026-09-18-jensen-huangs-mic-drop-answer-on-ai-safety-dreamforce-aisafety-meta-zuckerberg-n/transcript.md) (2026-09-18)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)
 - [The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.](../episodes/2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side/transcript.md) (2026-09-13)
 - [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)

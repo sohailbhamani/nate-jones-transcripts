@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (657 episodes):
+Episodes discussing **Frameworks** (658 episodes):
 
+- [Jensen Huang's mic-drop answer on AI safety #dreamforce #aisafety #meta #zuckerberg #nvidia](../episodes/2026-09-18-jensen-huangs-mic-drop-answer-on-ai-safety-dreamforce-aisafety-meta-zuckerberg-n/transcript.md) (2026-09-18)
 - [What is Omarchy?  #OS #AI #agents](../episodes/2026-09-17-what-is-omarchy-os-ai-agents/transcript.md) (2026-09-17)
 - [The hidden costs of a bad AI assistant #siri #apple #applenews](../episodes/2026-09-16-the-hidden-costs-of-a-bad-ai-assistant-siri-apple-applenews/transcript.md) (2026-09-16)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)

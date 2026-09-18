@@ -1,10 +1,49 @@
 {
-  "total_videos": 829,
+  "total_videos": 830,
   "date_range": {
-    "newest": "2026-09-17",
+    "newest": "2026-09-18",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Jensen Huang's mic-drop answer on AI safety #dreamforce #aisafety #meta #zuckerberg #nvidia",
+      "video_id": "jopulPr2upk",
+      "youtube_url": "https://www.youtube.com/watch?v=jopulPr2upk",
+      "publish_date": "2026-09-18",
+      "duration": "1:24",
+      "duration_seconds": 84,
+      "view_count": 7715,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "On Dreamforce day one, Jensen Huang got the AI safety question live next to Marc Benioff and reframed it in one line: safety is an engineering problem. Later that day, Zuckerberg said nearly the same thing about Muse, their new app, which they held back until it was aligned. Two big names, same framing. What do you make of it?\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "Nvidia",
+          "X"
+        ],
+        "people": [
+          "Jensen Huang",
+          "Mark Zuckerberg"
+        ],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Jensen Huang's mic-drop answer on AI safety #dreamforce #aisafety #meta #zuckerberg #nvidia\nDreamforce Day 1, I got to hear Jensen Huang live talking with Marc Benioff"
+      ],
+      "transcript_chars": 1438,
+      "folder": "2026-09-18-jensen-huangs-mic-drop-answer-on-ai-safety-dreamforce-aisafety-meta-zuckerberg-n"
+    },
     {
       "title": "AI Agents Are Starting To Buy. Stripe Is Building How They Pay.",
       "video_id": "YTG0rdHPTDE",
