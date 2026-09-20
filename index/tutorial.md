@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (264 episodes):
+Episodes discussing **Tutorial** (265 episodes):
 
+- [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [AI Agents Are Starting To Buy. Stripe Is Building How They Pay.](../episodes/2026-09-17-ai-agents-are-starting-to-buy-stripe-is-building-how-they-pay/transcript.md) (2026-09-17)
 - [We're spoilt for riches #AI #Fable5 #GPT6 #Astra #AItools](../episodes/2026-09-13-were-spoilt-for-riches-ai-fable5-gpt6-astra-aitools/transcript.md) (2026-09-13)
 - [I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](../episodes/2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su/transcript.md) (2026-09-10)
