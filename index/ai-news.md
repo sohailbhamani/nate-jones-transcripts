@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (417 episodes):
+Episodes discussing **Ai News** (418 episodes):
 
+- [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)
 - [Jensen Huang's mic-drop answer on AI safety #dreamforce #aisafety #meta #zuckerberg #nvidia](../episodes/2026-09-18-jensen-huangs-mic-drop-answer-on-ai-safety-dreamforce-aisafety-meta-zuckerberg-n/transcript.md) (2026-09-18)
 - [The hidden costs of a bad AI assistant #siri #apple #applenews](../episodes/2026-09-16-the-hidden-costs-of-a-bad-ai-assistant-siri-apple-applenews/transcript.md) (2026-09-16)
 - [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)

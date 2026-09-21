@@ -1,8 +1,9 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (380 episodes):
+Episodes discussing **Ai Agents** (381 episodes):
 
 - [The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork](../episodes/2026-09-21-the-ai-labs-still-have-to-earn-our-trust-ai-agents-openai-productivity-futureofw/transcript.md) (2026-09-21)
+- [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [AI Agents Are Starting To Buy. Stripe Is Building How They Pay.](../episodes/2026-09-17-ai-agents-are-starting-to-buy-stripe-is-building-how-they-pay/transcript.md) (2026-09-17)
 - [What is Omarchy?  #OS #AI #agents](../episodes/2026-09-17-what-is-omarchy-os-ai-agents/transcript.md) (2026-09-17)

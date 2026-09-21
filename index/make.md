@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (591 episodes):
+Episodes discussing **Make** (592 episodes):
 
+- [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [Jensen Huang's mic-drop answer on AI safety #dreamforce #aisafety #meta #zuckerberg #nvidia](../episodes/2026-09-18-jensen-huangs-mic-drop-answer-on-ai-safety-dreamforce-aisafety-meta-zuckerberg-n/transcript.md) (2026-09-18)
 - [AI Agents Are Starting To Buy. Stripe Is Building How They Pay.](../episodes/2026-09-17-ai-agents-are-starting-to-buy-stripe-is-building-how-they-pay/transcript.md) (2026-09-17)
