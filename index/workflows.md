@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (343 episodes):
+Episodes discussing **Workflows** (344 episodes):
 
+- [The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork](../episodes/2026-09-21-the-ai-labs-still-have-to-earn-our-trust-ai-agents-openai-productivity-futureofw/transcript.md) (2026-09-21)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)
 - [The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.](../episodes/2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side/transcript.md) (2026-09-13)

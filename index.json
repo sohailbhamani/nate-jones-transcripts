@@ -1,10 +1,44 @@
 {
-  "total_videos": 831,
+  "total_videos": 832,
   "date_range": {
-    "newest": "2026-09-20",
+    "newest": "2026-09-21",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork",
+      "video_id": "HBz9O5e7FiE",
+      "youtube_url": "https://www.youtube.com/watch?v=HBz9O5e7FiE",
+      "publish_date": "2026-09-21",
+      "duration": "0:47",
+      "duration_seconds": 47,
+      "view_count": 655,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Here is the bar, and almost nothing clears it yet. Think about what it would actually take to trust an AI with a real trip. Not booking a single flight, the whole thing. It would compare the options against your real calendar, read the cancellation rules, catch the scheduling conflict you missed, and come back with a plan that is ready for you to approve, not a pile of tabs for you to reconcile.\n\nThat is not a chatbot answer. That is an executive-assistant amount of work, the kind of thing you would happily pay a person to handle. If an agent did that, and did it reliably, you would pay for it and you would feel comfortable leaning on it. And reliably is the whole game. Not most of the time, not usually. Nearly one hundred percent of the time. That is the bar the labs have to clear before any of us hands over a bigger, recurring, paid relationship, and it is far higher than a slick demo makes it look. The gap between impressive and trustworthy is exactly the gap between a cool video and a monthly bill you are glad to pay.\n\nThe full write-up on what the labs still have to earn: https://natesnewsletter.substack.com/p/apple-openai-good-enough-ai?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#AI #agents #OpenAI #productivity #futureofwork\nYou're calling a business and the phone app can bring up something relevant like a confirmation code or a reservation number on the call"
+      ],
+      "transcript_chars": 786,
+      "folder": "2026-09-21-the-ai-labs-still-have-to-earn-our-trust-ai-agents-openai-productivity-futureofw"
+    },
     {
       "title": "You can be ambitious without the huge token bill. Here's how.",
       "video_id": "eLpRDIvOMEw",

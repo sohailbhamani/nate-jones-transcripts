@@ -1,6 +1,6 @@
 # Nate B Jones Podcast Index
 
-Index of 831 episodes across 121 topics.
+Index of 832 episodes across 121 topics.
 
 ## Topics
 
@@ -8,21 +8,21 @@ Index of 831 episodes across 121 topics.
 - [Make](make.md) (591 episodes)
 - [Ai Tools](ai-tools.md) (584 episodes)
 - [Ai Strategy](ai-strategy.md) (555 episodes)
-- [Coding](coding.md) (499 episodes)
-- [Product Management](product-management.md) (483 episodes)
+- [Coding](coding.md) (500 episodes)
+- [Product Management](product-management.md) (484 episodes)
 - [Ai News](ai-news.md) (417 episodes)
 - [Anthropic](anthropic.md) (393 episodes)
-- [Ai Agents](ai-agents.md) (379 episodes)
+- [Ai Agents](ai-agents.md) (380 episodes)
 - [Claude](claude.md) (372 episodes)
 - [Career](career.md) (369 episodes)
-- [Workflows](workflows.md) (343 episodes)
+- [Workflows](workflows.md) (344 episodes)
 - [Leadership](leadership.md) (338 episodes)
-- [Openai](openai.md) (336 episodes)
+- [Openai](openai.md) (337 episodes)
 - [Tutorials](tutorials.md) (325 episodes)
 - [Google](google.md) (299 episodes)
 - [Tutorial](tutorial.md) (265 episodes)
 - [Prompting](prompting.md) (248 episodes)
-- [Framework](framework.md) (222 episodes)
+- [Framework](framework.md) (223 episodes)
 - [Gemini](gemini.md) (167 episodes)
 - [News Roundup](news-roundup.md) (162 episodes)
 - [Microsoft](microsoft.md) (160 episodes)
@@ -113,13 +113,13 @@ Index of 831 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Cowork](cowork.md) (2 episodes)
+- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)

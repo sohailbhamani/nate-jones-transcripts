@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (483 episodes):
+Episodes discussing **Product Management** (484 episodes):
 
+- [The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork](../episodes/2026-09-21-the-ai-labs-still-have-to-earn-our-trust-ai-agents-openai-productivity-futureofw/transcript.md) (2026-09-21)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [AI Agents Are Starting To Buy. Stripe Is Building How They Pay.](../episodes/2026-09-17-ai-agents-are-starting-to-buy-stripe-is-building-how-they-pay/transcript.md) (2026-09-17)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)
