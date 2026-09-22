@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (162 episodes):
+Episodes discussing **News Roundup** (163 episodes):
 
+- [Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage](../episodes/2026-09-22-is-instinct-worth-it-ai-aiagents-instinct-automation-imessage/transcript.md) (2026-09-22)
 - [The hidden costs of a bad AI assistant #siri #apple #applenews](../episodes/2026-09-16-the-hidden-costs-of-a-bad-ai-assistant-siri-apple-applenews/transcript.md) (2026-09-16)
 - [Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface](../episodes/2026-09-10-remember-the-hugging-face-incident-that-was-a-preview-of-astra-astra-ai-huggingf/transcript.md) (2026-09-10)
 - [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)

@@ -1,10 +1,40 @@
 {
-  "total_videos": 833,
+  "total_videos": 834,
   "date_range": {
-    "newest": "2026-09-21",
+    "newest": "2026-09-22",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage",
+      "video_id": "AgzVxj_ztiA",
+      "youtube_url": "https://www.youtube.com/watch?v=AgzVxj_ztiA",
+      "publish_date": "2026-09-22",
+      "duration": "1:38",
+      "duration_seconds": 98,
+      "view_count": 3173,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "I have been skeptical of Instinct, the agent everyone in the valley is buzzing about, so I stayed quiet on it until I could try it myself. Then it did something I had genuinely never seen an agent do.\n\nIt is proactive, and it lives in iMessage. It noticed I had a flight coming up and texted me first, offering to check me in and drop the boarding pass into my wallet. I told it I would believe it when I saw it. Five minutes later it sent a link, I tapped add once, and there was a real, working boarding pass. No airport website, no app to download, basically zero clicks. Would I sign up for an agent just to skip flight check-in? No. But it is a preview of something we are going to see a lot more of: agents that act before you ask, and pull off things you didn't think agents could do yet.\n\nIf you use Instinct, tell me what surprised you. If you don't, what would put your jaw on the floor?\n\n\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#AI #aiagents #Instinct #automation #iMessage\nThe buzziest AI agent whatever in the valley right now is Instinct and I haven't talked about them because I've been very skeptical"
+      ],
+      "transcript_chars": 1606,
+      "folder": "2026-09-22-is-instinct-worth-it-ai-aiagents-instinct-automation-imessage"
+    },
     {
       "title": "The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork",
       "video_id": "HBz9O5e7FiE",
