@@ -1,7 +1,8 @@
 # Whisper
 
-Episodes discussing **Whisper** (9 episodes):
+Episodes discussing **Whisper** (10 episodes):
 
+- [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [What AI privacy advice always misses](../episodes/2026-08-05-what-ai-privacy-advice-always-misses/transcript.md) (2026-08-05)
 - [I Stopped Installing Claude Skills. Here's What I Do Instead.](../episodes/2026-08-01-i-stopped-installing-claude-skills-heres-what-i-do-instead/transcript.md) (2026-08-01)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)

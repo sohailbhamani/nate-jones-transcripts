@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (135 episodes):
+Episodes discussing **Startups** (136 episodes):
 
+- [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [What is Omarchy?  #OS #AI #agents](../episodes/2026-09-17-what-is-omarchy-os-ai-agents/transcript.md) (2026-09-17)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)
 - [Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](../episodes/2026-08-30-runable-raised-21-million-on-agents-that-finish-nobody-told-yours-what-done-mean/transcript.md) (2026-08-30)

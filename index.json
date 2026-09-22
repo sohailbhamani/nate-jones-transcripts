@@ -1,10 +1,87 @@
 {
-  "total_videos": 834,
+  "total_videos": 835,
   "date_range": {
     "newest": "2026-09-22",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Does Your Computer Belong To Codex? I Went To OpenAI To Ask.",
+      "video_id": "TR8RDUzQaMo",
+      "youtube_url": "https://www.youtube.com/watch?v=TR8RDUzQaMo",
+      "publish_date": "2026-09-22",
+      "duration": "42:29",
+      "duration_seconds": 2549,
+      "view_count": 16015,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI adoption at work is less about aptitude than access. I went inside OpenAI to ask what an AI-native workplace actually asks of you.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-native-workplace-adoption?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside an AI-native workplace?\n\nThe common story is that some people are good at AI and the rest need training. The real question is whether the agent can reach the work at all.\n\nI sat down with Andrew, who leads the team behind OpenAI's Codex desktop app, and Akshay, who leads OpenAI's productivity and engineering work. We got into why coding crossed over first and legal came second, and what a leader does when anyone can ship a working tool in an afternoon.\n\nIn this video, I share the inside scoop on how one person's AI ability becomes a team that moves faster:\n\n- Why AI adoption depends on access to context, not aptitude\n- How each function at OpenAI crossed over to agents\n- What changes for leaders when everyone can build tools\n- Where the time you save actually ends up going\n\nThe opportunity is real, but a team only gets faster when one person's judgment becomes usable by everyone else, and that is a leadership problem before it is a tooling one.\n\nChapters:\n00:00 Cold open: whose computer is it\n02:10 Meet Andrew and Akshay\n06:11 Why I was wrong about computer use\n10:17 Connectors, access, and the context problem\n13:20 How each function crossed over, coding then legal\n16:08 ChatGPT sites and a new kind of artifact\n18:55 The skills worth betting on\n22:48 Token efficiency and what you actually pay for\n25:35 Proactive AI and the 9am report\n29:04 Voice in, visuals out\n36:16 From individual productivity to team productivity\n38:11 The problem AI finally cracked\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "OpenAI",
+        "OpenAI Codex",
+        "Astra",
+        "AI agents",
+        "computer use",
+        "AI adoption",
+        "AI native workplace",
+        "future of work",
+        "AI for business",
+        "openai",
+        "openai codex"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Microsoft",
+          "Slack",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Cursor",
+          "Codex",
+          "Whisper",
+          "Make",
+          "MCP",
+          "Computer Use",
+          "Artifacts"
+        ],
+        "models": [
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "It's it's very similar in what the model is good at"
+      ],
+      "summary": [
+        "Is the computer my computer or is the computer really Codex's computer and I just have a corner and talk to it"
+      ],
+      "transcript_chars": 45008,
+      "folder": "2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask"
+    },
     {
       "title": "Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage",
       "video_id": "AgzVxj_ztiA",
