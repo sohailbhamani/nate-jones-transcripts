@@ -1,10 +1,43 @@
 {
-  "total_videos": 835,
+  "total_videos": 836,
   "date_range": {
-    "newest": "2026-09-22",
+    "newest": "2026-09-23",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents",
+      "video_id": "ntFJj-W7Otg",
+      "youtube_url": "https://www.youtube.com/watch?v=ntFJj-W7Otg",
+      "publish_date": "2026-09-23",
+      "duration": "2:02",
+      "duration_seconds": 122,
+      "view_count": 450,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Last week I was on the ground at Dreamforce, the biggest AI and Salesforce conference in the world, and this year's theme was all about not logging into Salesforce. The idea is that in an agent-first world, you point AI at the work and let it run the app for you instead of clicking through it yourself. A quick look at the reinvention of our tooling, and more from the floor coming.\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Salesforce",
+          "Slack"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents\nI'm here at Dreamforce, which is the number one conference for AI and Salesforce in the world"
+      ],
+      "transcript_chars": 661,
+      "folder": "2026-09-23-as-you-can-see-i-had-a-great-time-at-dreamforce-ai-dreamforce-salesforce-agents"
+    },
     {
       "title": "Does Your Computer Belong To Codex? I Went To OpenAI To Ask.",
       "video_id": "TR8RDUzQaMo",

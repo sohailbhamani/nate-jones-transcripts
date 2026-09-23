@@ -1,6 +1,6 @@
 # Nate B Jones Podcast Index
 
-Index of 835 episodes across 121 topics.
+Index of 836 episodes across 121 topics.
 
 ## Topics
 
@@ -12,7 +12,7 @@ Index of 835 episodes across 121 topics.
 - [Product Management](product-management.md) (486 episodes)
 - [Ai News](ai-news.md) (419 episodes)
 - [Anthropic](anthropic.md) (393 episodes)
-- [Ai Agents](ai-agents.md) (383 episodes)
+- [Ai Agents](ai-agents.md) (384 episodes)
 - [Claude](claude.md) (372 episodes)
 - [Career](career.md) (370 episodes)
 - [Workflows](workflows.md) (346 episodes)
@@ -27,12 +27,12 @@ Index of 835 episodes across 121 topics.
 - [News Roundup](news-roundup.md) (163 episodes)
 - [Microsoft](microsoft.md) (162 episodes)
 - [Meta](meta.md) (145 episodes)
-- [Deep Dive](deep-dive.md) (138 episodes)
+- [Deep Dive](deep-dive.md) (139 episodes)
 - [Startups](startups.md) (136 episodes)
 - [X](x.md) (133 episodes)
 - [Claude Code](claude-code.md) (121 episodes)
 - [Amazon](amazon.md) (118 episodes)
-- [Slack](slack.md) (117 episodes)
+- [Slack](slack.md) (118 episodes)
 - [Cursor](cursor.md) (115 episodes)
 - [Projects](projects.md) (114 episodes)
 - [Box](box.md) (105 episodes)
@@ -45,7 +45,7 @@ Index of 835 episodes across 121 topics.
 - [Opus](opus.md) (82 episodes)
 - [Artifacts](artifacts.md) (74 episodes)
 - [Youtube](youtube.md) (67 episodes)
-- [Salesforce](salesforce.md) (61 episodes)
+- [Salesforce](salesforce.md) (62 episodes)
 - [Codex](codex.md) (61 episodes)
 - [Perplexity](perplexity.md) (51 episodes)
 - [Aws](aws.md) (44 episodes)
@@ -118,11 +118,11 @@ Index of 835 episodes across 121 topics.
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
+- [Raycast](raycast.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 

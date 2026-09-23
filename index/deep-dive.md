@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (138 episodes):
+Episodes discussing **Deep Dive** (139 episodes):
 
+- [As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents](../episodes/2026-09-23-as-you-can-see-i-had-a-great-time-at-dreamforce-ai-dreamforce-salesforce-agents/transcript.md) (2026-09-23)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)
 - [The US–China AI Arms Race Isn't Real But The Lobbying Is. My Guest Worked Both Sides.](../episodes/2026-09-13-the-uschina-ai-arms-race-isnt-real-but-the-lobbying-is-my-guest-worked-both-side/transcript.md) (2026-09-13)
 - [Should you ask Astra to do this? #AGI #thisisAGI #openai #astra](../episodes/2026-09-09-should-you-ask-astra-to-do-this-agi-thisisagi-openai-astra/transcript.md) (2026-09-09)
