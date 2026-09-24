@@ -1,10 +1,70 @@
 {
-  "total_videos": 836,
+  "total_videos": 837,
   "date_range": {
-    "newest": "2026-09-23",
+    "newest": "2026-09-24",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.",
+      "video_id": "ry9J1i3krIY",
+      "youtube_url": "https://www.youtube.com/watch?v=ry9J1i3krIY",
+      "publish_date": "2026-09-24",
+      "duration": "46:27",
+      "duration_seconds": 2787,
+      "view_count": 7805,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "World models are the next expansion of AI, and NVIDIA is building them for robots, self-driving cars, and factory floors. I sat down with Ming-Yu Liu, VP of Cosmos Lab at NVIDIA, to find out what they actually do.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/nvidia-world-models?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside NVIDIA's world model work?\n\nThe common story is that NVIDIA is a chip company. The real question is why it keeps building the models that run on those chips.\n\nIn this video, I share the inside scoop on what world models are and what they change:\n\n- What a world model is and how it relates to an LLM\n- Why NVIDIA builds models for the developers who buy its chips\n- How Cosmos 3 combines a reasoner, a generator, and actions\n- Where verifiable feedback decides which robot tasks get solved first\n\nWorld models widen what developers can build in physical space, and they move more of the responsibility for safety onto the people designing those systems.\n\nChapters:\n00:00 cold open\n00:30 what a world model actually is\n05:39 what world models are and where cosmos fits\n09:46 what cosmos 3 puts into one model\n11:57 model sizes and the real-time constraint\n13:17 scaling laws for world models\n18:40 does the model really learn physics\n21:30 inside the reasoner and the generator\n26:03 what a policy model actually does\n33:16 why specialization wins on efficiency\n38:50 verifiable domains and the laundry question\n41:23 the model family and why openness matters\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "world models",
+        "NVIDIA Cosmos",
+        "physical AI",
+        "policy model",
+        "Ming-Yu Liu",
+        "world models vs LLMs",
+        "NVIDIA Cosmos 3 explained",
+        "robotics foundation models",
+        "future tech",
+        "nvidia",
+        "future gadgets"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "\u0625\u0630\u064b\u0627\u060c \u0646\u062d\u0646 \u0646\u0642\u0648\u0644 \u0625\u0646\u0647  \u0633\u064a\u0643\u0648\u0646 \u0645\u0646 \u0627\u0644\u0623\u0633\u0631\u0639  \u0627\u0645\u062a\u0644\u0627\u0643 \u0631\u0648\u0628\u0648\u062a \u0641\u064a \u0645\u0646\u0632\u0644\u064a  \u064a\u0642\u0648\u0645 \u0628\u063a\u0633\u0644 \u0627\u0644\u0645\u0644\u0627\u0628\u0633  \u0648\u0637\u064a\u0651\u0647\u0627 \u0628\u0634\u0643\u0644 \u0635\u062d\u064a\u062d\u060c  \u0628\u062f\u0644\u0627\u064b \u0645\u0646 \u0631\u0648\u0628\u0648\u062a \u064a\u0635\u0646\u0639  \u0637\u0628\u0642 \u0628\u064a\u0636 \u0645\u062e\u0641\u0648\u0642 \u0645\u062b\u0627\u0644\u064a"
+      ],
+      "transcript_chars": 34808,
+      "folder": "2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find-out"
+    },
     {
       "title": "As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents",
       "video_id": "ntFJj-W7Otg",
