@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (325 episodes):
+Episodes discussing **Tutorials** (326 episodes):
 
+- [How To Use ChatGPT Work: The Complete Beginner's Guide (2026)](../episodes/2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026/transcript.md) (2026-09-25)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface](../episodes/2026-09-10-remember-the-hugging-face-incident-that-was-a-preview-of-astra-astra-ai-huggingf/transcript.md) (2026-09-10)
 - [GPT-6 Astra Doesn't Need Your Instructions Anymore.](../episodes/2026-09-06-gpt-6-astra-doesnt-need-your-instructions-anymore/transcript.md) (2026-09-06)

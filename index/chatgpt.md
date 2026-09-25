@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (99 episodes):
+Episodes discussing **Chatgpt** (100 episodes):
 
+- [How To Use ChatGPT Work: The Complete Beginner's Guide (2026)](../episodes/2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026/transcript.md) (2026-09-25)
 - [When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.](../episodes/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find-out/transcript.md) (2026-09-24)
 - [OpenAI, NVIDIA And Anthropic Just Split. Here's How I'd Spend $20, $60 Or $200.](../episodes/2026-09-02-openai-nvidia-and-anthropic-just-split-heres-how-id-spend-20-60-or-200/transcript.md) (2026-09-02)
 - [NVIDIA Went To Wall Street For $500 Billion. Your Retirement Is In The Deal.](../episodes/2026-08-16-nvidia-went-to-wall-street-for-500-billion-your-retirement-is-in-the-deal/transcript.md) (2026-08-16)

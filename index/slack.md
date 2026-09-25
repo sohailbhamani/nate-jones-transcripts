@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (118 episodes):
+Episodes discussing **Slack** (119 episodes):
 
+- [How To Use ChatGPT Work: The Complete Beginner's Guide (2026)](../episodes/2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026/transcript.md) (2026-09-25)
 - [As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents](../episodes/2026-09-23-as-you-can-see-i-had-a-great-time-at-dreamforce-ai-dreamforce-salesforce-agents/transcript.md) (2026-09-23)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)

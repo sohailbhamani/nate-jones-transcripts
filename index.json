@@ -1,10 +1,78 @@
 {
-  "total_videos": 838,
+  "total_videos": 839,
   "date_range": {
     "newest": "2026-09-25",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "How To Use ChatGPT Work: The Complete Beginner's Guide (2026)",
+      "video_id": "Risal7sjYms",
+      "youtube_url": "https://www.youtube.com/watch?v=Risal7sjYms",
+      "publish_date": "2026-09-25",
+      "duration": "1:07:55",
+      "duration_seconds": 4075,
+      "view_count": 7041,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "How to use ChatGPT Work: the complete beginner's guide to giving AI a job in the cloud, editing the files you already have, working across your apps, and scheduling jobs that repeat. No coding required.\n\nThis is a full walkthrough of ChatGPT Work and OpenAI Codex for everyday work, not software development. Where to run a task so it survives a closed laptop. How to talk to a job while it runs. What to say so a document gets a surgical edit instead of a rewrite. How to define clean before handing over a messy spreadsheet. How to turn a folder of receipts into a workbook you can check. When to use projects, skills, connected apps, scheduled runs, and event triggers. Which model and how much reasoning effort each job deserves, and how to keep your token usage from getting away from you.\n\nFull post:\nhttps://nateszerotoai.substack.com/p/beginners-guide-to-chatgpt-work?utm_source=youtube&utm_medium=video&utm_campaign=free-to-paid&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nIn this video, I share a step by step guide to running ChatGPT Work and Codex across ordinary work:\n\n- How to choose cloud or local before you leave a long job\n- What to say so a document gets edited, not rewritten\n- Why research is only useful when disagreement stays visible\n- Where your tokens actually go across tasks, voice, and schedules\n\nThese tools take real work off your plate, and they only stay useful if you keep the rules, the sources, and the checks on your side of the desk.\n\nChapters:\n00:00 intro: chat, work, or codex\n03:21 cloud or local: keep the job running with your laptop closed\n06:18 voice, dictation, and screen context\n09:57 editing a document without rewriting it\n13:29 cleaning a messy spreadsheet\n17:14 turning receipts and photos into a table\n21:01 research, reports, and decks from one task\n27:56 the browser, connected apps, and projects\n41:46 instructions, skills, and choosing a model\n48:15 multiple agents, sites, and goals\n57:58 scheduling, triggers, and quiet monitors\n01:07:49 usage, tokens, and stopping a bad run\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "ChatGPT Work",
+        "OpenAI Codex",
+        "Astra",
+        "AI agents",
+        "AI workflows",
+        "how to use ChatGPT Work",
+        "ChatGPT Work tutorial",
+        "ChatGPT scheduled tasks",
+        "ChatGPT computer use",
+        "ChatGPT sites",
+        "chatgpt scheduled tasks",
+        "chatgpt codex",
+        "codex tutorial",
+        "chatgpt tutorial",
+        "how to use chatgpt work",
+        "chatgpt work tutorial",
+        "how to use chatgpt",
+        "chatgpt for beginners",
+        "chatgpt",
+        "chatgpt work"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Slack",
+          "GitHub",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Codex"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How To Use ChatGPT Work: The Complete Beginner's Guide (2026)\n\u064a\u0645\u0643\u0646\u0643 \u0627\u0644\u0622\u0646 \u0625\u0633\u0646\u0627\u062f \u0645\u0647\u0645\u0629  \u0625\u0644\u0649 Chat GPT \u0639\u0644\u0649 \u0627\u0644\u0633\u062d\u0627\u0628\u0629\u060c  \u0648\u0625\u063a\u0644\u0627\u0642 \u062d\u0627\u0633\u0648\u0628\u0643\u060c  \u0648\u0627\u0644\u0627\u0628\u062a\u0639\u0627\u062f \u0639\u0646\u0647\u060c \u062b\u0645  \u0627\u0644\u0639\u0648\u062f\u0629 \u0644\u062a\u062c\u062f \u062a\u0642\u0631\u064a\u0631\u064b\u0627  \u0623\u0648 \u062c\u062f\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0623\u0648  \u0645\u0648\u0642\u0639\u064b\u0627 \u0625\u0644\u0643"
+      ],
+      "transcript_chars": 60126,
+      "folder": "2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026"
+    },
     {
       "title": "Why world models matter #nvidia #ai #physicalai #robots",
       "video_id": "8B6KuqZuHng",

@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (502 episodes):
+Episodes discussing **Coding** (503 episodes):
 
+- [How To Use ChatGPT Work: The Complete Beginner's Guide (2026)](../episodes/2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026/transcript.md) (2026-09-25)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork](../episodes/2026-09-21-the-ai-labs-still-have-to-earn-our-trust-ai-agents-openai-productivity-futureofw/transcript.md) (2026-09-21)
 - [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)

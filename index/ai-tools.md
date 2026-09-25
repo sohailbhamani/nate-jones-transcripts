@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (587 episodes):
+Episodes discussing **Ai Tools** (588 episodes):
 
+- [How To Use ChatGPT Work: The Complete Beginner's Guide (2026)](../episodes/2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026/transcript.md) (2026-09-25)
 - [When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.](../episodes/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find-out/transcript.md) (2026-09-24)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)
