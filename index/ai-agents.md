@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (384 episodes):
+Episodes discussing **Ai Agents** (385 episodes):
 
+- [Why world models matter #nvidia #ai #physicalai #robots](../episodes/2026-09-25-why-world-models-matter-nvidia-ai-physicalai-robots/transcript.md) (2026-09-25)
 - [As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents](../episodes/2026-09-23-as-you-can-see-i-had-a-great-time-at-dreamforce-ai-dreamforce-salesforce-agents/transcript.md) (2026-09-23)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage](../episodes/2026-09-22-is-instinct-worth-it-ai-aiagents-instinct-automation-imessage/transcript.md) (2026-09-22)

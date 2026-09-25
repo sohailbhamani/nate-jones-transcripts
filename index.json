@@ -1,10 +1,42 @@
 {
-  "total_videos": 837,
+  "total_videos": 838,
   "date_range": {
-    "newest": "2026-09-24",
+    "newest": "2026-09-25",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Why world models matter #nvidia #ai #physicalai #robots",
+      "video_id": "8B6KuqZuHng",
+      "youtube_url": "https://www.youtube.com/watch?v=8B6KuqZuHng",
+      "publish_date": "2026-09-25",
+      "duration": "0:35",
+      "duration_seconds": 35,
+      "view_count": 1244,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Had a fantastic conversation on world models with Ming-Yu Liu, VP of Cosmos Lab at NVIDIA. Training a robot in the real world is slow, because every new environment has to physically exist. Build a good enough simulation of the world instead, and you can spin up a thousand kitchens in software and let the robot learn across all of them. You trade compute for development speed.\n\nThe full write-up from inside NVIDIA: https://natesnewsletter.substack.com/p/inside-nvidia-what-a-world-model?utm_source=youtube&utm_medium=video&utm_campaign=inside-nvidia-what-a-world-model-launch&utm_content=shorts\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Why world models matter #nvidia #ai #physicalai #robots\nAnd that's also why we want to build a war model because if we can have a good policy of the war and the robot in that with the war, then you"
+      ],
+      "transcript_chars": 471,
+      "folder": "2026-09-25-why-world-models-matter-nvidia-ai-physicalai-robots"
+    },
     {
       "title": "When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.",
       "video_id": "ry9J1i3krIY",

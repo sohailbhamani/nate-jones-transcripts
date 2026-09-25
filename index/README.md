@@ -1,18 +1,18 @@
 # Nate B Jones Podcast Index
 
-Index of 837 episodes across 121 topics.
+Index of 838 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (661 episodes)
+- [Frameworks](frameworks.md) (662 episodes)
 - [Make](make.md) (594 episodes)
 - [Ai Tools](ai-tools.md) (587 episodes)
-- [Ai Strategy](ai-strategy.md) (558 episodes)
+- [Ai Strategy](ai-strategy.md) (559 episodes)
 - [Coding](coding.md) (502 episodes)
-- [Product Management](product-management.md) (486 episodes)
+- [Product Management](product-management.md) (487 episodes)
 - [Ai News](ai-news.md) (419 episodes)
 - [Anthropic](anthropic.md) (393 episodes)
-- [Ai Agents](ai-agents.md) (384 episodes)
+- [Ai Agents](ai-agents.md) (385 episodes)
 - [Claude](claude.md) (372 episodes)
 - [Career](career.md) (370 episodes)
 - [Workflows](workflows.md) (346 episodes)
@@ -20,7 +20,7 @@ Index of 837 episodes across 121 topics.
 - [Leadership](leadership.md) (338 episodes)
 - [Tutorials](tutorials.md) (325 episodes)
 - [Google](google.md) (300 episodes)
-- [Tutorial](tutorial.md) (266 episodes)
+- [Tutorial](tutorial.md) (267 episodes)
 - [Prompting](prompting.md) (248 episodes)
 - [Framework](framework.md) (224 episodes)
 - [Gemini](gemini.md) (167 episodes)
@@ -41,7 +41,7 @@ Index of 837 episodes across 121 topics.
 - [Github](github.md) (95 episodes)
 - [Apple](apple.md) (92 episodes)
 - [Mcp](mcp.md) (89 episodes)
-- [Nvidia](nvidia.md) (87 episodes)
+- [Nvidia](nvidia.md) (88 episodes)
 - [Opus](opus.md) (82 episodes)
 - [Artifacts](artifacts.md) (74 episodes)
 - [Youtube](youtube.md) (67 episodes)
@@ -113,16 +113,16 @@ Index of 837 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Cowork](cowork.md) (2 episodes)
 - [Claude Cowork](claude-cowork.md) (2 episodes)
+- [Cowork](cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
+- [Ollama](ollama.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 

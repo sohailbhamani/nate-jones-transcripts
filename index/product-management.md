@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (486 episodes):
+Episodes discussing **Product Management** (487 episodes):
 
+- [Why world models matter #nvidia #ai #physicalai #robots](../episodes/2026-09-25-why-world-models-matter-nvidia-ai-physicalai-robots/transcript.md) (2026-09-25)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [The AI labs still have to earn our trust ... #AI #agents #OpenAI #productivity #futureofwork](../episodes/2026-09-21-the-ai-labs-still-have-to-earn-our-trust-ai-agents-openai-productivity-futureofw/transcript.md) (2026-09-21)
 - [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)

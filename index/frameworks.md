@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (661 episodes):
+Episodes discussing **Frameworks** (662 episodes):
 
+- [Why world models matter #nvidia #ai #physicalai #robots](../episodes/2026-09-25-why-world-models-matter-nvidia-ai-physicalai-robots/transcript.md) (2026-09-25)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)

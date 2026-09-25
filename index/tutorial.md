@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (266 episodes):
+Episodes discussing **Tutorial** (267 episodes):
 
+- [Why world models matter #nvidia #ai #physicalai #robots](../episodes/2026-09-25-why-world-models-matter-nvidia-ai-physicalai-robots/transcript.md) (2026-09-25)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [AI Agents Are Starting To Buy. Stripe Is Building How They Pay.](../episodes/2026-09-17-ai-agents-are-starting-to-buy-stripe-is-building-how-they-pay/transcript.md) (2026-09-17)
