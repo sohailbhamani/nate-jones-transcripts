@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (393 episodes):
+Episodes discussing **Anthropic** (394 episodes):
 
+- [Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance](../episodes/2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person/transcript.md) (2026-09-26)
 - [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](../episodes/2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su/transcript.md) (2026-09-10)
 - [Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens](../episodes/2026-09-07-fable-51-is-quietly-45-cheaper-to-run-ai-fable5-anthropic-apibuilders-tokens/transcript.md) (2026-09-07)

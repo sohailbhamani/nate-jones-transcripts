@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (340 episodes):
+Episodes discussing **Openai** (341 episodes):
 
+- [Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance](../episodes/2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person/transcript.md) (2026-09-26)
 - [How To Use ChatGPT Work: The Complete Beginner's Guide (2026)](../episodes/2026-09-25-how-to-use-chatgpt-work-the-complete-beginners-guide-2026/transcript.md) (2026-09-25)
 - [When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.](../episodes/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find-out/transcript.md) (2026-09-24)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)

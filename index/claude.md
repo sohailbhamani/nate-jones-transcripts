@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (372 episodes):
+Episodes discussing **Claude** (373 episodes):
 
+- [Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance](../episodes/2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person/transcript.md) (2026-09-26)
 - [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](../episodes/2026-09-10-i-asked-fable-51-and-gpt-6-astra-to-get-me-out-of-copy-paste-hell-the-results-su/transcript.md) (2026-09-10)
 - [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)

@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (140 episodes):
+Episodes discussing **Deep Dive** (141 episodes):
 
+- [Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance](../episodes/2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person/transcript.md) (2026-09-26)
 - [When Will AI Make Me Scrambled Eggs? I Went To NVIDIA To Find Out.](../episodes/2026-09-24-when-will-ai-make-me-scrambled-eggs-i-went-to-nvidia-to-find-out/transcript.md) (2026-09-24)
 - [As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents](../episodes/2026-09-23-as-you-can-see-i-had-a-great-time-at-dreamforce-ai-dreamforce-salesforce-agents/transcript.md) (2026-09-23)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)

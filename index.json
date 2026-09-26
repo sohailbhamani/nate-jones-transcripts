@@ -1,10 +1,43 @@
 {
-  "total_videos": 839,
+  "total_videos": 840,
   "date_range": {
-    "newest": "2026-09-25",
+    "newest": "2026-09-26",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance",
+      "video_id": "V2LM98zJlko",
+      "youtube_url": "https://www.youtube.com/watch?v=V2LM98zJlko",
+      "publish_date": "2026-09-26",
+      "duration": "1:44",
+      "duration_seconds": 104,
+      "view_count": 1932,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Here's a test of how smart and how connected your AI really is, and it might pay for itself. Ask it to go back through your last few tax returns, the tax law that applied, and the emails and expenses behind them, then suggest amendments that could save you money. A friend of mine did this with ChatGPT on two or three years of returns and found thousands of dollars he'd left on the table. It may not happen for you, but at minimum you'll see every connection the AI wants, like your email and local files, and you can decide what to turn on. If you try it, tell me what it found.\n\n(Not tax advice. Have a professional look before you file anything.)\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Beginner",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance\nHere's a trick that is both a measure of intelligence and also saves you money on AI"
+      ],
+      "transcript_chars": 1773,
+      "folder": "2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person"
+    },
     {
       "title": "How To Use ChatGPT Work: The Complete Beginner's Guide (2026)",
       "video_id": "Risal7sjYms",

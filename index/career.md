@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (370 episodes):
+Episodes discussing **Career** (371 episodes):
 
+- [Is your AI smart? Use this simple trick to find out #AI #ChatGPT #taxes #money #personalfinance](../episodes/2026-09-26-is-your-ai-smart-use-this-simple-trick-to-find-out-ai-chatgpt-taxes-money-person/transcript.md) (2026-09-26)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [You can be ambitious without the huge token bill. Here's how.](../episodes/2026-09-20-you-can-be-ambitious-without-the-huge-token-bill-heres-how/transcript.md) (2026-09-20)
 - [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
