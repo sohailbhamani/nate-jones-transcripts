@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (114 episodes):
+Episodes discussing **Projects** (115 episodes):
 
+- [Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?](../episodes/2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e/transcript.md) (2026-10-08)
 - [Why Developers Are Losing Their Minds Over AI That Can't Write](../episodes/2026-09-21-why-developers-are-losing-their-minds-over-ai-that-cant-write/transcript.md) (2026-09-21)
 - [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)

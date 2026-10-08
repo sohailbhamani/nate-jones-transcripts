@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (375 episodes):
+Episodes discussing **Career** (376 episodes):
 
+- [Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?](../episodes/2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e/transcript.md) (2026-10-08)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Meta's Muse can get your money back #AI #meta #muse #agent](../episodes/2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent/transcript.md) (2026-10-01)
 - [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)

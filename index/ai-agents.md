@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (389 episodes):
+Episodes discussing **Ai Agents** (390 episodes):
 
+- [Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?](../episodes/2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e/transcript.md) (2026-10-08)
 - [OpenAI's Dots caught my zombie meeting #AI #OpenAI #Dots #aiagents #productivity](../episodes/2026-10-06-openais-dots-caught-my-zombie-meeting-ai-openai-dots-aiagents-productivity/transcript.md) (2026-10-06)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Meta's Muse can get your money back #AI #meta #muse #agent](../episodes/2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent/transcript.md) (2026-10-01)

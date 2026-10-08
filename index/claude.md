@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (378 episodes):
+Episodes discussing **Claude** (379 episodes):
 
+- [Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?](../episodes/2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e/transcript.md) (2026-10-08)
 - [Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?](../episodes/2026-10-03-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version/transcript.md) (2026-10-03)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Opus 5.5 is impressive and cost-efficient #taskefficient #opus5.5 #claude](../episodes/2026-10-02-opus-55-is-impressive-and-cost-efficient-taskefficient-opus55-claude/transcript.md) (2026-10-02)

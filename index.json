@@ -1,5 +1,5 @@
 {
-  "total_videos": 854,
+  "total_videos": 855,
   "date_range": {
     "newest": "2026-10-08",
     "oldest": "2024-05-21"
@@ -36,6 +36,72 @@
       ],
       "transcript_chars": 1923,
       "folder": "2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech"
+    },
+    {
+      "title": "Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?",
+      "video_id": "wep2EQ9Y_Tc",
+      "youtube_url": "https://www.youtube.com/watch?v=wep2EQ9Y_Tc",
+      "publish_date": "2026-10-08",
+      "duration": "24:54",
+      "duration_seconds": 1494,
+      "view_count": 3426,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Google bid $10 million for Spirit Airlines' old work emails and Teams records to train AI agents. A lot of the value people create at work never shows up in those records, and that matters for your job and for how AI learns.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/google-spirit-airlines-ai-training-data?utm_source=youtube&utm_medium=video&utm_campaign=google-spirit-airlines-ai-training-data-launch&utm_content=description\n\nNate's Library MCP (every prompt kit, article, and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=google-spirit-airlines-ai-training-data-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=google-spirit-airlines-ai-training-data-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening in the market for work data and AI agents?\n\nThe common story is that enough work records will teach AI to do your job, but the real question is whether those records capture the work at all.\n\nIn this video, I share the inside scoop on what AI companies are buying when they buy work records:\n- Why Google bid $10 million for Spirit Airlines' work emails\n- What separates real work from the performance of work\n- Where AI agents learn what counts as a job done\n- How workers and companies should approach a sale of work data\n\nAI agents can take real drudgery off your plate, and the people building them still need a credible answer to what your work is, so make that case before someone sells the record of it.\n\nChapters:\n00:00 Why Google bid $10 million for old work emails\n01:28 Verifiable work and the PRD problem\n03:26 The invoice that shows what work is\n04:52 Work versus the performance of work\n06:22 Inside the Spirit Airlines data auction\n06:50 Mercor and who decides a job is done\n08:55 Data brokers and the data of last resort\n12:06 Workers push back on data sales\n15:15 Agents that simulate work\n17:48 Why you can spot a Claude PowerPoint\n18:42 What workers and companies should do\n23:15 What good work with agents looks like\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Google",
+        "Spirit Airlines",
+        "AI training data",
+        "AI agents",
+        "Mercor",
+        "knowledge work",
+        "future of work",
+        "selling company data to AI",
+        "work emails AI training"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Amazon",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "The end of work when we one don't really understand what's going on and two don't realize how hard a problem it is that we solve every day and how difficult it is to teach agents to do that"
+      ],
+      "summary": [
+        "So why does Google need to bid $10 million for Spirit Airlines old work emails"
+      ],
+      "transcript_chars": 24820,
+      "folder": "2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e"
     },
     {
       "title": "Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.",
