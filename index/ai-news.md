@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (421 episodes):
+Episodes discussing **Ai News** (422 episodes):
 
+- [Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech](../episodes/2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech/transcript.md) (2026-10-08)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)

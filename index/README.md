@@ -1,16 +1,16 @@
 # Nate B Jones Podcast Index
 
-Index of 853 episodes across 121 topics.
+Index of 854 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (667 episodes)
+- [Frameworks](frameworks.md) (668 episodes)
 - [Make](make.md) (599 episodes)
 - [Ai Tools](ai-tools.md) (598 episodes)
-- [Ai Strategy](ai-strategy.md) (566 episodes)
-- [Coding](coding.md) (507 episodes)
+- [Ai Strategy](ai-strategy.md) (567 episodes)
+- [Coding](coding.md) (508 episodes)
 - [Product Management](product-management.md) (490 episodes)
-- [Ai News](ai-news.md) (421 episodes)
+- [Ai News](ai-news.md) (422 episodes)
 - [Anthropic](anthropic.md) (401 episodes)
 - [Ai Agents](ai-agents.md) (389 episodes)
 - [Claude](claude.md) (378 episodes)
@@ -19,12 +19,12 @@ Index of 853 episodes across 121 topics.
 - [Workflows](workflows.md) (348 episodes)
 - [Leadership](leadership.md) (341 episodes)
 - [Tutorials](tutorials.md) (329 episodes)
-- [Google](google.md) (302 episodes)
+- [Google](google.md) (303 episodes)
 - [Tutorial](tutorial.md) (271 episodes)
 - [Prompting](prompting.md) (250 episodes)
 - [Framework](framework.md) (227 episodes)
 - [Gemini](gemini.md) (169 episodes)
-- [News Roundup](news-roundup.md) (164 episodes)
+- [News Roundup](news-roundup.md) (165 episodes)
 - [Microsoft](microsoft.md) (164 episodes)
 - [Meta](meta.md) (149 episodes)
 - [Deep Dive](deep-dive.md) (147 episodes)
@@ -113,13 +113,13 @@ Index of 853 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Cowork](cowork.md) (2 episodes)
+- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
+- [Fiverr](fiverr.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)

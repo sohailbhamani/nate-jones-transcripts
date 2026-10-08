@@ -1,10 +1,42 @@
 {
-  "total_videos": 853,
+  "total_videos": 854,
   "date_range": {
-    "newest": "2026-10-07",
+    "newest": "2026-10-08",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech",
+      "video_id": "EZAugIwI1Do",
+      "youtube_url": "https://www.youtube.com/watch?v=EZAugIwI1Do",
+      "publish_date": "2026-10-08",
+      "duration": "1:45",
+      "duration_seconds": 105,
+      "view_count": 4600,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Google is about to release a new model called Argon, and funnily enough the name comes from the Greek word for idle. The real question is whether you can catch up in AI once you've fallen this far behind. Google hasn't had a frontier model in months, and a lot of people are speculating it has settled for lightweight models for consumers and Search, which would be fine for a company where AI is a side bet. Leaks suggest some of Google's own engineers aren't thrilled with it, and early third-party benchmarks reportedly put it around ChatGPT's Sol 5.6, not 6 or 6.1. It isn't out yet, though, so we'll know in the next week or so.\n\nAnd the race isn't slowing down. Fable 5.5 is in preview, another ChatGPT model is coming, and there's no pause in the scaling laws. The bigger question for all of us is whether we can actually use the intelligence we already have. What do you think about Argon?\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Argon is entering the chat #AI #Google #Argon #AInews #tech\nCan you catch up in AI"
+      ],
+      "transcript_chars": 1923,
+      "folder": "2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech"
+    },
     {
       "title": "Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.",
       "video_id": "sVQ3XlM9I40",

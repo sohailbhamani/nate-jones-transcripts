@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (302 episodes):
+Episodes discussing **Google** (303 episodes):
 
+- [Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech](../episodes/2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech/transcript.md) (2026-10-08)
 - [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)

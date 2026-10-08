@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (164 episodes):
+Episodes discussing **News Roundup** (165 episodes):
 
+- [Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech](../episodes/2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech/transcript.md) (2026-10-08)
 - [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [Is Instinct worth it? #AI #aiagents #Instinct #automation #iMessage](../episodes/2026-09-22-is-instinct-worth-it-ai-aiagents-instinct-automation-imessage/transcript.md) (2026-09-22)
 - [The hidden costs of a bad AI assistant #siri #apple #applenews](../episodes/2026-09-16-the-hidden-costs-of-a-bad-ai-assistant-siri-apple-applenews/transcript.md) (2026-09-16)
