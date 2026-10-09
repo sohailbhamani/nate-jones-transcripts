@@ -78,6 +78,7 @@ yt_tags:
   - "work emails AI training"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Career"
