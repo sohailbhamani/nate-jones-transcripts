@@ -1,10 +1,46 @@
 {
-  "total_videos": 855,
+  "total_videos": 856,
   "date_range": {
-    "newest": "2026-10-08",
+    "newest": "2026-10-10",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "AI Benchmarks are dead #AI #benchmarks #Google #Gemini #AInews",
+      "video_id": "ysRarbe6btw",
+      "youtube_url": "https://www.youtube.com/watch?v=ysRarbe6btw",
+      "publish_date": "2026-10-10",
+      "duration": "0:17",
+      "duration_seconds": 17,
+      "view_count": 1915,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "You can stop reading those AI leaderboards. Google\u2019s Gemini 4 Argon just went to #1 on the Vals Index, and almost no one can actually use it yet. The AI that\u2019s winning right now isn\u2019t the one with the best score. It\u2019s the one built by people who use it obsessively and fix whatever breaks. That\u2019s the same test to hold the AI your own company is building to.\n\nWhy customer obsession beats any benchmark: https://natesnewsletter.substack.com/p/gemini-4-argon-customer-benchmark?utm_source=youtube&utm_medium=video&utm_campaign=gemini-4-argon-customer-benchmark-launch&utm_content=shorts\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Google"
+        ],
+        "people": [],
+        "products": [
+          "Gemini"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# AI Benchmarks are dead #AI #benchmarks #Google #Gemini #AInews\nYou can stop reading those AI leaderboards"
+      ],
+      "transcript_chars": 233,
+      "folder": "2026-10-10-ai-benchmarks-are-dead-ai-benchmarks-google-gemini-ainews"
+    },
     {
       "title": "Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech",
       "video_id": "EZAugIwI1Do",

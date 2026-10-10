@@ -1,30 +1,30 @@
 # Nate B Jones Podcast Index
 
-Index of 855 episodes across 121 topics.
+Index of 856 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (669 episodes)
 - [Make](make.md) (600 episodes)
 - [Ai Tools](ai-tools.md) (598 episodes)
-- [Ai Strategy](ai-strategy.md) (567 episodes)
+- [Ai Strategy](ai-strategy.md) (568 episodes)
 - [Coding](coding.md) (509 episodes)
 - [Product Management](product-management.md) (491 episodes)
-- [Ai News](ai-news.md) (423 episodes)
+- [Ai News](ai-news.md) (424 episodes)
 - [Anthropic](anthropic.md) (401 episodes)
 - [Ai Agents](ai-agents.md) (390 episodes)
 - [Claude](claude.md) (379 episodes)
 - [Career](career.md) (376 episodes)
 - [Openai](openai.md) (351 episodes)
 - [Workflows](workflows.md) (348 episodes)
-- [Leadership](leadership.md) (341 episodes)
+- [Leadership](leadership.md) (342 episodes)
 - [Tutorials](tutorials.md) (329 episodes)
-- [Google](google.md) (304 episodes)
+- [Google](google.md) (305 episodes)
 - [Tutorial](tutorial.md) (272 episodes)
 - [Prompting](prompting.md) (250 episodes)
 - [Framework](framework.md) (227 episodes)
-- [Gemini](gemini.md) (169 episodes)
-- [News Roundup](news-roundup.md) (165 episodes)
+- [Gemini](gemini.md) (170 episodes)
+- [News Roundup](news-roundup.md) (166 episodes)
 - [Microsoft](microsoft.md) (164 episodes)
 - [Meta](meta.md) (149 episodes)
 - [Deep Dive](deep-dive.md) (147 episodes)
