@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (376 episodes):
+Episodes discussing **Career** (377 episodes):
 
+- [The AI Paradox: 5 Human Skills That Are More Valuable Than Ever](../episodes/2026-10-11-the-ai-paradox-5-human-skills-that-are-more-valuable-than-ever/transcript.md) (2026-10-11)
 - [Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?](../episodes/2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e/transcript.md) (2026-10-08)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Meta's Muse can get your money back #AI #meta #muse #agent](../episodes/2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent/transcript.md) (2026-10-01)

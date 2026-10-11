@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (147 episodes):
+Episodes discussing **Deep Dive** (148 episodes):
 
+- [The AI Paradox: 5 Human Skills That Are More Valuable Than Ever](../episodes/2026-10-11-the-ai-paradox-5-human-skills-that-are-more-valuable-than-ever/transcript.md) (2026-10-11)
 - [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)
 - [OpenAI's Dots caught my zombie meeting #AI #OpenAI #Dots #aiagents #productivity](../episodes/2026-10-06-openais-dots-caught-my-zombie-meeting-ai-openai-dots-aiagents-productivity/transcript.md) (2026-10-06)
 - [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)

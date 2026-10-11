@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (401 episodes):
+Episodes discussing **Anthropic** (402 episodes):
 
+- [The AI Paradox: 5 Human Skills That Are More Valuable Than Ever](../episodes/2026-10-11-the-ai-paradox-5-human-skills-that-are-more-valuable-than-ever/transcript.md) (2026-10-11)
 - [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)
 - [Anthropic's $500 billion data center bet #ai](../episodes/2026-10-03-anthropics-500-billion-data-center-bet-ai/transcript.md) (2026-10-03)
 - [Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?](../episodes/2026-10-03-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version/transcript.md) (2026-10-03)
