@@ -80,6 +80,7 @@ yt_tags:
   - "ai career advice"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "Career"
