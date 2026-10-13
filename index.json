@@ -1,10 +1,66 @@
 {
-  "total_videos": 857,
+  "total_videos": 858,
   "date_range": {
-    "newest": "2026-10-11",
+    "newest": "2026-10-13",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "OpenAI's AI Wrote 700 Math Papers. Engineers Still Won't Trust AI With Their Code.",
+      "video_id": "pTh4IJ-Mi3Y",
+      "youtube_url": "https://www.youtube.com/watch?v=pTh4IJ-Mi3Y",
+      "publish_date": "2026-10-13",
+      "duration": "20:36",
+      "duration_seconds": 1236,
+      "view_count": 171,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "OpenAI just released more than 700 math research papers from a model it hasn't released. I think that's narrow superintelligence. And the reason many engineers still keep coding agents away from production tells you more about your job than the papers do.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/narrow-superintelligence-ai?utm_source=youtube&utm_medium=video&utm_campaign=narrow-superintelligence-ai-launch&utm_content=description\n\nNate's Library MCP, every article, prompt kit and guide I've ever published inside the AI you already use:\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=narrow-superintelligence-ai-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=narrow-superintelligence-ai-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside OpenAI's math release?\n\nThe common story is that superhuman math means AI is coming for your job, but the real question is why that ability hasn't shown up in coding, where every lab is pouring money and the answers are easy to check.\n\nIn this video, I share the inside scoop on narrow superintelligence and your work:\n- What the math papers contain and how the results could reach you\n- Why math suits AI training better than engineering or business work\n- How a search feature can pass every test and still create a privacy problem\n- Where to spend your skill points when AI ability is this uneven\n\nAI can now produce new results in mathematics, but finding the right question, designing systems that last, and following through on a decision are still human work worth getting better at.\n\nChapters:\n00:00 More than 700 math papers and the engineers who still don't trust AI code\n01:43 What the math papers actually contain\n04:13 The unreleased model and OpenAI's three-hour figure\n04:43 What narrow superintelligence means\n06:33 Why coding is the real test of transfer\n08:00 A search feature that passes every test\n10:38 Why gains in math don't transfer one-to-one\n11:11 When the fixed feature exposes a business problem\n14:06 Not every problem is a function of intelligence\n15:56 Where to spend your skill points\n17:01 We have more agency over AI than you think\n19:15 Execution, focus, and the fire in the belly\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "narrow superintelligence",
+        "superintelligence",
+        "OpenAI math papers",
+        "AI coding agents",
+        "AI and jobs",
+        "Alexandr Wang",
+        "will AI take my job",
+        "does AI reasoning transfer to work",
+        "openai",
+        "openai math problems"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "\u0623\u0635\u062f\u0631\u062a \u0634\u0631\u0643\u0629 OpenAI \u0644\u0644\u062a\u0648  \u0623\u0643\u062b\u0631 \u0645\u0646 700 \u0648\u0631\u0642\u0629 \u0628\u062d\u062b\u064a\u0629  \u0641\u064a \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a"
+      ],
+      "transcript_chars": 18273,
+      "folder": "2026-10-13-openais-ai-wrote-700-math-papers-engineers-still-wont-trust-ai-with-their-code"
+    },
     {
       "title": "The AI Paradox: 5 Human Skills That Are More Valuable Than Ever",
       "video_id": "huWizSgmRf0",
