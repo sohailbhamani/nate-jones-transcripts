@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (105 episodes):
+Episodes discussing **Box** (106 episodes):
 
+- [What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science](../episodes/2026-10-14-what-do-ai-math-and-anesthesia-have-in-common-ai-openai-math-terencetao-science/transcript.md) (2026-10-14)
 - [Is Omarchy The Last Desktop You'll Ever Need?](../episodes/2026-09-11-is-omarchy-the-last-desktop-youll-ever-need/transcript.md) (2026-09-11)
 - [Apple's New Mac Line is Built Around Local AI. The Bet Is You'd Rather Own Than Rent.](../episodes/2026-08-31-apples-new-mac-line-is-built-around-local-ai-the-bet-is-youd-rather-own-than-ren/transcript.md) (2026-08-31)
 - [Nobody Laid Out The Five Kinds Of Software You Can Make. So I Did.](../episodes/2026-08-19-nobody-laid-out-the-five-kinds-of-software-you-can-make-so-i-did/transcript.md) (2026-08-19)

@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (424 episodes):
+Episodes discussing **Ai News** (425 episodes):
 
+- [What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science](../episodes/2026-10-14-what-do-ai-math-and-anesthesia-have-in-common-ai-openai-math-terencetao-science/transcript.md) (2026-10-14)
 - [AI Benchmarks are dead #AI #benchmarks #Google #Gemini #AInews](../episodes/2026-10-10-ai-benchmarks-are-dead-ai-benchmarks-google-gemini-ainews/transcript.md) (2026-10-10)
 - [Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech](../episodes/2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech/transcript.md) (2026-10-08)
 - [Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?](../episodes/2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e/transcript.md) (2026-10-08)

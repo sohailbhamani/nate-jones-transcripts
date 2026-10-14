@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (569 episodes):
+Episodes discussing **Ai Strategy** (570 episodes):
 
+- [What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science](../episodes/2026-10-14-what-do-ai-math-and-anesthesia-have-in-common-ai-openai-math-terencetao-science/transcript.md) (2026-10-14)
 - [OpenAI's AI Wrote 700 Math Papers. Engineers Still Won't Trust AI With Their Code.](../episodes/2026-10-13-openais-ai-wrote-700-math-papers-engineers-still-wont-trust-ai-with-their-code/transcript.md) (2026-10-13)
 - [AI Benchmarks are dead #AI #benchmarks #Google #Gemini #AInews](../episodes/2026-10-10-ai-benchmarks-are-dead-ai-benchmarks-google-gemini-ainews/transcript.md) (2026-10-10)
 - [Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech](../episodes/2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech/transcript.md) (2026-10-08)

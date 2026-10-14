@@ -1,10 +1,43 @@
 {
-  "total_videos": 858,
+  "total_videos": 859,
   "date_range": {
-    "newest": "2026-10-13",
+    "newest": "2026-10-14",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science",
+      "video_id": "7RjEosTjhE0",
+      "youtube_url": "https://www.youtube.com/watch?v=7RjEosTjhE0",
+      "publish_date": "2026-10-14",
+      "duration": "1:47",
+      "duration_seconds": 107,
+      "view_count": 1717,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "OpenAI released solutions to hundreds of open math problems, and it\u2019s caused a real stir in the math community. Terence Tao, one of the world\u2019s best mathematicians, just gave a lecture reflecting on it, and one of the big worries is that these results are a black box: they work, but we don\u2019t understand how. That got me thinking about medicine, which is already full of black boxes. We don\u2019t fully understand how anesthesia works, or how it switches off consciousness, and we use it every day because we test it. It\u2019s a good reminder to keep some humility outside your own lane, and some humor. I\u2019m not a mathematician or a doctor, but I know AI.\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Box"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#AI #OpenAI #math #TerenceTao #science\nWhat does AI math and anesthesia have in common"
+      ],
+      "transcript_chars": 2033,
+      "folder": "2026-10-14-what-do-ai-math-and-anesthesia-have-in-common-ai-openai-math-terencetao-science"
+    },
     {
       "title": "OpenAI's AI Wrote 700 Math Papers. Engineers Still Won't Trust AI With Their Code.",
       "video_id": "pTh4IJ-Mi3Y",

@@ -1,21 +1,21 @@
 # Nate B Jones Podcast Index
 
-Index of 858 episodes across 121 topics.
+Index of 859 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (669 episodes)
 - [Make](make.md) (600 episodes)
 - [Ai Tools](ai-tools.md) (598 episodes)
-- [Ai Strategy](ai-strategy.md) (569 episodes)
+- [Ai Strategy](ai-strategy.md) (570 episodes)
 - [Coding](coding.md) (510 episodes)
 - [Product Management](product-management.md) (491 episodes)
-- [Ai News](ai-news.md) (424 episodes)
+- [Ai News](ai-news.md) (425 episodes)
 - [Anthropic](anthropic.md) (402 episodes)
 - [Ai Agents](ai-agents.md) (390 episodes)
 - [Claude](claude.md) (379 episodes)
 - [Career](career.md) (377 episodes)
-- [Openai](openai.md) (353 episodes)
+- [Openai](openai.md) (354 episodes)
 - [Workflows](workflows.md) (348 episodes)
 - [Leadership](leadership.md) (342 episodes)
 - [Tutorials](tutorials.md) (329 episodes)
@@ -26,7 +26,7 @@ Index of 858 episodes across 121 topics.
 - [Gemini](gemini.md) (170 episodes)
 - [News Roundup](news-roundup.md) (166 episodes)
 - [Microsoft](microsoft.md) (164 episodes)
-- [Deep Dive](deep-dive.md) (149 episodes)
+- [Deep Dive](deep-dive.md) (150 episodes)
 - [Meta](meta.md) (149 episodes)
 - [X](x.md) (139 episodes)
 - [Startups](startups.md) (137 episodes)
@@ -36,7 +36,7 @@ Index of 858 episodes across 121 topics.
 - [Cursor](cursor.md) (117 episodes)
 - [Projects](projects.md) (115 episodes)
 - [Chatgpt](chatgpt.md) (107 episodes)
-- [Box](box.md) (105 episodes)
+- [Box](box.md) (106 episodes)
 - [Github](github.md) (98 episodes)
 - [Deep Dives](deep-dives.md) (95 episodes)
 - [Apple](apple.md) (93 episodes)
@@ -113,16 +113,16 @@ Index of 858 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Cowork](cowork.md) (2 episodes)
+- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
+- [Ollama](ollama.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 
