@@ -1,7 +1,8 @@
 # Notion
 
-Episodes discussing **Notion** (34 episodes):
+Episodes discussing **Notion** (35 episodes):
 
+- [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)
 - [The AI Paradox: 5 Human Skills That Are More Valuable Than Ever](../episodes/2026-10-11-the-ai-paradox-5-human-skills-that-are-more-valuable-than-ever/transcript.md) (2026-10-11)
 - [The Infrastructure Nightmare Nobody Is Talking About](../episodes/2026-05-25-the-infrastructure-nightmare-nobody-is-talking-about/transcript.md) (2026-05-25)
 - [Anthropic's Mythos Just Beat OpenAI's GPT-5.5 At Real Hacking](../episodes/2026-05-16-anthropics-mythos-just-beat-openais-gpt-55-at-real-hacking/transcript.md) (2026-05-16)

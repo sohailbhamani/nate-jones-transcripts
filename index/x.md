@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (139 episodes):
+Episodes discussing **X** (140 episodes):
 
+- [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)
 - [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)
 - [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
 - [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)

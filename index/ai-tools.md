@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (598 episodes):
+Episodes discussing **Ai Tools** (599 episodes):
 
+- [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)
 - [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)
 - [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)
 - [Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?](../episodes/2026-10-03-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version/transcript.md) (2026-10-03)

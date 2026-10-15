@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (425 episodes):
+Episodes discussing **Ai News** (426 episodes):
 
+- [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)
 - [What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science](../episodes/2026-10-14-what-do-ai-math-and-anesthesia-have-in-common-ai-openai-math-terencetao-science/transcript.md) (2026-10-14)
 - [AI Benchmarks are dead #AI #benchmarks #Google #Gemini #AInews](../episodes/2026-10-10-ai-benchmarks-are-dead-ai-benchmarks-google-gemini-ainews/transcript.md) (2026-10-10)
 - [Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech](../episodes/2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech/transcript.md) (2026-10-08)
