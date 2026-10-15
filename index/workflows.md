@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (348 episodes):
+Episodes discussing **Workflows** (349 episodes):
 
+- [Is AI making us really productive? #AI #productivity #focus #futureofwork #careers](../episodes/2026-10-15-is-ai-making-us-really-productive-ai-productivity-focus-futureofwork-careers/transcript.md) (2026-10-15)
 - [OpenAI's Dots caught my zombie meeting #AI #OpenAI #Dots #aiagents #productivity](../episodes/2026-10-06-openais-dots-caught-my-zombie-meeting-ai-openai-dots-aiagents-productivity/transcript.md) (2026-10-06)
 - [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
