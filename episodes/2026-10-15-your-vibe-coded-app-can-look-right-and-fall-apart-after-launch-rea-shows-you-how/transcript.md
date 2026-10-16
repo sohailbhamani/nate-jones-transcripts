@@ -77,6 +77,7 @@ yt_tags:
   - "AI for non-developers"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
