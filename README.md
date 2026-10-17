@@ -4,10 +4,10 @@ Transcript archive of [Nate B Jones](https://www.youtube.com/@NateBJones) YouTub
 
 ## Stats
 
-- **Videos Downloaded**: 861
-- **Date Range**: May 21, 2024 - Oct 15, 2026
+- **Videos Downloaded**: 862
+- **Date Range**: May 21, 2024 - Oct 17, 2026
 - **Sync**: Automated via GitHub Actions (midnight + noon CST)
-- **Last Updated**: Oct 16, 2026
+- **Last Updated**: Oct 17, 2026
 
 ## Structure
 

@@ -1,10 +1,43 @@
 {
-  "total_videos": 861,
+  "total_videos": 862,
   "date_range": {
-    "newest": "2026-10-15",
+    "newest": "2026-10-17",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement",
+      "video_id": "Ypmd2M5-sMU",
+      "youtube_url": "https://www.youtube.com/watch?v=Ypmd2M5-sMU",
+      "publish_date": "2026-10-17",
+      "duration": "1:04",
+      "duration_seconds": 64,
+      "view_count": 4095,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Here\u2019s a fun prompt, partly for entertainment, but it kind of works. Ask the AI you use most: \u201cTell me how intelligent I am in terms of percentile. What\u2019s my IQ percentile, based on your interactions with others and what you\u2019ve observed about me?\u201d The score isn\u2019t the useful part. The useful part comes when you ask why. Mine came back with a read on how I reason, how I handle abstraction, where I\u2019m weak, and where I can grow. It takes five seconds.\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Opinion",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "You should too #AI #ChatGPT #Claude #prompts #selfimprovement\nHere's a fun prompt"
+      ],
+      "transcript_chars": 1103,
+      "folder": "2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme"
+    },
     {
       "title": "Is AI making us really productive? #AI #productivity #focus #futureofwork #careers",
       "video_id": "ShSVKyAjyyk",

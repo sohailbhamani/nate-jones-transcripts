@@ -1,27 +1,27 @@
 # Nate B Jones Podcast Index
 
-Index of 861 episodes across 121 topics.
+Index of 862 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (669 episodes)
 - [Make](make.md) (602 episodes)
-- [Ai Tools](ai-tools.md) (599 episodes)
+- [Ai Tools](ai-tools.md) (600 episodes)
 - [Ai Strategy](ai-strategy.md) (572 episodes)
 - [Coding](coding.md) (511 episodes)
 - [Product Management](product-management.md) (492 episodes)
 - [Ai News](ai-news.md) (426 episodes)
-- [Anthropic](anthropic.md) (402 episodes)
+- [Anthropic](anthropic.md) (403 episodes)
 - [Ai Agents](ai-agents.md) (391 episodes)
-- [Claude](claude.md) (380 episodes)
+- [Claude](claude.md) (381 episodes)
 - [Career](career.md) (379 episodes)
-- [Openai](openai.md) (354 episodes)
+- [Openai](openai.md) (355 episodes)
 - [Workflows](workflows.md) (349 episodes)
 - [Leadership](leadership.md) (342 episodes)
 - [Tutorials](tutorials.md) (330 episodes)
 - [Google](google.md) (305 episodes)
 - [Tutorial](tutorial.md) (273 episodes)
-- [Prompting](prompting.md) (250 episodes)
+- [Prompting](prompting.md) (251 episodes)
 - [Framework](framework.md) (227 episodes)
 - [Gemini](gemini.md) (170 episodes)
 - [News Roundup](news-roundup.md) (166 episodes)
@@ -35,7 +35,7 @@ Index of 861 episodes across 121 topics.
 - [Amazon](amazon.md) (119 episodes)
 - [Cursor](cursor.md) (117 episodes)
 - [Projects](projects.md) (117 episodes)
-- [Chatgpt](chatgpt.md) (107 episodes)
+- [Chatgpt](chatgpt.md) (108 episodes)
 - [Box](box.md) (107 episodes)
 - [Github](github.md) (99 episodes)
 - [Deep Dives](deep-dives.md) (95 episodes)
@@ -53,7 +53,7 @@ Index of 861 episodes across 121 topics.
 - [Lovable](lovable.md) (44 episodes)
 - [Stripe](stripe.md) (42 episodes)
 - [Linkedin](linkedin.md) (40 episodes)
-- [Opinion](opinion.md) (37 episodes)
+- [Opinion](opinion.md) (38 episodes)
 - [Notion](notion.md) (35 episodes)
 - [Sonnet](sonnet.md) (35 episodes)
 - [Computer Use](computer-use.md) (34 episodes)
@@ -121,8 +121,8 @@ Index of 861 episodes across 121 topics.
 - [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
-- [Ollama](ollama.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
+- [Ollama](ollama.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
 - [Mongodb](mongodb.md) (1 episodes)
 

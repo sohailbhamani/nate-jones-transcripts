@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (250 episodes):
+Episodes discussing **Prompting** (251 episodes):
 
+- [I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement](../episodes/2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme/transcript.md) (2026-10-17)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech](../episodes/2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech/transcript.md) (2026-09-27)
 - [I ran an experiment: Fable vs Astra #AI #Fable5 #GPT6 #Astra](../episodes/2026-09-12-i-ran-an-experiment-fable-vs-astra-ai-fable5-gpt6-astra/transcript.md) (2026-09-12)
