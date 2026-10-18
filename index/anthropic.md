@@ -1,8 +1,9 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (404 episodes):
+Episodes discussing **Anthropic** (405 episodes):
 
 - [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
+- [What Really Happens When AI Agents Meet in the Wild?](../episodes/2026-10-18-what-really-happens-when-ai-agents-meet-in-the-wild/transcript.md) (2026-10-18)
 - [I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement](../episodes/2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme/transcript.md) (2026-10-17)
 - [The AI Paradox: 5 Human Skills That Are More Valuable Than Ever](../episodes/2026-10-11-the-ai-paradox-5-human-skills-that-are-more-valuable-than-ever/transcript.md) (2026-10-11)
 - [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)

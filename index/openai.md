@@ -1,8 +1,9 @@
 # Openai
 
-Episodes discussing **Openai** (356 episodes):
+Episodes discussing **Openai** (357 episodes):
 
 - [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
+- [What Really Happens When AI Agents Meet in the Wild?](../episodes/2026-10-18-what-really-happens-when-ai-agents-meet-in-the-wild/transcript.md) (2026-10-18)
 - [I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement](../episodes/2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme/transcript.md) (2026-10-17)
 - [What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science](../episodes/2026-10-14-what-do-ai-math-and-anesthesia-have-in-common-ai-openai-math-terencetao-science/transcript.md) (2026-10-14)
 - [OpenAI's AI Wrote 700 Math Papers. Engineers Still Won't Trust AI With Their Code.](../episodes/2026-10-13-openais-ai-wrote-700-math-papers-engineers-still-wont-trust-ai-with-their-code/transcript.md) (2026-10-13)

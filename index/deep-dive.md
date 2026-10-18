@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (151 episodes):
+Episodes discussing **Deep Dive** (152 episodes):
 
+- [What Really Happens When AI Agents Meet in the Wild?](../episodes/2026-10-18-what-really-happens-when-ai-agents-meet-in-the-wild/transcript.md) (2026-10-18)
 - [Is AI making us really productive? #AI #productivity #focus #futureofwork #careers](../episodes/2026-10-15-is-ai-making-us-really-productive-ai-productivity-focus-futureofwork-careers/transcript.md) (2026-10-15)
 - [What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science](../episodes/2026-10-14-what-do-ai-math-and-anesthesia-have-in-common-ai-openai-math-terencetao-science/transcript.md) (2026-10-14)
 - [OpenAI's AI Wrote 700 Math Papers. Engineers Still Won't Trust AI With Their Code.](../episodes/2026-10-13-openais-ai-wrote-700-math-papers-engineers-still-wont-trust-ai-with-their-code/transcript.md) (2026-10-13)
