@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (330 episodes):
+Episodes discussing **Tutorials** (331 episodes):
 
+- [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
 - [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [Opus 5.5 is impressive and cost-efficient #taskefficient #opus5.5 #claude](../episodes/2026-10-02-opus-55-is-impressive-and-cost-efficient-taskefficient-opus55-claude/transcript.md) (2026-10-02)

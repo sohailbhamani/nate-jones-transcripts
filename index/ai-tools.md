@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (600 episodes):
+Episodes discussing **Ai Tools** (601 episodes):
 
+- [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
 - [I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement](../episodes/2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme/transcript.md) (2026-10-17)
 - [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)
 - [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)

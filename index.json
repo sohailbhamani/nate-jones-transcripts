@@ -1,10 +1,43 @@
 {
-  "total_videos": 862,
+  "total_videos": 863,
   "date_range": {
-    "newest": "2026-10-17",
+    "newest": "2026-10-18",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips",
+      "video_id": "ZVnuhgXF9uM",
+      "youtube_url": "https://www.youtube.com/watch?v=ZVnuhgXF9uM",
+      "publish_date": "2026-10-18",
+      "duration": "1:54",
+      "duration_seconds": 114,
+      "view_count": 2519,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "When you use AI now, you pick a model and an effort level, and they can feel like the same choice. They\u2019re not. The model is about how hard the problem is. A basic deck, spreadsheet, or email works fine on a lighter model, while a hard problem you want to think through and argue about needs a stronger one. Effort is how hard that model thinks, like giving the car more gas instead of switching cars. More gas lets it go further and plan longer tasks, but sometimes it over-solves and buries you in detail you don\u2019t need, so I often dial it back.\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips\nSo, when do you select model and when do you select effort"
+      ],
+      "transcript_chars": 2136,
+      "folder": "2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips"
+    },
     {
       "title": "I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement",
       "video_id": "Ypmd2M5-sMU",

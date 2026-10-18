@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (669 episodes):
+Episodes discussing **Frameworks** (670 episodes):
 
+- [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
 - [Can Google still catch up? Argon is entering the chat #AI #Google #Argon #AInews #tech](../episodes/2026-10-08-can-google-still-catch-up-argon-is-entering-the-chat-ai-google-argon-ainews-tech/transcript.md) (2026-10-08)
 - [Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?](../episodes/2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e/transcript.md) (2026-10-08)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)

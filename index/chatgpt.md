@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (108 episodes):
+Episodes discussing **Chatgpt** (109 episodes):
 
+- [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
 - [I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement](../episodes/2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme/transcript.md) (2026-10-17)
 - [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)
 - [Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?](../episodes/2026-10-03-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version/transcript.md) (2026-10-03)
