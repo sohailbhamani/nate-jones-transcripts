@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (601 episodes):
+Episodes discussing **Ai Tools** (602 episodes):
 
+- [Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-19-dont-keep-shipping-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-19)
 - [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
 - [I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement](../episodes/2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme/transcript.md) (2026-10-17)
 - [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)

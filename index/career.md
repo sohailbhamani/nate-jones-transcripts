@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (379 episodes):
+Episodes discussing **Career** (380 episodes):
 
+- [Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-19-dont-keep-shipping-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-19)
 - [Is AI making us really productive? #AI #productivity #focus #futureofwork #careers](../episodes/2026-10-15-is-ai-making-us-really-productive-ai-productivity-focus-futureofwork-careers/transcript.md) (2026-10-15)
 - [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)
 - [The AI Paradox: 5 Human Skills That Are More Valuable Than Ever](../episodes/2026-10-11-the-ai-paradox-5-human-skills-that-are-more-valuable-than-ever/transcript.md) (2026-10-11)

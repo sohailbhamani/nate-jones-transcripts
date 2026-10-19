@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (602 episodes):
+Episodes discussing **Make** (603 episodes):
 
+- [Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-19-dont-keep-shipping-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-19)
 - [Is AI making us really productive? #AI #productivity #focus #futureofwork #careers](../episodes/2026-10-15-is-ai-making-us-really-productive-ai-productivity-focus-futureofwork-careers/transcript.md) (2026-10-15)
 - [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)
 - [Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?](../episodes/2026-10-08-google-has-more-data-than-almost-anyone-so-why-is-it-bidding-10-million-on-old-e/transcript.md) (2026-10-08)

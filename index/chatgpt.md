@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (109 episodes):
+Episodes discussing **Chatgpt** (110 episodes):
 
+- [Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-19-dont-keep-shipping-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-19)
 - [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
 - [I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement](../episodes/2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme/transcript.md) (2026-10-17)
 - [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)

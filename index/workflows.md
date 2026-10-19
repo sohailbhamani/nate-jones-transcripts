@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (350 episodes):
+Episodes discussing **Workflows** (351 episodes):
 
+- [Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-19-dont-keep-shipping-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-19)
 - [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)
 - [Is AI making us really productive? #AI #productivity #focus #futureofwork #careers](../episodes/2026-10-15-is-ai-making-us-really-productive-ai-productivity-focus-futureofwork-careers/transcript.md) (2026-10-15)
 - [OpenAI's Dots caught my zombie meeting #AI #OpenAI #Dots #aiagents #productivity](../episodes/2026-10-06-openais-dots-caught-my-zombie-meeting-ai-openai-dots-aiagents-productivity/transcript.md) (2026-10-06)
