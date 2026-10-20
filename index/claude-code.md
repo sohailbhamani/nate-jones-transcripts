@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (122 episodes):
+Episodes discussing **Claude Code** (123 episodes):
 
+- [Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.](../episodes/2026-10-20-mac-mini-for-ai-agents-how-much-memory-you-need-and-how-to-use-what-you-have/transcript.md) (2026-10-20)
 - [Microsoft Compared OpenClaw To A Virus. Now It's Bringing It To Your Employer As Autopilot.](../episodes/2026-10-02-microsoft-compared-openclaw-to-a-virus-now-its-bringing-it-to-your-employer-as-a/transcript.md) (2026-10-02)
 - [There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](../episodes/2026-09-07-there-are-jobs-you-could-never-give-ai-i-gave-gpt-6-astra-20-hours-of-admin/transcript.md) (2026-09-07)
 - [Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.](../episodes/2026-09-04-everyones-testing-claude-fable-51-on-code-it-made-me-a-37-second-film/transcript.md) (2026-09-04)
