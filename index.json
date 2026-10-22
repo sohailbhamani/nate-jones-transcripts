@@ -1,10 +1,85 @@
 {
-  "total_videos": 866,
+  "total_videos": 867,
   "date_range": {
-    "newest": "2026-10-20",
+    "newest": "2026-10-22",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.",
+      "video_id": "15gxN8DnC8s",
+      "youtube_url": "https://www.youtube.com/watch?v=15gxN8DnC8s",
+      "publish_date": "2026-10-22",
+      "duration": "19:34",
+      "duration_seconds": 1174,
+      "view_count": 9566,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI safety may have a real reason for optimism. Goodfire's new research suggests the inside of an AI model is much more understandable than researchers assumed, and if that holds up, AI interpretability could change what we can trust AI to do.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/mechanistic-interpretability-explained?utm_source=youtube&utm_medium=video&utm_campaign=mechanistic-interpretability-explained-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=mechanistic-interpretability-explained-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=mechanistic-interpretability-explained-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside the AI models OpenAI and Anthropic are building?\nThe common story is that AI gets more dangerous as it gets more powerful, but the real question is whether we can understand it well enough to correct it.\n\nIn this video, I share the inside scoop on why Goodfire's essay is a green flag for AI safety:\n- What Goodfire found inside vision and language model neurons\n- How reading model internals could catch reward hacking during training\n- Why explainable AI tools may reach law, health, and finance first\n- Where you may soon correct what an algorithm learned about you\n\nThe research still has to scale into real products, and if it does, we get much better tools for finding and fixing what goes wrong inside AI.\n\nChapters:\n00:00 Why Goodfire's research is good news for AI safety\n01:26 The 99 to 100% finding in a vision model's final layer\n02:01 What Goodfire is and four changes to watch\n02:44 The black box problem I saw at Amazon\n04:42 What interpretability is and what an AI neuron is\n06:01 The cats and cars neuron, reread\n07:26 A preliminary 90% of neuron poles in a language model\n08:01 Forecast 1: catching reward hacking and misalignment\n11:55 Forecast 2: building more capable models safely\n13:28 Forecast 3: explainable AI for law, health, and finance\n15:58 Forecast 4: correcting what an algorithm learned about you\n17:52 Don't just buy the pessimism\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Goodfire",
+        "AI safety",
+        "AI interpretability",
+        "mechanistic interpretability",
+        "reward hacking",
+        "OpenAI",
+        "Anthropic",
+        "explainable AI",
+        "black box AI",
+        "how AI models work",
+        "ai optimism",
+        "ai optimist",
+        "future of ai",
+        "ai ethics"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Box",
+          "YouTube",
+          "Netflix"
+        ],
+        "people": [],
+        "products": [
+          "Shortcuts",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Understanding an entire powerful model remains a really really tough challenge",
+        "A paper like this changes the entire trajectory of what we can expect for ai and safety in the future"
+      ],
+      "summary": [
+        "A littleknown organization called Goodfire may have given us a great reason to be much more optimistic about whatever OpenAI and anthropic build next"
+      ],
+      "transcript_chars": 20570,
+      "folder": "2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought"
+    },
     {
       "title": "Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.",
       "video_id": "xUl-RD4l4i4",
