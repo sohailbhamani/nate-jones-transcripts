@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (672 episodes):
+Episodes discussing **Frameworks** (673 episodes):
 
+- [This is the best AI news #blackbox #AI](../episodes/2026-10-23-this-is-the-best-ai-news-blackbox-ai/transcript.md) (2026-10-23)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)
 - [Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.](../episodes/2026-10-20-mac-mini-for-ai-agents-how-much-memory-you-need-and-how-to-use-what-you-have/transcript.md) (2026-10-20)
 - [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)

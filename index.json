@@ -1,10 +1,42 @@
 {
-  "total_videos": 867,
+  "total_videos": 868,
   "date_range": {
-    "newest": "2026-10-22",
+    "newest": "2026-10-23",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "This is the best AI news #blackbox #AI",
+      "video_id": "Xo1oF84Dhq8",
+      "youtube_url": "https://www.youtube.com/watch?v=Xo1oF84Dhq8",
+      "publish_date": "2026-10-23",
+      "duration": "2:17",
+      "duration_seconds": 137,
+      "view_count": 17228,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "For as long as I\u2019ve worked in AI, we\u2019ve called it a black box. New research from Goodfire suggests that\u2019s starting to change. The classic example is a neuron in a vision model that fires for both cats and cars. It looks like nonsense, the kind of thing that made us say we don\u2019t know why AI does what it does. Look closer, though, and it makes sense at a different level: both share the same pointed shape, and that shape is what the neuron is actually tracking. The AI isn\u2019t random. It just doesn\u2019t think in our categories. In an early audit of a language model, the researchers estimate that around 90% of neurons have one clear job. It\u2019s early and not yet peer reviewed, and it needs tools to scale, but if we can read what\u2019s happening inside these models, we can understand why they make the decisions they do. That\u2019s a big deal for safety.\n\nWhat a neuron actually is, and how to judge the next lab claim about AI: https://natesnewsletter.substack.com/p/mechanistic-interpretability-explained?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Box"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# This is the best AI news #blackbox #AI\nThis is the best news that I have seen for AI in a long, long time"
+      ],
+      "transcript_chars": 2237,
+      "folder": "2026-10-23-this-is-the-best-ai-news-blackbox-ai"
+    },
     {
       "title": "I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.",
       "video_id": "15gxN8DnC8s",
