@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (515 episodes):
+Episodes discussing **Coding** (516 episodes):
 
+- [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)
 - [Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.](../episodes/2026-10-20-mac-mini-for-ai-agents-how-much-memory-you-need-and-how-to-use-what-you-have/transcript.md) (2026-10-20)
 - [Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-19-dont-keep-shipping-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-19)

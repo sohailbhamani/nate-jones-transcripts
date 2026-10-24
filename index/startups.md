@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (138 episodes):
+Episodes discussing **Startups** (139 episodes):
 
+- [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)
 - [A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech](../episodes/2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech/transcript.md) (2026-09-27)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)

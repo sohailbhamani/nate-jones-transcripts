@@ -1,10 +1,83 @@
 {
-  "total_videos": 868,
+  "total_videos": 869,
   "date_range": {
-    "newest": "2026-10-23",
+    "newest": "2026-10-24",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.",
+      "video_id": "qDYe2eTl_D4",
+      "youtube_url": "https://www.youtube.com/watch?v=qDYe2eTl_D4",
+      "publish_date": "2026-10-24",
+      "duration": "25:47",
+      "duration_seconds": 1547,
+      "view_count": 14016,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI agents are now finding and exploiting software weaknesses at scale, and a stolen AI API key can run up your bill. Here's what this week's security failures mean for your accounts, and what to update, cut, and check this week.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-agents-cybersecurity?utm_source=youtube&utm_medium=video&utm_campaign=ai-agents-cybersecurity-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=ai-agents-cybersecurity-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=ai-agents-cybersecurity-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when AI agents dig through the software we all depend on?\nThe common story is that patching faster will fix it. The real question is whose side the strongest AI is working for.\n\nIn this video, I share the inside scoop on Black October and what to do about it:\n- Why a stolen AI key works like cash on your bill\n- How an agent recovered a certificate key that was the number 4\n- What to check in your connected apps and browser extensions\n- How I would pick the strongest model for cyber defense\n\nAttacks just got cheaper, and the same agents can work for you if you put the strongest one on defense and finish the repairs.\n\nChapters:\n00:00 Why stolen AI keys matter this week\n01:39 Agents are native to computers\n02:07 The PHP emergency fixes\n03:32 eMudhra and the secret key that was 4\n04:41 How defenders responded\n06:37 How an AI agent attacks and defends\n08:43 Why maintenance is hard\n10:32 Check the apps connected to your accounts\n12:42 The LiteLLM compromise at company scale\n14:32 How to pick a model for cyber defense\n17:34 When AI tools leak credentials\n23:52 Five things to do this week\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI cybersecurity",
+        "AI agents",
+        "cyber defense",
+        "LiteLLM",
+        "PHP vulnerability",
+        "Claude Code",
+        "AI API key security",
+        "browser extension security",
+        "AI security"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "GitHub",
+          "Stripe"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "Fewer lines of code, fewer parts of the program are surfaced and available for a visitor who is not logged in, which makes the entire experience safer"
+      ],
+      "summary": [
+        "It's always a good day when a third of the internet burns down"
+      ],
+      "transcript_chars": 27294,
+      "folder": "2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys"
+    },
     {
       "title": "This is the best AI news #blackbox #AI",
       "video_id": "Xo1oF84Dhq8",
