@@ -1,21 +1,21 @@
 # Nate B Jones Podcast Index
 
-Index of 870 episodes across 121 topics.
+Index of 871 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (674 episodes)
 - [Ai Tools](ai-tools.md) (606 episodes)
 - [Make](make.md) (606 episodes)
-- [Ai Strategy](ai-strategy.md) (573 episodes)
+- [Ai Strategy](ai-strategy.md) (574 episodes)
 - [Coding](coding.md) (516 episodes)
 - [Product Management](product-management.md) (497 episodes)
 - [Ai News](ai-news.md) (429 episodes)
-- [Anthropic](anthropic.md) (409 episodes)
+- [Anthropic](anthropic.md) (410 episodes)
 - [Ai Agents](ai-agents.md) (395 episodes)
 - [Claude](claude.md) (385 episodes)
 - [Career](career.md) (383 episodes)
-- [Openai](openai.md) (360 episodes)
+- [Openai](openai.md) (361 episodes)
 - [Workflows](workflows.md) (352 episodes)
 - [Leadership](leadership.md) (344 episodes)
 - [Tutorials](tutorials.md) (333 episodes)
@@ -26,7 +26,7 @@ Index of 870 episodes across 121 topics.
 - [Gemini](gemini.md) (171 episodes)
 - [News Roundup](news-roundup.md) (169 episodes)
 - [Microsoft](microsoft.md) (165 episodes)
-- [Deep Dive](deep-dive.md) (152 episodes)
+- [Deep Dive](deep-dive.md) (153 episodes)
 - [Meta](meta.md) (150 episodes)
 - [X](x.md) (140 episodes)
 - [Startups](startups.md) (139 episodes)
@@ -119,8 +119,8 @@ Index of 870 episodes across 121 topics.
 - [Ollama](ollama.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)

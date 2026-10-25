@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (573 episodes):
+Episodes discussing **Ai Strategy** (574 episodes):
 
+- [Enterprise AI Pricing: Why Everything You Know Is Wrong](../episodes/2026-10-25-enterprise-ai-pricing-why-everything-you-know-is-wrong/transcript.md) (2026-10-25)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)
 - [Is AI making us really productive? #AI #productivity #focus #futureofwork #careers](../episodes/2026-10-15-is-ai-making-us-really-productive-ai-productivity-focus-futureofwork-careers/transcript.md) (2026-10-15)
 - [Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](../episodes/2026-10-15-your-vibe-coded-app-can-look-right-and-fall-apart-after-launch-rea-shows-you-how/transcript.md) (2026-10-15)

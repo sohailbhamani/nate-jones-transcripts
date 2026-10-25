@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (152 episodes):
+Episodes discussing **Deep Dive** (153 episodes):
 
+- [Enterprise AI Pricing: Why Everything You Know Is Wrong](../episodes/2026-10-25-enterprise-ai-pricing-why-everything-you-know-is-wrong/transcript.md) (2026-10-25)
 - [What Really Happens When AI Agents Meet in the Wild?](../episodes/2026-10-18-what-really-happens-when-ai-agents-meet-in-the-wild/transcript.md) (2026-10-18)
 - [Is AI making us really productive? #AI #productivity #focus #futureofwork #careers](../episodes/2026-10-15-is-ai-making-us-really-productive-ai-productivity-focus-futureofwork-careers/transcript.md) (2026-10-15)
 - [What do AI math and anesthesia have in common...? #AI #OpenAI #math #TerenceTao #science](../episodes/2026-10-14-what-do-ai-math-and-anesthesia-have-in-common-ai-openai-math-terencetao-science/transcript.md) (2026-10-14)

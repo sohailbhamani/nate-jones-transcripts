@@ -1,5 +1,5 @@
 {
-  "total_videos": 870,
+  "total_videos": 871,
   "date_range": {
     "newest": "2026-10-25",
     "oldest": "2024-05-21"
@@ -34,6 +34,64 @@
       ],
       "transcript_chars": 616,
       "folder": "2026-10-25-ai-agents-messy-roommates"
+    },
+    {
+      "title": "Enterprise AI Pricing: Why Everything You Know Is Wrong",
+      "video_id": "RvnQZQAHUDc",
+      "youtube_url": "https://www.youtube.com/watch?v=RvnQZQAHUDc",
+      "publish_date": "2026-10-25",
+      "duration": "22:32",
+      "duration_seconds": 1352,
+      "view_count": 6306,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Per seat or per token? Enterprise AI deals keep stalling on SaaS-style pricing questions, and I think they're the wrong questions. AI is a new economic input, and your AI ROI depends on whether your company, and you, know where to put it.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/saas-pricing-ai-roi?utm_source=youtube&utm_medium=video&utm_campaign=saas-pricing-ai-roi-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=saas-pricing-ai-roi-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=saas-pricing-ai-roi-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside enterprise AI pricing?\nThe common story is that AI is a software purchase you negotiate down, but the real question is whether your company knows how to turn intelligence into value.\n\nIn this video, I share the inside scoop on why AI returns start after the purchase:\n- Why seat and token pricing leave the hard part with the buyer\n- How forward-deployed engineers and deeper partnerships fill the know-how gap\n- Where outcome pricing works, and where complex work makes it harder\n- What becoming a manager of AI means for your career\n\nCompanies are still learning to value intelligence, and the people who learn to allocate it well have a real opening right now.\n\nShopify's 34% revenue growth is Q2 2026 vs. Q2 2025: https://www.shopify.com/news/shopify-q2-2026-financial-results\n\nChapters:\n00:00 Per seat or per token is the wrong question\n00:27 A new economic input and the Cedar example\n01:19 What this means for CFOs and for your job\n02:49 From user of AI to manager of AI\n03:16 Why pricing comes up at all\n04:46 Why you are probably under-invested in AI\n06:33 A hypothetical equipment company\n08:50 Forward-deployed engineering\n10:50 Deeper partnerships and outcome pricing\n15:33 Token pricing stays: Shopify and Block\n18:13 Be a manager of AI\n19:52 A word for leadership\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "enterprise AI",
+        "AI pricing",
+        "SaaS pricing",
+        "AI ROI",
+        "forward deployed engineer",
+        "OpenAI",
+        "Anthropic",
+        "Shopify",
+        "outcome based pricing",
+        "manager of AI",
+        "AI for business"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Enterprise AI Pricing: Why Everything You Know Is Wrong\n\u062a\u0639\u0644\u0645\u060c \u0643\u0644 \u0635\u0641\u0642\u0629 \u0630\u0643\u0627\u0621  \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0624\u0633\u0633\u064a\u0629 \u0633\u0645\u0639\u062a  \u0639\u0646\u0647\u0627 \u0647\u0630\u0627 \u0627\u0644\u0639\u0627\u0645 \u062a\u0639\u062b\u0631\u062a  \u0641\u064a \u0623\u0645\u0627\u0643\u0646 \u0645\u062a\u0634\u0627\u0628\u0647\u0629"
+      ],
+      "transcript_chars": 20335,
+      "folder": "2026-10-25-enterprise-ai-pricing-why-everything-you-know-is-wrong"
     },
     {
       "title": "Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.",
