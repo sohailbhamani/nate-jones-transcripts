@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (394 episodes):
+Episodes discussing **Ai Agents** (395 episodes):
 
+- [AI agents = messy roommates](../episodes/2026-10-25-ai-agents-messy-roommates/transcript.md) (2026-10-25)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.](../episodes/2026-10-20-mac-mini-for-ai-agents-how-much-memory-you-need-and-how-to-use-what-you-have/transcript.md) (2026-10-20)
 - [What Really Happens When AI Agents Meet in the Wild?](../episodes/2026-10-18-what-really-happens-when-ai-agents-meet-in-the-wild/transcript.md) (2026-10-18)

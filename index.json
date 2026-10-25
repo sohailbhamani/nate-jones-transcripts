@@ -1,10 +1,40 @@
 {
-  "total_videos": 869,
+  "total_videos": 870,
   "date_range": {
-    "newest": "2026-10-24",
+    "newest": "2026-10-25",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "AI agents = messy roommates",
+      "video_id": "Dpr4GqZEc5o",
+      "youtube_url": "https://www.youtube.com/watch?v=Dpr4GqZEc5o",
+      "publish_date": "2026-10-25",
+      "duration": "0:31",
+      "duration_seconds": 31,
+      "view_count": 1578,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "If you run agents all day, they\u2019re probably using your computer more than you are, opening browsers, starting services, writing files, and leaving a lot of it behind when the job is done. A faster chip and more memory help, but they won\u2019t stop that load from growing, so before you spend money on a bigger machine it\u2019s worth setting a few house rules for the agents already living on yours. I wrote up how I\u2019d do that, plus the memory and storage I\u2019d actually buy for an agent computer.\n\nFull post: https://natesnewsletter.substack.com/p/computer-for-ai-agents?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# AI agents = messy roommates\nI'm just going to say it"
+      ],
+      "transcript_chars": 616,
+      "folder": "2026-10-25-ai-agents-messy-roommates"
+    },
     {
       "title": "Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.",
       "video_id": "qDYe2eTl_D4",
