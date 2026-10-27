@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (352 episodes):
+Episodes discussing **Workflows** (353 episodes):
 
+- [Are Your AI Agents Doing Real Work Or Productivity Theater? Here Are 4 Principles I Use.](../episodes/2026-10-27-are-your-ai-agents-doing-real-work-or-productivity-theater-here-are-4-principles/transcript.md) (2026-10-27)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)
 - [Don't keep shipping  #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-19-dont-keep-shipping-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-19)
 - [How to choose model vs effort #AI #ChatGPT #Claude #productivity #AItips](../episodes/2026-10-18-how-to-choose-model-vs-effort-ai-chatgpt-claude-productivity-aitips/transcript.md) (2026-10-18)

@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (228 episodes):
+Episodes discussing **Framework** (229 episodes):
 
+- [Are Your AI Agents Doing Real Work Or Productivity Theater? Here Are 4 Principles I Use.](../episodes/2026-10-27-are-your-ai-agents-doing-real-work-or-productivity-theater-here-are-4-principles/transcript.md) (2026-10-27)
 - [AI agents = messy roommates](../episodes/2026-10-25-ai-agents-messy-roommates/transcript.md) (2026-10-25)
 - [Meta's Muse can get your money back #AI #meta #muse #agent](../episodes/2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent/transcript.md) (2026-10-01)
 - [Everybody's talking about Jev. Here's what it is #jev #ai](../episodes/2026-09-28-everybodys-talking-about-jev-heres-what-it-is-jev-ai/transcript.md) (2026-09-28)
