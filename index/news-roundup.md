@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (169 episodes):
+Episodes discussing **News Roundup** (170 episodes):
 
+- [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [This is the best AI news #blackbox #AI](../episodes/2026-10-23-this-is-the-best-ai-news-blackbox-ai/transcript.md) (2026-10-23)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)

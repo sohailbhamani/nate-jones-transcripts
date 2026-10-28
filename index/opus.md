@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (85 episodes):
+Episodes discussing **Opus** (86 episodes):
 
+- [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)
 - [Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?](../episodes/2026-10-03-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version/transcript.md) (2026-10-03)
 - [Opus 5.5 is impressive and cost-efficient #taskefficient #opus5.5 #claude](../episodes/2026-10-02-opus-55-is-impressive-and-cost-efficient-taskefficient-opus55-claude/transcript.md) (2026-10-02)
 - [Opus 5.5 vs The Rest: Is this the new industry standard?](../episodes/2026-09-30-opus-55-vs-the-rest-is-this-the-new-industry-standard/transcript.md) (2026-09-30)
