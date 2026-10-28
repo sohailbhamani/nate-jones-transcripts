@@ -5,8 +5,8 @@ Index of 872 episodes across 121 topics.
 ## Topics
 
 - [Frameworks](frameworks.md) (675 episodes)
-- [Ai Tools](ai-tools.md) (606 episodes)
 - [Make](make.md) (606 episodes)
+- [Ai Tools](ai-tools.md) (606 episodes)
 - [Ai Strategy](ai-strategy.md) (574 episodes)
 - [Coding](coding.md) (516 episodes)
 - [Product Management](product-management.md) (498 episodes)
@@ -119,8 +119,8 @@ Index of 872 episodes across 121 topics.
 - [Ollama](ollama.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Duolingo](duolingo.md) (1 episodes)
 - [Fiverr](fiverr.md) (1 episodes)
+- [Duolingo](duolingo.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)
