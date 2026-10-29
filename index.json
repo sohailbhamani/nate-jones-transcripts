@@ -1,10 +1,45 @@
 {
-  "total_videos": 873,
+  "total_videos": 874,
   "date_range": {
-    "newest": "2026-10-28",
+    "newest": "2026-10-29",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "How hackable is your computer #blackoctober #cybersecurity",
+      "video_id": "JPE22wtnDo0",
+      "youtube_url": "https://www.youtube.com/watch?v=JPE22wtnDo0",
+      "publish_date": "2026-10-29",
+      "duration": "1:34",
+      "duration_seconds": 94,
+      "view_count": 6650,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Black October has been one of the roughest stretches for internet security I can remember, with a lot of the new bugs and attacks tied to AI, and I would much rather have AI working on defense for you than on attack against you. So here\u2019s a short prompt you can give Claude or ChatGPT on your desktop: ask it to look across your system and your online presence for vulnerabilities tied to the bugs and zero-days found during Black October, then come back with a priority list and a plan to fix them. People who\u2019ve run it tell me two things, thank you and I\u2019m horrified, which is exactly why it\u2019s worth doing. The full prompt guide is in my post.\n\nFull post: https://natesnewsletter.substack.com/p/ai-agents-cybersecurity?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "I know that might sound weird, but we would rather have AI working for defense than working on attack"
+      ],
+      "transcript_chars": 1378,
+      "folder": "2026-10-29-how-hackable-is-your-computer-blackoctober-cybersecurity"
+    },
     {
       "title": "Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.",
       "video_id": "EAEixlPC6L4",
