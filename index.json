@@ -1,10 +1,79 @@
 {
-  "total_videos": 874,
+  "total_videos": 875,
   "date_range": {
-    "newest": "2026-10-29",
+    "newest": "2026-10-31",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.",
+      "video_id": "c3HHFL_lsLM",
+      "youtube_url": "https://www.youtube.com/watch?v=c3HHFL_lsLM",
+      "publish_date": "2026-10-31",
+      "duration": "28:23",
+      "duration_seconds": 1703,
+      "view_count": 9268,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI agents like Muse, Claude Duet, dots, Grok Bot and Instinct want to book your flights, buy your stuff and manage your accounts. After Black October, the websites they need have a real reason to keep them out. Here's who decides what your AI agent can do, and how to pick one that gets through.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-agents-website-access?utm_source=youtube&utm_medium=video&utm_campaign=ai-agents-website-access-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=ai-agents-website-access-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=ai-agents-website-access-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when your AI agent reaches a website that doesn't want it?\nThe common story is that a smarter model will finish the job. The real question is which businesses decide to let your agent in.\n\nIn this video, I share the inside scoop on who decides what your AI agent can do:\n- Why my agent froze at a hotel booking page\n- How I split work across Grok Bot, dots, Instinct, Muse and Duet\n- What Cloudflare, Google, Stripe and Visa are building for agent trust\n- Where the three zones of the agent internet leave your assistant\n\nAccess will stay uneven through 2027, so the agent worth choosing is the one that works where you already shop, travel and work.\n\nChapters:\n00:00 Why websites are getting stricter with AI agents\n01:01 How I split work across five personal agents\n04:48 Why a smarter model can't open a closed door\n05:14 What Black October changed for websites\n07:29 Why blocking agents blocks customers too\n09:45 The Visa, BILL and Billtrust agent payment pilot\n10:59 Cloudflare signed agents, AP2 and payment tokens\n14:31 Why businesses need agent-readable information\n18:08 The three zones of the agent internet\n20:16 Who gains power from agent trust\n23:14 How to talk about agents at Thanksgiving\n26:38 Three takeaways\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "personal AI agents",
+        "Meta Muse",
+        "Claude Duet",
+        "Grok Bot",
+        "agentic commerce",
+        "Cloudflare",
+        "websites blocking AI agents",
+        "how to choose an AI agent"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Shopify",
+          "Stripe",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "They describe a series of stances that you can have toward agents in 2027"
+      ],
+      "summary": [
+        "# The Future Of The Internet Isn't Open For Your Agent"
+      ],
+      "transcript_chars": 29196,
+      "folder": "2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi"
+    },
     {
       "title": "How hackable is your computer #blackoctober #cybersecurity",
       "video_id": "JPE22wtnDo0",
