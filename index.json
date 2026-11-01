@@ -1,10 +1,80 @@
 {
-  "total_videos": 875,
+  "total_videos": 876,
   "date_range": {
-    "newest": "2026-10-31",
+    "newest": "2026-11-01",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.",
+      "video_id": "KDGxQtfjBj0",
+      "youtube_url": "https://www.youtube.com/watch?v=KDGxQtfjBj0",
+      "publish_date": "2026-11-01",
+      "duration": "29:21",
+      "duration_seconds": 1761,
+      "view_count": 5447,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI agents are turning Microsoft, Salesforce, Oracle and OpenAI into rivals for the same job: running the AI agents your business depends on. Here's why rivals are opening doors for each other, and how to choose the AI agent platform that runs your work.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/enterprise-ai-agent-platforms?utm_source=youtube&utm_medium=video&utm_campaign=enterprise-ai-agent-platforms-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=enterprise-ai-agent-platforms-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=enterprise-ai-agent-platforms-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when Salesforce starts helping Microsoft's AI agents?\nThe common story is that the best AI model wins. The real question is who gets to run the agents across all the software your company already owns.\n\nIn this video, I share the inside scoop on the trillion-dollar fight to run your business:\n- Why Salesforce made Microsoft's AI agents easier to use\n- What an agentic control plane is and why it matters\n- How Oracle and OpenAI plan to bring finance apps into ChatGPT\n- Where your team's choices decide which vendor wins\n\nThere's room for more than one winner, so buyers who demand interoperability before they sign get to set the terms.\n\nChapters:\n00:00 Salesforce helps Microsoft and Oracle comes to ChatGPT\n01:31 Why AI agents are changing who competes with whom\n03:22 Oracle's workspace inside ChatGPT\n03:56 How companies used to buy business software\n05:49 Microsoft, Salesforce and the AI labs want the same seat\n08:26 The Salesforce bridge to Copilot Studio agents\n10:00 What an agentic control plane actually is\n11:20 Why the customer's promise has to survive the handoff\n14:54 Why owning the data doesn't settle who wins\n15:52 What one recruiter's agent shows about switching costs\n19:16 Why more choice is good for customers\n22:23 How to choose your agentic control plane\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "enterprise AI",
+        "Salesforce",
+        "Microsoft Copilot Studio",
+        "Oracle",
+        "OpenAI",
+        "agentic control plane",
+        "AI agent platform",
+        "enterprise AI agent platforms",
+        "how to choose an AI agent platform"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Microsoft",
+          "Salesforce",
+          "Slack",
+          "Oracle"
+        ],
+        "people": [
+          "Nate Jones"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Copilot",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "You're Picking The Winner Of A Trillion-Dollar Fight"
+      ],
+      "transcript_chars": 28984,
+      "folder": "2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f"
+    },
     {
       "title": "The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.",
       "video_id": "c3HHFL_lsLM",
