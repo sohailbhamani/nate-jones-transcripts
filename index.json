@@ -1,10 +1,79 @@
 {
-  "total_videos": 877,
+  "total_videos": 878,
   "date_range": {
-    "newest": "2026-11-02",
+    "newest": "2026-11-03",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?",
+      "video_id": "JFoDdKuRmSk",
+      "youtube_url": "https://www.youtube.com/watch?v=JFoDdKuRmSk",
+      "publish_date": "2026-11-03",
+      "duration": "22:27",
+      "duration_seconds": 1347,
+      "view_count": 12029,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "10 million people set up Meta's personal AI agent, Muse, in six weeks. That came after Reality Labs lost $19.2 billion in 2025 alone. Here are three things Zuckerberg did that you can copy without his money: who they hired, the details nobody asked for, and swinging again after a public miss.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/zuckerberg-muse-lessons?utm_source=youtube&utm_medium=video&utm_campaign=zuckerberg-muse-lessons-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=zuckerberg-muse-lessons-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=zuckerberg-muse-lessons-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Zuckerberg's Muse bet?\nThe common story is that Muse is a bet only Meta's money could make. The real question is why the rest of us are still playing it safer than he is.\n\nIn this video, I share the inside scoop on what Muse teaches about taking bigger swings with AI:\n- Why Meta kept the Muse team to fewer than 200 people\n- What a hotel bathroom tells you about product polish\n- How Muse shows you your AI agent is actually working\n- Where AI lowers the cost of trying, and where embarrassment doesn't\n\nAI has made another attempt cheaper but failing in public no less embarrassing, so the advantage goes to people who build, get feedback and swing again.\n\nChapters:\n00:00 After you miss, swing again\n00:59 What my Muse agent did for me\n01:31 From Oculus to the metaverse to Muse\n05:49 Who they hired and why the team stayed small\n08:57 The details nobody asked for\n10:30 How Muse shows you the agent is working\n13:51 Why Muse is not a platform yet\n14:58 How timidly are you living\n15:29 What you can now build yourself\n17:01 Why Muse was never an inevitable win\n19:25 Embarrassment is not getting cheaper\n20:43 Find a project the next model makes exciting\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Meta Muse",
+        "Mark Zuckerberg",
+        "AI agents",
+        "personal AI agent",
+        "Alexandr Wang",
+        "Reality Labs",
+        "lessons from Zuckerberg",
+        "building with AI",
+        "meta",
+        "meta ai",
+        "zuckerberg"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "Apple"
+        ],
+        "people": [
+          "Mark Zuckerberg",
+          "Nat Friedman"
+        ],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Muse is the bet that mark is making that we will all enter the world he wants to build"
+      ],
+      "summary": [
+        "Mark Zuckerberg renamed his whole company for the metaverse, lost tens of billions of dollars, over $19 million in one year in 2025, by the way"
+      ],
+      "transcript_chars": 23090,
+      "folder": "2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg"
+    },
     {
       "title": "Big Tech is shifting, and you need to pay attention #tech #ai #business",
       "video_id": "eDafFeXAOYk",

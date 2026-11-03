@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (139 episodes):
+Episodes discussing **Startups** (140 episodes):
 
+- [You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?](../episodes/2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg/transcript.md) (2026-11-03)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)
 - [A $20 million broker fee vs. one ChatGPT prompt #AI #ChatGPT #Revolut #business #tech](../episodes/2026-09-27-a-20-million-broker-fee-vs-one-chatgpt-prompt-ai-chatgpt-revolut-business-tech/transcript.md) (2026-09-27)

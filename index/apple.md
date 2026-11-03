@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (94 episodes):
+Episodes discussing **Apple** (95 episodes):
 
+- [You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?](../episodes/2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg/transcript.md) (2026-11-03)
 - [Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.](../episodes/2026-10-20-mac-mini-for-ai-agents-how-much-memory-you-need-and-how-to-use-what-you-have/transcript.md) (2026-10-20)
 - [I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](../episodes/2026-09-29-i-gave-metas-muse-the-most-boring-job-i-had-it-found-5350-a-year/transcript.md) (2026-09-29)
 - [The hidden costs of a bad AI assistant #siri #apple #applenews](../episodes/2026-09-16-the-hidden-costs-of-a-bad-ai-assistant-siri-apple-applenews/transcript.md) (2026-09-16)

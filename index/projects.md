@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (121 episodes):
+Episodes discussing **Projects** (122 episodes):
 
+- [You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?](../episodes/2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg/transcript.md) (2026-11-03)
 - [The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.](../episodes/2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi/transcript.md) (2026-10-31)
 - [How hackable is your computer #blackoctober #cybersecurity](../episodes/2026-10-29-how-hackable-is-your-computer-blackoctober-cybersecurity/transcript.md) (2026-10-29)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)

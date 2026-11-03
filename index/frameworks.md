@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (678 episodes):
+Episodes discussing **Frameworks** (679 episodes):
 
+- [You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?](../episodes/2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg/transcript.md) (2026-11-03)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)
 - [The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.](../episodes/2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi/transcript.md) (2026-10-31)
 - [How hackable is your computer #blackoctober #cybersecurity](../episodes/2026-10-29-how-hackable-is-your-computer-blackoctober-cybersecurity/transcript.md) (2026-10-29)

@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (229 episodes):
+Episodes discussing **Framework** (230 episodes):
 
+- [You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?](../episodes/2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg/transcript.md) (2026-11-03)
 - [Are Your AI Agents Doing Real Work Or Productivity Theater? Here Are 4 Principles I Use.](../episodes/2026-10-27-are-your-ai-agents-doing-real-work-or-productivity-theater-here-are-4-principles/transcript.md) (2026-10-27)
 - [AI agents = messy roommates](../episodes/2026-10-25-ai-agents-messy-roommates/transcript.md) (2026-10-25)
 - [Meta's Muse can get your money back #AI #meta #muse #agent](../episodes/2026-10-01-metas-muse-can-get-your-money-back-ai-meta-muse-agent/transcript.md) (2026-10-01)
