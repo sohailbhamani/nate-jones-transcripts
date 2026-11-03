@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (166 episodes):
+Episodes discussing **Microsoft** (167 episodes):
 
+- [Big Tech is shifting, and you need to pay attention #tech #ai #business](../episodes/2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business/transcript.md) (2026-11-02)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?](../episodes/2026-10-03-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version/transcript.md) (2026-10-03)

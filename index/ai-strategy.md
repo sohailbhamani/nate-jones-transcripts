@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (576 episodes):
+Episodes discussing **Ai Strategy** (577 episodes):
 
+- [Big Tech is shifting, and you need to pay attention #tech #ai #business](../episodes/2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business/transcript.md) (2026-11-02)
 - [How hackable is your computer #blackoctober #cybersecurity](../episodes/2026-10-29-how-hackable-is-your-computer-blackoctober-cybersecurity/transcript.md) (2026-10-29)
 - [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)
 - [Enterprise AI Pricing: Why Everything You Know Is Wrong](../episodes/2026-10-25-enterprise-ai-pricing-why-everything-you-know-is-wrong/transcript.md) (2026-10-25)

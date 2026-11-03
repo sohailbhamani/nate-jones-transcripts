@@ -1,7 +1,8 @@
 # Salesforce
 
-Episodes discussing **Salesforce** (64 episodes):
+Episodes discussing **Salesforce** (65 episodes):
 
+- [Big Tech is shifting, and you need to pay attention #tech #ai #business](../episodes/2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business/transcript.md) (2026-11-02)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)
 - [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)
 - [As you can see ... I had a great time at Dreamforce #AI #Dreamforce #Salesforce #agents](../episodes/2026-09-23-as-you-can-see-i-had-a-great-time-at-dreamforce-ai-dreamforce-salesforce-agents/transcript.md) (2026-09-23)

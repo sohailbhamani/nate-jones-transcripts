@@ -1,10 +1,68 @@
 {
-  "total_videos": 876,
+  "total_videos": 877,
   "date_range": {
-    "newest": "2026-11-01",
+    "newest": "2026-11-02",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Big Tech is shifting, and you need to pay attention #tech #ai #business",
+      "video_id": "eDafFeXAOYk",
+      "youtube_url": "https://www.youtube.com/watch?v=eDafFeXAOYk",
+      "publish_date": "2026-11-02",
+      "duration": "0:33",
+      "duration_seconds": 33,
+      "view_count": 1453,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "On October 27, Salesforce made Microsoft's AI agents easier to use. The same day, Oracle said it's bringing its apps into ChatGPT. Rivals are opening doors for rivals, and nobody does that out of generosity.\n\nThe full breakdown, plus 8 questions to ask any AI agent vendor: https://natesnewsletter.substack.com/p/enterprise-ai-agent-platforms?utm_source=youtube&utm_medium=video&utm_campaign=enterprise-ai-agent-platforms-launch&utm_content=shorts\n\n#AIagents #Salesforce #Microsoft #Shorts\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agents",
+        "enterprise AI",
+        "Salesforce",
+        "Microsoft Copilot Studio",
+        "Oracle",
+        "OpenAI",
+        "agentic control plane",
+        "AI agent platform",
+        "enterprise AI agent platforms",
+        "how to choose an AI agent platform"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Microsoft",
+          "Salesforce",
+          "Oracle"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Big Tech is shifting, and you need to pay attention #tech #ai #business\nOn October 27th, Salesforce made Microsoft's agents much, much easier to use"
+      ],
+      "transcript_chars": 477,
+      "folder": "2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business"
+    },
     {
       "title": "Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.",
       "video_id": "KDGxQtfjBj0",
