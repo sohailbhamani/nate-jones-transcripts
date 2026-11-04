@@ -1,10 +1,76 @@
 {
-  "total_videos": 878,
+  "total_videos": 879,
   "date_range": {
-    "newest": "2026-11-03",
+    "newest": "2026-11-04",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Elon's AI Agent Has a Massive Cost Problem",
+      "video_id": "-5cDYPwNf5g",
+      "youtube_url": "https://www.youtube.com/watch?v=-5cDYPwNf5g",
+      "publish_date": "2026-11-04",
+      "duration": "16:08",
+      "duration_seconds": 968,
+      "view_count": 15573,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI agents have a cost problem that keeps companies from scaling. This breakdown shows how to calculate the real price of your internal automation.\n\nElon Musk says his AI agent, Grok Bot, costs too much to serve for the money it brings in. xAI's own write-ups show the same agent saving the company over $14,000 on unused software seats. So what is your agent's work worth, and when does spending more on AI make sense?\n\nFull post: https://natesnewsletter.substack.com/p/ai-agent-cost-worth-it?utm_source=youtube&utm_medium=video&utm_campaign=ai-agent-cost-worth-it-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use): https://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=ai-agent-cost-worth-it-launch&utm_content=description\n\nMy Links \ud83d\udd17 \n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=ai-agent-cost-worth-it-launch&utm_content=description \n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones \n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones \n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nMost businesses treat AI usage as a simple subscription fee, ignoring the hidden overhead of tools and maintenance. This video breaks down the full cost stack, moving beyond simple API calls to show what it actually takes to run autonomous systems at scale. You will learn how to evaluate the total investment versus the time saved by your internal teams.\n\nI analyze how companies like XAI use GrokBot to drive efficiency and provide a framework called The Map to help you decide when to scale your deployment. By understanding the fully loaded costs of your agentic workflows, you can stop guessing the return on investment and start building sustainable automation that pays for itself.\n\nSubscribe for weekly AI strategy breakdowns, and comment which agentic tools you want me to analyze next.\n\nChapters: \n00:00 The Agent Cost Paradox \n00:51 Same Limit, Different Value \n02:28 The Readiness Meeting \n05:20 How to Judge the Result \n06:30 The Inherited Report \n08:38 Unused Seats and Unmeasured Value \n10:03 This Sounds Like More Work \n10:21 A Tiny Internal Startup \n11:16 Where to Dig \n11:45 What Is Your Time Worth \n13:26 Evidence of Success \n14:37 Agent Unit Economics and Tiering\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4 Apple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI agents",
+        "cost stack",
+        "GrokBot",
+        "internal automation",
+        "agentic workflows",
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI agent cost",
+        "Grok",
+        "xAI",
+        "Elon Musk",
+        "AI agent ROI",
+        "value of your time",
+        "AI for work",
+        "grok ai",
+        "grok bot"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "X"
+        ],
+        "people": [
+          "Elon Musk"
+        ],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Elon's AI Agent Has a Massive Cost Problem\nElon Musk just said Grockbot costs too much to serve for the money it brings in"
+      ],
+      "transcript_chars": 16318,
+      "folder": "2026-11-04-elons-ai-agent-has-a-massive-cost-problem"
+    },
     {
       "title": "You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?",
       "video_id": "JFoDdKuRmSk",
