@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (578 episodes):
+Episodes discussing **Ai Strategy** (579 episodes):
 
+- [Stop wasting time: How to value your hours #time #efficiency #tips](../episodes/2026-11-05-stop-wasting-time-how-to-value-your-hours-time-efficiency-tips/transcript.md) (2026-11-05)
 - [You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?](../episodes/2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg/transcript.md) (2026-11-03)
 - [Big Tech is shifting, and you need to pay attention #tech #ai #business](../episodes/2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business/transcript.md) (2026-11-02)
 - [How hackable is your computer #blackoctober #cybersecurity](../episodes/2026-10-29-how-hackable-is-your-computer-blackoctober-cybersecurity/transcript.md) (2026-10-29)
