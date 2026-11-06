@@ -1,10 +1,82 @@
 {
-  "total_videos": 880,
+  "total_videos": 881,
   "date_range": {
-    "newest": "2026-11-05",
+    "newest": "2026-11-06",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The end of git? OpenAI CTO on the future of coding.",
+      "video_id": "S6SEgMooZpE",
+      "youtube_url": "https://www.youtube.com/watch?v=S6SEgMooZpE",
+      "publish_date": "2026-11-06",
+      "duration": "16:07",
+      "duration_seconds": 967,
+      "view_count": 8494,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "OpenAI is outgrowing Git as their internal code generation speeds overwhelm standard version control systems.\n\nVijay Raji, CTO of Applications at OpenAI, explains why their team had to architect a new code repository system to handle the massive influx of AI-generated commits. We look at the breakdown of how rapid model deployment forces infrastructure changes that legacy tools simply cannot support.\n\nThis conversation covers the technical lessons from the Statsig acquisition and how OpenAI manages the debt of building software that writes itself. We also look at the reality of the founder's test and what the latest model drop means for engineering workflows. Understanding how to scale AI agent development is the difference between keeping up and falling behind.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/openai-pando-git-backend?utm_source=youtube&utm_medium=video&utm_campaign=openai-pando-git-backend-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=openai-pando-git-backend-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=openai-pando-git-backend-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside OpenAI as AI agents write more of the code?\nThe common story is that AI coding makes engineers faster, but the real question is what breaks downstream when they are.\n\nIn this video, I share the inside scoop on what OpenAI learned when code got cheap:\n\n- Why reviews, testing, and CI/CD became OpenAI's new bottlenecks\n- How agents outgrew a code repository designed for offline work\n- What Vijaye's founder litmus test says about building on models\n- How OpenAI's ads team reached a billion-dollar run rate fast\n\nFaster coding is a real gain, and it only reaches customers if leaders fix the systems and decisions it overloads.\n\nChapters:\n00:00 What changed inside OpenAI\n01:01 How coding changed after February 2026\n01:46 Token usage up 17x at frontier labs\n03:00 Reviews, testing, and CI/CD become the bottleneck\n03:40 What breaks when agents push to production\n04:19 Why OpenAI rebuilt its code repository\n06:00 Collisions on main and sparse checkout\n07:14 Handing a team the problem to solve\n08:11 The next billion ChatGPT users and voice\n10:30 How leaders prototype with Codex\n13:19 The founder litmus test for new models\n14:12 The ads team from zero code to $1B\n\nSubscribe for weekly AI strategy breakdowns, and comment which technical infrastructure challenge you want me to cover next.\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "code repository",
+        "AI agent development",
+        "model deployment",
+        "software engineering",
+        "infrastructure",
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "OpenAI",
+        "OpenAI Codex",
+        "AI agents",
+        "AI coding tools",
+        "Vijaye Raji",
+        "Git for AI agents",
+        "code review bottleneck",
+        "OpenAI interview"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Meta",
+          "Box",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Codex",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Different assumptions",
+        "Where these agents are checking out code, the throughput of that checkout is going to be a a big problem"
+      ],
+      "summary": [
+        "I sat down with Vijay Raji, CTO of Applications at OpenAI"
+      ],
+      "transcript_chars": 17728,
+      "folder": "2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding"
+    },
     {
       "title": "Stop wasting time: How to value your hours #time #efficiency #tips",
       "video_id": "XuUEgWtLfMw",

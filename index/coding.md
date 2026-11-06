@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (519 episodes):
+Episodes discussing **Coding** (520 episodes):
 
+- [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.](../episodes/2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi/transcript.md) (2026-10-31)
 - [How hackable is your computer #blackoctober #cybersecurity](../episodes/2026-10-29-how-hackable-is-your-computer-blackoctober-cybersecurity/transcript.md) (2026-10-29)
 - [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)

@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (230 episodes):
+Episodes discussing **Framework** (231 episodes):
 
+- [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?](../episodes/2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg/transcript.md) (2026-11-03)
 - [Are Your AI Agents Doing Real Work Or Productivity Theater? Here Are 4 Principles I Use.](../episodes/2026-10-27-are-your-ai-agents-doing-real-work-or-productivity-theater-here-are-4-principles/transcript.md) (2026-10-27)
 - [AI agents = messy roommates](../episodes/2026-10-25-ai-agents-messy-roommates/transcript.md) (2026-10-25)

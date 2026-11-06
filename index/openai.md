@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (363 episodes):
+Episodes discussing **Openai** (364 episodes):
 
+- [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)
 - [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)
 - [Enterprise AI Pricing: Why Everything You Know Is Wrong](../episodes/2026-10-25-enterprise-ai-pricing-why-everything-you-know-is-wrong/transcript.md) (2026-10-25)

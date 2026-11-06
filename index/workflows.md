@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (354 episodes):
+Episodes discussing **Workflows** (355 episodes):
 
+- [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Stop wasting time: How to value your hours #time #efficiency #tips](../episodes/2026-11-05-stop-wasting-time-how-to-value-your-hours-time-efficiency-tips/transcript.md) (2026-11-05)
 - [Are Your AI Agents Doing Real Work Or Productivity Theater? Here Are 4 Principles I Use.](../episodes/2026-10-27-are-your-ai-agents-doing-real-work-or-productivity-theater-here-are-4-principles/transcript.md) (2026-10-27)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)
