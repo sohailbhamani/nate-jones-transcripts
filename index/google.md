@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (308 episodes):
+Episodes discussing **Google** (309 episodes):
 
+- [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)
 - [The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.](../episodes/2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi/transcript.md) (2026-10-31)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)

@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (349 episodes):
+Episodes discussing **Leadership** (350 episodes):
 
+- [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Big Tech is shifting, and you need to pay attention #tech #ai #business](../episodes/2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business/transcript.md) (2026-11-02)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)

@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (144 episodes):
+Episodes discussing **X** (145 episodes):
 
+- [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Stop wasting time: How to value your hours #time #efficiency #tips](../episodes/2026-11-05-stop-wasting-time-how-to-value-your-hours-time-efficiency-tips/transcript.md) (2026-11-05)
 - [Elon's AI Agent Has a Massive Cost Problem](../episodes/2026-11-04-elons-ai-agent-has-a-massive-cost-problem/transcript.md) (2026-11-04)
