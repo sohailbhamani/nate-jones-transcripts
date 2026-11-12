@@ -80,6 +80,7 @@ yt_tags:
   - "AI model pricing"
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Career"
