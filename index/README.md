@@ -1,26 +1,26 @@
 # Nate B Jones Podcast Index
 
-Index of 884 episodes across 121 topics.
+Index of 885 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (683 episodes)
-- [Ai Tools](ai-tools.md) (614 episodes)
-- [Make](make.md) (613 episodes)
+- [Frameworks](frameworks.md) (684 episodes)
+- [Ai Tools](ai-tools.md) (615 episodes)
+- [Make](make.md) (614 episodes)
 - [Ai Strategy](ai-strategy.md) (582 episodes)
 - [Coding](coding.md) (520 episodes)
 - [Product Management](product-management.md) (502 episodes)
 - [Ai News](ai-news.md) (431 episodes)
-- [Anthropic](anthropic.md) (414 episodes)
+- [Anthropic](anthropic.md) (415 episodes)
 - [Ai Agents](ai-agents.md) (403 episodes)
-- [Claude](claude.md) (389 episodes)
-- [Career](career.md) (387 episodes)
-- [Openai](openai.md) (366 episodes)
+- [Claude](claude.md) (390 episodes)
+- [Career](career.md) (388 episodes)
+- [Openai](openai.md) (367 episodes)
 - [Workflows](workflows.md) (356 episodes)
 - [Leadership](leadership.md) (350 episodes)
 - [Tutorials](tutorials.md) (338 episodes)
 - [Google](google.md) (310 episodes)
-- [Tutorial](tutorial.md) (283 episodes)
+- [Tutorial](tutorial.md) (284 episodes)
 - [Prompting](prompting.md) (254 episodes)
 - [Framework](framework.md) (231 episodes)
 - [Gemini](gemini.md) (172 episodes)
@@ -32,7 +32,7 @@ Index of 884 episodes across 121 topics.
 - [Startups](startups.md) (140 episodes)
 - [Slack](slack.md) (125 episodes)
 - [Claude Code](claude-code.md) (125 episodes)
-- [Projects](projects.md) (122 episodes)
+- [Projects](projects.md) (123 episodes)
 - [Amazon](amazon.md) (121 episodes)
 - [Cursor](cursor.md) (117 episodes)
 - [Chatgpt](chatgpt.md) (113 episodes)
@@ -42,7 +42,7 @@ Index of 884 episodes across 121 topics.
 - [Apple](apple.md) (95 episodes)
 - [Mcp](mcp.md) (95 episodes)
 - [Nvidia](nvidia.md) (90 episodes)
-- [Opus](opus.md) (86 episodes)
+- [Opus](opus.md) (87 episodes)
 - [Artifacts](artifacts.md) (74 episodes)
 - [Youtube](youtube.md) (68 episodes)
 - [Codex](codex.md) (67 episodes)
