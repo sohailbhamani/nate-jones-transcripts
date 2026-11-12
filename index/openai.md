@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (365 episodes):
+Episodes discussing **Openai** (366 episodes):
 
+- [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)
 - [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)

@@ -1,10 +1,52 @@
 {
-  "total_videos": 883,
+  "total_videos": 884,
   "date_range": {
-    "newest": "2026-11-10",
+    "newest": "2026-11-11",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack",
+      "video_id": "g8jKNvxbqYI",
+      "youtube_url": "https://www.youtube.com/watch?v=g8jKNvxbqYI",
+      "publish_date": "2026-11-11",
+      "duration": "1:35",
+      "duration_seconds": 95,
+      "view_count": 6818,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Stop struggling with ChatGPT mobile settings and find your hidden features.\n\nMany users find the interface confusing when key tools seem to disappear or stay locked behind menus. This guide shows you exactly where to find the plus icon and why your mobile app might feel limited.\n\nWatch this if you want to master your AI mobile account and stop feeling like the tech is getting dumber.\n\nSubscribe for weekly AI strategy breakdowns, and comment which mobile feature you want me to cover next.\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [
+        "ChatGPT mobile",
+        "AI mobile account",
+        "ChatGPT settings",
+        "mobile interface",
+        "chatgpt",
+        "chat gpt"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Gemini"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack\nThis is the most important thing you can do for Chad GPT"
+      ],
+      "transcript_chars": 1799,
+      "folder": "2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack"
+    },
     {
       "title": "US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)",
       "video_id": "OEY-vm7qRHc",

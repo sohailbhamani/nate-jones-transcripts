@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (309 episodes):
+Episodes discussing **Google** (310 episodes):
 
+- [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)
 - [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)
 - [The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.](../episodes/2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi/transcript.md) (2026-10-31)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)

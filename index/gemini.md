@@ -1,7 +1,8 @@
 # Gemini
 
-Episodes discussing **Gemini** (171 episodes):
+Episodes discussing **Gemini** (172 episodes):
 
+- [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [AI Benchmarks are dead #AI #benchmarks #Google #Gemini #AInews](../episodes/2026-10-10-ai-benchmarks-are-dead-ai-benchmarks-google-gemini-ainews/transcript.md) (2026-10-10)
 - [Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.](../episodes/2026-10-07-googles-gemini-argon-is-1-on-a-leaderboard-it-hasnt-passed-the-benchmark-that-ma/transcript.md) (2026-10-07)

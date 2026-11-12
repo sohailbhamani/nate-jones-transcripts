@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (337 episodes):
+Episodes discussing **Tutorials** (338 episodes):
 
+- [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)
 - [Stop wasting time: How to value your hours #time #efficiency #tips](../episodes/2026-11-05-stop-wasting-time-how-to-value-your-hours-time-efficiency-tips/transcript.md) (2026-11-05)
 - [Elon's AI Agent Has a Massive Cost Problem](../episodes/2026-11-04-elons-ai-agent-has-a-massive-cost-problem/transcript.md) (2026-11-04)
 - [The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.](../episodes/2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi/transcript.md) (2026-10-31)

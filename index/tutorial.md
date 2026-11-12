@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (282 episodes):
+Episodes discussing **Tutorial** (283 episodes):
 
+- [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)
 - [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)
 - [Stop wasting time: How to value your hours #time #efficiency #tips](../episodes/2026-11-05-stop-wasting-time-how-to-value-your-hours-time-efficiency-tips/transcript.md) (2026-11-05)
 - [Elon's AI Agent Has a Massive Cost Problem](../episodes/2026-11-04-elons-ai-agent-has-a-massive-cost-problem/transcript.md) (2026-11-04)

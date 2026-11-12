@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (613 episodes):
+Episodes discussing **Ai Tools** (614 episodes):
 
+- [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Elon's AI Agent Has a Massive Cost Problem](../episodes/2026-11-04-elons-ai-agent-has-a-massive-cost-problem/transcript.md) (2026-11-04)
 - [Big Tech is shifting, and you need to pay attention #tech #ai #business](../episodes/2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business/transcript.md) (2026-11-02)

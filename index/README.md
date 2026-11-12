@@ -1,12 +1,12 @@
 # Nate B Jones Podcast Index
 
-Index of 883 episodes across 121 topics.
+Index of 884 episodes across 121 topics.
 
 ## Topics
 
-- [Frameworks](frameworks.md) (682 episodes)
+- [Frameworks](frameworks.md) (683 episodes)
+- [Ai Tools](ai-tools.md) (614 episodes)
 - [Make](make.md) (613 episodes)
-- [Ai Tools](ai-tools.md) (613 episodes)
 - [Ai Strategy](ai-strategy.md) (582 episodes)
 - [Coding](coding.md) (520 episodes)
 - [Product Management](product-management.md) (502 episodes)
@@ -15,15 +15,15 @@ Index of 883 episodes across 121 topics.
 - [Ai Agents](ai-agents.md) (403 episodes)
 - [Claude](claude.md) (389 episodes)
 - [Career](career.md) (387 episodes)
-- [Openai](openai.md) (365 episodes)
+- [Openai](openai.md) (366 episodes)
 - [Workflows](workflows.md) (356 episodes)
 - [Leadership](leadership.md) (350 episodes)
-- [Tutorials](tutorials.md) (337 episodes)
-- [Google](google.md) (309 episodes)
-- [Tutorial](tutorial.md) (282 episodes)
+- [Tutorials](tutorials.md) (338 episodes)
+- [Google](google.md) (310 episodes)
+- [Tutorial](tutorial.md) (283 episodes)
 - [Prompting](prompting.md) (254 episodes)
 - [Framework](framework.md) (231 episodes)
-- [Gemini](gemini.md) (171 episodes)
+- [Gemini](gemini.md) (172 episodes)
 - [News Roundup](news-roundup.md) (170 episodes)
 - [Microsoft](microsoft.md) (167 episodes)
 - [Deep Dive](deep-dive.md) (154 episodes)
@@ -35,7 +35,7 @@ Index of 883 episodes across 121 topics.
 - [Projects](projects.md) (122 episodes)
 - [Amazon](amazon.md) (121 episodes)
 - [Cursor](cursor.md) (117 episodes)
-- [Chatgpt](chatgpt.md) (112 episodes)
+- [Chatgpt](chatgpt.md) (113 episodes)
 - [Box](box.md) (111 episodes)
 - [Github](github.md) (100 episodes)
 - [Deep Dives](deep-dives.md) (98 episodes)
@@ -113,8 +113,8 @@ Index of 883 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Cowork](cowork.md) (2 episodes)
+- [Claude Cowork](claude-cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Ollama](ollama.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
