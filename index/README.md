@@ -1,13 +1,13 @@
 # Nate B Jones Podcast Index
 
-Index of 885 episodes across 121 topics.
+Index of 886 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (684 episodes)
 - [Ai Tools](ai-tools.md) (615 episodes)
 - [Make](make.md) (614 episodes)
-- [Ai Strategy](ai-strategy.md) (582 episodes)
+- [Ai Strategy](ai-strategy.md) (583 episodes)
 - [Coding](coding.md) (520 episodes)
 - [Product Management](product-management.md) (502 episodes)
 - [Ai News](ai-news.md) (431 episodes)
@@ -26,7 +26,7 @@ Index of 885 episodes across 121 topics.
 - [Gemini](gemini.md) (172 episodes)
 - [News Roundup](news-roundup.md) (170 episodes)
 - [Microsoft](microsoft.md) (167 episodes)
-- [Deep Dive](deep-dive.md) (154 episodes)
+- [Deep Dive](deep-dive.md) (155 episodes)
 - [Meta](meta.md) (152 episodes)
 - [X](x.md) (145 episodes)
 - [Startups](startups.md) (140 episodes)
@@ -41,7 +41,7 @@ Index of 885 episodes across 121 topics.
 - [Deep Dives](deep-dives.md) (98 episodes)
 - [Apple](apple.md) (95 episodes)
 - [Mcp](mcp.md) (95 episodes)
-- [Nvidia](nvidia.md) (90 episodes)
+- [Nvidia](nvidia.md) (91 episodes)
 - [Opus](opus.md) (87 episodes)
 - [Artifacts](artifacts.md) (74 episodes)
 - [Youtube](youtube.md) (68 episodes)
@@ -85,10 +85,10 @@ Index of 885 episodes across 121 topics.
 - [Whisper](whisper.md) (10 episodes)
 - [Midjourney](midjourney.md) (10 episodes)
 - [Gpt 5](gpt-5.md) (10 episodes)
+- [Amd](amd.md) (9 episodes)
 - [O3](o3.md) (9 episodes)
 - [Langchain](langchain.md) (9 episodes)
 - [Sap](sap.md) (9 episodes)
-- [Amd](amd.md) (8 episodes)
 - [Case Study](case-study.md) (8 episodes)
 - [Tsmc](tsmc.md) (8 episodes)
 - [Tailwind](tailwind.md) (7 episodes)
@@ -119,8 +119,8 @@ Index of 885 episodes across 121 topics.
 - [Ollama](ollama.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Anthropic Api](anthropic-api.md) (1 episodes)
-- [Fiverr](fiverr.md) (1 episodes)
 - [Duolingo](duolingo.md) (1 episodes)
+- [Fiverr](fiverr.md) (1 episodes)
 - [Qualcomm](qualcomm.md) (1 episodes)
 - [Raycast](raycast.md) (1 episodes)
 - [Pinecone](pinecone.md) (1 episodes)

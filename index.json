@@ -1,10 +1,74 @@
 {
-  "total_videos": 885,
+  "total_videos": 886,
   "date_range": {
-    "newest": "2026-11-12",
+    "newest": "2026-11-13",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Why Jensen Huang's Resignation Could Change Your AI Bill",
+      "video_id": "04ClMCe_-JY",
+      "youtube_url": "https://www.youtube.com/watch?v=04ClMCe_-JY",
+      "publish_date": "2026-11-13",
+      "duration": "11:03",
+      "duration_seconds": 663,
+      "view_count": 23853,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Jensen Huang has resigned from NVIDIA, and the bigger consequence is NVIDIA's next deal. Here's what changes for AI chip competition, AI infrastructure financing, export rules, and what you pay for AI.\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=jensen-huang-resigns-nvidia-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=jensen-huang-resigns-nvidia-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening to NVIDIA after Jensen Huang's resignation?\n\nThe common story is that the roadmap continues without interruption \u2014 but the real question is who now makes the calls on scarce chips, financing, and giant deals.\n\nIn this video, I share the inside scoop on NVIDIA after Jensen:\n- Why NVIDIA's next deal matters more than the leadership announcement\n- What Anthropic's Claude-on-AMD test shows about the CUDA moat\n- How guarantees capped at $105 billion tie NVIDIA to AI financing\n- Where the AI Overwatch Act leaves chip access outside the US\n\nNVIDIA stays a major company, but more credible alternatives could mean more price competition and cheaper inference for everyone building with AI.\n\nChapters:\n00:00 Jensen is out and NVIDIA's next deal\n00:57 Who makes the calls on chips and deals\n01:37 The CUDA moat and the cost of switching\n02:14 Anthropic's Claude on AMD test\n04:00 Splitting your next chip order\n04:51 Financing and the $105 billion guarantee\n07:12 Washington and chip export rules\n08:18 What the resignation doesn't stop\n09:07 What to watch at the November 17 earnings call\n10:08 What this means for your AI bill\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Jensen Huang",
+        "NVIDIA",
+        "Jensen Huang resigns",
+        "CUDA",
+        "AMD",
+        "Anthropic",
+        "AI chips",
+        "AI infrastructure financing",
+        "AI Overwatch Act",
+        "jensen huang",
+        "nvidia stock",
+        "nvidia news",
+        "nvidia ceo",
+        "ai news",
+        "nvda"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia",
+          "AMD"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Why Jensen Huang's Resignation Could Change Your AI Bill\n\u0627\u0633\u062a\u0642\u0627\u0644 \u062c\u0646\u0633\u0646 \u0647\u0648\u0627\u0646\u063a \u0645\u0646 \u0634\u0631\u0643\u0629 \u0625\u0646\u0641\u064a\u062f\u064a\u0627"
+      ],
+      "transcript_chars": 9297,
+      "folder": "2026-11-13-why-jensen-huangs-resignation-could-change-your-ai-bill"
+    },
     {
       "title": "Fable 5.2 Is really good and really expensive. So, when should you use it?",
       "video_id": "owMtQh_3k4k",
