@@ -1,10 +1,50 @@
 {
-  "total_videos": 886,
+  "total_videos": 887,
   "date_range": {
-    "newest": "2026-11-13",
+    "newest": "2026-11-14",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Why did the entire US flight system crash? \u2708\ufe0f\ud83e\udd14 #aviation #ai #news",
+      "video_id": "4xEuDOEwy5U",
+      "youtube_url": "https://www.youtube.com/watch?v=4xEuDOEwy5U",
+      "publish_date": "2026-11-14",
+      "duration": "1:23",
+      "duration_seconds": 83,
+      "view_count": 2149,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Widespread flight cancellations across America may be tied to a new AI-powered air traffic management tool launched just hours ago.\n\nThis video analyzes the link between recent radar issues and the deployment of the SMART air traffic management system. While the FAA has cited rolling outages as the primary cause, the timing of this new routing technology suggests a more complex operational challenge for aviation infrastructure.\n\nWe look at how this AI flight software was designed to handle congestion and why its integration could be causing unexpected system failures. Understanding these air travel delays is critical for anyone tracking the real-world impact of automated tools on national logistics.\n\nSubscribe for weekly AI strategy breakdowns, and comment whether you think automated systems are ready to manage national air traffic.\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [
+        "flight cancellations",
+        "air traffic management",
+        "AI flight software",
+        "aviation infrastructure",
+        "air travel delays",
+        "flight delays",
+        "ai news",
+        "nate b jones",
+        "nate b jones ai"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Founders"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "\u2708\ufe0f\ud83e\udd14 #aviation #ai #news\nEvery plane in America has just been stopped"
+      ],
+      "transcript_chars": 1475,
+      "folder": "2026-11-14-why-did-the-entire-us-flight-system-crash-aviation-ai-news"
+    },
     {
       "title": "Why Jensen Huang's Resignation Could Change Your AI Bill",
       "video_id": "04ClMCe_-JY",
