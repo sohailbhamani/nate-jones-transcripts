@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (171 episodes):
+Episodes discussing **News Roundup** (172 episodes):
 
+- [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)
 - [Why did the entire US flight system crash? ✈️🤔 #aviation #ai #news](../episodes/2026-11-14-why-did-the-entire-us-flight-system-crash-aviation-ai-news/transcript.md) (2026-11-14)
 - [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)

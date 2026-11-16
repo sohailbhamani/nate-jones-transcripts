@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (584 episodes):
+Episodes discussing **Ai Strategy** (585 episodes):
 
+- [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)
 - [Why Your Company Doesn't Need the Most Expensive AI Model](../episodes/2026-11-15-why-your-company-doesnt-need-the-most-expensive-ai-model/transcript.md) (2026-11-15)
 - [Why Jensen Huang's Resignation Could Change Your AI Bill](../episodes/2026-11-13-why-jensen-huangs-resignation-could-change-your-ai-bill/transcript.md) (2026-11-13)
 - [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)

@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (389 episodes):
+Episodes discussing **Career** (390 episodes):
 
+- [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)
 - [Why Your Company Doesn't Need the Most Expensive AI Model](../episodes/2026-11-15-why-your-company-doesnt-need-the-most-expensive-ai-model/transcript.md) (2026-11-15)
 - [Fable 5.2 Is really good and really expensive. So, when should you use it?](../episodes/2026-11-12-fable-52-is-really-good-and-really-expensive-so-when-should-you-use-it/transcript.md) (2026-11-12)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)

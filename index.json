@@ -1,10 +1,53 @@
 {
-  "total_videos": 888,
+  "total_videos": 889,
   "date_range": {
-    "newest": "2026-11-15",
+    "newest": "2026-11-16",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "What are they hiding about Alice Huang? #shorts #conspiracy",
+      "video_id": "dzsSYHob9a0",
+      "youtube_url": "https://www.youtube.com/watch?v=dzsSYHob9a0",
+      "publish_date": "2026-11-16",
+      "duration": "1:35",
+      "duration_seconds": 95,
+      "view_count": 17294,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Conflicting reports regarding Alice Wong have emerged, raising questions about her status as an intelligence asset. Get the facts on what we know and what remains unverified regarding these claims.\n\nRecent intelligence reports have sparked a complex debate after the New York Times suggested Alice Wong was an intelligence asset. However, the Department of Justice has officially stated they reached no such conclusion, creating a significant gap in the public narrative. This briefing clarifies the current state of the intelligence asset investigation to help you separate verified information from speculation.\n\nWe also examine the latest updates from the Wall Street Journal, which reported that Singapore investigated Alice Wong for alleged links to intelligence operations. By comparing these conflicting accounts, you can better understand the nuances of the Alice Wong story and why official agencies are providing different assessments. Understanding this intelligence investigation is essential for anyone tracking how these high-level international disclosures develop.\n\nSubscribe for weekly intelligence and strategy breakdowns, and comment on whether you think these conflicting reports will lead to more transparency.\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [
+        "intelligence asset",
+        "intelligence investigation",
+        "Department of Justice",
+        "jensen huang",
+        "alice huang",
+        "nvidia",
+        "jensen huang affair",
+        "ai",
+        "nate b jones",
+        "news",
+        "nvidia ceo",
+        "ai news"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#shorts #conspiracy\nSo, we have some conflicting information on the Jensen story"
+      ],
+      "transcript_chars": 1433,
+      "folder": "2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy"
+    },
     {
       "title": "Why Your Company Doesn't Need the Most Expensive AI Model",
       "video_id": "JlHqTyW8rtA",

@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (433 episodes):
+Episodes discussing **Ai News** (434 episodes):
 
+- [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)
 - [Why Your Company Doesn't Need the Most Expensive AI Model](../episodes/2026-11-15-why-your-company-doesnt-need-the-most-expensive-ai-model/transcript.md) (2026-11-15)
 - [Why did the entire US flight system crash? ✈️🤔 #aviation #ai #news](../episodes/2026-11-14-why-did-the-entire-us-flight-system-crash-aviation-ai-news/transcript.md) (2026-11-14)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)
