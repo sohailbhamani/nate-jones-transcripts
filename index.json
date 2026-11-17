@@ -1,10 +1,86 @@
 {
-  "total_videos": 889,
+  "total_videos": 890,
   "date_range": {
     "newest": "2026-11-16",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.",
+      "video_id": "1aXBg-qQzgA",
+      "youtube_url": "https://www.youtube.com/watch?v=1aXBg-qQzgA",
+      "publish_date": "2026-11-16",
+      "duration": "20:34",
+      "duration_seconds": 1234,
+      "view_count": 37496,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI demand is enormous, but AI spending isn't growing anywhere near 10x. Here's what cheaper AI models, NVIDIA's reported \"avalanche\" of committed supply, chip export controls, and the Microsoft 365 outage mean for the AI build-out.\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=ai-spending-cheaper-models-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=ai-spending-cheaper-models-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening with AI spending as businesses move work to cheaper models?\n\nThe common story is that more AI usage means more AI revenue, but the real question is whether spending can grow fast enough to pay for the capacity being built.\n\nIn this video, I share the inside scoop on AI spending and the build-out:\n- Why Ramp's data shows business token spending barely grew in two months\n- How Google's Orchestrator hands work to cheaper, faster Gemini models\n- What model fingerprints suggest about Chinese labs and Blackwell chips\n- Why the Microsoft 365 outage is really an engineering culture question\n\nI expect a lot more AI use in 2027 at falling prices, and the open question is whether that spending reaches the model makers or moves up the stack to AI that actually rings the cash register.\n\nChapters:\n00:00 Cheaper AI models and NVIDIA's avalanche\n00:40 Ramp's AI spending data\n02:37 Google's Orchestrator and cheaper execution\n04:33 Where new AI spending is going\n05:29 NVIDIA's committed supply\n07:00 The data center math\n08:28 Two stories: demand and falling token costs\n10:16 What to watch on NVIDIA's earnings call\n10:49 Export controls and chip fingerprints\n14:20 The Microsoft 365 outage\n16:16 Why engineering culture matters\n19:25 What this means for 2027\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "NVIDIA",
+        "Jensen Huang",
+        "AI spending",
+        "Ramp",
+        "Microsoft 365 outage",
+        "AI export controls",
+        "Gemini Hydrogen",
+        "Google Antigravity",
+        "cheaper AI models",
+        "AI build out",
+        "Blackwell chips"
+      ],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "Nvidia",
+          "X",
+          "Uber",
+          "AWS"
+        ],
+        "people": [
+          "Jensen Huang"
+        ],
+        "products": [
+          "Gemini",
+          "Make"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "If you've moved work to a cheaper AI model this year, you're part of a problem Nvidia was already worried about back in August"
+      ],
+      "transcript_chars": 20885,
+      "folder": "2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia"
+    },
     {
       "title": "What are they hiding about Alice Huang? #shorts #conspiracy",
       "video_id": "dzsSYHob9a0",
