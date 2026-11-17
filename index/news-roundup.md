@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (172 episodes):
+Episodes discussing **News Roundup** (173 episodes):
 
+- [Why is everything shutting down at once? #cybersecurity #news #tech](../episodes/2026-11-17-why-is-everything-shutting-down-at-once-cybersecurity-news-tech/transcript.md) (2026-11-17)
 - [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)
 - [Why did the entire US flight system crash? ✈️🤔 #aviation #ai #news](../episodes/2026-11-14-why-did-the-entire-us-flight-system-crash-aviation-ai-news/transcript.md) (2026-11-14)
 - [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)

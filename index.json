@@ -1,10 +1,52 @@
 {
-  "total_videos": 890,
+  "total_videos": 891,
   "date_range": {
-    "newest": "2026-11-16",
+    "newest": "2026-11-17",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Why is everything shutting down at once? #cybersecurity #news #tech",
+      "video_id": "KBshUcE-JrI",
+      "youtube_url": "https://www.youtube.com/watch?v=KBshUcE-JrI",
+      "publish_date": "2026-11-17",
+      "duration": "2:34",
+      "duration_seconds": 154,
+      "view_count": 3086,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "A strange pattern of system outages is hitting major banks and the FAA simultaneously.\n\nWe examine why these recent tech failures are occurring and whether they point toward systemic cyber risks. This briefing breaks down the technical anomalies behind these events and what you should watch for as the situation develops.\n\nSubscribe for weekly AI news updates, and comment whether you think these disruptions are connected.\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [
+        "system outages",
+        "cyber risks",
+        "tech failures",
+        "infrastructure analysis",
+        "nate b jones",
+        "nate b jones ai",
+        "faa ground stop",
+        "outlook outage",
+        "banks down",
+        "banks",
+        "cybersecurity"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "#cybersecurity #news #tech\n\u09b7\u09a1\u09bc\u09af\u09a8\u09cd\u09a4\u09cd\u09b0 \u09a4\u09a4\u09cd\u09a4\u09cd\u09ac\u09ac\u09bf\u09a6 \u09b9\u0993\u09af\u09bc\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u098f\u099f\u09bf \u098f\u0995\u099f\u09bf \u09a6\u09be\u09b0\u09c1\u09a3 \u09a6\u09bf\u09a8\u0964 \u0986\u09ae\u09be\u09b0 \u09ae\u09a8\u09c7 \u09b9\u099a\u09cd\u099b\u09c7 \u0986\u09ae\u09b0\u09be \u09af\u09c7\u09a8 \u099f\u09ae \u0995\u09cd\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09b8\u09bf\u09b0 \u0995\u09cb\u09a8\u09cb \u0989\u09aa\u09a8\u09cd\u09af\u09be\u09b8\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09ac\u09be\u09b8 \u0995\u09b0\u099b\u09bf\u0964 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09ac\u09cd\u09af\u09be\u0982\u0995\u0997\u09c1\u09b2\u09cb\u09a4\u09c7 \u09ac\u09bf\u09ad\u09cd\u09b0\u09be\u099f \u09a6\u09c7\u0996\u09be \u09a6\u09bf\u09df\u09c7\u099b\u09c7\u0964 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09b9\u09be"
+      ],
+      "transcript_chars": 2044,
+      "folder": "2026-11-17-why-is-everything-shutting-down-at-once-cybersecurity-news-tech"
+    },
     {
       "title": "AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.",
       "video_id": "1aXBg-qQzgA",
