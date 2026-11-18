@@ -1,7 +1,9 @@
 # Coding
 
-Episodes discussing **Coding** (521 episodes):
+Episodes discussing **Coding** (523 episodes):
 
+- [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
+- [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.](../episodes/2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi/transcript.md) (2026-10-31)

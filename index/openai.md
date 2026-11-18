@@ -1,7 +1,9 @@
 # Openai
 
-Episodes discussing **Openai** (368 episodes):
+Episodes discussing **Openai** (370 episodes):
 
+- [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
+- [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [Fable 5.2 Is really good and really expensive. So, when should you use it?](../episodes/2026-11-12-fable-52-is-really-good-and-really-expensive-so-when-should-you-use-it/transcript.md) (2026-11-12)
 - [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)

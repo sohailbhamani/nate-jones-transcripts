@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (617 episodes):
+Episodes discussing **Ai Tools** (618 episodes):
 
+- [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [Why did the entire US flight system crash? ✈️🤔 #aviation #ai #news](../episodes/2026-11-14-why-did-the-entire-us-flight-system-crash-aviation-ai-news/transcript.md) (2026-11-14)
 - [Fable 5.2 Is really good and really expensive. So, when should you use it?](../episodes/2026-11-12-fable-52-is-really-good-and-really-expensive-so-when-should-you-use-it/transcript.md) (2026-11-12)

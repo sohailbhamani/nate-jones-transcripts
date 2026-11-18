@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (35 episodes):
+Episodes discussing **Computer Use** (36 episodes):
 
+- [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.](../episodes/2026-10-31-the-future-of-the-internet-isnt-open-for-your-agent-muse-dots-and-claude-duet-wi/transcript.md) (2026-10-31)
 - [Does Your Computer Belong To Codex? I Went To OpenAI To Ask.](../episodes/2026-09-22-does-your-computer-belong-to-codex-i-went-to-openai-to-ask/transcript.md) (2026-09-22)
 - [Sam Altman and Apple's New CEO are Fighting Over One Thing. It's Not What You Think.](../episodes/2026-09-14-sam-altman-and-apples-new-ceo-are-fighting-over-one-thing-its-not-what-you-think/transcript.md) (2026-09-14)

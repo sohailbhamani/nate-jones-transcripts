@@ -1,7 +1,9 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (403 episodes):
+Episodes discussing **Ai Agents** (405 episodes):
 
+- [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
+- [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Stop wasting time: How to value your hours #time #efficiency #tips](../episodes/2026-11-05-stop-wasting-time-how-to-value-your-hours-time-efficiency-tips/transcript.md) (2026-11-05)
 - [Elon's AI Agent Has a Massive Cost Problem](../episodes/2026-11-04-elons-ai-agent-has-a-massive-cost-problem/transcript.md) (2026-11-04)

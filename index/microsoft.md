@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (168 episodes):
+Episodes discussing **Microsoft** (169 episodes):
 
+- [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [Big Tech is shifting, and you need to pay attention #tech #ai #business](../episodes/2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business/transcript.md) (2026-11-02)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)

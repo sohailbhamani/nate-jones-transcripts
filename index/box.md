@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (111 episodes):
+Episodes discussing **Box** (112 episodes):
 
+- [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Stop wasting time: How to value your hours #time #efficiency #tips](../episodes/2026-11-05-stop-wasting-time-how-to-value-your-hours-time-efficiency-tips/transcript.md) (2026-11-05)
 - [This is the best AI news #blackbox #AI](../episodes/2026-10-23-this-is-the-best-ai-news-blackbox-ai/transcript.md) (2026-10-23)

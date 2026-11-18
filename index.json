@@ -1,10 +1,118 @@
 {
-  "total_videos": 891,
+  "total_videos": 893,
   "date_range": {
-    "newest": "2026-11-17",
+    "newest": "2026-11-18",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "It\u2019s not just you: Everything is going down #internet #tech #breaking",
+      "video_id": "MgI7YCbLS8c",
+      "youtube_url": "https://www.youtube.com/watch?v=MgI7YCbLS8c",
+      "publish_date": "2026-11-18",
+      "duration": "2:16",
+      "duration_seconds": 136,
+      "view_count": 51233,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Major tech failures are causing widespread system outages across the FAA, United Airlines, and critical banking networks.\n\nThis briefing examines the recent series of disruptions, ranging from Microsoft 365 outages to an attack on news websites. We look at the technical anomalies behind these events and the broader implications for national infrastructure. By analyzing the timing and scope of these incidents, we can assess whether these crashes reflect systemic cyber risks or isolated technical errors.\n\nWe also address the status of the NSA classified network and what these vulnerabilities mean for digital security. Understanding how these platforms interact is essential for anyone tracking how global logistics hold up under pressure. These events highlight the fragility of our interconnected systems and the potential for cascading failures across the tech sector.\n\nSubscribe for weekly intelligence and strategy breakdowns, and comment whether you think these disruptions are connected.\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [
+        "tech failures",
+        "system outages",
+        "cyber risks",
+        "national infrastructure",
+        "digital security",
+        "cybersecurity",
+        "cyber security",
+        "nate b jones"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Microsoft",
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "Codex"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# It\u2019s not just you: Everything is going down #internet #tech #breaking\nWe are through the looking class"
+      ],
+      "transcript_chars": 1889,
+      "folder": "2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking"
+    },
+    {
+      "title": "The Robot Brain Might Already Exist. It's A Coding Agent.",
+      "video_id": "VkvoUCgHP6Q",
+      "youtube_url": "https://www.youtube.com/watch?v=VkvoUCgHP6Q",
+      "publish_date": "2026-11-18",
+      "duration": "12:20",
+      "duration_seconds": 740,
+      "view_count": 442,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Coding agents are moving from software to physical hardware, enabling robots to perform tasks without specific training.\n\nRecent advancements suggest that general coding agents can now control robotic systems by leveraging broad AI capabilities. A Stanford study demonstrates this shift, showing how a robot can navigate environments using only code-based instructions rather than traditional task-specific programming. This marks a departure from how we have historically managed machine movement.\n\nOpenAI is currently prioritizing this robotics research, testing the theory that superior general intelligence leads to better robotic capabilities. By removing the need for custom training sets for every individual motion, developers are creating more flexible machines. We examine the implications of this technical shift for the future of industrial automation and how these models might eventually handle complex real-world scenarios.\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=ai-robotics-bitter-lesson-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=ai-robotics-bitter-lesson-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when a coding agent starts operating a robot?\n\nThe common story is that better robots need ever more specialized robotics models, but the real question is how much of a robot's intelligence comes from making AI better at everything else.\n\nIn this video, I share the inside scoop on robotics and the Bitter Lesson:\n- Why Sutton's Bitter Lesson matters for robots in 2027\n- How Stanford's VIA lets a coding agent aim a real gripper\n- What the wipe test shows about an agent checking its own work\n- Where speed and supervision still limit useful robot work\n\nGeneral models may carry a lot of robotics progress with them, but a robot only earns its place once it works fast enough to need little supervision.\n\nChapters:\n00:00 A coding agent ran a robot with no extra training\n00:32 Richard Sutton's Bitter Lesson\n01:17 What the Bitter Lesson means for robotics\n02:01 OpenAI's robotics reorganization\n02:58 Why better software agents can help robots\n03:25 How Stanford's VIA project works\n05:37 24 of 25 trials without robot training\n06:36 Moving the gripper to check its own work\n07:36 Why the harness around the model matters\n08:31 Speed in the physical world\n10:02 What builders still need to solve\n10:51 Look beyond the obvious use of a new model\n\nSubscribe for weekly AI strategy breakdowns, and comment whether you think coding agents will replace traditional robot programming.\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "coding agents",
+        "robotics research",
+        "general AI",
+        "Stanford study",
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "AI robotics",
+        "the bitter lesson",
+        "Richard Sutton",
+        "OpenAI robotics",
+        "AI agents",
+        "general purpose AI agents",
+        "robots without extra training",
+        "ai agents"
+      ],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "The next breakthrough in robotics could arrive as an update to your coding agent"
+      ],
+      "transcript_chars": 12873,
+      "folder": "2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent"
+    },
     {
       "title": "Why is everything shutting down at once? #cybersecurity #news #tech",
       "video_id": "KBshUcE-JrI",

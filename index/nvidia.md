@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (92 episodes):
+Episodes discussing **Nvidia** (93 episodes):
 
+- [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [Why Jensen Huang's Resignation Could Change Your AI Bill](../episodes/2026-11-13-why-jensen-huangs-resignation-could-change-your-ai-bill/transcript.md) (2026-11-13)
 - [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)

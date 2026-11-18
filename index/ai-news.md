@@ -1,7 +1,9 @@
 # Ai News
 
-Episodes discussing **Ai News** (436 episodes):
+Episodes discussing **Ai News** (438 episodes):
 
+- [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
+- [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [Why is everything shutting down at once? #cybersecurity #news #tech](../episodes/2026-11-17-why-is-everything-shutting-down-at-once-cybersecurity-news-tech/transcript.md) (2026-11-17)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)

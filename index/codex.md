@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (67 episodes):
+Episodes discussing **Codex** (68 episodes):
 
+- [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.](../episodes/2026-10-20-mac-mini-for-ai-agents-how-much-memory-you-need-and-how-to-use-what-you-have/transcript.md) (2026-10-20)
 - [The end of the app era: What comes next?](../episodes/2026-10-04-the-end-of-the-app-era-what-comes-next/transcript.md) (2026-10-04)
