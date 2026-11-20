@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (68 episodes):
+Episodes discussing **Codex** (69 episodes):
 
+- [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.](../episodes/2026-10-20-mac-mini-for-ai-agents-how-much-memory-you-need-and-how-to-use-what-you-have/transcript.md) (2026-10-20)

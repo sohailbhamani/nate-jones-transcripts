@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (438 episodes):
+Episodes discussing **Ai News** (439 episodes):
 
+- [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [Why is everything shutting down at once? #cybersecurity #news #tech](../episodes/2026-11-17-why-is-everything-shutting-down-at-once-cybersecurity-news-tech/transcript.md) (2026-11-17)

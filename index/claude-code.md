@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (125 episodes):
+Episodes discussing **Claude Code** (126 episodes):
 
+- [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)
 - [Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.](../episodes/2026-10-24-black-october-isnt-just-a-php-bug-attackers-want-your-ai-keys/transcript.md) (2026-10-24)
 - [Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.](../episodes/2026-10-20-mac-mini-for-ai-agents-how-much-memory-you-need-and-how-to-use-what-you-have/transcript.md) (2026-10-20)
