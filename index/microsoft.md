@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (169 episodes):
+Episodes discussing **Microsoft** (170 episodes):
 
+- [When the fix makes the outage worse #microsoft #outage #tech #ai](../episodes/2026-11-21-when-the-fix-makes-the-outage-worse-microsoft-outage-tech-ai/transcript.md) (2026-11-21)
 - [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [Big Tech is shifting, and you need to pay attention #tech #ai #business](../episodes/2026-11-02-big-tech-is-shifting-and-you-need-to-pay-attention-tech-ai-business/transcript.md) (2026-11-02)

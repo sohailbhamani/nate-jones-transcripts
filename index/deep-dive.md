@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (155 episodes):
+Episodes discussing **Deep Dive** (156 episodes):
 
+- [When the fix makes the outage worse #microsoft #outage #tech #ai](../episodes/2026-11-21-when-the-fix-makes-the-outage-worse-microsoft-outage-tech-ai/transcript.md) (2026-11-21)
 - [Why Jensen Huang's Resignation Could Change Your AI Bill](../episodes/2026-11-13-why-jensen-huangs-resignation-could-change-your-ai-bill/transcript.md) (2026-11-13)
 - [Is the AI Boom Over? Let's Talk About It.](../episodes/2026-11-08-is-the-ai-boom-over-lets-talk-about-it/transcript.md) (2026-11-08)
 - [Enterprise AI Pricing: Why Everything You Know Is Wrong](../episodes/2026-10-25-enterprise-ai-pricing-why-everything-you-know-is-wrong/transcript.md) (2026-10-25)

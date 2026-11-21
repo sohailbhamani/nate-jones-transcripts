@@ -1,14 +1,14 @@
 # Nate B Jones Podcast Index
 
-Index of 894 episodes across 121 topics.
+Index of 895 episodes across 121 topics.
 
 ## Topics
 
 - [Frameworks](frameworks.md) (690 episodes)
 - [Ai Tools](ai-tools.md) (619 episodes)
 - [Make](make.md) (618 episodes)
-- [Ai Strategy](ai-strategy.md) (586 episodes)
-- [Coding](coding.md) (524 episodes)
+- [Ai Strategy](ai-strategy.md) (587 episodes)
+- [Coding](coding.md) (525 episodes)
 - [Product Management](product-management.md) (504 episodes)
 - [Ai News](ai-news.md) (439 episodes)
 - [Anthropic](anthropic.md) (417 episodes)
@@ -16,7 +16,7 @@ Index of 894 episodes across 121 topics.
 - [Career](career.md) (392 episodes)
 - [Claude](claude.md) (391 episodes)
 - [Openai](openai.md) (371 episodes)
-- [Workflows](workflows.md) (359 episodes)
+- [Workflows](workflows.md) (360 episodes)
 - [Leadership](leadership.md) (353 episodes)
 - [Tutorials](tutorials.md) (340 episodes)
 - [Google](google.md) (312 episodes)
@@ -25,8 +25,8 @@ Index of 894 episodes across 121 topics.
 - [Framework](framework.md) (233 episodes)
 - [News Roundup](news-roundup.md) (174 episodes)
 - [Gemini](gemini.md) (174 episodes)
-- [Microsoft](microsoft.md) (169 episodes)
-- [Deep Dive](deep-dive.md) (155 episodes)
+- [Microsoft](microsoft.md) (170 episodes)
+- [Deep Dive](deep-dive.md) (156 episodes)
 - [Meta](meta.md) (154 episodes)
 - [X](x.md) (146 episodes)
 - [Startups](startups.md) (142 episodes)
@@ -113,8 +113,8 @@ Index of 894 episodes across 121 topics.
 - [Stable Diffusion](stable-diffusion.md) (2 episodes)
 - [Chroma](chroma.md) (2 episodes)
 - [Alfred](alfred.md) (2 episodes)
-- [Cowork](cowork.md) (2 episodes)
 - [Claude Cowork](claude-cowork.md) (2 episodes)
+- [Cowork](cowork.md) (2 episodes)
 - [Browser Company](browser-company.md) (2 episodes)
 - [Ollama](ollama.md) (2 episodes)
 - [Palantir](palantir.md) (1 episodes)

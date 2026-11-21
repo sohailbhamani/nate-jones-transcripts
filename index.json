@@ -1,10 +1,49 @@
 {
-  "total_videos": 894,
+  "total_videos": 895,
   "date_range": {
-    "newest": "2026-11-20",
+    "newest": "2026-11-21",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "When the fix makes the outage worse #microsoft #outage #tech #ai",
+      "video_id": "lcl9nu98AYI",
+      "youtube_url": "https://www.youtube.com/watch?v=lcl9nu98AYI",
+      "publish_date": "2026-11-21",
+      "duration": "0:23",
+      "duration_seconds": 23,
+      "view_count": 3193,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Microsoft needed nearly a day to restore email, and part of that came from the recovery itself. Traffic sent to healthy servers during the fix took those servers down too. Now engineers are defending against attackers moving at AI speed. How fast can you safely act when your last fix just made things worse? \n\nSubscribe for more breaking news and dives into what's happening in the world of AI and tech. \n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n",
+      "yt_tags": [
+        "microsoft",
+        "microsoft outage",
+        "ai news",
+        "ai attacks",
+        "nate b jones",
+        "cybersecurity"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Microsoft"
+        ],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# When the fix makes the outage worse #microsoft #outage #tech #ai\nMicrosoft needed nearly a day to restore email"
+      ],
+      "transcript_chars": 342,
+      "folder": "2026-11-21-when-the-fix-makes-the-outage-worse-microsoft-outage-tech-ai"
+    },
     {
       "title": "Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.",
       "video_id": "v5I0nOoqAV4",

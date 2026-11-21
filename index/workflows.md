@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (359 episodes):
+Episodes discussing **Workflows** (360 episodes):
 
+- [When the fix makes the outage worse #microsoft #outage #tech #ai](../episodes/2026-11-21-when-the-fix-makes-the-outage-worse-microsoft-outage-tech-ai/transcript.md) (2026-11-21)
 - [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [Why Your Company Doesn't Need the Most Expensive AI Model](../episodes/2026-11-15-why-your-company-doesnt-need-the-most-expensive-ai-model/transcript.md) (2026-11-15)
