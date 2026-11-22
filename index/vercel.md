@@ -1,7 +1,8 @@
 # Vercel
 
-Episodes discussing **Vercel** (5 episodes):
+Episodes discussing **Vercel** (6 episodes):
 
+- [Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?](../episodes/2026-11-22-microsoft-the-faa-and-even-the-nsa-had-outages-in-one-week-what-is-happening/transcript.md) (2026-11-22)
 - [Your Agent Attacks Real People Now. Nobody Has To Ask It To.](../episodes/2026-08-17-your-agent-attacks-real-people-now-nobody-has-to-ask-it-to/transcript.md) (2026-08-17)
 - [Don't build more AI agents until you watch this](../episodes/2026-06-17-dont-build-more-ai-agents-until-you-watch-this/transcript.md) (2026-06-17)
 - [I Summarized Google's 50 Page AI Agent Paper + Vercel's AI Agent Doc in 8 Minutes: Here's the TLDR](../episodes/2025-11-17-i-summarized-googles-50-page-ai-agent-paper-vercels-ai-agent-doc-in-8-minutes-he/transcript.md) (2025-11-17)

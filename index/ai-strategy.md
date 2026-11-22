@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (587 episodes):
+Episodes discussing **Ai Strategy** (588 episodes):
 
+- [Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?](../episodes/2026-11-22-microsoft-the-faa-and-even-the-nsa-had-outages-in-one-week-what-is-happening/transcript.md) (2026-11-22)
 - [When the fix makes the outage worse #microsoft #outage #tech #ai](../episodes/2026-11-21-when-the-fix-makes-the-outage-worse-microsoft-outage-tech-ai/transcript.md) (2026-11-21)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)

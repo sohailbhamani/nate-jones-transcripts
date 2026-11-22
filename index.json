@@ -1,10 +1,79 @@
 {
-  "total_videos": 895,
+  "total_videos": 896,
   "date_range": {
-    "newest": "2026-11-21",
+    "newest": "2026-11-22",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?",
+      "video_id": "fFeyE4nINqs",
+      "youtube_url": "https://www.youtube.com/watch?v=fFeyE4nINqs",
+      "publish_date": "2026-11-22",
+      "duration": "13:23",
+      "duration_seconds": 803,
+      "view_count": 22199,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "AI cyber defense is now a race between attackers who can get deep access in as little as 15 minutes and defenders who need days or weeks to put systems back. The past week's outages at Microsoft, the FAA, several banks and the NSA show how hard repair is, and why AI-assisted attacks make it harder.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-cyber-defense-business?utm_source=youtube&utm_medium=video&utm_campaign=ai-cyber-defense-business-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=ai-cyber-defense-business-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=ai-cyber-defense-business-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nSystem outages are exposing the fragility of our digital infrastructure. Learn how recovery efforts can trigger cascading failures.\n\nRecent disruptions affecting Microsoft services and banking reveal a dangerous trend: engineering teams are struggling to defend against AI-speed attacks. When initial fixes fail, the recovery process itself can worsen the situation, leading to prolonged downtime across critical networks.\n\nThis breakdown covers the progression from a single scam email to the deployment of millions of autonomous agents. We examine why modern automation surface vulnerabilities create such high-stakes risks for global logistics and what engineers must change to prevent these cascading failures in the future.\n\nIn this video, I share the inside scoop on why cyber defense is harder than cyber attack:\n- Why Microsoft's recovery traffic took down its own healthy servers\n- How AI agent frameworks like ARTEX shrink the team an attack needs\n- What ConnectWise shows about cutting off access versus restoring it\n- Why the first step in patching Java is finding every copy\n\nFor operators and business leaders, AI speeds up defense too, but how long you stay down depends on knowing what you run and how to bring it back.\n\nChapters:\n\n00:00 When the fix makes things worse\n00:52 A week of outages, from Microsoft to the NSA\n01:42 Why one bank problem shows up everywhere\n02:59 Why attackers get the better deal\n04:02 What ARTEX is and why it matters\n05:34 Fifteen minutes to break in, weeks to restore\n07:05 Finding every copy of Java\n08:01 Why cyber defense is harder than attack\n08:40 When Microsoft's repair didn't take\n09:20 Who's defending the internet\n10:48 Three takeaways\n12:54 What you can do now\n\nSubscribe for weekly AI strategy breakdowns, and comment whether you think these system outages are a sign of a permanent shift in digital security.\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "cybersecurity",
+        "AI cyber defense",
+        "Microsoft outage",
+        "ARTEX",
+        "ConnectWise breach",
+        "Java vulnerability",
+        "AI agents",
+        "AI cyber attacks",
+        "why everything is going down",
+        "cyber defense for business",
+        "system outages",
+        "digital infrastructure",
+        "AI-speed attacks",
+        "automation surface",
+        "cascading failures"
+      ],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Microsoft",
+          "Vercel"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "All of that firepower is deployed against just finding any given vulnerability, any one vulnerability in an incredibly complex system"
+      ],
+      "summary": [
+        "# Microsoft, The FAA And Even The NSA Had Outages In One Week"
+      ],
+      "transcript_chars": 13395,
+      "folder": "2026-11-22-microsoft-the-faa-and-even-the-nsa-had-outages-in-one-week-what-is-happening"
+    },
     {
       "title": "When the fix makes the outage worse #microsoft #outage #tech #ai",
       "video_id": "lcl9nu98AYI",

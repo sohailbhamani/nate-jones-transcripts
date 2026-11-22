@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (174 episodes):
+Episodes discussing **News Roundup** (175 episodes):
 
+- [Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?](../episodes/2026-11-22-microsoft-the-faa-and-even-the-nsa-had-outages-in-one-week-what-is-happening/transcript.md) (2026-11-22)
 - [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [Why is everything shutting down at once? #cybersecurity #news #tech](../episodes/2026-11-17-why-is-everything-shutting-down-at-once-cybersecurity-news-tech/transcript.md) (2026-11-17)
 - [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)
