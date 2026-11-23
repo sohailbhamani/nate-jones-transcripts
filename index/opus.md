@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (87 episodes):
+Episodes discussing **Opus** (88 episodes):
 
+- [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [Fable 5.2 Is really good and really expensive. So, when should you use it?](../episodes/2026-11-12-fable-52-is-really-good-and-really-expensive-so-when-should-you-use-it/transcript.md) (2026-11-12)
 - [Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.](../episodes/2026-10-28-anthropic-just-filed-its-s-1-heres-what-the-headlines-are-missing/transcript.md) (2026-10-28)
 - [Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?](../episodes/2026-10-03-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version/transcript.md) (2026-10-03)

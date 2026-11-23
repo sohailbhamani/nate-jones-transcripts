@@ -1,10 +1,84 @@
 {
-  "total_videos": 896,
+  "total_videos": 897,
   "date_range": {
-    "newest": "2026-11-22",
+    "newest": "2026-11-23",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.",
+      "video_id": "y0WVOisJ6Js",
+      "youtube_url": "https://www.youtube.com/watch?v=y0WVOisJ6Js",
+      "publish_date": "2026-11-23",
+      "duration": "22:28",
+      "duration_seconds": 1348,
+      "view_count": 8375,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "ChatGPT 6.2 Astra and Gemini 4 Neon are splitting user opinion. I break down why both reactions are valid for these AI models.\n\nOpenAI launched ChatGPT 6.2 Astra this week, with many users calling it unusable. Meanwhile, Google released Gemini 4 Neon, which is earning praise for being fun and optimistic to work with. This analysis examines the contrasting user experiences and what they mean for your workflow.\n\nBoth of these AI models show how quickly expectations are shifting for generative tools. I share my experience using them side-by-side to help you decide which is worth your time. Whether you prioritize stability or creative features, understanding the current state of these platforms is essential for choosing the right tech stack.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/judge-ai-models?utm_source=youtube&utm_medium=video&utm_campaign=judge-ai-models-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=judge-ai-models-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nIn this video, I share the inside scoop on why the next AI breakthrough could look like a flop:\n\n- Why GPT-6.2 Astra frustrates coders but excels at detail-heavy problems\n- How the business models at Google, Anthropic and OpenAI shape what they ship\n- Why AI intelligence looks more like a sea urchin than a thermometer\n- What a two-model handoff between Astra and Neon looks like\n\nFor operators and team leaders, the next big capability gain may land outside your daily work, so audit your tasks and test models beyond your own workflow.\n\nChapters:\n00:00 Why both reactions to Astra are right\n01:08 The case against GPT-6.2 Astra\n03:17 Where Astra's obsession with detail pays off\n06:37 Gemini 4 Neon and Google's model fleet\n08:26 How each lab's business shapes its models\n11:04 The end of legible intelligence\n12:08 Intelligence is not a thermometer\n13:41 The sea urchin and its shadow\n15:46 Model proliferation and the team problem\n18:06 Audit the shape of your tasks\n19:37 Build a two-model handoff\n20:25 Test outside your own workflow\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n\nSubscribe for weekly AI strategy breakdowns, and comment whether you think these latest model releases are a sign of a permanent shift in how we interact with software.\n",
+      "yt_tags": [
+        "ChatGPT 6.2 Astra",
+        "Gemini 4 Neon",
+        "AI models",
+        "generative tools",
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "GPT-6.2 Astra",
+        "Claude Fable 5.2",
+        "Opus 5.5",
+        "OpenAI Codex",
+        "AI model comparison",
+        "AI benchmarks",
+        "how to choose an AI model",
+        "best AI model for work"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "X",
+          "Arc"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Gemini",
+          "Codex",
+          "Arc",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "On Tuesday the 17th of November, OpenAI dropped Chat GPT 6"
+      ],
+      "transcript_chars": 22290,
+      "folder": "2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right"
+    },
     {
       "title": "Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?",
       "video_id": "fFeyE4nINqs",

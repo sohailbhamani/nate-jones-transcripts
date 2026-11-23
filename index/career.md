@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (393 episodes):
+Episodes discussing **Career** (394 episodes):
 
+- [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?](../episodes/2026-11-22-microsoft-the-faa-and-even-the-nsa-had-outages-in-one-week-what-is-happening/transcript.md) (2026-11-22)
 - [The Robot Brain Might Already Exist. It's A Coding Agent.](../episodes/2026-11-18-the-robot-brain-might-already-exist-its-a-coding-agent/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)

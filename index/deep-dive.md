@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (156 episodes):
+Episodes discussing **Deep Dive** (157 episodes):
 
+- [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [When the fix makes the outage worse #microsoft #outage #tech #ai](../episodes/2026-11-21-when-the-fix-makes-the-outage-worse-microsoft-outage-tech-ai/transcript.md) (2026-11-21)
 - [Why Jensen Huang's Resignation Could Change Your AI Bill](../episodes/2026-11-13-why-jensen-huangs-resignation-could-change-your-ai-bill/transcript.md) (2026-11-13)
 - [Is the AI Boom Over? Let's Talk About It.](../episodes/2026-11-08-is-the-ai-boom-over-lets-talk-about-it/transcript.md) (2026-11-08)

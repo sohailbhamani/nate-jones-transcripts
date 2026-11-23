@@ -1,7 +1,8 @@
 # Arc
 
-Episodes discussing **Arc** (27 episodes):
+Episodes discussing **Arc** (28 episodes):
 
+- [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [Nobody Knows What You're Worth Anymore | The AI Job Market Reality](../episodes/2026-04-20-nobody-knows-what-youre-worth-anymore-the-ai-job-market-reality/transcript.md) (2026-04-20)
 - [How the Red Queen memo exposed who will actually survive #tech #AI](../episodes/2026-04-16-how-the-red-queen-memo-exposed-who-will-actually-survive-tech-ai/transcript.md) (2026-04-16)
 - [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](../episodes/2026-04-08-i-analyzed-512000-lines-of-leaked-code-it-shows-whats-coming-for-your-ai-tools/transcript.md) (2026-04-08)

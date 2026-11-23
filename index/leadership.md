@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (353 episodes):
+Episodes discussing **Leadership** (354 episodes):
 
+- [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [What are they hiding about Alice Huang? #shorts #conspiracy](../episodes/2026-11-16-what-are-they-hiding-about-alice-huang-shorts-conspiracy/transcript.md) (2026-11-16)
 - [Why Your Company Doesn't Need the Most Expensive AI Model](../episodes/2026-11-15-why-your-company-doesnt-need-the-most-expensive-ai-model/transcript.md) (2026-11-15)

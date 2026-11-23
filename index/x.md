@@ -1,7 +1,8 @@
 # X
 
-Episodes discussing **X** (146 episodes):
+Episodes discussing **X** (147 episodes):
 
+- [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [US vs China: Who Is Actually Winning The Chip War? (Jensen Huang Scandal)](../episodes/2026-11-10-us-vs-china-who-is-actually-winning-the-chip-war-jensen-huang-scandal/transcript.md) (2026-11-10)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)

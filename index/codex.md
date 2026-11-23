@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (69 episodes):
+Episodes discussing **Codex** (70 episodes):
 
+- [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
