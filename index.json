@@ -1,10 +1,46 @@
 {
-  "total_videos": 897,
+  "total_videos": 898,
   "date_range": {
-    "newest": "2026-11-23",
+    "newest": "2026-11-24",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "The AI bubble is bigger than you think \u26a0\ufe0f Jensen is back! #investing #stocks #shorts",
+      "video_id": "S1COTnDviGc",
+      "youtube_url": "https://www.youtube.com/watch?v=S1COTnDviGc",
+      "publish_date": "2026-11-24",
+      "duration": "2:23",
+      "duration_seconds": 143,
+      "view_count": 4485,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "The AI trade is officially too big to fail. I explain why current market conditions mirror the 2008 financial crisis.\n\nInvestors and analysts are drawing clear parallels between recent government interventions and the systemic risks we saw during the 2008 crisis. This analysis breaks down why the AI trade now requires consistent support from the Federal Reserve to maintain stability, and what presidential influence means for your portfolio.\n\nWe examine how institutional reliance on these technologies has shifted market expectations. By tracing the current AI boom, we can better understand the potential consequences when the industry hits a wall and how policy makers are attempting to manage the fallout.\n\nMy Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nSubscribe for weekly AI strategy breakdowns, and comment whether you think this sector has become a permanent fixture of our financial safety net.\n",
+      "yt_tags": [
+        "AI trade",
+        "2008 financial crisis",
+        "Federal Reserve",
+        "market stability",
+        "jensen huang"
+      ],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The AI bubble is bigger than you think \u26a0\ufe0f Jensen is back"
+      ],
+      "transcript_chars": 1945,
+      "folder": "2026-11-24-the-ai-bubble-is-bigger-than-you-think-jensen-is-back-investing-stocks-shorts"
+    },
     {
       "title": "GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.",
       "video_id": "y0WVOisJ6Js",

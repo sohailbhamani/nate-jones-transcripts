@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (589 episodes):
+Episodes discussing **Ai Strategy** (590 episodes):
 
+- [The AI bubble is bigger than you think ⚠️ Jensen is back! #investing #stocks #shorts](../episodes/2026-11-24-the-ai-bubble-is-bigger-than-you-think-jensen-is-back-investing-stocks-shorts/transcript.md) (2026-11-24)
 - [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?](../episodes/2026-11-22-microsoft-the-faa-and-even-the-nsa-had-outages-in-one-week-what-is-happening/transcript.md) (2026-11-22)
 - [When the fix makes the outage worse #microsoft #outage #tech #ai](../episodes/2026-11-21-when-the-fix-makes-the-outage-worse-microsoft-outage-tech-ai/transcript.md) (2026-11-21)
