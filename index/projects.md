@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (124 episodes):
+Episodes discussing **Projects** (125 episodes):
 
+- [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [Fable 5.2 Is really good and really expensive. So, when should you use it?](../episodes/2026-11-12-fable-52-is-really-good-and-really-expensive-so-when-should-you-use-it/transcript.md) (2026-11-12)
 - [You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?](../episodes/2026-11-03-youve-never-lost-19-billion-so-why-are-you-playing-it-safer-than-zuckerberg/transcript.md) (2026-11-03)

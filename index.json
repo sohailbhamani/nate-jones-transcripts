@@ -1,10 +1,87 @@
 {
-  "total_videos": 898,
+  "total_videos": 899,
   "date_range": {
-    "newest": "2026-11-24",
+    "newest": "2026-11-25",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.",
+      "video_id": "76PElJeMJkU",
+      "youtube_url": "https://www.youtube.com/watch?v=76PElJeMJkU",
+      "publish_date": "2026-11-25",
+      "duration": "15:46",
+      "duration_seconds": 946,
+      "view_count": 1513,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "Why the AI boom is raising phone and laptop prices: AI data centers are now competing with everyone else for memory chips, power and money, and Jensen Huang's return to Nvidia shows how high the stakes are.\n\nFull post:\nhttps://natesnewsletter.substack.com/p/ai-boom-memory-shortage?utm_source=youtube&utm_medium=video&utm_campaign=ai-boom-memory-shortage-launch&utm_content=description\n\nNate's Library MCP (every prompt kit and guide, inside the AI you already use):\nhttps://unlock-ai.natebjones.com/guides/how-to-connect-nates-library?utm_source=youtube&utm_medium=video&utm_campaign=ai-boom-memory-shortage-launch&utm_content=description\n\nMy Links \ud83d\udd17\n\ud83d\udc49\ud83c\udffb Newsletter: https://natesnewsletter.substack.com/?utm_source=youtube&utm_medium=video&utm_campaign=ai-boom-memory-shortage-launch&utm_content=description\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nJensen Huang's brief exit from NVIDIA highlights the volatility of the current AI boom. Understand the government's role in this decision and the risks ahead.\n\nThis analysis explores the rapid growth of the AI build-out and why its economic scale is being compared to the expansion of railroads and telecom. We examine how the U.S. government is increasingly involved in the stability of key industry players, focusing on what these interventions mean for the broader market and your holdings.\n\nBy comparing the current infrastructure cycle to historical shifts in U.S. GDP, we can better identify where the industry is heading. Understanding the implications of this AI boom is essential for anyone tracking how policy makers manage the fallout from sector-wide instability.\n\nIn this video, I share the inside scoop on how the AI buildout reaches your wallet, your budget and your career:\n- Why AI agents now compete with phones and laptops for memory\n- How grid delays and local pushback are stalling new data centers\n- What OpenRouter tokens and Anthropic revenue say about real demand\n- Where Big Tech's AI debt could hit hiring, budgets and tool access\n\nPlan for tight hardware supply and tighter access to frontier AI through 2027, and get measurable results from every dollar of compute you spend.\n\nChapters:\n\nSubscribe for weekly AI strategy breakdowns, and comment whether you think the current pace of industry growth is sustainable or headed for a correction.\n\n00:00 Jensen Huang's return and your wallet\n00:50 Why phone and laptop prices are rising\n02:18 How AI agents compete for memory\n03:24 Power, the grid and data center pushback\n04:34 Is the AI bubble popping\n06:18 Why Jensen's return matters\n06:39 Who pays for the AI buildout\n09:09 Why AI debt matters to you\n11:46 Plan your buys around tight supply\n12:41 Get ready for limits on cheap AI\n13:18 Check how your vendors are funded\n14:00 Why AI efficiency is the skill to build\n\nThumbnail photo of Jensen Huang: Anders Eidesvik, cropped and edited, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons.\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372\n",
+      "yt_tags": [
+        "AI boom",
+        "NVIDIA",
+        "U.S. GDP",
+        "infrastructure cycle",
+        "nate b jones",
+        "nate jones",
+        "artificial intelligence",
+        "AI",
+        "AI news",
+        "AI tools",
+        "machine learning",
+        "generative AI",
+        "ChatGPT",
+        "Claude",
+        "AI prompts",
+        "AI strategy",
+        "tech news",
+        "Jensen Huang",
+        "Nvidia",
+        "memory shortage",
+        "RAM prices",
+        "AI bubble",
+        "AI data centers",
+        "why laptop prices are rising",
+        "AI infrastructure debt",
+        "nvidia news",
+        "ai stocks",
+        "nvidia stock",
+        "ai bubble",
+        "nvidia ceo",
+        "jensen huang"
+      ],
+      "content_type": "Opinion",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Meta",
+          "Microsoft",
+          "Amazon",
+          "Nvidia",
+          "YouTube",
+          "Oracle"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "11 days later, the board voted unanimously to bring him back"
+      ],
+      "transcript_chars": 15408,
+      "folder": "2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027"
+    },
     {
       "title": "The AI bubble is bigger than you think \u26a0\ufe0f Jensen is back! #investing #stocks #shorts",
       "video_id": "S1COTnDviGc",

@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (93 episodes):
+Episodes discussing **Nvidia** (94 episodes):
 
+- [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [It’s not just you: Everything is going down #internet #tech #breaking](../episodes/2026-11-18-its-not-just-you-everything-is-going-down-internet-tech-breaking/transcript.md) (2026-11-18)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [Why Jensen Huang's Resignation Could Change Your AI Bill](../episodes/2026-11-13-why-jensen-huangs-resignation-could-change-your-ai-bill/transcript.md) (2026-11-13)

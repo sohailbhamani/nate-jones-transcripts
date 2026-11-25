@@ -1,7 +1,8 @@
 # Meta
 
-Episodes discussing **Meta** (154 episodes):
+Episodes discussing **Meta** (155 episodes):
 
+- [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)

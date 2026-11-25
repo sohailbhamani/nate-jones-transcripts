@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (408 episodes):
+Episodes discussing **Ai Agents** (409 episodes):
 
+- [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [Microsoft, The FAA And Even The NSA Had Outages In One Week. What Is Happening?](../episodes/2026-11-22-microsoft-the-faa-and-even-the-nsa-had-outages-in-one-week-what-is-happening/transcript.md) (2026-11-22)
 - [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)

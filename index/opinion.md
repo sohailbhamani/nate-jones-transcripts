@@ -1,7 +1,8 @@
 # Opinion
 
-Episodes discussing **Opinion** (38 episodes):
+Episodes discussing **Opinion** (39 episodes):
 
+- [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [I asked AI how smart I am. You should too #AI #ChatGPT #Claude #prompts #selfimprovement](../episodes/2026-10-17-i-asked-ai-how-smart-i-am-you-should-too-ai-chatgpt-claude-prompts-selfimproveme/transcript.md) (2026-10-17)
 - [The AI Slop Problem Nobody's Talking About | Substack CEO Interview](../episodes/2026-07-22-the-ai-slop-problem-nobodys-talking-about-substack-ceo-interview/transcript.md) (2026-07-22)
 - [You're learning AI wrong. Here's the fix #AI #Management #Leadership #FutureOfWork](../episodes/2026-06-26-youre-learning-ai-wrong-heres-the-fix-ai-management-leadership-futureofwork/transcript.md) (2026-06-26)
