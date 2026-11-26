@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (392 episodes):
+Episodes discussing **Claude** (393 episodes):
 
+- [Why Gemini 4 feels better than ChatGPT 6.2 #gemini #openai](../episodes/2026-11-26-why-gemini-4-feels-better-than-chatgpt-62-gemini-openai/transcript.md) (2026-11-26)
 - [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [Fable 5.2 Is really good and really expensive. So, when should you use it?](../episodes/2026-11-12-fable-52-is-really-good-and-really-expensive-so-when-should-you-use-it/transcript.md) (2026-11-12)

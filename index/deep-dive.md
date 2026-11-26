@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (158 episodes):
+Episodes discussing **Deep Dive** (159 episodes):
 
+- [Why Gemini 4 feels better than ChatGPT 6.2 #gemini #openai](../episodes/2026-11-26-why-gemini-4-feels-better-than-chatgpt-62-gemini-openai/transcript.md) (2026-11-26)
 - [The AI bubble is bigger than you think ⚠️ Jensen is back! #investing #stocks #shorts](../episodes/2026-11-24-the-ai-bubble-is-bigger-than-you-think-jensen-is-back-investing-stocks-shorts/transcript.md) (2026-11-24)
 - [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [When the fix makes the outage worse #microsoft #outage #tech #ai](../episodes/2026-11-21-when-the-fix-makes-the-outage-worse-microsoft-outage-tech-ai/transcript.md) (2026-11-21)

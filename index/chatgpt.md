@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (113 episodes):
+Episodes discussing **Chatgpt** (114 episodes):
 
+- [Why Gemini 4 feels better than ChatGPT 6.2 #gemini #openai](../episodes/2026-11-26-why-gemini-4-feels-better-than-chatgpt-62-gemini-openai/transcript.md) (2026-11-26)
 - [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)
 - [The end of git? OpenAI CTO on the future of coding.](../episodes/2026-11-06-the-end-of-git-openai-cto-on-the-future-of-coding/transcript.md) (2026-11-06)
 - [Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.](../episodes/2026-11-01-salesforce-just-helped-microsoft-youre-picking-the-winner-of-a-trillion-dollar-f/transcript.md) (2026-11-01)

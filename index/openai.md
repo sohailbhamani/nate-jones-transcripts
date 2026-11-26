@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (373 episodes):
+Episodes discussing **Openai** (374 episodes):
 
+- [Why Gemini 4 feels better than ChatGPT 6.2 #gemini #openai](../episodes/2026-11-26-why-gemini-4-feels-better-than-chatgpt-62-gemini-openai/transcript.md) (2026-11-26)
 - [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
 - [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
