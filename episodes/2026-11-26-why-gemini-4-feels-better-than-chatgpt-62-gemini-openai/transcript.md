@@ -33,6 +33,7 @@ yt_tags:
   - "gpt 6.2 astra"
 
 
+
 # AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Tools"
