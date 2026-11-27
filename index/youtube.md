@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (69 episodes):
+Episodes discussing **Youtube** (70 episodes):
 
+- [Is AI Just Making You Faster At A Job You Never Wanted? 4 Steps To Find A Better Use For It.](../episodes/2026-11-27-is-ai-just-making-you-faster-at-a-job-you-never-wanted-4-steps-to-find-a-better/transcript.md) (2026-11-27)
 - [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.](../episodes/2026-10-22-i-read-goodfires-new-essay-ai-may-be-far-easier-to-understand-than-we-thought/transcript.md) (2026-10-22)
 - [Intelligence is Everywhere: Why the AI 'Race' is Already Over](../episodes/2026-09-14-intelligence-is-everywhere-why-the-ai-race-is-already-over/transcript.md) (2026-09-14)

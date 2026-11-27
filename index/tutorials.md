@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (340 episodes):
+Episodes discussing **Tutorials** (341 episodes):
 
+- [Is AI Just Making You Faster At A Job You Never Wanted? 4 Steps To Find A Better Use For It.](../episodes/2026-11-27-is-ai-just-making-you-faster-at-a-job-you-never-wanted-4-steps-to-find-a-better/transcript.md) (2026-11-27)
 - [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [AI Just Got Cheaper. Here's Why That's a Problem for NVIDIA.](../episodes/2026-11-16-ai-just-got-cheaper-heres-why-thats-a-problem-for-nvidia/transcript.md) (2026-11-16)
 - [The ChatGPT setting that changes everything #ChatGPT #AI #LifeHack](../episodes/2026-11-11-the-chatgpt-setting-that-changes-everything-chatgpt-ai-lifehack/transcript.md) (2026-11-11)

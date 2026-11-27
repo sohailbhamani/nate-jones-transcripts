@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (125 episodes):
+Episodes discussing **Projects** (126 episodes):
 
+- [Is AI Just Making You Faster At A Job You Never Wanted? 4 Steps To Find A Better Use For It.](../episodes/2026-11-27-is-ai-just-making-you-faster-at-a-job-you-never-wanted-4-steps-to-find-a-better/transcript.md) (2026-11-27)
 - [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [Anthropic Ran 1,000 AI Agents For 8 Days. Yours Still Needs The Same Thing Explained Again.](../episodes/2026-11-20-anthropic-ran-1000-ai-agents-for-8-days-yours-still-needs-the-same-thing-explain/transcript.md) (2026-11-20)
 - [Fable 5.2 Is really good and really expensive. So, when should you use it?](../episodes/2026-11-12-fable-52-is-really-good-and-really-expensive-so-when-should-you-use-it/transcript.md) (2026-11-12)
