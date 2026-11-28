@@ -1,10 +1,42 @@
 {
-  "total_videos": 901,
+  "total_videos": 902,
   "date_range": {
-    "newest": "2026-11-27",
+    "newest": "2026-11-28",
     "oldest": "2024-05-21"
   },
   "videos": [
+    {
+      "title": "AI is making you faster at a job you never wanted #ai #careers #futureofwork",
+      "video_id": "Nk2i76qggmc",
+      "youtube_url": "https://www.youtube.com/watch?v=Nk2i76qggmc",
+      "publish_date": "2026-11-28",
+      "duration": "0:24",
+      "duration_seconds": 24,
+      "view_count": 2888,
+      "author": "AI News & Strategy Daily | Nate B Jones",
+      "description": "My Links \ud83d\udd17 Newsletter: https://natesnewsletter.substack.com/\n\ud83d\udc49\ud83c\udffb X: https://x.com/natebjones\n\ud83d\udc49\ud83c\udffb TikTok: https://www.tiktok.com/@nate.b.jones\n\ud83d\udc49\ud83c\udffb Instagram: https://www.instagram.com/nate.b.jones\n\nA lot of people using AI are getting faster at a job they never wanted in the first place. Nate breaks down what to use it for instead.\n\nFaster emails, faster decks, ten little side projects. Same job. Everyone says to be more ambitious with AI, but nobody says ambitious about what. The question Nate gets most is the simple one: okay, but what do I actually do?\n\nThe full video walks through four steps to find a better use for it than faster busywork: find people whose work opens a door for you, try a piece of that work, find people to learn with, and keep that learning loop going. It works whether you're just starting out or already use AI every day.\n\nSubscribe for weekly AI strategy breakdowns, and tell us in the comments: is AI making your job bigger, or just faster?\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# AI is making you faster at a job you never wanted #ai #careers #futureofwork\nA lot of people using AI are getting very, very fast at a job that they never wanted in the first place"
+      ],
+      "transcript_chars": 359,
+      "folder": "2026-11-28-ai-is-making-you-faster-at-a-job-you-never-wanted-ai-careers-futureofwork"
+    },
     {
       "title": "Is AI Just Making You Faster At A Job You Never Wanted? 4 Steps To Find A Better Use For It.",
       "video_id": "sVz7k4rlXU8",

@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (396 episodes):
+Episodes discussing **Career** (397 episodes):
 
+- [AI is making you faster at a job you never wanted #ai #careers #futureofwork](../episodes/2026-11-28-ai-is-making-you-faster-at-a-job-you-never-wanted-ai-careers-futureofwork/transcript.md) (2026-11-28)
 - [Is AI Just Making You Faster At A Job You Never Wanted? 4 Steps To Find A Better Use For It.](../episodes/2026-11-27-is-ai-just-making-you-faster-at-a-job-you-never-wanted-4-steps-to-find-a-better/transcript.md) (2026-11-27)
 - [Nvidia Took Jensen Back. Don't Expect Cheaper Laptops In 2027.](../episodes/2026-11-25-nvidia-took-jensen-back-dont-expect-cheaper-laptops-in-2027/transcript.md) (2026-11-25)
 - [GPT-6.2 Astra got brutal reviews. Gemini 4 Neon got raves. Here's why both are right.](../episodes/2026-11-23-gpt-62-astra-got-brutal-reviews-gemini-4-neon-got-raves-heres-why-both-are-right/transcript.md) (2026-11-23)
